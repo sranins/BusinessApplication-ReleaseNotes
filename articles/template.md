@@ -102,7 +102,7 @@ The ID is auto-generated based on the header text. So, for example, given a uniq
 
 To link to a Markdown file in the same repo, use [relative links](https://www.w3.org/TR/WD-html40-970917/htmlweb.html#h-5.1.2), including the ".md" at the end of the filename.
 
-- Example: [Readme](README.md)
+- Example: [Readme](..README.md)
 
 To link to a header in a Markdown file in the same repo, use relative linking + hashtag linking.
 
@@ -179,7 +179,6 @@ If a URL appears in a Markdown file, it will be transformed into a clickable lin
 You can use a [Markdown table generator tool](http://www.tablesgenerator.com/markdown_tables) to help creating them more easily. 
 
 ## Code
-
 Use three backticks (&#96;&#96;&#96;) to begin and end a code example block . You an also indent a line to have it rendered as a code example.
 
 ```
@@ -204,7 +203,7 @@ Use backticks (&#96;) for `inline code`. Use inline code for command-line comman
 
 ### Linked image
 
-[![alt text for linked image](.media/placeholder.png)](https://dot.net) 
+[![alt text for linked image](media/placeholder.png)](https://dot.net) 
 
 ## Videos
 
