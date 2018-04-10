@@ -18,6 +18,16 @@ ms.author: [author's Microsoft alias]
 
 [!include[banner](includes/banner.md)]
 
+Describe your new feature. Include high-value features, that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
+
+## Business value
+
+## How to use
+
+## Availability (current availability)
+
+## Availability (region)
+
 This Business applications group template contains examples of Markdown syntax, as well as guidance on setting the metadata. To get the most of it, you must view both the [raw Markdown](https://raw.githubusercontent.com/MicrosoftDocs/Dynamics-365-Operations/master/template.md?token=AUBjQ-wxx8wHU3pnuQiYvPdvbodbxP2uks5Ypg9_wA%3D%3D) and the [rendered view](https://github.com/MicrosoftDocs/Dynamics-365-Operations/edit/master/template.md) (for instance, the raw Markdown shows the metadata block, while the rendered view does not).
 
 When creating a Markdown file, you should copy this template to a new file, fill out the metadata as specified below, set the H1 heading above to the title of the article, and delete the content. 
