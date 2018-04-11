@@ -18,10 +18,10 @@ ms.author: [author's Microsoft alias]
 
 [!include[banner](includes/banner.md)]
 
-Define your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
+Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
 
 ## Business value
-Why would you want to use this feature. 
+Why would you want to use this feature, and what are the top capabilities and tasks you would perform with it. 
 
 ### Who uses this feature
 Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts
