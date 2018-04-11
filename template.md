@@ -11,10 +11,6 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: [author's Microsoft alias]
-
----
-# optional metadata
-
 audience: [Developer, Admin, End user, Citizen developer]
 
 ---
@@ -75,8 +71,11 @@ Cloud, On-premises, Government cloud
 ### Regional availability
 List whether this feature is available globally or restricted to specific regions.
 
+## Tell us what you think
+Include an alias or link for feedback for the feature.
+
 ## We'd like to thank
-- Link to ideas/User voice item
+Link to ideas/User voice item. 
  
 
  
