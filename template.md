@@ -23,17 +23,17 @@ Describe your new feature, and then give an elevator pitch of the business value
 
 If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value**, **Describe the feature**, and **Status** sections.
 
-## Business value
+## Business value (Required)
 What are the top capabilities of this feature and what business problems does it solve.  
 
 **Example**
 
-## Describe the feature
+## Describe the feature (Required)
 What scenarios does this support. Include example scenario and screen shots. 
 
 **Example**
 
-### Who uses this feature
+### Who uses this feature (Required)
 Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts, IT Pro
 
 **Example**
@@ -53,7 +53,7 @@ List the license a customer must have to use this, if required beyond the basic 
 ## Compliance, privacy and security considerations
 
 
-## Status
+## Status (Required)
 
 ### Development status
 (generally available, public preview, in development)
@@ -77,4 +77,3 @@ Include an alias or link for feedback for the feature.
 
 ## We'd like to thank
 Link to ideas/User voice item. 
- 
