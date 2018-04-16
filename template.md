@@ -11,7 +11,7 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: [author's Microsoft alias]
-audience: [Developer, Admin, End user, Citizen developer]
+audience: [Developer, Admin, End user, Citizen developer, Customizer, Business analyst, IT Pro]
 
 ---
 
@@ -21,7 +21,7 @@ audience: [Developer, Admin, End user, Citizen developer]
 
 Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
 
-If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value** and **Describe the feature** sections.
+If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value**, **Describe the feature**, and **Status** sections.
 
 ## Business value
 What are the top capabilities of this feature and what business problems does it solve.  
@@ -34,12 +34,13 @@ What scenarios does this support. Include example scenario and screen shots.
 **Example**
 
 ### Who uses this feature
-Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts
+Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts, IT Pro
 
 **Example**
 This feature is used by Retail xxx. You can use it without any additional set up work by an administrator. 
 
 ### License required
+List the license a customer must have to use this, if required beyond the basic license for your feature. 
 
 ### Setup required (if any beyond standard product setup)
 
@@ -76,6 +77,4 @@ Include an alias or link for feedback for the feature.
 
 ## We'd like to thank
 Link to ideas/User voice item. 
- 
-
  
