@@ -75,7 +75,7 @@ The following changes are included in the Spring ’18 Release Notes version
 -   [Extensible project work breakdown structure](operations-finance/index.md)
 
 -   [On-premises availability of Retail head-office
-    capabilities](_On-premises_deployment_updates/index.md)
+    capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md )
 
 -   [Absence management](talent/index.md)
 
