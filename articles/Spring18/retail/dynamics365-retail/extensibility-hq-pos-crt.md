@@ -4,7 +4,7 @@ title: Extensibility  HQ, POS, CRT
 description: Most customers customize our product to support their business process.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d54d8426-3bf6-41eb-a99a-dfaabb0df5dd
 ms.topic: article
 ms.prod: 

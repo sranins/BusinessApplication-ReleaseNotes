@@ -4,7 +4,7 @@ title: Embedded marketing insights
 description: The system continuously collects customer-interaction data, keeps records of marketing activities, and holds financial details.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: dcbaf960-34d9-44c0-94ea-936625db979d
 ms.topic: article
 ms.prod: 

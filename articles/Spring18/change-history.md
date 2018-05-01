@@ -4,7 +4,7 @@ title: Change history
 description: Change history
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a08a8762-85b7-41bc-83e0-4380a38cf685
 ms.topic: article
 ms.prod: 

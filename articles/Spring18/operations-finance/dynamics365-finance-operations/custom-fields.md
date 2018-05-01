@@ -4,7 +4,7 @@ title: Custom fields
 description: Although Finance and Operations provides an extensive set of fields out of the box for managing a broad range of business processes, customers sometimes need to track additional information in their system.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d230ae16-a773-49a7-8532-8a82137ffd9d
 ms.topic: article
 ms.prod: 

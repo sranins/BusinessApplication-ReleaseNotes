@@ -4,7 +4,7 @@ title: Responsive Visualization optimized for phone layout
 description: Responsive Visualization optimized for phone layout
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d9005c06-756a-4e51-ac18-33888aa34a61
 ms.topic: article
 ms.prod: 

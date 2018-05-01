@@ -4,7 +4,7 @@ title: Improvements to the SQL Server connector (General Availability)
 description: Improvements to the SQL Server connector (General Availability)
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: db1637fb-d894-47bf-8c54-377a670f15e6
 ms.topic: article
 ms.prod: 

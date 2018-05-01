@@ -4,7 +4,7 @@ title: Entity forms
 description: Entity forms
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: aa6ab60f-fbea-4be1-8e9a-3e8bfa7bf17f
 ms.topic: article
 ms.prod: 

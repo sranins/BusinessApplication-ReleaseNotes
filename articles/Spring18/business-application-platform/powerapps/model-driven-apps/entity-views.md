@@ -4,7 +4,7 @@ title: Entity views
 description: Model-driven views make it easy for citizen developers and users to quickly define custom views for a set of records on any entity.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 7b043189-326b-4df9-a8e7-1aff8099ec13
 ms.topic: article
 ms.prod: 

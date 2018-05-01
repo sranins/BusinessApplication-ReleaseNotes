@@ -4,7 +4,7 @@ title: Improved app sharing experience
 description: Improved app sharing experience
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 39128807-827e-4b76-8ca1-3eff379be4d0
 ms.topic: article
 ms.prod: 

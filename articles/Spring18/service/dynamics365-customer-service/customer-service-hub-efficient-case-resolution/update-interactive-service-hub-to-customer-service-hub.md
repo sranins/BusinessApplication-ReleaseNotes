@@ -4,7 +4,7 @@ title: Update from Interactive Service Hub to Customer Service Hub
 description: Interactive Service Hub is a web-based customer service application included with Dynamics CRM Online 2016 Update 1 and Microsoft Dynamics CRM 2016.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: b285403a-d206-4491-ab6c-8ad3fe0404f7
 ms.topic: article
 ms.prod: 

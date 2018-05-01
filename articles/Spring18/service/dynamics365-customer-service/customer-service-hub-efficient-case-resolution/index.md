@@ -4,7 +4,7 @@ title: Customer Service Hub for efficient case resolution
 description: Customer Service Hub for efficient case resolution
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 00314a19-bdfd-49f6-b45a-36526a49aad2
 ms.topic: article
 ms.prod: 

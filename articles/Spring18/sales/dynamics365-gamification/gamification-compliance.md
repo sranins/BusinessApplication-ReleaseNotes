@@ -4,7 +4,7 @@ title: Gamification compliance
 description: Gamification compliance
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 0b1161fe-ab8c-4662-8033-5683e9d00853
 ms.topic: article
 ms.prod: 

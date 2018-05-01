@@ -4,7 +4,7 @@ title: Human resources
 description: Human resources
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: bb249d50-abfa-43c2-b2ae-b005e8bcac2e
 ms.topic: article
 ms.prod: 

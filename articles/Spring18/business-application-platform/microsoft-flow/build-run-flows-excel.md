@@ -4,7 +4,7 @@ title: Build and run flows from Excel
 description: Build and run flows from Excel
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 6fc4610f-0b6d-4663-9009-764851965f12
 ms.topic: article
 ms.prod: 

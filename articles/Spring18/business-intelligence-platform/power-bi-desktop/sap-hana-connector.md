@@ -4,7 +4,7 @@ title: SAP HANA connector
 description: SAP HANA connector
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 09f7f3ac-2858-4471-8ad9-74b16f6a1f4b
 ms.topic: article
 ms.prod: 

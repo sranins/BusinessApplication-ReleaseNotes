@@ -4,7 +4,7 @@ title: Dynamics 365 for Marketing
 description: Dynamics 365 for Marketing
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 41f72cc0-c470-4431-93d2-75b9c2a243c1
 ms.topic: article
 ms.prod: 

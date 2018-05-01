@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Talent   Attract
 description: Spring  18 summary of what s new in Talent   Attract
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 216b4103-bed7-484d-9028-c308df3114db
 ms.topic: article
 ms.prod: 

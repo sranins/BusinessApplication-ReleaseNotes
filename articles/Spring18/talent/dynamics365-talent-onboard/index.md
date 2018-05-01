@@ -4,7 +4,7 @@ title: Dynamics 365 for Talent   Onboard
 description: Dynamics 365 for Talent   Onboard
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 7e707ab1-9ef6-43d7-baeb-35f12696d251
 ms.topic: article
 ms.prod: 

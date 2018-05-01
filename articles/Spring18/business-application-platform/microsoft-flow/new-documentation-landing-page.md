@@ -4,7 +4,7 @@ title: New documentation landing page
 description: We always want to make it easier to learn about Microsoft Flow.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c1fb5684-8ee7-4bf5-9d92-f5a2ba24ec9b
 ms.topic: article
 ms.prod: 

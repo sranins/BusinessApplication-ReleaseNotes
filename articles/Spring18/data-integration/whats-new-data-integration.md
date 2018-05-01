@@ -4,7 +4,7 @@ title: Spring ’18 summary of what’s new in Data Integration
 description: Spring ’18 summary of what’s new in Data Integration
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: beb15cd2-2a70-44a2-91f5-91aaddc909c8
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Persistent filters
 description: Persistent filters
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c940dc31-464e-44ee-a322-061493b21b64
 ms.topic: article
 ms.prod: 

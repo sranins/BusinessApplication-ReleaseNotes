@@ -4,7 +4,7 @@ title: Highlights from the Spring ‘18 release
 description: Highlights from the Spring ‘18 release
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: ad570d0c-db03-4508-92d0-acaf31817e43
 ms.topic: article
 ms.prod: 

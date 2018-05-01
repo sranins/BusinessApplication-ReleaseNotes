@@ -4,7 +4,7 @@ title: Partial shipment of a load  split load
 description: Partial shipment of a load  split load 
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 3fdce97d-82d8-4752-bda9-aeea76f1391f
 ms.topic: article
 ms.prod: 

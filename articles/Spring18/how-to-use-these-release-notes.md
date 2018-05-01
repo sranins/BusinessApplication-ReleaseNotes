@@ -4,7 +4,7 @@ title: How to use these release notes
 description: How to use these release notes
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a60e07dd-77a3-4fb2-a425-9aa6533b4d36
 ms.topic: article
 ms.prod: 

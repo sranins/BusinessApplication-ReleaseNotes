@@ -4,7 +4,7 @@ title: Power BI Service
 description: Power BI Service
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 56713bf4-cdbf-41c8-84aa-cd846681dcf5
 ms.topic: article
 ms.prod: 

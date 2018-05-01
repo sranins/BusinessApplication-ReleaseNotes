@@ -4,7 +4,7 @@ title: Select a resource and correctly load it into the driving directions windo
 description: Select a resource and correctly load it into the driving directions window
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 7fc9a91a-4024-409d-9937-e5caa67c9242
 ms.topic: article
 ms.prod: 

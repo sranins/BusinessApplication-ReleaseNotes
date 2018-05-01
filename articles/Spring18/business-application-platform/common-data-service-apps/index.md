@@ -4,7 +4,7 @@ title: Common Data Service for Apps
 description: The Common Data Service for Apps is how PowerApps, Office, and the Dynamics suite of products integrate with a single system of record for business data.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e40a6cec-9a80-4379-8457-1457f7224b99
 ms.topic: article
 ms.prod: 

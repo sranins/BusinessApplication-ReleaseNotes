@@ -4,7 +4,7 @@ title: Themes support
 description: Themes support
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e2b2c60b-1e57-4ece-ae63-15844db4d9c2
 ms.topic: article
 ms.prod: 

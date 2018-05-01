@@ -4,7 +4,7 @@ title: Absence management
 description: Absence management
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 807bb4d4-59a4-44c8-a7bd-93d8f99fae88
 ms.topic: article
 ms.prod: 

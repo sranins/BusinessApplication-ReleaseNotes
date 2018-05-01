@@ -4,7 +4,7 @@ title: Service order management
 description: Service order management
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 3b976553-51d6-4560-9c6a-36fdb0ce4cc7
 ms.topic: article
 ms.prod: 

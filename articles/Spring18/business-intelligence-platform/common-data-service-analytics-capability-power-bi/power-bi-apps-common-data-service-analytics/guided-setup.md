@@ -4,7 +4,7 @@ title: Guided setup
 description: Guided setup
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: b3c374d8-ad18-4eb9-ace1-e16813cc2674
 ms.topic: article
 ms.prod: 

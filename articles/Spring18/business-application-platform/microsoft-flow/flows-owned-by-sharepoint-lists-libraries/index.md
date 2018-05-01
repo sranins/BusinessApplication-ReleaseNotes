@@ -4,7 +4,7 @@ title: Flows  owned by  SharePoint lists and libraries
 description: Until recently, flows could be shared only with individuals or Azure Active Directory security groups.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e3f9862c-b0e5-4b90-b74d-de6d794fa546
 ms.topic: article
 ms.prod: 

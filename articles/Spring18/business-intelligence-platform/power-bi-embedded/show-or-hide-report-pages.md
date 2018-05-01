@@ -4,7 +4,7 @@ title: Show or hide report pages
 description: When a report is being embedded in an application, all the pages of the reports are available.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 8bdb4d66-4c0c-40d0-a65a-ab2a9469f4c1
 ms.topic: article
 ms.prod: 

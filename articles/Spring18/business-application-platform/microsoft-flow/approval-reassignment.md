@@ -4,7 +4,7 @@ title: Approval reassignment
 description: Approval reassignment
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 893b54d4-09f2-4ab2-b27d-1e78284a8c29
 ms.topic: article
 ms.prod: 

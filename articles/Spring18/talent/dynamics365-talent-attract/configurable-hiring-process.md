@@ -4,7 +4,7 @@ title: Configurable hiring process
 description: Configurable hiring process features let customers fit Attract to their unique needs by using an out-of-box hiring process, or by configuring tailored hiring processes and saving them for future use.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 6bca03f3-47e1-41ae-8c57-e6f4b44367b8
 ms.topic: article
 ms.prod: 

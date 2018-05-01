@@ -4,7 +4,7 @@ title: Support for authoring, searching, publishing, and translating knowledge a
 description: Author and edit well-formatted content for knowledge articles using a rich text editor.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 702b5380-1060-4d99-b2a0-533db59531d4
 ms.topic: article
 ms.prod: 

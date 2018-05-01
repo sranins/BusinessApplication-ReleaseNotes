@@ -4,7 +4,7 @@ title: Data integration capabilities for admins
 description: The Data Integrator for the Common Data Service for Apps includes many improvements for admins.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a86c676d-78c4-49a5-868a-3e460b6c9cc2
 ms.topic: article
 ms.prod: 

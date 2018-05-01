@@ -4,7 +4,7 @@ title: Price mark-ups and mark-downs
 description: Prices can be set up as a percent-based markup on a base price, for example, to reflect overtime hours or hazardous work conditions.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: f968e9e2-8ddc-4f9d-8119-90d0aea689e0
 ms.topic: article
 ms.prod: 

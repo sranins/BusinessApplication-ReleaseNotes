@@ -4,7 +4,7 @@ title: Metadata-driven responsive user experiences
 description: Model-driven apps are responsive across different form factors and devices, allowing users to quickly continue their work while on the go.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 3c1746ee-2c88-4b5b-bd3c-e0c6353a40ec
 ms.topic: article
 ms.prod: 

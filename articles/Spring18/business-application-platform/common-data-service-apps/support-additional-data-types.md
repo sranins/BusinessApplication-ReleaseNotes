@@ -4,7 +4,7 @@ title: Support for additional data types
 description: Data stored in the Common Data Service for Apps in both standard and custom entities can use an updated list of data types.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c0d12524-3d5f-4261-b6f2-2d6807b34e86
 ms.topic: article
 ms.prod: 

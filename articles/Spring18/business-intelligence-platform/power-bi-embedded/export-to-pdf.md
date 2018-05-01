@@ -4,7 +4,7 @@ title: Export to PDF
 description: Use APIs to enable the application to export the embedded object to a PDF file.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 41e5ce66-8260-46f7-b7b2-0277f6f062ee
 ms.topic: article
 ms.prod: 

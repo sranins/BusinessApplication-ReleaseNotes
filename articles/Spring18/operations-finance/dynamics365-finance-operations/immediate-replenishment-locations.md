@@ -4,7 +4,7 @@ title: Immediate replenishment of locations
 description: Immediate replenishment is used during wave execution if allocation fails for a location directive line that has a replenishment template.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 53524cf8-e959-42a6-8529-06dd9bc5ffd8
 ms.topic: article
 ms.prod: 

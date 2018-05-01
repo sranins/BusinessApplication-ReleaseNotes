@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Talent   Onboard
 description: Spring  18 summary of what s new in Talent   Onboard
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 025f5719-f803-4dac-a532-2193e7079a1b
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Project Service app enhancements
 description: The Project Service app helps sales and delivery teams engage customers and deliver billable projects on time and within budget.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 6b5a8436-77df-414c-8e89-837fc21880b4
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Microsoft Flow
 description: Spring  18 summary of what s new in Microsoft Flow
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: fc651c83-5c2b-4b82-88ca-bbce76481431
 ms.topic: article
 ms.prod: 

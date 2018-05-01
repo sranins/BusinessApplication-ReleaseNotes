@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Sales
 description: Spring  18 summary of what s new in Sales
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c3552122-fc4a-4834-9dfb-10d6168a361b
 ms.topic: article
 ms.prod: 

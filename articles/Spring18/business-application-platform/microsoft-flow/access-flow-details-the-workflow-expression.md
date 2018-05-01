@@ -4,7 +4,7 @@ title: Access flow details with the workflow   expression
 description: Access flow details with the workflow   expression
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e502d351-631e-4c69-9f52-2b602045cc3c
 ms.topic: article
 ms.prod: 

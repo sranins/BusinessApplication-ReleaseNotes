@@ -4,7 +4,7 @@ title: General Data Protection Regulation
 description: General Data Protection Regulation
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 97c25d77-4cbc-4c2c-99eb-2ab4776df025
 ms.topic: article
 ms.prod: 

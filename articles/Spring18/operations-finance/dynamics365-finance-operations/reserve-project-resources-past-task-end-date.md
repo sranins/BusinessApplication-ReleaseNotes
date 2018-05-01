@@ -4,7 +4,7 @@ title: Reserve project resources past the task end date
 description: Reserve project resources past the task end date
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 443c327f-4128-475b-be1c-264d3b7f9b94
 ms.topic: article
 ms.prod: 

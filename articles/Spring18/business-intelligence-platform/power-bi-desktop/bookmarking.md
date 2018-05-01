@@ -4,7 +4,7 @@ title: Bookmarking
 description: Create bookmarks in the Power BI Service without first creating a bookmark in Power BI Desktop.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: aa19d5b3-949a-40fa-81f9-134a38bdebed
 ms.topic: article
 ms.prod: 

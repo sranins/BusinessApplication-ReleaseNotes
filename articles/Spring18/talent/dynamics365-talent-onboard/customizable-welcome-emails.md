@@ -4,7 +4,7 @@ title: Customizable welcome emails
 description: Customizable welcome emails
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 854c8407-352c-4eaf-8afc-0e3897615118
 ms.topic: article
 ms.prod: 

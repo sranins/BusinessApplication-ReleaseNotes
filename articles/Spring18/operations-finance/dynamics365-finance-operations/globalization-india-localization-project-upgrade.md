@@ -4,7 +4,7 @@ title: Globalization   India localization  Project and upgrade
 description: Globalization   India localization  Project and upgrade
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d5bc20f3-3729-4958-9b10-58804a525e18
 ms.topic: article
 ms.prod: 

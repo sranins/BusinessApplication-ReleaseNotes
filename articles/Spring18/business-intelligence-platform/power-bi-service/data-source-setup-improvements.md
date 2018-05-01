@@ -4,7 +4,7 @@ title: Data source setup improvements
 description: Data source setup improvements make it easier to configure gateways and diagnose common errors.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d4dcfe4d-ac7c-4b3a-9e54-68f715b62c69
 ms.topic: article
 ms.prod: 

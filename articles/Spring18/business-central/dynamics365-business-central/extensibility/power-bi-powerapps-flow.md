@@ -4,7 +4,7 @@ title: Power BI, PowerApps, and Flow
 description: Power BI, PowerApps, and Flow
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 2dad3759-ff66-4112-b0f2-e5c1dcbe2dfe
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Azure monitoring
 description: To optimize the use of an Azure resource in Power BI Embedded, we are adding the ability to monitor and track the usage and act on any changes.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: b3029f90-414e-4e40-899a-a48a1c679be5
 ms.topic: article
 ms.prod: 

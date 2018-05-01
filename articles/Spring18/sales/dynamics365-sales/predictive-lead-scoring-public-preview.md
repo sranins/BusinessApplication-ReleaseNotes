@@ -4,7 +4,7 @@ title: Predictive lead scoring  Public Preview
 description: Predictive lead scoring uses a predictive machine learning model to calculate a score for all open leads.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: acde7d04-02bf-46d2-bfe5-bfaa2a430227
 ms.topic: article
 ms.prod: 

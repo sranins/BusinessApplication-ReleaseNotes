@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Field Service
 description: Spring  18 summary of what s new in Field Service
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 38f25e60-4cd7-48cb-aa16-2c869c8870bd
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Single visual embedding
 description: By embedding visuals into your application, users can get in-page analytics where the most relevant and insightful data resides, facilitating data-driven decisions.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d9190f0f-6f7b-4676-96d2-6e98f85b06bc
 ms.topic: article
 ms.prod: 

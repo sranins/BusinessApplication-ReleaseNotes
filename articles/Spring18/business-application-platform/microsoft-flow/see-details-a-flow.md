@@ -4,7 +4,7 @@ title: See details of a flow
 description: When you run a flow that has been shared with you, you can see details of exactly what that flow is going to do with your connections.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a110a967-f43b-4843-ac2f-11cef503f51a
 ms.topic: article
 ms.prod: 

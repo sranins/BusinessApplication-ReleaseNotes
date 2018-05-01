@@ -4,7 +4,7 @@ title: Pass in the date and time for search parameters by using the URL
 description: Previously, when creating dynamic searches by using URLs, you could pass in the search date range but not the specific time of the search on each day.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 89fda416-1392-4d14-8cae-6693ca398a7f
 ms.topic: article
 ms.prod: 

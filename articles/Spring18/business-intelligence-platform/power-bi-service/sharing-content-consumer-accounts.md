@@ -4,7 +4,7 @@ title: Sharing content with consumer accounts
 description: You can share content with other users who have email addresses from consumer email services or telecommunications providers.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 7230fe59-6ffe-4639-95fb-2bdb87317a6f
 ms.topic: article
 ms.prod: 

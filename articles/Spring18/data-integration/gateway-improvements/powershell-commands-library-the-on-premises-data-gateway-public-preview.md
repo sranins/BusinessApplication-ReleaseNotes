@@ -4,7 +4,7 @@ title: PowerShell commands library for the on-premises data gateway (Public Prev
 description: PowerShell commands library for the on-premises data gateway (Public Preview)
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 1d24b2d1-6a48-43a8-a562-7a0001e97340
 ms.topic: article
 ms.prod: 

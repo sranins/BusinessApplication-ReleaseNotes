@@ -4,7 +4,7 @@ title: Dynamics 365 Business Central
 description: Dynamics 365 Business Central
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: ea40210e-d619-4aa4-904f-fa59187ee287
 ms.topic: article
 ms.prod: 

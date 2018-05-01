@@ -4,7 +4,7 @@ title: Export to PowerPoint
 description: Use APIs to enable the application to export the embedded object to PowerPoint.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 9bf74920-2ce2-4112-ac3c-3ccfa244f39f
 ms.topic: article
 ms.prod: 

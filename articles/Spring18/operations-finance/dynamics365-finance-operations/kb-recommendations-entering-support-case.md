@@ -4,7 +4,7 @@ title: KB recommendations when entering a support case
 description: KB recommendations when entering a support case
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: b30f1c2f-6d87-402d-829d-9a9c57d8863d
 ms.topic: article
 ms.prod: 

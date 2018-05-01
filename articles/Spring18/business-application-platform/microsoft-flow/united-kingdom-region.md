@@ -4,7 +4,7 @@ title: United Kingdom region
 description: The United Kingdom region is now available for Microsoft Flow.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: dd49b7c6-598a-4a16-a6ce-d65488fd17b6
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Extensible project work breakdown structure
 description: The current hierarchal grid control used for the project work breakdown structure is being deprecated and replaced with a standard grid that is enhanced to support hierarchical data.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 52d0ffe4-9411-4259-8f43-200b8ffd22e1
 ms.topic: article
 ms.prod: 

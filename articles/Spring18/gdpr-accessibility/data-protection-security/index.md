@@ -4,7 +4,7 @@ title: Data protection and security
 description: Data protection and security
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 70ccb608-7dc4-4649-8fc2-732660568752
 ms.topic: article
 ms.prod: 

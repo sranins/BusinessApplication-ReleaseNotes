@@ -4,7 +4,7 @@ title: Company Career site  Public Preview
 description: Company Career site  Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 887d3522-ac18-4863-a54a-c03197c869cb
 ms.topic: article
 ms.prod: 

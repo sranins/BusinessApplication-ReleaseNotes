@@ -4,7 +4,7 @@ title: Supply chain management
 description: Supply chain management
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 48b5ba9a-4cd6-419d-8dd8-b64229a3ba17
 ms.topic: article
 ms.prod: 

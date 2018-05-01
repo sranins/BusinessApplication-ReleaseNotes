@@ -4,7 +4,7 @@ title: Smart data preparation capabilities – Add Column from Examples
 description: As part of the data transformation capabilities of the Power Query editor, you can easily add a new column of data by providing one or more sample values for the new column.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: eed9e68d-7c3f-4730-bea0-04e9ef9c9b55
 ms.topic: article
 ms.prod: 

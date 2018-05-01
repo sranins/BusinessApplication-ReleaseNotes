@@ -4,7 +4,7 @@ title: Microsoft Stream
 description: Microsoft Stream is a service that enables your employees to create, discover, and share videos securely across your organization, right inside the collaboration apps they use most, such as Microsoft Teams, SharePoint, Office 365, and Dynamics 365.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 55e2fc8f-2a7b-4784-bab1-fd7e60ca4703
 ms.topic: article
 ms.prod: 

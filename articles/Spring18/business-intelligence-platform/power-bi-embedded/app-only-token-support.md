@@ -4,7 +4,7 @@ title: App-only token support
 description: App-only token support
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: f403650f-1438-465f-8164-71f8625d60a3
 ms.topic: article
 ms.prod: 

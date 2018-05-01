@@ -4,7 +4,7 @@ title: Individual customizations
 description: Individual customizations
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c5bf4438-cfbf-44d6-8265-e402a6eef16f
 ms.topic: article
 ms.prod: 

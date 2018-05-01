@@ -4,7 +4,7 @@ title: Alerts
 description: Alerts form a notification system for critical events in Finance and Operations.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 5db8aa64-9e38-4787-9d43-9c1483d38751
 ms.topic: article
 ms.prod: 

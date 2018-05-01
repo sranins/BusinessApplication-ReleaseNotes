@@ -4,7 +4,7 @@ title: Integration with Dynamics 365 for Project Service Automation  Private Pre
 description: Integration with Dynamics 365 for Project Service Automation  Private Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: f6adf083-11aa-476b-ad94-c7b10d71c07e
 ms.topic: article
 ms.prod: 

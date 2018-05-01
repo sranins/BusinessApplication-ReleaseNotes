@@ -4,7 +4,7 @@ title: Step Three
 description: The last step is to add your flow to the PowerApp in the formula bar.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: edce2bf7-c491-4c73-a93c-26f1d2856bc5
 ms.topic: article
 ms.prod: 

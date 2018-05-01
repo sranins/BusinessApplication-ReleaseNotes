@@ -4,7 +4,7 @@ title: Book by estimated arrival time instead of start of travel
 description: Book by estimated arrival time instead of start of travel
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d1e07eaa-9e09-4860-aaa8-d4f6fa90d394
 ms.topic: article
 ms.prod: 

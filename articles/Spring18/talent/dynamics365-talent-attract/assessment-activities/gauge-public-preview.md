@@ -4,7 +4,7 @@ title: Gauge  Public Preview
 description: Gauge lets hiring managers or recruiters create questionnaires and send them to candidates as part of an assessment activity.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 6189f2a5-3778-497d-acd4-62fa6bb132fa
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Change booking statuses from the daily, weekly, and monthly schedule boar
 description: Users can right-click a booking on the hourly schedule board and change the status of a booking.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 9a83c855-e514-4256-a3f5-7c280973ef7c
 ms.topic: article
 ms.prod: 

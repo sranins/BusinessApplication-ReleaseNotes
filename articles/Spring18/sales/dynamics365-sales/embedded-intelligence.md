@@ -4,7 +4,7 @@ title: Embedded intelligence
 description: Embedded intelligence
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a31490be-f851-4a35-a299-0fee2fd097c8
 ms.topic: article
 ms.prod: 

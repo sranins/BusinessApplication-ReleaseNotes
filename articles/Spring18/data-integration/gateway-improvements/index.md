@@ -4,7 +4,7 @@ title: Gateway improvements
 description: With the on-premises data gateway, you can refresh queries that combine and merge data from online and on-premises sources.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: ea2358ab-16a0-4893-b9f1-7e4377c001ce
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: End-of-day processing
 description: End-of-day processing is a crucial element of retail operational workflow.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
 ms.prod: 

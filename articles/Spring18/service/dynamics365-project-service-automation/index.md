@@ -4,7 +4,7 @@ title: Dynamics 365 for Project Service Automation
 description: Dynamics 365 for Project Service Automation
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 9c1f22bf-7c3d-4375-9854-21abb59b842a
 ms.topic: article
 ms.prod: 

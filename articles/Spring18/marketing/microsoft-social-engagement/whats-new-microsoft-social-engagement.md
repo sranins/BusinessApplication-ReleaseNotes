@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Microsoft Social Engagement
 description: Spring  18 summary of what s new in Microsoft Social Engagement
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e832af19-3e38-4291-9bc7-0bcdd85519a5
 ms.topic: article
 ms.prod: 

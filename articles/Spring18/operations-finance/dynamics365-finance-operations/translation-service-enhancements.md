@@ -4,7 +4,7 @@ title: Translation Service enhancements
 description: Translation Service enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 27bcf3a3-1f43-4205-a1a1-033850e308d6
 ms.topic: article
 ms.prod: 

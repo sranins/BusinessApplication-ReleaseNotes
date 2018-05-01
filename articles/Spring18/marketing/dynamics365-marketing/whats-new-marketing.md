@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Marketing
 description: Spring  18 summary of what s new in Marketing
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 51980567-f759-4315-9047-98db65f591fe
 ms.topic: article
 ms.prod: 

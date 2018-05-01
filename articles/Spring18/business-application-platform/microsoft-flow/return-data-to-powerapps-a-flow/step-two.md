@@ -4,7 +4,7 @@ title: Step Two
 description: Step Two
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: a5779067-cbae-45fe-a329-73867af52ea2
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Work breakdown structure  WBS  editable grid with Gantt visualization
 description: Work breakdown structure  WBS  editable grid with Gantt visualization
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 361149ff-1f22-4d3d-a100-d375472edde2
 ms.topic: article
 ms.prod: 

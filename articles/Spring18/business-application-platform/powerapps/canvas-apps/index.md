@@ -4,7 +4,7 @@ title: Canvas apps
 description: Canvas apps
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: fc06a448-9ec0-4cee-a7cf-1121a3d636f9
 ms.topic: article
 ms.prod: 

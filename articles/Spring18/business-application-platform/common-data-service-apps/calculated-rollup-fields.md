@@ -4,7 +4,7 @@ title: Calculated and rollup fields
 description: Calculated and rollup fields on Common Data Service for Apps entities make it possible to easily compute values for any field and summarize multiple records in a single rollup calculation.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: db73fafa-b09d-41d1-8485-88563947f886
 ms.topic: article
 ms.prod: 

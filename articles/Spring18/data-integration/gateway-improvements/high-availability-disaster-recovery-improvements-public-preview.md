@@ -4,7 +4,7 @@ title: High availability and disaster recovery improvements (Public Preview)
 description: Availability
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: f1d63728-f136-4555-b2aa-8b3e5afd19ac
 ms.topic: article
 ms.prod: 

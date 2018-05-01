@@ -4,7 +4,7 @@ title: Return data to PowerApps from a flow
 description: Use Microsoft Flow to create logic that performs one or more tasks when an event occurs in a PowerApp.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 16e5cc7d-613b-4893-8cd2-24636afe03d9
 ms.topic: article
 ms.prod: 

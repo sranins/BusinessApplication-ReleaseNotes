@@ -4,7 +4,7 @@ title: On-premises deployment updates
 description: On-premises deployment updates
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 9ad7aa44-b701-4da7-a5b7-f1ceb2994802
 ms.topic: article
 ms.prod: 

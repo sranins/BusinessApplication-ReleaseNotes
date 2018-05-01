@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Voice of the Customer
 description: Spring  18 summary of what s new in Voice of the Customer
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 9f8cc55f-02c4-45ac-98ca-c6f7d43e6626
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Cloud recording for meetings in Microsoft Teams
 description: Microsoft Stream enables cloud recording for meetings in Microsoft Teams.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 0ec92331-8e35-43a7-ac7d-9e968871e1cd
 ms.topic: article
 ms.prod: 

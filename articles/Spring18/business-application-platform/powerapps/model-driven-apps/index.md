@@ -4,7 +4,7 @@ title: Model-driven apps
 description: In addition to the canvas app development that PowerApps has been known for, which provides full visual control over the user experience of an app, PowerApps now offers another choice for high-productivity app development.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 3e8db7f8-9ebd-4be0-9981-87d34ae56073
 ms.topic: article
 ms.prod: 

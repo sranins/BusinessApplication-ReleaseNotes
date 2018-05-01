@@ -4,7 +4,7 @@ title: Improved delivery of platform and financial reporting updates
 description: Starting April 1, 2018, platform and financial reporting updates will be continual updates managed by Microsoft rather than optional updates.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: e72e42a8-6da6-4697-bf0d-200fec9e9d4a
 ms.topic: article
 ms.prod: 

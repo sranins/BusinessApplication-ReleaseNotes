@@ -4,7 +4,7 @@ title: Azure Active Directory authentication
 description: Azure Active Directory authentication
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 4b0934c1-6f02-4f5c-b222-76d54fcd2ba5
 ms.topic: article
 ms.prod: 

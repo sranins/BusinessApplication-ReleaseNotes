@@ -4,7 +4,7 @@ title: Dynamics 365 for Finance and Operations
 description: Dynamics 365 for Finance and Operations
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: c9f259ea-3cd6-4f8c-833c-eda71becbdb1
 ms.topic: article
 ms.prod: 

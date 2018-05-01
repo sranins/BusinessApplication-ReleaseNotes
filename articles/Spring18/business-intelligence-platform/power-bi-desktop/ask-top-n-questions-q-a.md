@@ -4,7 +4,7 @@ title: Ask Top N questions in Q A
 description: Ask Top N questions in Q A
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 81d127c8-21e8-4e30-b844-c7bcfdc7b902
 ms.topic: article
 ms.prod: 

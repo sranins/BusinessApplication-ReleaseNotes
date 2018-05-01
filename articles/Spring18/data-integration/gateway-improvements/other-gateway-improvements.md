@@ -4,7 +4,7 @@ title: Other gateway improvements
 description: Other gateway improvements
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 94bacbfe-08ce-46b7-a787-6ad61a052524
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Hide pages from reading mode
 description: Hide pages from reading mode
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 0f01dcff-b79d-4090-a20e-348efc3b9ef2
 ms.topic: article
 ms.prod: 

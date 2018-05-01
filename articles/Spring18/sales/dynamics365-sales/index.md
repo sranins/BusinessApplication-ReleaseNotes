@@ -4,7 +4,7 @@ title: Dynamics 365 for Sales
 description: Dynamics 365 for Sales
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 04a17151-216d-48d4-9579-88325fb9c8a2
 ms.topic: article
 ms.prod: 

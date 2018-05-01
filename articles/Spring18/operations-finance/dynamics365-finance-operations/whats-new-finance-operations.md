@@ -4,7 +4,7 @@ title: Spring  18 summary of what s new in Finance and Operations
 description: Spring  18 summary of what s new in Finance and Operations
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
 ms.topic: article
 ms.prod: 

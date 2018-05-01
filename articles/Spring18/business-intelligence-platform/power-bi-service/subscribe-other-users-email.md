@@ -4,7 +4,7 @@ title: Subscribe other users for email
 description: Set up email subscriptions for other users so they all receive relevant information.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: d6ddf5dc-9f64-4f23-bdc4-02c64535d112
 ms.topic: article
 ms.prod: 

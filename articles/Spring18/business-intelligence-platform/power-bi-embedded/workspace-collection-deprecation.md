@@ -4,7 +4,7 @@ title: Workspace collection deprecation
 description: In June 2017, we announced the ability to embed Power BI using new APIs and the convergence of the APIs with the Power BI Service.
 author: MargoC
 manager: AnnBe
-ms.date: 5/1/2018
+ms.date: 05/01/2018
 ms.assetid: 57b1361a-75c5-4a22-9cb3-9d0477e3d9d6
 ms.topic: article
 ms.prod: 
