@@ -42,7 +42,7 @@ and the count of records that were updated. You can customize the view by
 right-clicking the bar chart and show the data in a split view. To change the
 subset of records, use the visual filters.
 
-![Admin dashboard in split view](admin/data-integration-capabilities-admins-2.png "Admin dashboard in split view")
+![Admin dashboard in split view](media/data-integration-capabilities-admins-2.png "Admin dashboard in split view")
 
 *Admin dashboard in split view*
 
