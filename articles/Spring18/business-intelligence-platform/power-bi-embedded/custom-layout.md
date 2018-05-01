@@ -4,7 +4,8 @@ title: Custom layout
 description: You can use custom layout to set and change the size of a report page layout or control the size, position, and visibility of a report visual.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: fb64c300-7f75-49d4-8ae1-14435d8378fd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

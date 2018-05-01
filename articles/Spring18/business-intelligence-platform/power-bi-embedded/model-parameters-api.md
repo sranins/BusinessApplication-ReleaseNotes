@@ -1,10 +1,11 @@
 ---
 
 title: Model parameters API
-description: Users can uses model parameters to define parameters and make them a part of their reports and data models, such as a query filter, a data source reference, and a measure definition, dependent on one or more parameter values.
+description: Users can use model parameters to define parameters and make them a part of their reports and data models, such as a query filter, a data source reference, and a measure definition, dependent on one or more parameter values.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 9695bba1-1c5d-4bd8-be40-4329e7e36c3a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,7 +21,7 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-Users can uses model parameters to define parameters and make them a part of
+Users can use model parameters to define parameters and make them a part of
 their reports and data models, such as a query filter, a data source reference,
 and a measure definition, dependent on one or more parameter values. Parameters
 are defined on the PBIX file through Power BI Desktop. For more information, see

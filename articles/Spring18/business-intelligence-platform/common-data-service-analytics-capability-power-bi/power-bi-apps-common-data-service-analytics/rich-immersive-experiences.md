@@ -4,7 +4,8 @@ title: Rich, immersive experiences
 description: Power BI apps come with natural language query support.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 19381078-b1fc-4674-aa28-deeaa7d306bd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

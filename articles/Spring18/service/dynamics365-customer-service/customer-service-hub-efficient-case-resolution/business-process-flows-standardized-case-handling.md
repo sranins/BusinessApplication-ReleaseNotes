@@ -4,7 +4,8 @@ title: Business process flows for standardized case handling
 description: Business process flows ensure that agents enter case data consistently and follow the same steps every time they interact with a customer.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 77ebc0d4-5017-4970-8ecb-58288d567527
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

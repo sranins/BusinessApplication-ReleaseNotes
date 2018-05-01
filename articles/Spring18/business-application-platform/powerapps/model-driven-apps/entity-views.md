@@ -4,7 +4,8 @@ title: Entity views
 description: Model-driven views make it easy for citizen developers and users to quickly define custom views for a set of records on any entity.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 7b043189-326b-4df9-a8e7-1aff8099ec13
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -28,7 +29,7 @@ Entity views include the following features:  
 -   Create filters with sophisticated conditional logic by using drag-and-drop
     operations.
 
--   Show or hide columns and set the sort order.
+-   Show or hide columns, and set the sort order.
 
 -   Provide visual snapshots through entity charts. Users can interactively
     create a subset of the underlying view for a chart.

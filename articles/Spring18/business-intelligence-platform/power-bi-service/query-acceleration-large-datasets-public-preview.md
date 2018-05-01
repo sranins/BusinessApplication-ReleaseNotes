@@ -1,10 +1,11 @@
 ---
 
-title: Query acceleration for large datasets (Public Preview)
-description: Users can create [DirectQuery](https://docs.
+title: Query acceleration for large datasets  Public Preview 
+description: Query acceleration for large datasets  Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 04524b66-4727-4ce6-9cca-2b1439428497
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

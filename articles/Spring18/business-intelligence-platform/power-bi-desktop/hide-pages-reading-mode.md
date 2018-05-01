@@ -1,10 +1,11 @@
 ---
 
 title: Hide pages from reading mode
-description: A report author can hide a page from view of the report consumer until the report is accessed via a drill‑through or bookmark action.
+description: Hide pages from reading mode
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 0f01dcff-b79d-4090-a20e-348efc3b9ef2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
 title: Reason codes added to warehouse counting and adjustment
-description: It’s now possible to add a reason code when performing counts and when making an adjustment.
+description: Reason codes added to warehouse counting and adjustment
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 9c77c9f3-e648-43a9-8bb4-e0796c82b89f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

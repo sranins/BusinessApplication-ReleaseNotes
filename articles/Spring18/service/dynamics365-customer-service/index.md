@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 for Customer Service
-description: The Spring ’18 release delivers investments in user experience, performance, developer productivity, and compliance across the Customer Service Hub, Dynamics 365 Portal, Voice of the Customer (VoC), and Unified Service Desk.
+title: Dynamics 365 for Customer Service
+description: Dynamics 365 for Customer Service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8036b7ff-ba74-4480-9eec-b44e23e411ca
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,8 @@ title: Business process flow entity customization
 description: Because business processes flows are available as entities in the Common Data Service for Apps, you can use advanced find results as well as views, charts, and dashboards sourced from business process flow data for a given entity, such as a lead or opportunity.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5814d2b5-45a0-4b42-b9ae-f58f73062032
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

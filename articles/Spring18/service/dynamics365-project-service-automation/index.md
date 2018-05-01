@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 for Project Service Automation
-description: The Spring ‘18 release of Project Service includes multidimensional pricing capabilities, GDPR and accessibility enhancements, and new user experience with the app built on the Unified Interface framework.
+title: Dynamics 365 for Project Service Automation
+description: Dynamics 365 for Project Service Automation
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 9c1f22bf-7c3d-4375-9854-21abb59b842a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

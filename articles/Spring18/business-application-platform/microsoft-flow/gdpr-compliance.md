@@ -4,7 +4,8 @@ title: GDPR compliance
 description: Microsoft is committed to GDPR compliance across our cloud services, including Microsoft Flow.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 1b539712-c9e1-46f9-8341-70d4c5b1ed73
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

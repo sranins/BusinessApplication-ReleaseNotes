@@ -4,7 +4,8 @@ title: Improved entity creation and customization
 description: Creating and customizing Common Data Service for Apps entities from PowerApps.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 56b1de44-a2af-474a-852d-c47b85dcb13c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

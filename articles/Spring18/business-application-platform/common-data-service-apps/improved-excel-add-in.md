@@ -4,7 +4,8 @@ title: Improved Excel add-in
 description: Data stored in the Common Data Service for Apps can be viewed, created, and edited through the updated PowerApps and Common Data Service for Apps Excel add-in.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: ea6138b7-a41f-4e34-8eb0-273e0c276529
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

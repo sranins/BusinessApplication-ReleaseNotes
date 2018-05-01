@@ -4,7 +4,8 @@ title: Metadata-driven responsive user experiences
 description: Model-driven apps are responsive across different form factors and devices, allowing users to quickly continue their work while on the go.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 3c1746ee-2c88-4b5b-bd3c-e0c6353a40ec
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -33,7 +34,7 @@ Responsive user experiences allow for:
 -   Visual controls that are optimized for touch and provide engaging user
     experiences. Examples include Slider, Arc, and Calendar controls.
 
-![](media/metadata-driven-responsive-user-experiences-1.png "")
+![Example of an account form on a desktop computer](media/metadata-driven-responsive-user-experiences-1.png "Example of an account form on a desktop computer")
 <!-- App_Plat_ResponseAcct_G.PNG -->
 
 

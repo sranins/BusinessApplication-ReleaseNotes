@@ -4,7 +4,8 @@ title: Highlights from the Spring ‘18 release
 description: Highlights from the Spring ‘18 release
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: ad570d0c-db03-4508-92d0-acaf31817e43
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,10 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Highlights from the Spring ‘18 release 
 
-
-
+# Highlights from the Spring ‘18 release 
 
 [!include[banner](../../includes/banner.md)]
 
@@ -28,7 +27,7 @@ audience: Admin
 -   **27 new connectors for PowerApps, Flow, and Logic Apps (Public Preview)** –
     Includes connectors for Excel Online, Microsoft To-Do, ServiceNow, Workday
     HCM, and Azure SQL Data Warehouse, among others. [See the full
-    list](improved-connectors-powerapps-flow-logic-apps/index.md).
+    list](#FullList).
 
 -   **3 new connectors for Power BI (General Availability)** – Includes Adobe
     Analytics, IBM Netezza, and Azure Analysis Services.

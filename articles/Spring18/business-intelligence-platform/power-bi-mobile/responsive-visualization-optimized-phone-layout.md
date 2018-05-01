@@ -1,10 +1,11 @@
 ---
 
 title: Responsive Visualization optimized for phone layout
-description: Power BI is providing more ways to create experiences optimized for devices of all sizes, delivering a rich visualization on a large screen and then preserving that richness in a small screen using *responsive visualizations.
+description: Responsive Visualization optimized for phone layout
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d9005c06-756a-4e51-ac18-33888aa34a61
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

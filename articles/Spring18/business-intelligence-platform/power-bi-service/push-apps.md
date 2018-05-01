@@ -1,10 +1,11 @@
 ---
 
 title: Push apps
-description: You can automatically install apps that people use for work in the **Apps** content list, instead of requiring users to find the app in Microsoft AppSource or follow an installation link.
+description: Push apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 4f347da9-a6a5-447c-8db9-248849a9732f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

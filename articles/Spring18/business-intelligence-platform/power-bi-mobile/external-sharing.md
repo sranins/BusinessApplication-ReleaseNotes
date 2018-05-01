@@ -4,7 +4,8 @@ title: External sharing
 description: Users can share reports and dashboards with users external to their tenant.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 30afc823-2d5d-4dfa-84d2-ff3e105fd1e0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,8 @@ title: Row-level security on Azure Analysis Services based on CustomData
 description: Use row-level security and filter data based on the CustomData function in Azure Analysis Services.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6c0c3a25-cbbd-4193-ad55-e4b316dba4c1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

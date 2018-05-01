@@ -1,10 +1,11 @@
 ---
 
-title: Integration with Dynamics 365 for Talent (Public Preview)
+title: Integration with Dynamics 365 for Talent  Public Preview 
 description: Finance and Operations customers can use Dynamics 365 for Talent to manage their people.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e84e6b76-eb4d-498f-aa11-bc3146bf6f9f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

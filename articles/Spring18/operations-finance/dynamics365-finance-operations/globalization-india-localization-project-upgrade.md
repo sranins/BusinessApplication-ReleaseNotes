@@ -1,10 +1,11 @@
 ---
 
-title: Globalization – India localization Project and upgrade
-description: Project localization for India lets users manage Indian Goods and Services Tax (GST) for the Project management and accounting module.
+title: Globalization   India localization  Project and upgrade
+description: Globalization   India localization  Project and upgrade
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d5bc20f3-3729-4958-9b10-58804a525e18
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -31,7 +32,7 @@ Project localization for India lets users manage Indian Goods and Services Tax
     journals, hour journals, item journals, fee journals, on-account
     transactions, project invoice proposals, and service management.
 
--   Print Tax invoice for project
+-   Print a Tax invoice for a project.
 
 Localization upgrade for India lets current Microsoft Dynamics AX 2012 customers
 upgrade to Microsoft Dynamics 365 for Finance and Operations.

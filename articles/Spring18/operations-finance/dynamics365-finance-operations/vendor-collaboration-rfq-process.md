@@ -1,10 +1,11 @@
 ---
 
-title: Vendor collaboration – RFQ process
-description: Organizations issue requests for quotation (RFQ) when they want to receive competitive offers from several vendors for the items or services that they must purchase.
+title: Vendor collaboration   RFQ process
+description: Vendor collaboration   RFQ process
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 1490c975-253a-48b0-ba94-8e0ea85196b5
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

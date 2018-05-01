@@ -1,10 +1,11 @@
 ---
 
-title: Customer Service Hub for efficient case resolution
-description: Customer Service Hub for efficient case resolution
+title: Customer Service Hub for efficient case resolution
+description: Customer Service Hub for efficient case resolution
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 00314a19-bdfd-49f6-b45a-36526a49aad2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,6 +15,8 @@ audience: Admin
 
 ---
 #  Customer Service Hub for efficient case resolution
+
+
 
 
 [!include[banner](../../../../includes/banner.md)]

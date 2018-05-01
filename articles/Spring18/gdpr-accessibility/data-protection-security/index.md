@@ -1,10 +1,11 @@
 ---
 
 title: Data protection and security
-description: Dynamics 365 delivers industry‑leading security measures and privacy policies to safeguard customer data when using a Microsoft Cloud Service or running Microsoft Dynamics business applications in our customers’ data centers.
+description: Data protection and security
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 70ccb608-7dc4-4649-8fc2-732660568752
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

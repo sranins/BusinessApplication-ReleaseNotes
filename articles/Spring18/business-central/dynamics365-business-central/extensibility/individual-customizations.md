@@ -1,10 +1,11 @@
 ---
 
 title: Individual customizations
-description: You can personalize Dynamics 365 Business Central by, for example, adding or removing fields.
+description: Individual customizations
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: c5bf4438-cfbf-44d6-8265-e402a6eef16f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

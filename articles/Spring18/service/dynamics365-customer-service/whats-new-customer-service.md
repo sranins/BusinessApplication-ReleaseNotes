@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Customer Service
-description: Spring ’18 summary of what’s new in Customer Service
+title: Spring  18 summary of what s new in Customer Service
+description: Spring  18 summary of what s new in Customer Service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 30015596-7594-4817-84d9-7764d49dd407
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

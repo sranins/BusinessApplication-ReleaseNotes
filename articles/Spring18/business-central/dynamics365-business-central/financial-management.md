@@ -1,10 +1,11 @@
 ---
 
 title: Financial management
-description: Basic General Ledger Set up a company, and start posting to the general ledger, chart of accounts, general journals, VAT facilities, recurring journals, and source codes.
+description: Financial management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: de97400d-0996-460a-bd5c-60c59c2aeea4
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

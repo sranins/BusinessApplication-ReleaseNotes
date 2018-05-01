@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Project Service
-description: Spring ’18 summary of what’s new in Project Service
+title: Spring  18 summary of what s new in Project Service
+description: Spring  18 summary of what s new in Project Service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6656d9f2-fd01-40e6-8ae3-c04d8e23cee8
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

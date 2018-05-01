@@ -4,7 +4,8 @@ title: Project timesheet mobile
 description: Project timesheet is a mobile app that lets employees create and submit project timesheets to record their hours for a specific project.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 3c385048-9dc7-47e0-99f6-897a64d90257
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

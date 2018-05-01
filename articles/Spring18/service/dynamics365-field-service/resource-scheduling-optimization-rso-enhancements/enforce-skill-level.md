@@ -1,10 +1,11 @@
 ---
 
 title: Enforce skill level
-description: Resource requirements can include not only a skill, but also the level (or rating) of the skill required to do the work.
+description: Enforce skill level
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 0ccbfbf5-973e-4d61-8ddb-82d1c75ee30a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

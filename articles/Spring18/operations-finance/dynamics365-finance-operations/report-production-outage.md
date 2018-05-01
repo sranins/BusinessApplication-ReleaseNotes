@@ -4,7 +4,8 @@ title: Report production outage
 description: This feature is available to customers who have purchased Finance and Operations and who have implementation projects that have a production environment deployed in LCS.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 03e0fb02-dc24-44a6-a8de-c07cbf368b74
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

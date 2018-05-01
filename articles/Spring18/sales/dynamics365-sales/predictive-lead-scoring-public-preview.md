@@ -1,10 +1,11 @@
 ---
 
-title: Predictive lead scoring (Public Preview)
+title: Predictive lead scoring  Public Preview 
 description: Predictive lead scoring uses a predictive machine learning model to calculate a score for all open leads.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: acde7d04-02bf-46d2-bfe5-bfaa2a430227
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -21,17 +22,17 @@ audience: Admin
 [!include[banner](../../../includes/banner.md)]
 
 Predictive lead scoring uses a predictive machine learning model to calculate a
-score for all open leads. The score helps salespeople to prioritize leads,
-achieve higher lead qualification rates, and reduce the time it takes to qualify
-a lead. The reasons behind the score adds transparency to the model and helps
+score for all open leads. The score helps salespeople prioritize leads, achieve
+higher lead qualification rates, and reduce the time that it takes to qualify a
+lead. The reasons behind the score add transparency to the model and help
 salespeople validate the model.
 
 The administration experience allows a business analyst to train the model and
 apply it to open leads for scoring based on prediction accuracy. In addition,
-when there is more data for leads or other related entities such as accounts, a
+when there is more data for leads or other related entities, such as accounts, a
 business analyst can retrain the model and apply it to achieve more accurate
 results. Plus, the business analyst can change the score ranges for lead grades
-to determine lead prioritization for their business based on qualification
+to determine lead prioritization for their business, based on qualification
 rates.
 
 ![Predictive lead scoring screen, grid view](media/predictive-lead-scoring-public-preview-1.png "Predictive lead scoring screen, grid view")

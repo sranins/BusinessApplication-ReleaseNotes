@@ -4,7 +4,8 @@ title: Drill-through support
 description: Supporting drill-through in mobile using the new tooltip platform.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 729d61b2-8f44-4480-ac41-a6cfc1758613
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

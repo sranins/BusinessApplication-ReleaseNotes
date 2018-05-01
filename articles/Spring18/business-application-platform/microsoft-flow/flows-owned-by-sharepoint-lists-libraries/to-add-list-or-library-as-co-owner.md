@@ -4,7 +4,8 @@ title: To add a list or library as a co-owner
 description: To add a list or library as a co-owner
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: da235b48-867e-4338-b04d-2f2b16c0b68d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

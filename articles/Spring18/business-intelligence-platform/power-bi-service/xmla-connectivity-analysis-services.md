@@ -4,7 +4,8 @@ title: XMLA connectivity with Analysis Services
 description: XMLA connectivity with Analysis Services
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8fd03ad0-6485-42da-a630-201d6fe8e8da
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

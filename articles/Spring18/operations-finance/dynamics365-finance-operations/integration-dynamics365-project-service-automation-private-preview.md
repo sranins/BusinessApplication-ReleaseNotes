@@ -1,10 +1,11 @@
 ---
 
-title: Integration with Dynamics 365 for Project Service Automation (Private Preview)
-description: The Project Service Automation to Finance and Operations integration solution uses the data integrator feature to synchronize data across instances of Finance and Operations and Project Service Automation via the Common Data Service (CDS).
+title: Integration with Dynamics 365 for Project Service Automation  Private Preview 
+description: Integration with Dynamics 365 for Project Service Automation  Private Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: f6adf083-11aa-476b-ad94-c7b10d71c07e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -64,10 +65,10 @@ scenarios:
 
 -   Create actuals in Project Service Automation and synchronize them directly
     from Project Service Automation to the Finance and Operations integration
-    journal where the accounting will be applied and the project transactions
+    journal, where the accounting will be applied and the project transactions
     are posted. Synchronization of information back to Project Service
     Automation, such as the voucher number and any sales tax calculated in
-    Finance and Operations will also be provided as a template.
+    Finance and Operations, will also be provided as a template.
 
 Not all templates are currently available. Templates will be released as they
 are completed. Additional phased releases will provide templates for

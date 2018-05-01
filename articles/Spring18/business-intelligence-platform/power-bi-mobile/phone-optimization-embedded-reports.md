@@ -4,7 +4,8 @@ title: Phone optimization for embedded reports
 description: Developers who build custom mobile applications can use the phone optimized report layout in their custom app.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 26345265-b620-4bf0-8dfb-2587a1273556
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

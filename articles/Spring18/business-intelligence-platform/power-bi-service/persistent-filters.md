@@ -1,10 +1,11 @@
 ---
 
 title: Persistent filters
-description: Power BI persistent filters save users’ slicer and filter values, and automatically applies them when users return to view the reports.
+description: Persistent filters
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: c940dc31-464e-44ee-a322-061493b21b64
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

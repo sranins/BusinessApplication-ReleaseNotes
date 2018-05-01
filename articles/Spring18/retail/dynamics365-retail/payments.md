@@ -1,10 +1,11 @@
 ---
 
 title: Payments
-description: Beginning with the Spring ‘18 release, we have made investments to improve tolerance when connecting to payment providers over unreliable networks.
+description: Payments
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: c87febd0-ebc1-4bd6-9e98-4191ae4f3a2a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

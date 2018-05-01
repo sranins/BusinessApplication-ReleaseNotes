@@ -4,7 +4,8 @@ title: Additional connectors (Public Preview)
 description: Additional connectors (Public Preview)
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: c138f5d4-ec99-4c83-b785-64cc965f9164
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,8 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Additional connectors (Public Preview)
 
+# Additional connectors (Public Preview)
 
 [!include[banner](../../../includes/banner.md)]
 

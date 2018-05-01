@@ -4,7 +4,8 @@ title: Drill-down and drill-up support
 description: Mobile users can use drill-down and drill-up to dive deep into their data.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 29cec49f-6ecc-438f-bb85-83478e19ea24
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

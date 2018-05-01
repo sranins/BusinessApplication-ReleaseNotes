@@ -1,10 +1,11 @@
 ---
 
-title: Partial shipment of a load (split load)
-description: This functionality supports scenarios where load planning from a transportation department can’t affect loads that are planned for a single truck or a specific outbound transport capacity.
+title: Partial shipment of a load  split load 
+description: Partial shipment of a load  split load 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 3fdce97d-82d8-4752-bda9-aeea76f1391f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

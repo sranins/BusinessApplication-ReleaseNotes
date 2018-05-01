@@ -1,10 +1,11 @@
 ---
 
 title: Common Data Service for Analytics capability in Power BI
-description: Common Data Service for Analytics in Power BI integrates your organization’s data with a standardized schema built on the Microsoft Common Data Model.
+description: Common Data Service for Analytics capability in Power BI
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 08d97d33-5b9f-4bde-a437-99812a4911d1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

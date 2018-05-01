@@ -4,7 +4,8 @@ title: PowerApps
 description: PowerApps is the high-productivity application development platform from Microsoft.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: f2c29205-3e32-4f76-802a-b0d880c9d45b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -34,7 +35,7 @@ can use already-acquired skills to create apps with PowerApps.
 
 
 PowerApps is also tightly integrated with Office 365. You can use the same set
-of tools to customize and extend an increasing number of Office 365 apps and
+of tools to customize and extend an increasing number of Office 365 apps, and
 build standalone business applications connected to more than 200 data sources.
 You can now build two types of applications with PowerApps: model‑driven apps
 and canvas apps.
@@ -77,7 +78,7 @@ New capabilities include:
 
 -   **Accessible apps out of the box.** Model-driven apps built using the
     Unified Interface infrastructure meet Microsoft accessibility standards
-    [(g.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)
+    [.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)
     The applications enable users, including keyboard-only users and touch-only
     users, to perform key tasks. The apps work well with screen readers and
     won’t block other accessibility tools, such as one-click devices.

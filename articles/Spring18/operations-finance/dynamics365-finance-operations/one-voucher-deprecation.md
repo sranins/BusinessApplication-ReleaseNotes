@@ -1,10 +1,11 @@
 ---
 
 title: One voucher deprecation
-description: The existing functionality for financial journals (general journal, fixed asset journal, vendor payment journal, and so on) lets you enter multiple subledger transactions in the context of a single voucher.
+description: One voucher deprecation
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8b21b831-a9eb-4177-845e-1349a497d546
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

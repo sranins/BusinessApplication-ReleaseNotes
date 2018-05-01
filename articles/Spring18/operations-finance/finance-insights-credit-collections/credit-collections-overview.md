@@ -4,7 +4,8 @@ title: Credit and collections overview
 description: Credit and collections overview
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e9c67f44-aa63-41ad-b163-72cfde80d02b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,6 +15,8 @@ audience: Admin
 
 ---
 #  Credit and collections overview
+
+
 
 
 [!include[banner](../../../includes/banner.md)]

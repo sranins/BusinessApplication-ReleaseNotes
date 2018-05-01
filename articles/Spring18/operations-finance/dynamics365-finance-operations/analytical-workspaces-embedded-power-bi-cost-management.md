@@ -4,7 +4,8 @@ title: Analytical workspaces with embedded Power BI for Cost management
 description: If you are an Operations Manager or a cost accountant who wants to optimize your supply chain performance as well as manage costs, Analytical workspaces in Cost management provide you with the deep insights necessary for your role.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 16c621a9-a1f3-4240-af27-fe74e9a3c0c1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -38,7 +39,7 @@ hierarchies assigned to this role are made available for reporting in the Cost
 management Power BI content. The category hierarchies should be considered as an
 alternative to Item group.
 
-The Cost administration workspace provides a bird's-eye view of
+The Cost administration workspace provides a bird's-eye view of:
 
 -   Overview (Application data)
 
@@ -46,25 +47,13 @@ The Cost administration workspace provides a bird's-eye view of
 
 -   Manufacturing accounting status (Embedded Power BI)
 
-![A screenshot showing the Inventory accounting status Power BI content in Cost Administration 
-
-
-Description generated with very high confidence](media/analytical-workspaces-embedded-power-bi-cost-management-1.png "A screenshot showing the Inventory accounting status Power BI content in Cost Administration 
-
-
-Description generated with very high confidence")
+![A screenshot showing the Inventory accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-1.png "A screenshot showing the Inventory accounting status Power BI content in Cost Administration")
 <!-- new FO Inventory accounting status overview.png -->
 
 
 *Inventory accounting status*
 
-![A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration 
-
-
-Description generated with very high confidence](media/analytical-workspaces-embedded-power-bi-cost-management-2.png "A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration 
-
-
-Description generated with very high confidence")
+![A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-2.png "A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration")
 <!-- New FO Manufacturing accounting status overview.png -->
 
 

@@ -1,10 +1,11 @@
 ---
 
 title: Built on the Unified Interface framework
-description: With the Spring ’18 release, the Connected Field Service solution is built on the Unified Interface framework for improved user experience.
+description: Built on the Unified Interface framework
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5ad9bedb-4127-4d27-a74e-810caecd107d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

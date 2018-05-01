@@ -1,10 +1,11 @@
 ---
 
 title: SAP HANA connector
-description: By default, the SAP HANA connector treats SAP HANA as a multi-dimensional source, similar to SAP Business Warehouse (BW) or Analysis Services.
+description: SAP HANA connector
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 09f7f3ac-2858-4471-8ad9-74b16f6a1f4b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

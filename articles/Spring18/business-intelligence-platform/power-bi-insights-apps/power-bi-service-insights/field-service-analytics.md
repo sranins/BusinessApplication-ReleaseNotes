@@ -4,7 +4,8 @@ title: Field Service Analytics
 description: The Field Service Analytics reports focuses on the dispatcher or scheduler persona.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 465b7303-9ef5-4de5-8283-2e3670b0d0fe
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

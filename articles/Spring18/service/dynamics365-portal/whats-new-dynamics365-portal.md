@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Dynamics 365 Portal
-description: Spring ’18 summary of what’s new in Dynamics 365 Portal
+title: Spring  18 summary of what s new in Dynamics 365 Portal
+description: Spring  18 summary of what s new in Dynamics 365 Portal
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 7c5be00e-42f9-497a-a875-1739b64fb7dc
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

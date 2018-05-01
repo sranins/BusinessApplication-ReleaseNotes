@@ -1,10 +1,11 @@
 ---
 
 title: App Source
-description: Within Dynamics 365 Business Central, you can find apps on App Source that bring you more capabilities.
+description: App Source
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5f291a16-e4ce-437d-b379-da76ede8e078
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,8 @@ title: Cascade deletion of surveys
 description: When a user deletes a survey, the dependent entities of the survey are also deleted.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: c2b10475-1183-45db-bd92-f8a8fd4a0350
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

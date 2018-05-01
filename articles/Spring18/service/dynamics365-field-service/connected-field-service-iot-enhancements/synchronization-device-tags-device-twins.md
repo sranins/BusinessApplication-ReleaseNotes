@@ -4,7 +4,8 @@ title: Synchronization of device tags with device twins
 description: Device twin tags allow grouping of devices to make them easier to search and find.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 125bd3bb-2798-4fc9-80aa-be4af82f6174
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

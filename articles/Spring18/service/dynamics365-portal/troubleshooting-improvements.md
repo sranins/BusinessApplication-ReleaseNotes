@@ -1,10 +1,11 @@
 ---
 
 title: Troubleshooting improvements
-description: Dynamics 365 Portal provides detailed, contextual error information and diagnostic logging, and enables developers to define custom error messages for consistent and reliable troubleshooting.
+description: Troubleshooting improvements
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: a224307e-351a-405e-a728-d4d64837ae7f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

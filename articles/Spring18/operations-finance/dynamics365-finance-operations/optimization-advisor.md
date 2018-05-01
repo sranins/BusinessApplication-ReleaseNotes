@@ -4,7 +4,8 @@ title: Optimization advisor
 description: Optimization advisor provides added visibility and intelligence in your business operations to improve efficiency.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 0e2a07c8-acc5-414d-9e0b-ff34847d629c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

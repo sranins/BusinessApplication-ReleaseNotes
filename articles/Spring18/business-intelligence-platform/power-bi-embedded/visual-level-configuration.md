@@ -4,7 +4,8 @@ title: Visual level configuration
 description: Control the experience and functionalities on a visual that is exposed to users.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d97012eb-a2a4-47dd-90bb-be75671c241c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

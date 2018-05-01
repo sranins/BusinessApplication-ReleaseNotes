@@ -1,10 +1,11 @@
 ---
 
 title: Guided setup
-description: Power BI Apps are available to users through [AppSource](https://appsource.
+description: Guided setup
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: b3c374d8-ad18-4eb9-ace1-e16813cc2674
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -23,4 +24,4 @@ Power BI Apps are available to users through
 helps users quickly install and set up the app. After users provide a few
 details such as their Dynamics 365 credentials, they are redirected to their
 Power BI Service account where reports are readily available. Users receive a
-notifications after data is copied and their app is ready to use.
+notification after data is copied and their app is ready to use.

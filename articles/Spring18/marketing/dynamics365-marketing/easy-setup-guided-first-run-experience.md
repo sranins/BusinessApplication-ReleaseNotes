@@ -1,10 +1,11 @@
 ---
 
 title: Easy setup with guided first-run experience
-description: Get started quickly with Dynamics 365 for Marketing, whether you set up a trial or add the application to your production organization.
+description: Easy setup with guided first-run experience
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 4ce459fe-375a-4096-a606-ab7f8a314201
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

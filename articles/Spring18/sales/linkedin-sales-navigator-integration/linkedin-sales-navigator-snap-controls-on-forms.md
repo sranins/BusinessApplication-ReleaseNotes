@@ -1,10 +1,11 @@
 ---
 
-title: LinkedIn Sales Navigator (SNAP) controls on forms
+title: LinkedIn Sales Navigator  SNAP  controls on forms
 description: With LinkedIn Sales Navigator integration, business analysts and system admins can add customizable form controls that deliver insights to help salespeople build connections as they work deals.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: f1928065-5e67-416f-bb78-50704f4f003d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

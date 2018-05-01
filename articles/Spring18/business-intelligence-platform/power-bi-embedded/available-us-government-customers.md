@@ -1,10 +1,11 @@
 ---
 
 title: Available for US Government customers
-description: Embedded analytics with Power BI is generally available for Government Community Cloud (GCC) and GCC High.
+description: Available for US Government customers
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8f0795a7-a643-4afa-b22b-e519830e8f4f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

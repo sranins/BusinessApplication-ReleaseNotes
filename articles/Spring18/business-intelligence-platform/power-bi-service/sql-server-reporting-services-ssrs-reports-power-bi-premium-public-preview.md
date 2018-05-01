@@ -1,10 +1,11 @@
 ---
 
-title: SQL Server Reporting Services (SSRS) reports for Power BI Premium (Public Preview)
-description: Publish SQL Server Reporting Services (SSRS) reports (\*.
+title: SQL Server Reporting Services  SSRS  reports for Power BI Premium  Public Preview 
+description: SQL Server Reporting Services  SSRS  reports for Power BI Premium  Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 0fa2db97-86ba-469d-9d2c-e52e57047995
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

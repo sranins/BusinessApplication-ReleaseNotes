@@ -4,7 +4,8 @@ title: Improvements to the SAP BW connector
 description: Improvements to the SAP BW connector
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: f53f0771-12d0-4074-8c42-2b34f449f42f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,8 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Improvements to the SAP BW connector 
 
+# Improvements to the SAP BW connector 
 
 [!include[banner](../../../includes/banner.md)]
 

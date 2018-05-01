@@ -1,10 +1,11 @@
 ---
 
 title: Improved app sharing experience
-description: Canvas apps.
+description: Improved app sharing experience
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 39128807-827e-4b76-8ca1-3eff379be4d0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -30,13 +31,13 @@ to these entities, such as Read only, Read and write, or Full access. If the
 quick permissions don't meet your needs, assign custom permissions through
 security roles.
 
-![](media/improved-app-sharing-experience-1.png "")
+![Data sources and permissions](media/improved-app-sharing-experience-1.png "Data sources and permissions")
 <!-- picture -->
 
 
 *Share an app: Data sources and permissions*
 
-**Model-driven apps.** Share model-‑driven apps with users by assigning
+**Model-driven apps.** Share model-driven apps with users by assigning
 appropriate security roles that provide access to the entities and data in the
 Common Data Service for Apps.
 
@@ -44,4 +45,4 @@ Common Data Service for Apps.
 <!-- AppSharing - Screenshot 3.png -->
 
 
-*Share a model-‑driven app with security roles*
+*Share a model-driven app with security roles*

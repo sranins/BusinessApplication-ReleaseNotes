@@ -4,7 +4,8 @@ title: Tailor apps to business needs
 description: Power BI applications are customizable from data ingestion to visualization.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e3a8395d-4ec4-4f07-995b-50e5d28b3825
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

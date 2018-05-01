@@ -4,7 +4,8 @@ title: Business Intelligence Platform
 description: Organizations can use Power BI to translate a wealth of data into actionable insights.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: ee4a7ea0-a5ed-4956-9e73-a83fef6a84f4
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

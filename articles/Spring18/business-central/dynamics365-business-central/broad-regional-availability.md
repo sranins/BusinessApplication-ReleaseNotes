@@ -4,7 +4,8 @@ title: Broad regional availability
 description: Broad regional availability
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 77d78ca7-52aa-45dc-a583-156595781c6a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

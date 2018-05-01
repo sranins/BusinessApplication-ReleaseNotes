@@ -4,7 +4,8 @@ title: Performance reporting for Power BI Premium
 description: Organizations can use performance reporting for Power BI Premium to understand how their Premium capacity resources are used, troubleshoot performance issues, and decide when to upgrade to a larger node size.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 1c340c88-cda4-4a7a-b46b-d499d1bd89bd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

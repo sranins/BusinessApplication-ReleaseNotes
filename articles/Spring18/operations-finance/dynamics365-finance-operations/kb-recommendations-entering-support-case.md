@@ -1,10 +1,11 @@
 ---
 
 title: KB recommendations when entering a support case
-description: When a user creates a support case, the LCS support workflow populates possible issue solutions in Issue Search based on the user's selection and input, and dynamically refreshes these results as the user provides more details.
+description: KB recommendations when entering a support case
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: b30f1c2f-6d87-402d-829d-9a9c57d8863d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

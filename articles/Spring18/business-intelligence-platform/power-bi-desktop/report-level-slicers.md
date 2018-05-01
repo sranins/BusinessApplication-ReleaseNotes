@@ -4,7 +4,8 @@ title: Report level slicers
 description: Report authors can use slicers that sync across pages, and update visuals across a report.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 069b44f5-3f96-4353-bf3e-d8c17535061c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
 title: On-premises deployment updates
-description:  On-premises deployment updates
+description: On-premises deployment updates
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 9ad7aa44-b701-4da7-a5b7-f1ceb2994802
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -61,18 +62,18 @@ Additional on-premises-specific features are listed below.
     This functionality lets you integrate external applications with Finance and
     Operations so that you can import and export data by using data entities.
 
--   **Retail.** The following retail head-office capability will be included in
-    Spring ’18 timeframe.
+-   **Retail.** The following retail head-office capabilities will be included
+    in the Spring ’18 timeframe:
 
 -   Product categories 
 
 -   Channel categories and product attributes 
 
--   Attribute, attribute type, and attribute groups 
+-   Attributes, attribute types, and attribute groups 
 
 -   Trade agreements 
 
--   Quantity on hand 
+-   On-hand quantities 
 
 -   Stock counts 
 
@@ -82,11 +83,11 @@ Additional on-premises-specific features are listed below.
 
 -   Retail product kits 
 
--   Cross docking and buyer's push 
+-   Cross-docking and buyer's push 
 
 -   Call Center
 
 -   Customer Loyalty
 
->   Retail channel components including support for Retail Server and Point of
->   Sale will be available in Fall ’18 timeframe.
+>   Retail channel components, including support for Retail Server and Point of
+>   Sale, will be available in the Fall ’18 timeframe.

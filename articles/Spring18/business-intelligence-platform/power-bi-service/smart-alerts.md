@@ -4,7 +4,8 @@ title: Smart alerts
 description: Receive automatic alerts when there are important changes to data.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 67f1b79d-541f-400a-b452-d2e52e1f927b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
-title: Spring '18 summary of what’s new in Microsoft Flow
-description: Spring '18 summary of what’s new in Microsoft Flow
+title: Spring  18 summary of what s new in Microsoft Flow
+description: Spring  18 summary of what s new in Microsoft Flow
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: fc651c83-5c2b-4b82-88ca-bbce76481431
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -24,7 +25,7 @@ audience: Admin
 |----------------------------------------------------------------------------------------------|
 | [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow/index.md)                                     |
 | [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-the-common-data-service-apps.md)     |
-| Find errors in apply to each                                                                 |
+| Find errors in Apply to each                                                                 |
 | Reassign approvals                                                                           |
 | See details of flow buttons                                                                  |
 | United Kingdom region                                                                        |

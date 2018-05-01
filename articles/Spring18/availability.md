@@ -1,10 +1,11 @@
 ---
 
 title: Availability
-description: For a list of the regions where Dynamics 365 business applications are available, [see the Availability Guide](https://aka.
+description: Availability
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 218111f7-0da2-438d-ad06-75f61927b2a6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

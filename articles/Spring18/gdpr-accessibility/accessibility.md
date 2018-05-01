@@ -4,7 +4,8 @@ title: Accessibility
 description: Accessibility is a top priority for many organizations, often to meet regulatory requirements, but also because it is an important part of driving productivity through digital transformation.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6795114a-e171-440f-b0d9-d7db1c4d2d64
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
 title: Approval reassignment
-description: If you are unable or do not want to complete an approval yourself, you can now send the approvals you receive to another person.
+description: Approval reassignment
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 893b54d4-09f2-4ab2-b27d-1e78284a8c29
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,18 +21,18 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-If you are unable or do not want to complete an approval yourself, you can now
-send the approvals you receive to another person. First, click on the approval
-in the Approval center, and then select Advanced in the approval pane. You will
-get an input field where you can provide the email of the user you want to
-handle the user on your behalf. Once you reassign the approval, that user will
-see the approval request in their Approval center.
+If you can’t or don’t want to complete an approval yourself, you can now send
+the approvals you receive to another person. First, click the approval in the
+Approval center, and then select Advanced in the approval pane. You can then
+provide the email address of the user that you want to handle the approval on
+your behalf. After you reassign the approval, that user will see the approval
+request in their Approval center.
 
-![](media/approval-reassignment-1.png "")
+![Reassigning approvals](media/approval-reassignment-1.png "Reassigning approvals")
 <!-- Picture 1 -->
 
 
 *Reassign approvals*
 
-You can also reassign from the "..." menu on each Approval in your received
-requests.
+You can also reassign from the ellipsis (...) menu on each approval in your
+received requests.

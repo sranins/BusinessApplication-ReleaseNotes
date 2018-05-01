@@ -4,7 +4,8 @@ title: Streamlined transfer process
 description: When transferring an employee, you can filter by position, and the job is automatically added to the transfer request.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: a1333e8d-357c-4c8b-9318-a1f8b1f7a76d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

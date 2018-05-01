@@ -4,7 +4,8 @@ title: Associate 3D content with customer asset records
 description: Arm your technicians with 3D content to help them complete repairs.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 207a4be9-389d-4a17-b846-0dc272ce478d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

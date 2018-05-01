@@ -4,7 +4,8 @@ title: Synchronization of device conditions and properties with device twins
 description: Connected Field Service includes a representation of customer assets and devices that can be registered within Azure IoT Hub to enable messages to flow through Azure IoT Hub to create alerts.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 63fa9149-dd77-488e-a6bf-73b402031ce1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Business Central
-description: Spring ’18 summary of what’s new in Business Central
+title: Spring  18 summary of what s new in Business Central
+description: Spring  18 summary of what s new in Business Central
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e2f1739f-f356-476a-a924-72f5d33ec8b0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

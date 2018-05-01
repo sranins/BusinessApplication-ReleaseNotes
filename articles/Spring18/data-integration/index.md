@@ -4,7 +4,8 @@ title: Data Integration
 description: Data Integration provides the connectors and gateways that make it possible to bring any external data into the Common Data Service (CDS) and store the data in Common Data Model (CDM) form.
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: 754121db-530b-49f9-8150-3ddc77bd32a5
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,10 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Data Integration
 
-
-
+# Data Integration
 
 [!include[banner](../../includes/banner.md)]
 
@@ -27,9 +26,7 @@ their data in a single place for business applications and analytics. Data
 Integration is based on Power Query, the same technology that millions of people
 use daily in Power BI and Excel.
 
-![Diagram showing the relationship between data connectors, CDS for Apps, and CDS for Analytics](media/index-1.png "Diagram showing the relationship between data connectors, CDS for Apps, and CDS for Analytics")
-<!-- picture -->
-
+![Data Integration connectors](media/index-1.png "Data Integration connectors")
 
 *Data Integration connectors*
 

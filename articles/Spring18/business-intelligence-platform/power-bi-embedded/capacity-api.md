@@ -4,7 +4,8 @@ title: Capacity API
 description: Use capacity APIs to assign or remove workspaces to capacities, and get a list of capacities a user can access.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 1a139be6-c747-42cc-82cf-1e64edc5e210
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

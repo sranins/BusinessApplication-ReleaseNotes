@@ -4,7 +4,8 @@ title: Lead management
 description: Use landing pages to invite contacts to register with your organization and generate leads based on those submissions.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d146328c-0c79-4012-96db-7b718564f979
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

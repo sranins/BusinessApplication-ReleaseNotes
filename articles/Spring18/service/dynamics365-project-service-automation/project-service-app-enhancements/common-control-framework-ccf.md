@@ -1,10 +1,11 @@
 ---
 
-title: Common Control Framework (CCF)
-description: User interface controls use a Common Controls Framework (CCF) for consistency with other Dynamics 365 business applications.
+title: Common Control Framework  CCF 
+description: Common Control Framework  CCF 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: be70957c-c1c0-44ab-8311-57e88ee294dd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

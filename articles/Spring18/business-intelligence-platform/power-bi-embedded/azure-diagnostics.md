@@ -4,7 +4,8 @@ title: Azure Diagnostics
 description: Azure Diagnostics is the capability within Azure to collect diagnostic data on a deployed application.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8c01530c-0408-4db3-86d0-5e8290212021
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

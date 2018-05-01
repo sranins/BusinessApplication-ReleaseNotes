@@ -1,10 +1,11 @@
 ---
 
-title: Spring '18 summary of what’s new in Common Data Service for Apps
-description: Spring '18 summary of what’s new in Common Data Service for Apps
+title: Spring  18 summary of what s new in Common Data Service for Apps
+description: Spring  18 summary of what s new in Common Data Service for Apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6276855a-6447-4cd2-9359-6a201b2b6715
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

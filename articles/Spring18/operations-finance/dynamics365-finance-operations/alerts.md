@@ -4,7 +4,8 @@ title: Alerts
 description: Alerts form a notification system for critical events in Finance and Operations.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5db8aa64-9e38-4787-9d43-9c1483d38751
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -26,13 +27,7 @@ the workday. You can easily create your own set of alert rules so that you're
 alerted about deliveries that are overdue, orders that are deleted, prices that
 change, or other events you must respond to.
 
-![A screenshot showing how to create an alert rule
-
-
-Description generated with very high confidence](media/alerts-1.png "A screenshot showing how to create an alert rule
-
-
-Description generated with very high confidence")
+![A screenshot showing how to create an alert rule](media/alerts-1.png "A screenshot showing how to create an alert rule")
 <!-- FO_Alerts_A.png -->
 
 

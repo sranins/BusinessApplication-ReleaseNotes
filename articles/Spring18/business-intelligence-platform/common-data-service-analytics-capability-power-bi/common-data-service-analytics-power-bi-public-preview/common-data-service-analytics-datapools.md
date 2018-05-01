@@ -4,7 +4,8 @@ title: Common Data Service for Analytics datapools
 description: In addition to dashboards, reports, workbooks and datasets, Common Data Service for Analytics introduces a new concept called datapools, which are sets of Common Data Service for Analytics entities.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 86aad585-abcb-42f6-bafb-3943d49b40f2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

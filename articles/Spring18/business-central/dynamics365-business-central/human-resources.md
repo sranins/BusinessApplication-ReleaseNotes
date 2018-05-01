@@ -1,10 +1,11 @@
 ---
 
 title: Human resources
-description: Employees Group and track employee information, and organize employee data according to different types of information, such as experience, skills, education, training, and union membership.
+description: Human resources
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: bb249d50-abfa-43c2-b2ae-b005e8bcac2e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

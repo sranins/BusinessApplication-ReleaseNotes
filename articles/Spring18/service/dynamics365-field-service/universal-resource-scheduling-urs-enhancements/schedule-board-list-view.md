@@ -4,7 +4,8 @@ title: Schedule board list view
 description: Interact with the schedule board using a list view to see data in a more meaningful way.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d643ad38-af14-4c1f-8b7f-096f960e771b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

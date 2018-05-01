@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 for Talent – Core HR
-description: The Spring ‘18 release of Talent - Core HR focuses on General Data Protection Regulation (GDPR) compliance, enabling integrations, and adding key capabilities based on customer feedback.
+title: Dynamics 365 for Talent   Core HR
+description: Dynamics 365 for Talent   Core HR
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5231ca94-4a45-49ca-936f-3482f72abdbb
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

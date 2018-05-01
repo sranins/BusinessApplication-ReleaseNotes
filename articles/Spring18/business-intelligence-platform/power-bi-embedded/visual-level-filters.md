@@ -4,7 +4,8 @@ title: Visual level filters
 description: Additional APIs are available to support get, set, and remove filters on the Visual level.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: f46aa98f-cc94-46b1-8138-ca8661adcab9
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

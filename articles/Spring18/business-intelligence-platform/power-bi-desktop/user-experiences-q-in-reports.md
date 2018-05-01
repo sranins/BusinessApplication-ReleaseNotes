@@ -1,10 +1,11 @@
 ---
 
-title: User experiences for Q&A in reports
-description: Report authors can enable Q&A experiences for report consumers with suggested questions to start from.
+title: User experiences for Q A in reports
+description: User experiences for Q A in reports
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d0eaf9fd-1ad7-470a-bc20-7bb2cc1c8925
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

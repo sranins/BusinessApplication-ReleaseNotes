@@ -4,7 +4,8 @@ title: Embedding PowerApps in workspaces and forms
 description: We have added support for embedding PowerApps in Finance and Operations workspaces and forms.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: dd712958-9f92-4070-9dfb-63bbca62aff4
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -38,13 +39,7 @@ experience.
 
 3.  Select Insert, and the selected PowerApp is available on the form.
 
-![A screenshot showing how to select a PowerApp to embed 
-
-
-Description generated with very high confidence](media/embedding-powerapps-workspaces-forms-1.png "A screenshot showing how to select a PowerApp to embed 
-
-
-Description generated with very high confidence")
+![A screenshot showing how to select a PowerApp to embed](media/embedding-powerapps-workspaces-forms-1.png "A screenshot showing how to select a PowerApp to embed")
 <!-- FO_Embedding PowerApps_A.png -->
 
 

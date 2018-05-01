@@ -1,10 +1,11 @@
 ---
 
 title: App-only token support
-description: Currently, building a Power BI Embedded application (also known as “app owns the data scenario”) requires creating a so-called master user account, storing the credentials for that account, and using them in the application code for performing non-interactive sign-in to Power BI.
+description: App-only token support
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: f403650f-1438-465f-8164-71f8625d60a3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

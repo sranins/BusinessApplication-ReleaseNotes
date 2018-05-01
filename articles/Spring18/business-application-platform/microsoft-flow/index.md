@@ -4,7 +4,8 @@ title: Microsoft Flow
 description: Microsoft is modernizing business processes across productivity, CRM, and ERP applications, which makes it easier for every business to transform how people work.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 75361228-af3a-4531-9fb8-b92bf3f876df
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -95,11 +96,11 @@ New capabilities for Flow in the Spring ’18 release include:
     Service for Apps. This means that you can build flows that read the status
     of the approvals you send or receive with the CDS connector.
 
--   **Find errors in “apply to each” action.** Jump directly to errors in loops
+-   **Find errors in “Apply to each” actions.** Jump directly to errors in loops
     in the flow run view, even when there are hundreds of items in the loop.
 
--   **Reassign approvals.** Assign any approval you receive to another person in
-    your organization to delegate the approval.
+-   **Reassign approvals.** Assign any approval that you receive to another
+    person in your organization, to delegate the approval.
 
 -   **See details of flow buttons.** When you run a flow that has been shared
     with you, see all the actions that the flow uses.
@@ -110,8 +111,8 @@ New capabilities for Flow in the Spring ’18 release include:
 -   **New documentation landing page.** On the documentation landing page, group
     content by skill level: beginner, intermediate user, or expert.
 
--   **Add multiple records to array inputs.** Use a list builder for adding
-    multiple attachments to an email, for example.
+-   **Add multiple records to array inputs.** Use a list builder to add multiple
+    attachments to an email, for example.
 
 -   **Test flows with previous run data.** Test your flow with trigger data from
     previous flow runs by using a Test flow button in the designer.

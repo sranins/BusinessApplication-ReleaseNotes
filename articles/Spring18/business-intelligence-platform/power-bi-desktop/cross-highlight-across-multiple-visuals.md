@@ -4,7 +4,8 @@ title: Cross-highlight across multiple visuals
 description: Users can multi-select data points across visuals to apply cross-highlighting.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: a8075e88-565b-45c3-b962-05e97a9b6bdf
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

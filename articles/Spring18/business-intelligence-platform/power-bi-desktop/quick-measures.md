@@ -1,10 +1,11 @@
 ---
 
 title: Quick measures
-description: The quick measures feature is generally available, and it no longer requires the feature to be turned on from the **Preview** tab in the **Options** dialog box.
+description: Quick measures
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: ba978893-7d6f-4551-b56e-1863cc283c80
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,8 @@ title: Batch balancing enabled for advanced warehousing processes
 description: Batch balancing is a process where the amount of ingredients to use in a production batch is calculated from the concentration of active ingredients in product batches selected by the user.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d0fb625a-f85d-47a4-96ff-354287777a02
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

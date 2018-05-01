@@ -1,10 +1,11 @@
 ---
 
-title: Company Career site (Public Preview)
-description: Public Preview of Talent - Attract is available in all regions where the product is available.
+title: Company Career site  Public Preview 
+description: Company Career site  Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 887d3522-ac18-4863-a54a-c03197c869cb
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,6 +15,8 @@ audience: Admin
 
 ---
 #  Company Career site (Public Preview)
+
+
 
 
 [!include[banner](../../../includes/banner.md)]

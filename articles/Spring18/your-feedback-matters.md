@@ -4,7 +4,8 @@ title: Your feedback matters
 description: We know how important these release notes are to your organization for planning a successful update.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 017d049b-8153-457b-ad8d-6007485572fd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

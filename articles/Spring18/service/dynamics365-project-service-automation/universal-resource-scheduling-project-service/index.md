@@ -4,7 +4,8 @@ title: Universal Resource Scheduling for Project Service
 description: The Project Service app builds on the Universal Resource Scheduling solution to help project managers and resource managers find and book resources for open project team member positions.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: cb3f83fe-e3ac-4650-8a23-446adc7987da
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

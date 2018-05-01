@@ -1,10 +1,11 @@
 ---
 
 title: GDPR compliance
-description: Microsoft is committed to General Data Protection Regulation (GDPR) compliance across our cloud services, including PowerApps.
+description: GDPR compliance
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8a95db9b-9d28-4714-9d56-646b3d3e7790
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,11 +21,10 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-Microsoft is committed to General Data Protection Regulation (GDPR) compliance
-across our cloud services, including PowerApps. When a user is deleted from
-Azure Active Directory (AAD), the tenant administrator receives an email
-notification indicating that the user has been deleted from the corporate
-directory.
+Microsoft is committed to helping you comply with the General Data Protection
+Regulation (GDPR). When a user is deleted from Azure Active Directory (AAD), the
+tenant administrator receives an email notification indicating that the user has
+been deleted from the corporate directory.
 
 At that point, the admin can determine which apps were previously owned by the
 user and reassign ownership of those apps by using [PowerShell admin

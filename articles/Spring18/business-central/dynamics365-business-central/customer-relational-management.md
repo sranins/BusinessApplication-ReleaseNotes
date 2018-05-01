@@ -1,10 +1,11 @@
 ---
 
 title: Customer relational management
-description: Maintain an overview of your contacts, and record your contact information for all business relationships.
+description: Customer relational management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5e9fa703-7ed7-43aa-b8a8-c8dcf1366f51
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

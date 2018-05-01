@@ -1,10 +1,11 @@
 ---
 
 title: Customizations through extensions only
-description: In the Spring '18 release, we’ve continued our work to allow our application code base be customized only through extensions.
+description: Customizations through extensions only
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 495e7b6f-b2de-44f0-9791-f0544b05ad5a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

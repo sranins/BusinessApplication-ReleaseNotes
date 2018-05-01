@@ -1,10 +1,11 @@
 ---
 
-title: Globalization Certified cash registers for France
+title: Globalization  Certified cash registers for France
 description: As of January 1, 2018, all retailers in France must use cash systems certified per the NF525 requirements.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 87b1dfca-8e98-4ba3-98a7-91a6272c6046
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

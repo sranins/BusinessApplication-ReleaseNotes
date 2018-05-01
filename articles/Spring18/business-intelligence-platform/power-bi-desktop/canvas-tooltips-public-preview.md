@@ -1,10 +1,11 @@
 ---
 
-title: Canvas tooltips (Public Preview)
+title: Canvas tooltips  Public Preview 
 description: Using Canvas tooltips, you can design a report page as a custom tooltip for other visuals in a report.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 182cf402-3943-4b54-abe8-8b2cfedf5d6e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

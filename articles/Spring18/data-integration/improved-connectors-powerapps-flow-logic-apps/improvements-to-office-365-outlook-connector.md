@@ -4,7 +4,8 @@ title: Improvements to the Office 365 Outlook connector
 description: Improvements to the Office 365 Outlook connector
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: 625648f9-3e6d-4304-bc57-c5cf6fdf4bc1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,8 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Improvements to the Office 365 Outlook connector
 
+# Improvements to the Office 365 Outlook connector
 
 [!include[banner](../../../includes/banner.md)]
 

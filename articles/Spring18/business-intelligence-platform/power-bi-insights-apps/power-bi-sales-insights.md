@@ -1,10 +1,11 @@
 ---
 
 title: Power BI for Sales Insights
-description: The Power BI for Sales Insights app brings in key entities from either Dynamics 365 or Salesforce.
+description: Power BI for Sales Insights
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5a372d12-b982-4e1f-a33b-f0733af4fdca
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

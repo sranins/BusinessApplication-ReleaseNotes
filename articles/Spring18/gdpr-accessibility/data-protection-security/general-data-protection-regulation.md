@@ -1,10 +1,11 @@
 ---
 
 title: General Data Protection Regulation
-description: In May 2018, a European privacy law, the General Data Protection Regulation (GDPR), takes effect.
+description: General Data Protection Regulation
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 97c25d77-4cbc-4c2c-99eb-2ab4776df025
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

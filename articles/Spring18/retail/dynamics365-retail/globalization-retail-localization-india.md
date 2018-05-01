@@ -1,10 +1,11 @@
 ---
 
-title: Globalization Retail localization for India
-description: Retailers in India need to be able to calculate Goods and Services Tax (GST) in their POS solutions, and to post GST in Retail headquarters.
+title: Globalization  Retail localization for India
+description: Globalization  Retail localization for India
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6dec8f76-56de-4267-b090-d9db43f1b85f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

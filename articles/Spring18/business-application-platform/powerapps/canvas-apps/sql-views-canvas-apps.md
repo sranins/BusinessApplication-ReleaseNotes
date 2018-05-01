@@ -4,7 +4,8 @@ title: SQL views for canvas apps
 description: Use SQL views to combine data in SQL Server before bringing it into PowerApps.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: aa82ee75-4fd3-46d0-bc36-c2e3ece35470
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

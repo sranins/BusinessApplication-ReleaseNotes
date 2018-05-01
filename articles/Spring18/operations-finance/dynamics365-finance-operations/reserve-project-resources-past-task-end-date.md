@@ -1,10 +1,11 @@
 ---
 
 title: Reserve project resources past the task end date
-description: At times, the project resource manager might not have resources available to start on a project task's start date, or the requested resource might be unavailable for a portion of the task duration.
+description: Reserve project resources past the task end date
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 443c327f-4128-475b-be1c-264d3b7f9b94
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

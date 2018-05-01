@@ -4,7 +4,8 @@ title: Filtering on Data View
 description: In Power BI Desktop, the data view allows users to view individual rows from their data set.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: af178888-b284-468e-bfc2-f31391295c1d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

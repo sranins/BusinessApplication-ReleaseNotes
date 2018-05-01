@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 for Retail
-description: The focus of the Spring ‘18 release for Retail includes an investment in service hardening and enabling new capabilities that drive our integrated and omni-channel value proposition even further.
+title: Dynamics 365 for Retail
+description: Dynamics 365 for Retail
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 56f88ebd-505f-4761-a401-eadefab8e4c6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

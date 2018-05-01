@@ -4,7 +4,8 @@ title: Business process flows
 description: Use a business process flow to define a set of steps for people to follow to take them to a desired outcome.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: ce458b0d-c6e6-4f95-a4bd-497674c671f2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

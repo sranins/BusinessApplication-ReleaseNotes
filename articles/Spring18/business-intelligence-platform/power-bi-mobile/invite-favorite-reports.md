@@ -4,7 +4,8 @@ title: Invite and favorite reports
 description: Users can share reports from the mobile app, similar to the way they share dashboards.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8b8dac2f-5163-48bf-a2c6-70307c71a5e6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -44,7 +45,6 @@ data that they’re authorized to view.
 
 ![A screenshot showing how to share reports from the mobile app](media/invite-favorite-reports-1.jpg "A screenshot showing how to share reports from the mobile app")
 <!-- Picture 5 -->
-IMAGELINKSTART
-media/image181.jpg IMAGELINKEND
+![Share reports from the mobile app](media/invite-favorite-reports-2.jpg "Share reports from the mobile app")
 
 *Share reports from the mobile app*

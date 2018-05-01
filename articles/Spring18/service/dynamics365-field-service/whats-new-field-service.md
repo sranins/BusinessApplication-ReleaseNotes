@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Field Service
-description: Spring ’18 summary of what’s new in Field Service
+title: Spring  18 summary of what s new in Field Service
+description: Spring  18 summary of what s new in Field Service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 38f25e60-4cd7-48cb-aa16-2c869c8870bd
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -42,8 +43,11 @@ audience: Admin
 
 -   [Enforce skill level](resource-scheduling-optimization-rso-enhancements/index.md).
 
--   [Synchronization of device conditions and properties with device twins](connected-field-service-iot-enhancements/index.md).
+-   [Synchronization of device conditions and properties with device
+    twins](connected-field-service-iot-enhancements/index.md).
 
--   [Synchronization of device tags with device twins](connected-field-service-iot-enhancements/index.md).
+-   [Synchronization of device tags with device
+    twins](connected-field-service-iot-enhancements/index.md).
 
--   [Configuration of device properties and commands through device categories](connected-field-service-iot-enhancements/index.md).
+-   [Configuration of device properties and commands through device
+    categories](connected-field-service-iot-enhancements/index.md).

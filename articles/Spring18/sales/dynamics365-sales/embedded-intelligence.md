@@ -1,10 +1,11 @@
 ---
 
 title: Embedded intelligence
-description: Embedded intelligence (previously known as Relationship Insights) collects, manages, and analyzes the diverse data and communications created throughout the sales process.
+description: Embedded intelligence
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: a31490be-f851-4a35-a299-0fee2fd097c8
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

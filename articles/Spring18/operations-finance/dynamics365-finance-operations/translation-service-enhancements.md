@@ -1,10 +1,11 @@
 ---
 
 title: Translation Service enhancements
-description: Dynamics Translation Service (DTS) allows ISVs and partners to translate Dynamics solutions and products (ERP only) in existing and new languages, taking advantage of their own linguistics assets and Microsoft linguistic assets.
+description: Translation Service enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 27bcf3a3-1f43-4205-a1a1-033850e308d6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

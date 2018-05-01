@@ -1,10 +1,11 @@
 ---
 
 title: Themes support
-description: With **report themes,** you can apply a color theme to your entire report, such as corporate colors, seasonal coloring, or any other color theme you might want to apply.
+description: Themes support
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e2b2c60b-1e57-4ece-ae63-15844db4d9c2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

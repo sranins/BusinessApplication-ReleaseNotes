@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 Business Central
-description: With the Spring ’18 release, Dynamics 365 Business Central brings the full power of Dynamics NAV to the cloud in 14 countries or regions and replaces Dynamics 365 for Finance and Operations, Business edition.
+title: Dynamics 365 Business Central
+description: Dynamics 365 Business Central
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: ea40210e-d619-4aa4-904f-fa59187ee287
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

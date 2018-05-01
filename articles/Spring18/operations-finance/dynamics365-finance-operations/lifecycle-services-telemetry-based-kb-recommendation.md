@@ -1,10 +1,11 @@
 ---
 
-title: Lifecycle Services Telemetry-based KB recommendation
+title: Lifecycle Services  Telemetry-based KB recommendation
 description: LCS has been extended to include telemetry-driven KB recommendations to customers.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5bdc6a9d-2a50-4b0a-974a-f1a9ab1ab3c2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

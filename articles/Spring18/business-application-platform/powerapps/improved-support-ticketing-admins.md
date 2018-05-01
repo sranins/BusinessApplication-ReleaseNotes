@@ -1,10 +1,11 @@
 ---
 
 title: Improved support ticketing for admins
-description: The new Business Application Platform Admin center includes a support ticketing experience that admins can use to easily contact a Microsoft support representative if they are blocked.
+description: The Business Application Platform Admin center includes a support ticketing experience that admins can use to contact a Microsoft support representative if they are blocked.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 622375ef-7d7f-4bda-9d77-b15688ef7755
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,9 +21,9 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-The new Business Application Platform Admin center includes a support ticketing
-experience that admins can use to easily contact a Microsoft support
-representative if they are blocked.
+The Business Application Platform Admin center includes a support ticketing
+experience that admins can use to contact a Microsoft support representative if
+they are blocked.
 
 **Note:** The Business Application Platform Admin center also includes the
 existing capabilities of the current PowerApps admin center, including the
@@ -43,5 +44,3 @@ To try out the new support experience:
 
 
 New support request form
-
-

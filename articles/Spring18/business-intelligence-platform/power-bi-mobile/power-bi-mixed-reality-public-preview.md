@@ -1,10 +1,11 @@
 ---
 
-title: Power BI for mixed reality (Public Preview)
+title: Power BI for mixed reality  Public Preview 
 description: A preview release of Power BI for Mixed Reality targeted to first line task workers.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: c86f7243-a381-4a72-8108-c9b16aa33a71
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -28,7 +29,6 @@ Power BI for Mixed Reality brings together the Power BI platform with the
 innovative HoloLens to help first line task workers and field service workers
 effectively make data-driven decisions by providing a new, intuitive hand-free
 access to Power BI’s dashboards and reports in real time.
-
 
 ![Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration](media/power-bi-mixed-reality-public-preview-1.jpg "Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration")
 <!-- Picture 1 -->

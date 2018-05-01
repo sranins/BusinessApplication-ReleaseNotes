@@ -4,7 +4,8 @@ title: Step One
 description: To set up a flow that calls data from PowerApps, first start your flow with the PowerApps trigger.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 1c4603a4-489a-404a-9ccc-a7c66d59ca91
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -28,5 +29,5 @@ PowerApps trigger.
 *PowerApps trigger*
 
 Next, add whatever actions you want to run when your flow is called. Inside
-these actions you can use the **Ask in PowerApps** option to collect additional
+these actions, you can use the **Ask in PowerApps** option to collect additional
 parameters from the PowerApp.

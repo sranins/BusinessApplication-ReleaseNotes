@@ -1,10 +1,11 @@
 ---
 
 title: Essential and Premium
-description: Dynamics 365 Business Central is available at two price points Essential and Premium.
+description: Essential and Premium
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 740ac5ee-ed3a-4ded-89bb-8cd3f2d10588
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

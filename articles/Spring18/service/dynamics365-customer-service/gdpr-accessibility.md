@@ -1,10 +1,11 @@
 ---
 
 title: GDPR and accessibility
-description: General Data Protection Regulation (GDPR) investments address the European privacy law’s requirements.
+description: GDPR and accessibility
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 699e9b0a-a7b5-4f2b-8ef7-f10a0bd5315f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

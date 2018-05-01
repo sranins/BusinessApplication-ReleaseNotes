@@ -4,7 +4,8 @@ title: Sales
 description: Sales
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8e005e0e-0213-476e-9943-51dc4deb0c81
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

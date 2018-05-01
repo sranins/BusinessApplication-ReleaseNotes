@@ -1,10 +1,11 @@
 ---
 
 title: Project Service Automation
-description: The Project Service Automation reports focus on information that’s critical to a Practice Manager, Resource Manager, and Account Manager.
+description: Project Service Automation
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 84474d45-6840-4c0f-81da-a1edc71b0ec1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
 title: Customizable out-of-the-box apps
-description: Through AppSource, users can discover out-of-the-box [Power BI apps](.
+description: Customizable out-of-the-box apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 5eacbbaf-e07c-4d56-a328-ff66d88a3f7a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Marketing
-description: Spring ’18 summary of what’s new in Marketing
+title: Spring  18 summary of what s new in Marketing
+description: Spring  18 summary of what s new in Marketing
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 51980567-f759-4315-9047-98db65f591fe
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,7 +21,7 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-| April 2018 – General Availability                                                                                                                                                                                                                             |
+| April ‘18 – General Availability                                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Easy setup with guided first-run experience](easy-setup-guided-first-run-experience.md)                                                                                                                                                                                |
 | [Multi-channel campaigns with personalized customer journeys](easy-setup-guided-first-run-experience.md)                                                                                                                                                          |
@@ -28,7 +29,7 @@ audience: Admin
 | Dynamic segment designer - Set up rules to identify target segments based on detailed demographic, firmographic, and interaction data.                                                                                                                        |
 | High-volume email - Send email with dynamic content, and respond to interactions such as opens, forwards, clicks, and bounces.                                                                                                                                |
 | Forms and landing pages - Capture contact/lead information on the web and react to each interaction.                                                                                                                                                          |
-| Events and webinars - Promote webinars and in-person events to provide rich engagement across these channels.                                                                                                                                                 |
+| Events and webinars - Promote webinars and in-person events for rich engagement across channels.                                                                                                                                                              |
 | Run surveys to gather feedback from customers.                                                                                                                                                                                                                |
 | Bring in and nurture leads using a connector to LinkedIn Lead Gen Forms.                                                                                                                                                                                      |
 | [Content creation](content-creation.md)                                                                                                                                                                                                                        |

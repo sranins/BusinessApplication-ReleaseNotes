@@ -1,10 +1,11 @@
 ---
 
-title: Spring ’18 summary of what’s new in Retail
-description: Spring ’18 summary of what’s new in Retail
+title: Spring  18 summary of what s new in Retail
+description: Spring  18 summary of what s new in Retail
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 07a5434a-4ddd-472b-b6e6-53ddb0d3e7b9
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -20,16 +21,8 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-| June ’18 – General Availability                                                                                                                                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                         |
-| June ’18 – Public preview                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                         |
-| May ’18 – General Availability                                                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                         |
-| May ’18 – Public Preview                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                         |
 | April ’18 - General Availability                                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [CDX and data management - Provides improved offline capabilities to ensure that point of sale terminals continue to function during updates or internet disconnects. ](cdx-data-management.md)                                                                                                     |
 | [Deployment and servicing - Provides resource governance between transactional and back-office workloads to ensure that long-running batch processes don't affect transactional system performance, and that peak store traffic doesn't impede back office operations. ](deployment-servicing.md) |
 | [End-of-day processing - Enhancements include improved statement posting performance, the addition of rollback and recovery to prevent data corruption, and enhanced in-app diagnostics that show status, errors, and logs.](end-day-processing.md)                                                 |

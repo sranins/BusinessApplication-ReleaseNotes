@@ -1,10 +1,11 @@
 ---
 
 title: GDPR compliance
-description: Finance and Operations and Lifecycle Services help partners and customers comply with General Data Protection Regulation (GDPR).
+description: GDPR compliance
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d507c5a3-e6e5-4926-b7f0-0cdf8f43e9e2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

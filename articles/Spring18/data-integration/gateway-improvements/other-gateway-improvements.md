@@ -4,7 +4,8 @@ title: Other gateway improvements
 description: Other gateway improvements
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 5/1/2018
+ms.assetid: 94bacbfe-08ce-46b7-a787-6ad61a052524
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,8 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Other gateway improvements
 
+# Other gateway improvements
 
 [!include[banner](../../../includes/banner.md)]
 

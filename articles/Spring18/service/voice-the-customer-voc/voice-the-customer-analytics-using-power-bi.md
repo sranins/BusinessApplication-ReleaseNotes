@@ -4,7 +4,8 @@ title: Voice of the Customer analytics using Power BI
 description: The Voice of the Customer Analytics content pack for Power BI enables organizations to glean insights about surveys and responses.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: eb398344-5d30-455d-8ffa-35bd3047d5a3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

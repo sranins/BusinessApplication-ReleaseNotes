@@ -1,10 +1,11 @@
 ---
 
-title: Dynamics 365 for Sales
-description: The capabilities in the Spring ’18 release empower your sales team with more intelligence and analytics, deeper integrations with LinkedIn and Office 365, and consistent user experience for web, mobile, and clients using the Unified Interface framework.
+title: Dynamics 365 for Sales
+description: Dynamics 365 for Sales
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 04a17151-216d-48d4-9579-88325fb9c8a2
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

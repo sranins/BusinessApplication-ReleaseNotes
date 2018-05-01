@@ -1,10 +1,11 @@
 ---
 
 title: Entity forms
-description: Model-driven entity forms are a critical component in any Dynamics 365 application and are now available for standalone model‑driven apps built with PowerApps.
+description: Entity forms
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: aa6ab60f-fbea-4be1-8e9a-3e8bfa7bf17f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

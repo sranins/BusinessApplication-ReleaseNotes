@@ -1,10 +1,11 @@
 ---
 
 title: How to use these release notes
-description: These release notes provide descriptions of new and enhanced capabilities in Dynamics 365 business applications and application platforms.
+description: How to use these release notes
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: a60e07dd-77a3-4fb2-a425-9aa6533b4d36
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

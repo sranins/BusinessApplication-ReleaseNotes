@@ -4,7 +4,8 @@ title: Get data APIs
 description: Users can interact with visuals embedded within an application by setting filters or cross-referencing from other visuals in the report.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e4c27b7a-a796-485e-8174-fc1b01df6627
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

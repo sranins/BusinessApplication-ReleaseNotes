@@ -4,7 +4,8 @@ title: Test your flow by using sample data
 description: Test your flows after creating them to ensure that they work as you expect.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 2bba8df9-203b-464e-950e-64f94030e3e1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

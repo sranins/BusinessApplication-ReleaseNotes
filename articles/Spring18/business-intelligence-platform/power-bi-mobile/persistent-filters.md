@@ -4,7 +4,8 @@ title: Persistent filters
 description: Users expect continuity in the work.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 7c5c27cd-f09a-4688-8995-771f8683a7eb
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

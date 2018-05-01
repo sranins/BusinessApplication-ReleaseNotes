@@ -1,10 +1,11 @@
 ---
 
-title: Integration with Common Data Service (CDS)
+title: Integration with Common Data Service  CDS 
 description: Dynamics 365 for Finance and Operations has enabled cross-application business processes between Finance and Operations and Dynamics 365 for Field Service and between Finance and Operations and Dynamics 365 for Project Service Automation.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6b694a0d-94af-4d81-8e35-9d2164c9374f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

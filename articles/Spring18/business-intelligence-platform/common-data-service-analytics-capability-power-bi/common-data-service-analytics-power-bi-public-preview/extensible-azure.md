@@ -4,7 +4,8 @@ title: Extensible through Azure
 description: Common Data Service for Analytics storage is open, which means you can leverage the Azure data stack to make data available to Common Data Service for Analytics by bringing your own Azure Blob storage with Common Data Service for Analytics entities.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: e6f3cc15-975c-4ca1-b8de-a88a7385223f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

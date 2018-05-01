@@ -1,10 +1,11 @@
 ---
 
-title: Regulatory service – Configuration (Public Preview)
-description: Regulatory service – Configuration (Public Preview)
+title: Regulatory service   Configuration   Public Preview 
+description: Regulatory service   Configuration   Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: d3e03d26-189a-4770-82e2-64144f3bdb0e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,6 +15,8 @@ audience: Admin
 
 ---
 #  Regulatory service – Configuration<br>(Public Preview)
+
+
 
 
 [!include[banner](../../../includes/banner.md)]

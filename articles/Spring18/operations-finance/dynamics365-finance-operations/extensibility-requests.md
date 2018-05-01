@@ -1,10 +1,11 @@
 ---
 
 title: Extensibility requests
-description: If you discover a customization that you can't implement as an extension, you can log a request to Microsoft to add appropriate extension support to the product for your scenario.
+description: Extensibility requests
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 8e41a5e1-1502-410b-8183-cc4c38023c6a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

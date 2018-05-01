@@ -1,10 +1,11 @@
 ---
 
-title: Customer payment insights (Preview)
+title: Customer payment insights  Preview 
 description: Organizations often find it challenging to predict when a customer will pay their invoices.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 93ac5f80-466c-4b64-9445-9087b12972ae
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,11 @@
 ---
 
 title: Built on the Unified Interface framework
-description: With the Spring ’18 release, the field service app is built on the Unified Interface framework for improved user experience.
+description: Built on the Unified Interface framework
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 76a3cea1-5442-487a-a63e-4280c9664d55
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

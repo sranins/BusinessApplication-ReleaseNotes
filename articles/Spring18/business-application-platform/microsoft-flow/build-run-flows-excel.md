@@ -1,10 +1,11 @@
 ---
 
 title: Build and run flows from Excel
-description: With the new Flow button, create and trigger automations from Flow on your table data in Excel to automate data processing or the copying/importing of data.
+description: Build and run flows from Excel
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 6fc4610f-0b6d-4663-9009-764851965f12
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,8 @@ title: Absence management
 description: Absence management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 807bb4d4-59a4-44c8-a7bd-93d8f99fae88
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -46,11 +47,17 @@ Absence management days support
     policies.
 
 -   **Time entry on behalf of someone else:** When employees have emergencies or
-    away from work, human resource administrators and managers can enter time
-    for them keeping time off data and schedules up to date.
+    are away from work, human resource administrators and managers can enter
+    time for them, keeping time-off data and schedules up to date.
 
 -   **Configurable proration options:** Each organization has unique
-    requirements related to prorating employee time off accruals. Providing
-    options to either not prorate accruals, prorating or award the full time off
-    amount at the time of enrollment ensures compliance with company policies
-    and provides a more accurate time off balance for employees.
+    requirements related to proration of employee time-off accruals. Options for
+    not prorating accruals, prorating accruals, or awarding the full time-off
+    amount at the time of enrollment ensure compliance with company policies and
+    provide a more accurate time-off balance for employees.
+
+-   **Calendar view of working time (Public Preview):** Visualizing the working
+    days and times across the organization as a calendar enables HR
+    professionals a way to easily understand when employees are working.
+
+

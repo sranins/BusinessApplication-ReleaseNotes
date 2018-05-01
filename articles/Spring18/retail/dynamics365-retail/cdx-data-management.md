@@ -4,7 +4,8 @@ title: CDX and data management
 description: Retail organizations often find it challenging to maintain connectivity everywhere at all times.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 5/1/2018
+ms.assetid: 813cda95-5048-41b5-bc3f-686c0063d775
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
