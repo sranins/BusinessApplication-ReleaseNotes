@@ -27,7 +27,7 @@ audience: Admin
 | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
 | Accessibility enhancements- [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                       |
 | Project Service Automation app                                                                                                                                                                                                                                |
-| [Built on the Unified Interface framework](project-service-app-enhancements/index.md).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](app-enhancements/index.md).                                                                                                                                                                                                 |
 | Universal Resource Scheduling for Project Service                                                                                                                                                                                                             |
 | [Schedule board list view](universal-resource-scheduling-project-service/index.md).                                                                                                                                                                                                          |
 
@@ -36,17 +36,17 @@ audience: Admin
     resources to help you
     comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
 
--   [Common Control Framework (CCF)](project-service-app-enhancements/index.md).
+-   [Common Control Framework (CCF)](app-enhancements/index.md).
 
 -   [Custom pricing dimensions for resource
-    pricing](project-service-app-enhancements/index.md).
+    pricing](app-enhancements/index.md).
 
 -   [Dimension priority and dimension context for
-    resolution](project-service-app-enhancements/index.md).
+    resolution](app-enhancements/index.md).
 
--   [Price mark-ups and mark-downs](project-service-app-enhancements/price-mark-ups-mark-downs.md).
+-   [Price mark-ups and mark-downs](app-enhancements/price-mark-ups-mark-downs.md).
 
 -   [Work breakdown structure (WBS) editable grid with Gantt
-    visualization](project-service-app-enhancements/index.md).
+    visualization](app-enhancements/index.md).
 
--   [Extensible time and expense entry](project-service-app-enhancements/index.md).
+-   [Extensible time and expense entry](app-enhancements/index.md).
