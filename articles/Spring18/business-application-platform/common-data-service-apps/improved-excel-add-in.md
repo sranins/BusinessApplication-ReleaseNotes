@@ -22,7 +22,7 @@ audience: Admin
 
 Data stored in the Common Data Service for Apps can be viewed, created, and
 edited through the updated PowerApps and Common Data Service for Apps Excel
-add-in.
+Add-in.
 
 Use the Excel Add-in to do any of the following from Excel:
 
