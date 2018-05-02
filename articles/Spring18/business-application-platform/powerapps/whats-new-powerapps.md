@@ -36,7 +36,7 @@ audience: Admin
 | [SQL views for canvas apps](canvas-apps/index.md)                                                  |
 | [Simplified access to entities through foreign key relationships](canvas-apps/index.md) |
 | [Improved app sharing experience](improved-app-sharing-experience.md)                                |
-| [Apps connected to SharePoint can include attachments](apps-connected-to-sharepoint-can-include-attachments.md)             |
+| [Apps connected to SharePoint can include attachments](apps-connected-sharepoint-can-include-attachments.md)             |
 | [Improved support ticketing for admins](improved-support-ticketing-admins.md)                     |
 | [GDPR compliance](gdpr-compliance.md)                                                       |
 | [Automate governance with PowerShell](automate-governance-powershell.md)                         |

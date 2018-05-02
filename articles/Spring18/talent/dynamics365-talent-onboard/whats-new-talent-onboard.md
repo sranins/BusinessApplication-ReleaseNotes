@@ -25,7 +25,7 @@ audience: Admin
 |------------------------------------------------------------------|
 | [Customizable welcome emails](customizable-welcome-emails.md).  |
 | [Due date placeholders](due-date-placeholders.md).                |
-| [Export to Excel](export-to-excel.md).                          |
+| [Export to Excel](export-excel.md).                          |
 | June ‘18 – Public Preview                                        |
 | [Import](customizable-welcome-emails.md) activities from other guides or templates. |
 
