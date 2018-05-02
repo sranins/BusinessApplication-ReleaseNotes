@@ -377,7 +377,6 @@
 #### [Gateway improvements](Spring18/data-integration/data-gateway/index.md)
 ##### [High availability and disaster recovery improvements (Public Preview)](Spring18/data-integration/data-gateway/high-availability-disaster-recovery-improvements-public-preview.md)
 ##### [PowerShell commands library for the on-premises data gateway (Public Preview)](Spring18/data-integration/data-gateway/powershell-commands-library-the-on-premises-data-gateway-public-preview.md)
-##### 
 ##### [Other gateway improvements](Spring18/data-integration/data-gateway/other-gateway-improvements.md)
 #### [Smart data preparation capabilities – Add Column from Examples](Spring18/data-integration/smart-data-preparation-capabilities-add-column-examples.md)
 #### [Extensibility (Public Preview)](Spring18/data-integration/extensibility-public-preview.md)
