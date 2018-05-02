@@ -23,7 +23,7 @@ audience: Admin
 
 | April '18 - General Availability                                                             |
 |----------------------------------------------------------------------------------------------|
-| [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow/index.md)                                     |
+| [Return data to PowerApps from a flow](return-data-powerapps/index.md)                                     |
 | [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-common-data-service-apps.md)     |
 | Find errors in Apply to each                                                                 |
 | Reassign approvals                                                                           |
@@ -37,7 +37,7 @@ audience: Admin
 | [Repair recommendations sent in email for failed flows](repair-recommendations-sent-email-failed-flows.md)       |
 | [Request for sign-off flow built into SharePoint](request-sign-off-flow-built-into-sharepoint.md)                    |
 | [Customize SharePoint content approvals with Flow](customize-sharepoint-content-approvals-flow.md)           |
-| [Flows “owned by” SharePoint lists and libraries](flows-owned-by-sharepoint-lists-libraries/index.md) |
+| [Flows “owned by” SharePoint lists and libraries](sharepoint-lists-libraries/index.md) |
 | [Build and run flows from Excel](build-run-flows-excel.md)                                            |
 | [GDPR compliance](gdpr-compliance.md)                                                        |
 | [Create a business process flow](create-business-process-flow.md)                                        |
