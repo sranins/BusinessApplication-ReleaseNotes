@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Within Dynamics 365 Business Central, you can find apps on App Source that bring
 you more capabilities. If you're a developer, you can build powerful extensions

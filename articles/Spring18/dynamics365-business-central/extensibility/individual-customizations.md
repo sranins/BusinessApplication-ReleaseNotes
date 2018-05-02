@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 You can personalize Dynamics 365 Business Central by, for example, adding or
 removing fields. Use the embedded designer to customize the user interface by

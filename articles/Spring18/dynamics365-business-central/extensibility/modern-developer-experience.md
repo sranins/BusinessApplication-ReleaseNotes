@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 By using Visual Studio Code, you can build powerful extensions in a modern
 file-based development environment and language. All-new language capabilities

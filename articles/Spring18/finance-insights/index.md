@@ -15,7 +15,7 @@ audience: Admin
 
 ---
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 #  Finance Insights: Credit and collections
 

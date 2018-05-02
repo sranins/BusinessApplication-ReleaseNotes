@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Dynamics 365 for Finance and Operations Fall 2017 release (version 7.3) has
 been updated with support for mandatory regulatory requirements in the tax area

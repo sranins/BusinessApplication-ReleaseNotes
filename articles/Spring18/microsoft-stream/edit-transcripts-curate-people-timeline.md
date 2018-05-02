@@ -17,7 +17,7 @@ audience: Admin
 
 # Edit transcripts and curate the people timeline
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Stream generates automatic transcripts for videos by using AI to
 convert speech to text. Automatically generated transcripts can be corrected

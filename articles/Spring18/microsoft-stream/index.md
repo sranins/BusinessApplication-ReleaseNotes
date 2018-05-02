@@ -17,7 +17,7 @@ audience: Admin
 
 # Microsoft Stream
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Stream is a service that enables your employees to create, discover,
 and share videos securely across your organization, right inside the

@@ -17,7 +17,7 @@ audience: Admin
 #  Common Data Service for Analytics datapools
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 In addition to dashboards, reports, workbooks and datasets, Common Data Service
 for Analytics introduces a new concept called datapools, which are sets of

@@ -17,7 +17,7 @@ audience: Admin
 
 # Cloud recording for meetings in Microsoft Teams
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Stream enables cloud recording for meetings in Microsoft Teams. Users
 start recording while the meeting is going on. After the meeting, the recording

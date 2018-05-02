@@ -17,7 +17,7 @@ audience: Admin
 #  Customizable out-of-the-box apps
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Through AppSource, users can discover out-of-the-box [Power BI
 apps](../power-bi-apps-common-data-service-analytics/index.md) from Microsoft and third parties that provide

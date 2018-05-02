@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Starting in Spring ’18, you can choose from two license types for sales:
 professional (new) and enterprise (currently in market), depending on your
