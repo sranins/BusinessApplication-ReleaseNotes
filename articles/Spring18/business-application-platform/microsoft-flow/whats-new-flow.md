@@ -24,7 +24,7 @@ audience: Admin
 | April '18 - General Availability                                                             |
 |----------------------------------------------------------------------------------------------|
 | [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow/index.md)                                     |
-| [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-the-common-data-service-apps.md)     |
+| [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-common-data-service-apps.md)     |
 | Find errors in Apply to each                                                                 |
 | Reassign approvals                                                                           |
 | See details of flow buttons                                                                  |
@@ -42,7 +42,7 @@ audience: Admin
 | [GDPR compliance](gdpr-compliance.md)                                                        |
 | [Create a business process flow](create-business-process-flow.md)                                        |
 | [Business process flow entity customization](business-process-flow-entity-customization.md)                        |
-| [Add an action to a business process flow](add-action-to-business-process-flow.md)                                  |
-| [Create a flow for Microsoft To-Do in Outlook Web App](create-flow-microsoft-to-do-outlook-web-app.md)                      |
-| [Test your flow by using sample data](test-flow-by-using-sample-data.md)                                      |
-| [Quick access to help and support](quick-access-to-help-support.md)                                        |
+| [Add an action to a business process flow](add-action-business-process-flow.md)                                  |
+| [Create a flow for Microsoft To-Do in Outlook Web App](create-flow-do-outlook-web-app.md)                      |
+| [Test your flow by using sample data](test-flow-using-sample-data.md)                                      |
+| [Quick access to help and support](quick-access-help-support.md)                                        |
