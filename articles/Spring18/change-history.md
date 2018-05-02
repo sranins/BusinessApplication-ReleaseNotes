@@ -83,11 +83,11 @@ The following changes are included in the Spring ’18 Release Notes version
 
 -   Configurable proration options
 
--   [Payroll Integration](talent\dynamics365-talent-core-hr\payroll-integration-payroll-data-package.md)
+-   [Payroll Integration](talent/dynamics365-talent-core-hr/payroll-integration-payroll-data-package.md)
 
 -   Ceridian payroll integration is now available in the UK
 
--   [Assignee placeholders (Public Preview/index.md)](talent\dynamics365-talent-onboard\assignee-placeholders-public-preview.md)
+-   [Assignee placeholders (Public Preview/index.md)](talent/dynamics365-talent-onboard/assignee-placeholders-public-preview.md)
 
 -   Incremental Refresh Policies removed from April '18 General Availability.
 
@@ -130,4 +130,4 @@ published April 2, 2018.
 | Media Platform                     | Removed public anonymous playback feature from the summary table.                                                                                                                                                                                                                                                                                                                                                                   |
 
 To find out when there are updates to these release notes, follow us on Twitter
-\@MSFTDynamics365.
+/@MSFTDynamics365.
