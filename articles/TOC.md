@@ -266,7 +266,7 @@
 ##### [Test flows with previous run data](Spring18/microsoft-flow/test-flows-previous-run-data.md)
 ##### [Access flow details with the workflow() expression](Spring18/microsoft-flow/access-flow-details-workflow-expression.md)
 ### [Business Intelligence Platform](Spring18/power-bi/overview.md)
-##### [Spring ’18 summary of what’s new in Business Intelligence Platform](Spring18/power-bi/whats-new-business-intelligence-platform.md)
+#### [Spring ’18 summary of what’s new in Business Intelligence Platform](Spring18/power-bi/whats-new-business-intelligence-platform.md)
 #### Power BI Desktop
 ##### [Ask Top N questions in Q&A](Spring18/power-bi/desktop/ask-top-n-questions-q-a.md)
 ##### [Azure Active Directory authentication](Spring18/power-bi/desktop/azure-active-directory-authentication.md)
