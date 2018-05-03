@@ -1,6 +1,6 @@
 ---
 
-title: Regulatory service   Configuration   Public Preview 
+title: Regulatory service   Configuration 
 description: Regulatory service   Configuration   Public Preview 
 author: MargoC
 manager: AnnBe
@@ -17,9 +17,9 @@ audience: Admin
 #  Regulatory service – Configuration<br>(Public Preview)
 
 
-
-
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../includes/public-preview.md)]
 
 >   **Availability**
 

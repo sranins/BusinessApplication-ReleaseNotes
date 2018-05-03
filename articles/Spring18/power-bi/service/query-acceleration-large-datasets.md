@@ -1,7 +1,7 @@
 ---
 
-title: Query acceleration for large datasets  Public Preview 
-description: Query acceleration for large datasets  Public Preview 
+title: Query acceleration for large datasets
+description: Query acceleration for large datasets
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -16,10 +16,9 @@ audience: Admin
 ---
 #  Query acceleration for large datasets (Public Preview)
 
-
-
-
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 Users can create
 [DirectQuery](https://docs.microsoft.com/en-us/power-bi/desktop-directquery-about)

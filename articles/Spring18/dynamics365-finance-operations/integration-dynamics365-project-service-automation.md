@@ -1,7 +1,7 @@
 ---
 
-title: Integration with Dynamics 365 for Project Service Automation  Private Preview 
-description: Integration with Dynamics 365 for Project Service Automation  Private Preview 
+title: Integration with Dynamics 365 for Project Service Automation 
+description: Integration with Dynamics 365 for Project Service Automation 
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -14,10 +14,7 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Integration with Dynamics 365 for Project Service Automation (Private Preview)
-
-
-
+#  Integration with Dynamics 365 for Project Service Automation
 
 [!include[banner](../../includes/banner.md)]
 

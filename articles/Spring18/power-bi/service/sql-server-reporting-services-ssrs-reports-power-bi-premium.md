@@ -1,7 +1,7 @@
 ---
 
-title: SQL Server Reporting Services  SSRS  reports for Power BI Premium  Public Preview 
-description: SQL Server Reporting Services  SSRS  reports for Power BI Premium  Public Preview 
+title: SQL Server Reporting Services  SSRS  reports for Power BI Premium
+description: SQL Server Reporting Services  SSRS  reports for Power BI Premium
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -16,10 +16,10 @@ audience: Admin
 ---
 #  **SQL S**erver Reporting Services (SSRS) **reports** for Power BI Premium (Public Preview)
 
-
-
-
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
+
 
 Publish SQL Server Reporting Services (SSRS) reports (\*.RDL format) to a Power
 BI Premium workspace, and view reports within the Power BI web app. No SSRS

@@ -1,7 +1,7 @@
 ---
 
-title: Company Career site  Public Preview 
-description: Company Career site  Public Preview 
+title: Company Career site
+description: Company Career site
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -16,10 +16,8 @@ audience: Admin
 ---
 #  Company Career site (Public Preview)
 
-
-
-
 [!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../includes/public-preview.md)]
 
 >   **Availability**
 

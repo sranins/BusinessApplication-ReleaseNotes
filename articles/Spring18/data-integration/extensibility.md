@@ -19,6 +19,8 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
+[!include[banner](../../includes/public-preview.md)]
+
 With the M connector SDK, partners and developers can contribute to the rich
 connector ecosystem. Additionally, M connector support is provided for the
 on-premises data gateway (personal mode), starting in April. An improved

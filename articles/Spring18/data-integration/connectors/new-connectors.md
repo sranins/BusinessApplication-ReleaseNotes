@@ -19,6 +19,8 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
+[!include[banner](../../../includes/public-preview.md)]
+
 -   HDInsight Interactive Query
 
 -   Data.World

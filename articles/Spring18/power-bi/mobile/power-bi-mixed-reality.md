@@ -1,6 +1,6 @@
 ---
 
-title: Power BI for mixed reality  Public Preview 
+title: Power BI for mixed reality
 description: A preview release of Power BI for Mixed Reality targeted to first line task workers.
 author: MargoC
 manager: AnnBe
@@ -16,10 +16,9 @@ audience: Admin
 ---
 #  Power BI for mixed reality (Public Preview)
 
-
-
-
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 A preview release of Power BI for Mixed Reality targeted to first line task
 workers. This app, running on HoloLens, allows users to consume reports and

@@ -87,7 +87,7 @@ The following changes are included in the Spring ’18 Release Notes version
 
 -   Ceridian payroll integration is now available in the UK
 
--   [Assignee placeholders (Public Preview/index.md)](talent/dynamics365-talent-onboard/assignee-placeholders-public-preview.md)
+-   [Assignee placeholders (Public Preview/index.md)](talent/dynamics365-talent-onboard/assignee-placeholdersmd)
 
 -   Incremental Refresh Policies removed from April '18 General Availability.
 

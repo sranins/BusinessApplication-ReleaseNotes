@@ -14,7 +14,7 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Assignee placeholders 
+#  Assignee placeholders
 
 [!include[banner](../../../includes/banner.md)]
 

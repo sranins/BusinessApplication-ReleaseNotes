@@ -1,7 +1,7 @@
 ---
 
-title: Relationship analytics  Public Preview 
-description: Relationship analytics  Public Preview 
+title: Relationship analytics
+description: Relationship analytics
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -16,10 +16,9 @@ audience: Admin
 ---
 #  Relationship analytics (Public Preview)
 
-
-
-
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../includes/public-preview.md)]
 
 **Relationship analytics** helps salespeople manage the opportunities pipeline
 by analyzing relationships and presenting data and insights about the health of

@@ -1,6 +1,6 @@
 ---
 
-title: Unified Interface apps integrate with Unified Service Desk  Public Preview 
+title: Unified Interface apps integrate with Unified Service Desk
 description: Unified Interface apps integrate with Unified Service Desk to provide consistent user experiences for session management, customizable layouts, agent guidance, line-of-business applications, and channel integration.
 author: MargoC
 manager: AnnBe
@@ -16,10 +16,9 @@ audience: Admin
 ---
 #  Unified Interface apps integrate with Unified Service Desk (Public Preview)
 
-
-
-
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../includes/public-preview.md)]
 
 Unified Interface apps integrate with Unified Service Desk to provide consistent
 user experiences for session management, customizable layouts, agent guidance,
