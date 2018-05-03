@@ -25,13 +25,13 @@ You can now build two types of applications with PowerApps: canvas apps and
 model‑driven apps. The term “canvas apps” refers to building apps through the
 WYSIWYG screen design.
 
-![A screenshot of a Canvas app](media/index-1.png "A screenshot of a Canvas app")
+![A screenshot of a Canvas app](media/canvas-apps-1.png "A screenshot of a Canvas app")
 <!-- Picture 7 -->
 
 
 *Canvas app*
 
-![A screenshot of building a mobile device Canvas app](media/index-2.png "A screenshot of building a mobile device Canvas app")
+![A screenshot of building a mobile device Canvas app](media/canvas-apps-2.png "A screenshot of building a mobile device Canvas app")
 <!-- Picture 8 -->
 
 

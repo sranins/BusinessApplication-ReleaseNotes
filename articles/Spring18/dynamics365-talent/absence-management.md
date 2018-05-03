@@ -58,7 +58,7 @@ Absence management days support
 
 -   **Calendar view of working time :** 
 
-    [!include[banner](../../../includes/public-preview.md)]
+    [!include[banner](../../includes/public-preview.md)]
 
     Visualizing the working
     days and times across the organization as a calendar enables HR

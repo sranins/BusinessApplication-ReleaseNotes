@@ -18,7 +18,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
- - [Power BI Desktop](power-bi/desktop/index.md)
+ - [Power BI Desktop](power-bi/overview.md)
  - [Ask Top N questions in Q&A](power-bi/desktop/ask-top-n-questions-q-a.md) - Easily ask Top N questions in Q&A in both Power BI Desktop and Power BI Service.
  - [Azure Active Directory authentication - Leverage Azure Active Directory authentication when connecting to Azure SQL Database and Azure SQL Data Warehouse.](power-bi/desktop/azure-active-directory-authentication.md)
  - [Hide pages from reading mode - Authors control which report pages are exposed to users.](power-bi/desktop/hide-pages-reading-mode.md)
@@ -38,7 +38,7 @@ audience: Admin
  - [Phased embedding - Load embedded content in the background to improve performance and get object metadata.](power-bi/embedded/phased-embedding.md)
  - [Single visual embedding - Embed one or more visuals inside an iFrame.](power-bi/embedded/single-visual-embedding.md)
  - Feb ’18 - General Availability
- - [Power BI Desktop](power-bi/desktop/index.md)
+ - [Power BI Desktop](power-bi/overview.md)
  - [Report level slicers - Filter other pages of the report.](power-bi/desktop/report-level-slicers.md)|
  - [Cross-highlight across multiple visuals - Multi-select data points across visuals.](power-bi/desktop/cross-highlight-across-multiple-visuals.md)
  - [Quick measures - Support for live connections and custom date tables.](power-bi/desktop/quick-measures.md)
@@ -51,7 +51,7 @@ audience: Admin
  - [Model Parameters API - Get or set predefined model parameters using APIs.](power-bi/embedded/model-parameters-api.md)
  - [Visual level filters - Apply and capture filters for embedded visuals.](power-bi/embedded/visual-level-filters.md)
  - Feb 18 – Public Preview
- - [Power BI Desktop](power-bi/desktop/index.md)
+ - [Power BI Desktop](power-bi/overview.md)
  - [SAP HANA connector - Treats SAP HANA as a multi-dimensional source.](power-bi/desktop/sap-hana-connector.md)
  - [Organizational visuals store - Discover and import custom visuals distributed by your Power BI administrator.](power-bi/desktop/sap-business-warehouse-bw-connector.md)
  - [Power BI Service](power-bi/desktop/filtering-data-view.md)
@@ -90,7 +90,7 @@ audience: Admin
  - [Cross-highlight across multiple visuals](power-bi/desktop/cross-highlight-across-multiple-visuals.md)
  - [DirectQuery performance improvements](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary/#dqPerf)
  - March ’18 - Public Preview
- - [Power BI Desktop](power-bi/desktop/index.md)
+ - [Power BI Desktop](power-bi/overview.md)
  - [Canvas tooltips - Design report pages for use as tooltips for a custom experience.](_Canvas_tooltips_(Public)
  - April ’18 - General Availability
  - Power BI Desktop
@@ -145,7 +145,7 @@ audience: Admin
  - [Dataset metadata translations - Users see dataset fields in their client locale and language when translations are defined in the dataset or Analysis Services model.](power-bi/service/dataset-metadata-translations.md)
  - **Export to PDF** - Export a Power BI report in PDF format.
  - July – September ’18 – Public Preview
- - [Power BI Desktop](power-bi/desktop/index.md)
+ - [Power BI Desktop](power-bi/overview.md)
  - Model diagram and navigation – An improved modeling experience that scales to large and complex data models with many tables, calculations, and other objects.
  - [Common Data Service for Analytics capability in Power BI connectivity](cds-analytics/index.md) - Report authors can connect to data in Common Data Service for Analytics, add entities to data models, and mash-up Common Data Service for Analytics data with data from other sources.
  - [Power BI Service](power-bi/desktop/filtering-data-view.md)

@@ -17,7 +17,7 @@ audience: Admin
 #  Predictive lead scoring 
 
 [!include[banner](../../includes/banner.md)]
-[!include[banner](../../../includes/public-preview.md)]
+[!include[banner](../../includes/public-preview.md)]
 
 Predictive lead scoring uses a predictive machine learning model to calculate a
 score for all open leads. The score helps salespeople prioritize leads, achieve
