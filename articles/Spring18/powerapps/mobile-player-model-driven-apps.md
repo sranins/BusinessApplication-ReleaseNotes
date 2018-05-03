@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Run any model‑driven application on the Dynamics 365 mobile player. Applications
 can run on mobile devices, including Windows tablets, iPhone, iPad, Android

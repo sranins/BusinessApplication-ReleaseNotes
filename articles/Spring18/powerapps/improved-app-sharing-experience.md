@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 **Canvas apps.** With the improved app sharing experience for canvas apps, you
 can quickly view the list of data sources used by an app and set up user

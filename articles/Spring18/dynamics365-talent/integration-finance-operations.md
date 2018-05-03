@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 In March, we enabled a connected story for Dynamics customers who are operating
 in our cloud service and using Finance and Operations. Finance and Operations

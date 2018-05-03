@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Connected Field Service helps service organizations proactively detect,
 troubleshoot, and resolve service issues so a technician is dispatched only when

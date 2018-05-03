@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Previously, when creating dynamic searches by using URLs, you could pass in the
 search date range but not the specific time of the search on each day. For

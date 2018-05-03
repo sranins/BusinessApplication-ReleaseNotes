@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Because the app relies on the Unified Interface framework, the user experience
 follows consistent, familiar patterns making it easier for salespeople to get up

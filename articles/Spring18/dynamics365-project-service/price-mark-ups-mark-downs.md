@@ -17,7 +17,7 @@ audience: Admin
 #  Price mark-ups and mark-downs 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Prices can be set up as a percent-based markup on a base price, for example, to
 reflect overtime hours or hazardous work conditions. This mark-up or mark-down

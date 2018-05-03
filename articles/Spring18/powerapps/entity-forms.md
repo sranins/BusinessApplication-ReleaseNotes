@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Model-driven entity forms are a critical component in any Dynamics 365
 application and are now available for standalone model‑driven apps built with

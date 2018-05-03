@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When resource managers search for availability, especially when the customer is
 on the phone at the same time, it’s important that they be able to communicate

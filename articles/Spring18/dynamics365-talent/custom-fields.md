@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Custom fields functionality enables new fields to be added to support additional
 tracking, integrations (using entities), and exports for reporting.

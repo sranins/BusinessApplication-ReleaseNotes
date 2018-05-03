@@ -17,7 +17,7 @@ audience: Admin
 #  Field Service Analytics
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 The Field Service Analytics reports focuses on the dispatcher or scheduler
 persona. The reports cover KPIs that help monitor the effectiveness of field

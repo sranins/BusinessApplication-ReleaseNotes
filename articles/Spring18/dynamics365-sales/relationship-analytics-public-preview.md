@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 **Relationship analytics** helps salespeople manage the opportunities pipeline
 by analyzing relationships and presenting data and insights about the health of

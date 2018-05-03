@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Business Application Platform Admin center includes a support ticketing
 experience that admins can use to contact a Microsoft support representative if

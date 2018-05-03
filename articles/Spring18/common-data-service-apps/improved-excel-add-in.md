@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Data stored in the Common Data Service for Apps can be viewed, created, and
 edited through the updated PowerApps and Common Data Service for Apps Excel

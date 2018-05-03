@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Project Service app helps sales and delivery teams engage customers and
 deliver billable projects on time and within budget. Project Service helps

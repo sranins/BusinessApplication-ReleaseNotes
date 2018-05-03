@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With LinkedIn Sales Navigator integration, salespeople can tap into their
 professional networks and relationships to improve their pipeline.

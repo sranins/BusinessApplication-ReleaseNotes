@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Resource Scheduling Optimization solution uses scope to define the input for
 resources, resource requirements, and resource bookings, as well as the

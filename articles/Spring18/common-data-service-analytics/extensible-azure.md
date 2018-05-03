@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Common Data Service for Analytics storage is open, which means you can leverage
 the Azure data stack to make data available to Common Data Service for Analytics

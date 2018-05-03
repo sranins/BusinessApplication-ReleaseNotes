@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Common Data Service for Apps is how PowerApps, Office, and the Dynamics
 suite of products integrate with a single system of record for business data.

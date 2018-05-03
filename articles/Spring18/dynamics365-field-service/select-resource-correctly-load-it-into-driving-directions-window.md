@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When you select a resource cell on the schedule board and click Actions \> Get
 driving directions, the selected resource and address are now correctly loaded

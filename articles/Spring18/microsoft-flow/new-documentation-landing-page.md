@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 We always want to make it easier to learn about Microsoft Flow. There is a lot
 of content out there, so we have grouped our documentation content into three

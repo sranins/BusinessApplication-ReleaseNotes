@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The solution supports keeping the context when a user moves an existing booking
 to a different resource to make room for a new scheduling requirement. For

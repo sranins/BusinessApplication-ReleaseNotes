@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When you run a flow that has been shared with you, you can see details of
 exactly what that flow is going to do with your connections. Whenever you run a

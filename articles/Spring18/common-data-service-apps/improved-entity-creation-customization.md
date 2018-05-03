@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Creating and customizing Common Data Service for Apps entities from
 PowerApps.com is improved in the following ways:

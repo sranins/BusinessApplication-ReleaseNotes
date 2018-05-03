@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Arm your technicians with 3D content to help them complete repairs. 3D models or
 sequences can be uploaded (directly to Dynamics 365 or hosted externally), and

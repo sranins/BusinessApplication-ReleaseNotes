@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Business rules on Common Data Service for Apps entities make it possible to
 visually define server-side business logic for canvas and model‑driven apps.

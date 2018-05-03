@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Apps connected to a SharePoint list with attachments can now both read and write
 attachments to the SharePoint site in PowerApps. Attachments appear in the data

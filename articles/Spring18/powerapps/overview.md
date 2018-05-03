@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 PowerApps is the high-productivity application development platform from
 Microsoft. In this release, we’re combining the richness of Dynamics 365 with

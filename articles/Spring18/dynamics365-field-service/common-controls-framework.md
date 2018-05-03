@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 User interface controls use a Common Controls Framework (CCF) for consistency
 with other Dynamics 365 business applications. Controls follow consistent,

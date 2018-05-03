@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../includes/banner.md)]
 
 [Go to the Trust
 Center](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx),

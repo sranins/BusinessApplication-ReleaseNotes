@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../includes/banner.md)]
 
 Dynamics 365 delivers industry‑leading security measures and privacy policies to
 safeguard customer data when using a Microsoft Cloud Service or running

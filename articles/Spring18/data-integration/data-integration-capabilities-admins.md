@@ -17,7 +17,7 @@ audience: Admin
 
 # Data integration capabilities for admins
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Data Integrator for the Common Data Service for Apps includes many
 improvements for admins.

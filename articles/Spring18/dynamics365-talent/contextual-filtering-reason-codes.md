@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 This feature lets users configure reason codes for hire, transfer, termination,
 and compensation processes. This streamlines reason codes, increasing data

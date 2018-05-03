@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft is modernizing business processes across productivity, CRM, and ERP
 applications, which makes it easier for every business to transform how people

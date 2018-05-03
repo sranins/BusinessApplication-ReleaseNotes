@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Use Microsoft Flow to create logic that performs one or more tasks when an event
 occurs in a PowerApp. For example, configure a button that creates an item in a

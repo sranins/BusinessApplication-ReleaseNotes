@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 For any modern SharePoint page libraries, site administrators and owners can
 turn on content approvals for new edits. With content approvals turned on,

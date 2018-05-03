@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 If you can’t or don’t want to complete an approval yourself, you can now send
 the approvals you receive to another person. First, click the approval in the

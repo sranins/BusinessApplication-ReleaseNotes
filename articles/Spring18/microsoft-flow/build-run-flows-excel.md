@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the new Flow button, create and trigger automations from Flow on your table
 data in Excel to automate data processing or the copying/importing of data. You

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 -   **“Days” support:** In many organizations, especially in European markets,
     employees submit time off in days, not hours. This change provides expanded

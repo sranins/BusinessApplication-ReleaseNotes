@@ -17,7 +17,7 @@ audience: Admin
 
 # Integration with the Common Data Service for Apps and the Common Data Service for Analytics 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Business users can load data from a wide range of data sources (including other
 CRM instances) into the Common Data Service for Apps and the Common Data Service

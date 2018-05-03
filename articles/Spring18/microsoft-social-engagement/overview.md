@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Social Engagement allows organizations to listen for keywords and
 phrases on social media to help them understand customer sentiment and engage in

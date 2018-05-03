@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Because business processes flows are available as entities in the Common Data
 Service for Apps, you can use advanced find results as well as views, charts,

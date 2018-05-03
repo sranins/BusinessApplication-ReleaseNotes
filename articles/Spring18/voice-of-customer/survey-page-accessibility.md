@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The portal used by survey respondents to submit their responses is accessible
 for users who require assistive technologies to interact with the survey page.

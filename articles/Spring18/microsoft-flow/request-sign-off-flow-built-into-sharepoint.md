@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Use the Request sign-off feature in SharePoint to quickly send an item for
 approval to someone in your organization (no setup required).

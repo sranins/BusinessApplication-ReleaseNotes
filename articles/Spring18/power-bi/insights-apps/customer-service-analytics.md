@@ -17,7 +17,7 @@ audience: Admin
 #  Customer Service Analytics
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 The Customer Service Analytics reports provide case analytics to the service
 manager about cases opened, resolved, and escalated, as well as key performance

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Universal Resource Scheduling (URS) provides scheduling capabilities for the
 Customer Service, Field Service, and Project Service apps. Additionally, the

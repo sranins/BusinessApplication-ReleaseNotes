@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Use a business process flow to define a set of steps for people to follow to
 take them to a desired outcome. These steps provide a visual indicator that

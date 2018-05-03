@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of Talent - Core HR focuses on General Data Protection
 Regulation (GDPR) compliance, enabling integrations, and adding key capabilities

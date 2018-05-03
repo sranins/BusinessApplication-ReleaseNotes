@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The United Kingdom region is now available for Microsoft Flow. This means that
 you can create environments in the UK, and all the flow customer data will be

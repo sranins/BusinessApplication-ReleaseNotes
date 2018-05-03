@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../includes/banner.md)]
 
 Accessibility is a top priority for many organizations, often to meet regulatory
 requirements, but also because it is an important part of driving productivity

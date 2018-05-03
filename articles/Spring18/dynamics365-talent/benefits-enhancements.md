@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 -   **Benefits open enrollment (Public Preview)**. Benefits open enrollment
     provides employees with an easy-to-follow, self-service experience for

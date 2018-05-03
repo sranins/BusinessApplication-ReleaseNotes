@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 To reduce pop-ups, users can view the resource card on the schedule board by
 right-clicking the resource and then clicking View resource card, instead of by

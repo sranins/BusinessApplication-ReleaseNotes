@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Plug Talent into your broader HR technology ecosystem by connecting your payroll
 system through a purpose-built, out-of-box integration to Ceridian, or connect

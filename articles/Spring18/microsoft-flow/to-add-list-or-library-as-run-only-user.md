@@ -17,7 +17,7 @@ audience: Admin
 #  To add a list or library as a run-only user 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Run-only users can only be added to manually invoked flows—for example, flows
 that use the For a selected item trigger.

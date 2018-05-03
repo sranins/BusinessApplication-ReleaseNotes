@@ -17,7 +17,7 @@ audience: Admin
 #  Display up to 14 days on the hourly schedule board
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 To allow resource managers to see more data without changing schedule board
 dates, the number of days that can be viewed on the hourly schedule board has

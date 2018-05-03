@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The SDK includes an architectural overview of the Common Data Service for Apps,
 the entity model, security model, and web services. Sample code and walkthroughs

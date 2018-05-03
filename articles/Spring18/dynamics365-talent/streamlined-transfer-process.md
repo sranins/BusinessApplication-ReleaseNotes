@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When transferring an employee, you can filter by position, and the job is
 automatically added to the transfer request. For easier filtering, the position

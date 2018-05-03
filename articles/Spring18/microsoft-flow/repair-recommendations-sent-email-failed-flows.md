@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Enable email notifications to detect flow failures. To enable this feature, go
 to the Flow details page, and then, on the contextual menu (…), subscribe to

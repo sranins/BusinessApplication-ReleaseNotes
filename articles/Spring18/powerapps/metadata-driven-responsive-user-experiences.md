@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Model-driven apps are responsive across different form factors and devices,
 allowing users to quickly continue their work while on the go. 

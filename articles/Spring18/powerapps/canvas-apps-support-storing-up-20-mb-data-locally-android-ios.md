@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Apps that use the SaveData and LoadData functions to build offline-enabled apps
 on PowerApps can now save up to 20 MB of data in a single SaveData/LoadData

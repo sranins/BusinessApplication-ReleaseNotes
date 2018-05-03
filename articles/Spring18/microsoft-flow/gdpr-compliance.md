@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft is committed to GDPR compliance across our cloud services, including
 Microsoft Flow. When a user is deleted from Azure Active Directory, the tenant

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Users can adjust the scale of the schedule board to decrease the width of the
 columns. In this way, they can view a wider date range. Whether you’re viewing

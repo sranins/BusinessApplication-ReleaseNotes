@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Microsoft is committed to helping you comply with the General Data Protection
 Regulation (GDPR). When a user is deleted from Azure Active Directory (AAD), the

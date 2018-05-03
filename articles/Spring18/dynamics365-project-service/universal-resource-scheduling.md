@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Project Service app builds on the Universal Resource Scheduling solution to
 help project managers and resource managers find and book resources for open

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Self-troubleshooting makes it easier for administrators and survey designers to
 identify issues with the configuration of surveys. Validation tests verify the

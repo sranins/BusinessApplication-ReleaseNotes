@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Spring '18 updates provide managers with increased productivity and efficiency
 by expanding self-service options. Managers can initiate compensation changes

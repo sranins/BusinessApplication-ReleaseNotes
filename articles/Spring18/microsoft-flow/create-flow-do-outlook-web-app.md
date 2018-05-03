@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 A popular feature in Outlook is the sender's ability to explicitly call out a
 person on the recipient list to draw his or her attention to the email. This is

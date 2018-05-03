@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Model-driven apps are metadata-driven. Core components of the user experience,
 such as dashboards, lists, navigation, forms, and commands, are generated upon

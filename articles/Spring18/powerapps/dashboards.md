@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Create rich, interactive dashboards to visualize data from the Common Data
 Service for Apps inside a model‑driven application.

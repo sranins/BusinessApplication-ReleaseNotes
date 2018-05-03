@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 We recently increased the limits for Apply to each, which means that you can
 have loops that contain thousands of items. However, if a small number of the

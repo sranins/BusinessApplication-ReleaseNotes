@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Model-driven views make it easy for citizen developers and users to quickly
 define custom views for a set of records on any entity.

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Resource requirements can include not only a skill, but also the level (or
 rating) of the skill required to do the work. By considering the skill (or

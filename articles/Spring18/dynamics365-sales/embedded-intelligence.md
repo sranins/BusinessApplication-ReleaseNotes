@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 **Embedded intelligence** (previously known as Relationship Insights) collects,
 manages, and analyzes the diverse data and communications created throughout the

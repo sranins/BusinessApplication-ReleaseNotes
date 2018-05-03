@@ -17,7 +17,7 @@ audience: Admin
 #  Display more resources on the schedule board
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Users can narrow the height of the resource rows to see more resources at the
 same time.

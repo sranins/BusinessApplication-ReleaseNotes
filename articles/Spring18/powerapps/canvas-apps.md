@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 You can now build two types of applications with PowerApps: canvas apps and
 model‑driven apps. The term “canvas apps” refers to building apps through the

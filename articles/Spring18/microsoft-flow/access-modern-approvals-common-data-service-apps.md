@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Modern approvals data in Flow is now built on the latest version of the Common
 Data Service for Apps. This means that you can build flows that read the status

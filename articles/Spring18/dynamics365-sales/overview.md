@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The capabilities in the Spring ’18 release empower your sales team with more
 intelligence and analytics, deeper integrations with LinkedIn and Office 365,

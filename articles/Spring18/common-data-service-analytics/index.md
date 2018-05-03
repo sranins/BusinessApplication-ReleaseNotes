@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Common Data Service for Analytics in Power BI integrates your organization’s
 data with a standardized schema built on the Microsoft Common Data Model. It

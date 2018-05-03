@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of Project Service includes multidimensional pricing
 capabilities, GDPR and accessibility enhancements, and new user experience with

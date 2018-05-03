@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The last feature that we added is a new output property called **tags** to the
 **workflow()** expression. The tags contain properties such as

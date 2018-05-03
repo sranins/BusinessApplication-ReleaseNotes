@@ -16,7 +16,7 @@ audience: Admin
 #  Change booking statuses from daily, weekly, and monthly schedule boards
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Users can right-click a booking on the hourly schedule board and change the
 status of a booking. However, on the multiday schedule boards, bookings are

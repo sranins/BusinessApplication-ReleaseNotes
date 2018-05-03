@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 To maximize flexibility to meet different business requirements, the updated
 Project Service solution supports discrete application of pricing dimension sets

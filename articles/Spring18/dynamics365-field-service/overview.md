@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of the Field Service application includes resource
 scheduling and optimization improvements, GDPR and accessibility enhancements,

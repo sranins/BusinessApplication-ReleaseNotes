@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 In addition to the canvas app development that PowerApps has been known for,
 which provides full visual control over the user experience of an app, PowerApps

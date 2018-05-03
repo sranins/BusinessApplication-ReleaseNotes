@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Spring ’18 release, the Connected Field Service solution is built on
 the Unified Interface framework for improved user experience. The app delivers a

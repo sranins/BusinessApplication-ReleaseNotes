@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 If you encounter issues when you’re building or running a flow, or encounter any
 other issue while using Flow, open a support ticket from the Flow website (you

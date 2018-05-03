@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dates are no longer completed by default for hire, transfer, and termination
 processes. This reduces mistakes caused by accepting defaults that don't apply.

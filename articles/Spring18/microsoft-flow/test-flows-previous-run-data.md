@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When you’re editing a flow that you’ve run in the past, it can be useful to be
 able to rerun the flow with the trigger data from a previous run. This gives you

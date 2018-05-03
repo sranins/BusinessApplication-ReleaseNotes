@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Until recently, flows could be shared only with individuals or Azure Active
 Directory security groups. Now, flows that use SharePoint lists or libraries can

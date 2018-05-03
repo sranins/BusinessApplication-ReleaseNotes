@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 There are many actions in Flow that take an array as input. For example, the
 **Send email** action has a list of attachments that can be included with the

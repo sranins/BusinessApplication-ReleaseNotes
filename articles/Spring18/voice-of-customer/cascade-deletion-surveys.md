@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When a user deletes a survey, the dependent entities of the survey are also
 deleted. Any required actions needed for deleting a survey are displayed on the

@@ -17,7 +17,7 @@ audience: Admin
 #  Support for authoring, searching, publishing, and translating knowledge articles 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Author and edit well-formatted content for knowledge articles using a rich text
 editor. The editor brings common word processor features like advanced styling,

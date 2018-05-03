@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Personalize a survey by inserting the response to a question into subsequent
 questions and response option texts, using the Answer Tag field. When building

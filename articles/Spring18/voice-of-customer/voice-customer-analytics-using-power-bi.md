@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Voice of the Customer Analytics content pack for Power BI enables
 organizations to glean insights about surveys and responses. Administrators or

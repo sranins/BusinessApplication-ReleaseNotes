@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The embedded Power BI reports have been updated, and new visuals and additional
 measures have been added, such as mean and median gender pay metrics for

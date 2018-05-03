@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Data stored in the Common Data Service for Apps in both standard and custom
 entities can use an updated list of data types. Data types provide basic

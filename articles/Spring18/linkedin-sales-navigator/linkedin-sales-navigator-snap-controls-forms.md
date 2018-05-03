@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With LinkedIn Sales Navigator integration, business analysts and system admins
 can add customizable form controls that deliver insights to help salespeople

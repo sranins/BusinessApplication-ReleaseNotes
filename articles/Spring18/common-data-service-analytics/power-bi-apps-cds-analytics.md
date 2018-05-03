@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Common Data Service for Analytics users install out-of-the-box Power BI
 applications designed to work on top of Common Data Service for Analytics. These

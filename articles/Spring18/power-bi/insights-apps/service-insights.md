@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 The Power BI for Service insights app provides out-of-the-box analytics for
 several scenarios, such as Project Service Automation, Customer Service, and

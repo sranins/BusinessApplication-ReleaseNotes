@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When IoT devices are registered, connected, and configured in Azure IoT hub,
 Connected Field Service is able to retrieve properties and configurations from

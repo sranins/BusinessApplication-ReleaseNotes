@@ -17,7 +17,7 @@ audience: Admin
 #  Dimension priority and dimension context for resolution 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 For each pricing dimension, it is now possible to assign a priority by cost,
 purchase, sales, or other context defined by the system administrator. The

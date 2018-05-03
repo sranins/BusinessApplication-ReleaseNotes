@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The [PowerShell admin cmdlets](https://powerapps.microsoft.com/blog/) provide
 PowerApps admins with visibility and control over their organization's usage of

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Users can now control delegation limits for non-delegable data sources that have
 up to a maximum of 2,000 records, allowing client-side operations to work on

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Survey translation files are validated for any missing translated strings or
 incorrect HTML formatting when a survey is previewed or published. Error logs

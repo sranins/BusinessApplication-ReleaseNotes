@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When completing the termination process, workers can now be flagged if they are
 eligible for rehire. If the employee is flagged as not eligible for rehire, he

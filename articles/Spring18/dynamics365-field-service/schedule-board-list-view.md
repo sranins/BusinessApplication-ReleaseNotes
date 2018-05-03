@@ -17,7 +17,7 @@ audience: Admin
 #  Schedule board list view
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Interact with the schedule board using a list view to see data in a more
 meaningful way. For example, use the list view to work with bookable resources

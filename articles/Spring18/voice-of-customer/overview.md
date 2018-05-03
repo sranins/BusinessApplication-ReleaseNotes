@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of the Voice of the Customer (VoC) solution includes
 cascade deletion of surveys, survey translation enhancements, the ability to

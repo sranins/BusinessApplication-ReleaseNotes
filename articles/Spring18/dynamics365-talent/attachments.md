@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 All attachments associated with hire requests are transferred to an employee
 record upon completion of the hiring workflow, providing a single source for all

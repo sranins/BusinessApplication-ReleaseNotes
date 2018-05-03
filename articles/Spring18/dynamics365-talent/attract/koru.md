@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Koru is a third-party company that applies predictive analytics to assess,
 score, and rank candidates’ fit for an organization. Koru integration lets

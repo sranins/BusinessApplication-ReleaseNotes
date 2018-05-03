@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Device twin tags allow grouping of devices to make them easier to search and
 find. Tags for device twins are created in Connected Field Service, and then

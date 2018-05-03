@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Our latest investment is moving interactions to the booking panel and shifting
 away from pop-ups for creating bookings. Now, when you drag a booking from the

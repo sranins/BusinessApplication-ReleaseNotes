@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../includes/banner.md)]
 
 In May 2018, a European privacy law, the General Data Protection Regulation
 (GDPR), takes effect. The GDPR imposes rules on companies, government agencies,

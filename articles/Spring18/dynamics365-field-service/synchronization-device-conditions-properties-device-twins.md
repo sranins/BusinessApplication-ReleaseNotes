@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Connected Field Service includes a representation of customer assets and devices
 that can be registered within Azure IoT Hub to enable messages to flow through
