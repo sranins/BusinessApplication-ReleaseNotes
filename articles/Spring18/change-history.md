@@ -17,17 +17,13 @@ audience: Admin
 #  Change history
 
 
-
-
-[!include[banner](../includes/banner.md)]
-
 The following changes are included in the Spring ’18 Release Notes version
 18.1.2, published May 1, 2018.
 
 				
 | Document section               | Description of change                                                                                                                                                                      |				
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|				
-| Intro                          | Added section: [Availability](availability.md) with link to availability guide.                                                                                                             |				
+| Intro                          | Added section: [Availability](../availability.md) with link to availability guide.                                                                                                             |				
 | Sales                          | Updated section: Built on the Unified Interface framework lists additional capabilities and solutions Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md). |				
 | Service, Field Service         | Universal Resource Scheduling added features:                                                                                                                                              |				
 |                                | [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                                                                                             |				
@@ -62,7 +58,7 @@ The following changes are included in the Spring ’18 Release Notes version
 |                                | [Quick access to help and support](microsoft-flow/overview.md)                                                                                                                                      |				
 | Business Intelligence Platform | Power BI Desktop revisions:                                                                                                                                                                |				
 				
--   [Book by estimated arrival time instead of start of  travel](power-bi/desktop/overview.md)				
+-   [Book by estimated arrival time instead of start of  travel](power-bi/overview.md)				
    				
 				
 -   [Globalization – United Arab Emirates				
@@ -115,7 +111,7 @@ Power BI Service revisions:
     '18 Public Preview.				
 				
 -   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and				
-    [Power BI Insights Apps](power-bi/insights-apps/insights-app.md) sections moved to Public				
+    [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public				
     Preview sometime between July and September.				
 				
 The following changes were included in Spring ’18 Release Notes version 18.1.1,				

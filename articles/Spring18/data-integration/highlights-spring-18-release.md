@@ -37,7 +37,7 @@ audience: Admin
 
 -   **5 new connectors for Power BI **
 
-    [!include[banner](../../../includes/public-preview.md)]
+    [!include[banner](../../includes/public-preview.md)]
     Includes HDInsight
     Interactive Query, Data.World, Vertica, Azure Consumption Insights, and
     Dynamics 365 for Financials.

@@ -18,7 +18,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+[!include[banner](../../includes/public-preview.md)]
 
 **Benefits open enrollment*. Benefits open enrollment provides employees with an easy-to-follow, self-service experience for selecting their benefits. Human resource administrators can configure their organization’s benefits open enrollment process. They can also design the employee enrollment experience using a guided solution. Employee benefit enrollment elections can then be exported and sent to benefit providers.
 
