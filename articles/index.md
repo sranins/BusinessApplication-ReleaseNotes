@@ -23,5 +23,7 @@ To make it easy to find a list of changes for each business application or platf
 
 We know how important these release notes are to your organization for planning a successful update. We want to know what works and what doesn’t. Let us know your thoughts by sending email to [releasenotes@microsoft.com](mailto:releasenotes@microsoft.com). We’ll use your feedback to improve our content.
 
+> [!NOTE]
+> The release notes are available as a PDF. [Download the Spring '18 release notes](https://go.microsoft.com/fwlink/?linkid=870424). 
 
 [Spring '18 release notes](Spring18/release-overview.md)
