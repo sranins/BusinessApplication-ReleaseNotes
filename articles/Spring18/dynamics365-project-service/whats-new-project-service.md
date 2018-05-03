@@ -29,7 +29,7 @@ audience: Admin
 | Project Service Automation app                                                                                                                                                                                                                                |
 | [Built on the Unified Interface framework](app-enhancements.md).                                                                                                                                                                                                 |
 | Universal Resource Scheduling for Project Service                                                                                                                                                                                                             |
-| [Schedule board list view](universal-resource-scheduling-project-service.md).                                                                                                                                                                                                          |
+| [Schedule board list view](universal-resource-scheduling.md).                                                                                                                                                                                                          |
 
 -   General Data Protection Regulation (GDPR) - Investments address the European
     privacy law’s requirements. [Go to the Trust Center to learn more and find
