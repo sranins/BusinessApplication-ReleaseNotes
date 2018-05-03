@@ -56,8 +56,10 @@ The following changes are included in the Spring ’18 Release Notes version
 |                                | [Create a flow for Microsoft To-Do in Outlook Web App](microsoft-flow/overview.md)                                                                                                                    |				
 |                                | [Test your flow by using sample data](microsoft-flow/overview.md)                                                                                                                                    |				
 |                                | [Quick access to help and support](microsoft-flow/overview.md)                                                                                                                                      |				
-| Business Intelligence Platform | Power BI Desktop revisions:                                                                                                                                                                |				
+			
 				
+ Power BI Desktop revisions:
+
 -   [Book by estimated arrival time instead of start of  travel](power-bi/overview.md)				
    				
 				
