@@ -28,10 +28,10 @@ audience: Admin
  - [Pin from apps to dashboard - Create dashboards that combine information from other shared dashboards, reports, or apps in an integrated view.](service/pin-apps-dashboard.md)
  - [Persistent filters - With persistent filters, Power BI saves a user’s slicer and filter values, and automatically applies them when the user returns. ](service/pin-apps-dashboard.md)
  - Custom visual administrator control - Power BI admins can disable custom visuals for an organization.
- - [Power BI Mobile](mobile/index.md)
+ - [Power BI Mobile](overview.md)
  - [Visio custom visual support - Custom visuals are presented in the mobile app when users tap the visual and sign into their Visio online account.](mobile/visio-custom-visuals.md)
  - [Responsive visuals optimized for phone layout - Text—such as labels—also adjust based on the size of the visuals.](mobile/responsive-visualization-optimized-phone-layout.md)
- - [Power BI Embedded](embedded/index.md)
+ - [Power BI Embedded](overview.md)
  - [Capacity API – Using Enhanced Application Lifecycle Management capabilities, you can use APIs to assign or remove Workspaces from Power BI capacity](embedded/capacity-api.md).
  - [Row-level security on Azure Analysis Services based on CustomData - Filter data based on the CustomData function in Azure Analysis Services for row-level security](embedded/row-level-security-azure-analysis-services-based-customdata.md).
  - [Custom layout - Dynamically change the size and layout definitions of a report page. Use one of the layouts in Power BI Desktop, or a fixed size to match the application element.](embedded/custom-layout.md)
@@ -42,9 +42,9 @@ audience: Admin
  - [Report level slicers - Filter other pages of the report.](desktop/report-level-slicers.md)|
  - [Cross-highlight across multiple visuals - Multi-select data points across visuals.](desktop/cross-highlight-across-multiple-visuals.md)
  - [Quick measures - Support for live connections and custom date tables.](desktop/quick-measures.md)
- - [Power BI Mobile](mobile/index.md)
+ - [Power BI Mobile](overview.md)
  - [Ability to invite and favorite reports - Users can view reports shared with them, share reports with others, view favorite reports, and mark reports as favorites.](mobile/invite-favorite-reports.md)
- - [Power BI Embedded](embedded/index.md)
+ - [Power BI Embedded](overview.md)
  - [Azure monitoring - With usage metrics, monitor the consumption of resources, and trigger actions when thresholds are met](embedded/azure-monitoring.md).
  - [Azure US Government Cloud availability - Power BI Embedded is available for United States government customers.](embedded/available-us-government-customers.md)
  - [Mobile layout support - Load embedded report pages in a phone layout. ](embedded/mobile-layout-support.md)
@@ -64,13 +64,13 @@ audience: Admin
  - [Share content with consumer accounts](service/sharing-content-consumer-accounts.md) - Share content with other users who have email addresses from consumer email services and telecommunications providers.
  - [Larger node sizes in Power BI Premium – Organizations can use P4 and P5 nodes to run larger workloads on premium capacity.](service/larger-node-sizes-power-bi-premium.md)
  - [Performance reporting for Power BI Premium - Provides insights about how Premium capacity resources are utilized, troubleshooting performance issues, and deciding when to upgrade to a larger node size.](service/performance-reporting-power-bi-premium.md)
- - [Power BI Mobile](mobile/index.md)
+ - [Power BI Mobile](overview.md)
  - [Report tooltip touch optimization - Data point selection with tap and hold gesture.](mobile/report-tooltip-touch-optimization.md)
- - [Power BI for mixed reality (Public Preview)](mobile/power-bi-mixed-reality-public-preview.md) - Mixed reality experience for viewing dashboards and reports, and positioning them in their surroundings with Microsoft HoloLens. Available in Microsoft Store.
+ - [Power BI for mixed reality (Public Preview)](mobile/power-bi-mixed-reality.md) - Mixed reality experience for viewing dashboards and reports, and positioning them in their surroundings with Microsoft HoloLens. Available in Microsoft Store.
  - [Persistent filters](service/persistent-filters.md)Persistent filters - Users resume working with report filters and slicers in the same state as their last interaction.
  - [Phone optimization for embedded reports - Mobile app developers who use embedded reports for phone optimized layout can resize and position visuals to fit the device.](mobile/phone-optimization-embedded-reports.md)
  - [External sharing - Users can share reports and dashboards with external users.](mobile/external-sharing.md)
- - [Power BI Embedded](embedded/index.md)
+ - [Power BI Embedded](overview.md)
  - [Available on German datacenters](embedded/available-german-datacenters.md).
  - [Bookmarks support - Apply bookmarks on embedded reports and control UI elements through APIs.](embedded/bookmarks-support.md)
  - [Update dashboard/tile – With Application Lifecycle Management, developers can change deployed tiles and dashboards while retaining their original IDs.](embedded/update-dashboard-or-tile.md)
@@ -101,9 +101,9 @@ audience: Admin
  - [Data source setup improvements - Easily configure gateways and diagnose common errors.](service/data-source-setup-improvements.md)
  - [Organizational visuals store - Discover and import custom visuals from the Power BI admin.](desktop/sap-business-warehouse-bw-connector.md)
  - Administrator tenant usage reporting - Admins gain insights into workspace, report, and dataset usage across the tenant, including number of users and frequency of use.
- - [Power BI Mobile](mobile/index.md)
+ - [Power BI Mobile](overview.md)
  - [Drill-down and drill-up support](mobile/drill-down-drill-up-support.md) - Users drill down and drill up to analyze data on mobile via tap and hold to open a tooltip menu on report visuals.
- - [Power BI Embedded](embedded/index.md)
+ - [Power BI Embedded](overview.md)
  - [Azure load monitoring - Monitor consumption of resources, and trigger actions when thresholds are met](embedded/azure-load-monitoring.md).
  - [Onboarding experience](embedded/onboarding-experience-power-bi-embedded.md) - Onboarding tool makes initial setup fast and easy.
  - [Show or hide report pages - Set the visibility of embedded report pages through the API](embedded/show-or-hide-report-pages.md).
@@ -129,9 +129,9 @@ audience: Admin
  - [Set up email subscriptions for other users. ](service/subscribe-other-users-email.md)
  - [XMLA connectivity with Analysis Services - Treat Power BI Premium workspaces like Analysis Services servers and connect to them with existing tools.](service/xmla-connectivity-analysis-services.md)
  - [Smart alerts - Users receive automatic alerts when there are important changes to data.](service/smart-alerts.md)
- - [Power BI Mobile](mobile/index.md)
+ - [Power BI Mobile](overview.md)
  - [Drill-through support](mobile/drill-support.md) - On mobile, use drill-through to navigate from one report page to another report page filtered by a selected entity.
- - [Power BI Embedded](embedded/index.md)
+ - [Power BI Embedded](overview.md)
  - [App-only token support - Identify an application on the Power BI platform for enhanced deployment, security, and Application Lifecycle Management](embedded/app-only-token-support.md).
  - [Workspace collection deprecation](embedded/workspace-collection-deprecation.md).
  - [Export to PowerPoint - Export an embedded object to PowerPoint](embedded/export-powerpoint.md).
@@ -139,7 +139,7 @@ audience: Admin
  - June ’18 - Public Preview
  - [Power BI Service](desktop/filtering-data-view.md)
  - Workspace search - Search for and find content across all the workspaces that you have access to.
- - [SSRS reports for Power BI Premium - Publish and view SQL Server Reporting Services (SSRS) reports in Power BI Premium.](service/sql-server-reporting-services-ssrs-reports-power-bi-premium-public-preview.md)
+ - [SSRS reports for Power BI Premium - Publish and view SQL Server Reporting Services (SSRS) reports in Power BI Premium.](service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md)
  - July – September ’18 - General Availability
  - [Power BI Service](desktop/filtering-data-view.md)
  - [Dataset metadata translations - Users see dataset fields in their client locale and language when translations are defined in the dataset or Analysis Services model.](service/dataset-metadata-translations.md)
@@ -147,15 +147,15 @@ audience: Admin
  - July – September ’18 – Public Preview
  - [Power BI Desktop](overview.md)
  - Model diagram and navigation – An improved modeling experience that scales to large and complex data models with many tables, calculations, and other objects.
- - [Common Data Service for Analytics capability in Power BI connectivity](cds-analytics/index.md) - Report authors can connect to data in Common Data Service for Analytics, add entities to data models, and mash-up Common Data Service for Analytics data with data from other sources.
+ - [Common Data Service for Analytics capability in Power BI connectivity](../common-data-service-analytics/power-bi-apps-cds-analytics.md) - Report authors can connect to data in Common Data Service for Analytics, add entities to data models, and mash-up Common Data Service for Analytics data with data from other sources.
  - [Power BI Service](desktop/filtering-data-view.md)
- - [Query acceleration for large datasets](service/query-acceleration-large-datasets-public-preview.md) - Dataset authors create in-memory aggregations to enable interactive queries over big data.
+ - [Query acceleration for large datasets](service/query-acceleration-large-datasets.md) - Dataset authors create in-memory aggregations to enable interactive queries over big data.
  - [Common Data Service for Analytics in Power BI](cds-analytics-capability-index.md)
- - [Common Data Service for Analytics in Power BI (Public Preview) - Datapools become artifacts in Power BI, and users can create new datapools, manage access to existing datapools, manage data refresh from Common Data Service for Analytics, and monitor processing from within a Power BI workspace.](cds-analytics/cds-datapools.md)
+ - [Common Data Service for Analytics in Power BI (Public Preview) - Datapools become artifacts in Power BI, and users can create new datapools, manage access to existing datapools, manage data refresh from Common Data Service for Analytics, and monitor processing from within a Power BI workspace.](../common-data-service-analytics/cds-datapools.md)
  - Use Power BI to import data to Common Data Service for Analytics - Use an authoring tool to import and transform data and map it to a common data model.
  - Manage Common Data Service for Analytics within Power BI workspaces
- - [Power BI apps for Common Data Service for Analytics - Users can customize and manage apps from the Power BI Service without writing code. No Azure subscription is required.](cds-analytics/power-bi-apps-cds-a/index.md)
- - [Map data from Azure Blob storage to Common Data Service for Analytics](cds-analytics/extensible-azure.md) - Map existing Azure Blob storage to standard or custom entities in Common Data Service for Analytics. Mapped entities are available in Power BI Desktop for building datasets, reports, and dashboards.
+ - [Power BI apps for Common Data Service for Analytics - Users can customize and manage apps from the Power BI Service without writing code. No Azure subscription is required.](../common-data-service-analytics/power-bi-apps-cds-a/index.md)
+ - [Map data from Azure Blob storage to Common Data Service for Analytics](../common-data-service-analytics/extensible-azure.md) - Map existing Azure Blob storage to standard or custom entities in Common Data Service for Analytics. Mapped entities are available in Power BI Desktop for building datasets, reports, and dashboards.
  - [Power BI Insights apps](insights-apps/index.md)
  - [Power BI for Sales Insights](insights-apps/power-bi-sales-insights.md) – Brings in key entities from either Dynamics 365 or Salesforce, allowing sales managers to track sales performance across products and salespeople.
  - [Power BI for Service Insights](powerservice/index.md) – Takes advantage of Dynamics 365 for Customer Service, Field Service, or Project Service Automation data to provide insights in each of these areas.

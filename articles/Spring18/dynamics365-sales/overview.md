@@ -45,7 +45,7 @@ These capabilities include:
     interface, and follows responsive design principles for optimal viewing on
     any screen size or device. All core sales entities used in business
     processes, including products, goals, and sales literature, run on this
-    responsive platform and conform to [common data model](../../business-application-platform/microsoft-flow/access-modern-approvals-common-data-service-apps.md)
+    responsive platform and conform to [common data model](../microsoft-flow/access-modern-approvals-common-data-service-apps.md)
     standards.
 
 >   Dynamics 365 App for Outlook, LinkedIn Sales Navigator integration, and the
