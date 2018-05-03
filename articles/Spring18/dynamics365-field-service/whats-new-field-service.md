@@ -27,27 +27,27 @@ audience: Admin
 | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
 | Accessibility enhancements - [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                      |
 | Field Service app                                                                                                                                                                                                                                             |
-| [Built on the Unified Interface framework](field-service-app-enhancements.md).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](app-enhancements.md).                                                                                                                                                                                                 |
 | Universal Resource Scheduling (URS) solution                                                                                                                                                                                                                  |
-| [Schedule board list view](universal-resource-scheduling-urs-enhancements.md).                                                                                                                                                                                                            |
+| [Schedule board list view](..project-service/universal-resource-scheduling.md).                                                                                                                                                                                                            |
 | Resource Scheduling Optimization (RSO) solution                                                                                                                                                                                                               |
-| [Extensible scope](resource-scheduling-optimization-rso-enhancements.md).                                                                                                                                                                                                                       |
+| [Extensible scope](rso-enhancements.md).                                                                                                                                                                                                                       |
 | Connected Field Service (IoT) solution                                                                                                                                                                                                                        |
-| [Built on the Unified Interface framework](connected-field-service-iot-enhancements.md).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](connected-iot-enhancements.md).                                                                                                                                                                                                 |
 
--   [Common Controls Framework (CCF)](field-service-app-enhancements.md).
+-   [Common Controls Framework (CCF)](app-enhancements.md).
 
--   [Associate 3D content with customer asset records](field-service-app-enhancements.md).
+-   [Associate 3D content with customer asset records](app-enhancements.md).
 
--   [Run as a simulation](resource-scheduling-optimization-rso-enhancements.md).
+-   [Run as a simulation](rso-enhancements.md).
 
--   [Enforce skill level](resource-scheduling-optimization-rso-enhancements.md).
+-   [Enforce skill level](rso-enhancements.md).
 
 -   [Synchronization of device conditions and properties with device
-    twins](connected-field-service-iot-enhancements.md).
+    twins](connected-iot-enhancements.md).
 
 -   [Synchronization of device tags with device
-    twins](connected-field-service-iot-enhancements.md).
+    twins](connected-iot-enhancements.md).
 
 -   [Configuration of device properties and commands through device
-    categories](connected-field-service-iot-enhancements.md).
+    categories](connected-iot-enhancements.md).
