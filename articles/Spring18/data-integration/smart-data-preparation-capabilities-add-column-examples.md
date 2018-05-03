@@ -4,7 +4,8 @@ title: Smart data preparation capabilities – Add Column from Examples
 description: As part of the data transformation capabilities of the Power Query editor, you can easily add a new column of data by providing one or more sample values for the new column.
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 05/01/2018
+ms.assetid: eed9e68d-7c3f-4730-bea0-04e9ef9c9b55
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,10 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Smart data preparation capabilities – Add Column from Examples
 
-
-
+# Smart data preparation capabilities – Add Column from Examples
 
 [!include[banner](../../includes/banner.md)]
 
@@ -42,15 +41,11 @@ Query editor. Power Query provides suggestions for common operations, based on
 columns in context. Suggestions are based on data samples (Tuesday, for example)
 and descriptive text (day of the week, for example).
 
-![Screenshot showing adding columns from examples](media/smart-data-preparation-capabilities-add-column-examples-1.png "Screenshot showing adding columns from examples")
-<!-- Picture 3 -->
-
+![Add Column from Examples](media/smart-data-preparation-capabilities-add-column-examples-1.png "Add Column from Examples")
 
 *Add Column from Examples*
 
-![Screenshot showing how remaining column rows are inferred from example column values](media/smart-data-preparation-capabilities-add-column-examples-2.png "Screenshot showing how remaining column rows are inferred from example column values")
-<!-- Picture 4 -->
-
+![Remaining column rows inferred from example column values](media/smart-data-preparation-capabilities-add-column-examples-2.png "Remaining column rows inferred from example column values")
 
 *Remaining column rows inferred from example column values*
 

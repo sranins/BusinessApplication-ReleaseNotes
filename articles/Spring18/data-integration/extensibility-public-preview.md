@@ -4,7 +4,8 @@ title: Extensibility (Public Preview)
 description: With the M connector SDK, partners and developers can contribute to the rich connector ecosystem.
 author: MargoC
 manager: AnnBe
-ms.date: 4/26/2018
+ms.date: 05/01/2018
+ms.assetid: 5153a55e-fade-437e-b88d-540f8af0ceeb
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,10 +14,8 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Extensibility (Public Preview)
 
-
-
+# Extensibility (Public Preview)
 
 [!include[banner](../../includes/banner.md)]
 
