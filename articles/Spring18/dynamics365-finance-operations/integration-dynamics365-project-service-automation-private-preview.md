@@ -21,6 +21,8 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
+[!include[banner](../../includes/private-preview.md)]
+
 The Project Service Automation to Finance and Operations integration solution
 uses the data integrator feature to synchronize data across instances of Finance
 and Operations and Project Service Automation via the Common Data Service (CDS).

@@ -14,12 +14,11 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Assignee placeholders (Public Preview)
-
-
-
+#  Assignee placeholders 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 Managers can insert assignee placeholders in their template, to be filled out
 later. For example, a group of tasks can be assigned to “business administrator”

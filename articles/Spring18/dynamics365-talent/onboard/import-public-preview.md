@@ -14,12 +14,11 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Import (Public Preview)
-
-
-
+#  Import 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 Hiring managers can import content from other guides or templates to ensure that
 the latest content is always reflected. This helps them get started quickly and

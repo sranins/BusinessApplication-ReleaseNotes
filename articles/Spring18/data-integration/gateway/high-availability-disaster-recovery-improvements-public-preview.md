@@ -1,6 +1,6 @@
 ---
 
-title: High availability and disaster recovery improvements (Public Preview)
+title: High availability and disaster recovery improvements 
 description: Availability
 author: MargoC
 manager: AnnBe
@@ -15,9 +15,11 @@ audience: Admin
 
 ---
 
-# High availability and disaster recovery improvements (Public Preview)
+# High availability and disaster recovery improvements 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 High availability for the on-premises data gateway gives administrators a way to
 group multiple gateway instances together. This offers a more robust and

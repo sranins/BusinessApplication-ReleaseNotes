@@ -16,17 +16,16 @@ audience: Admin
 ---
 #  Translation Service enhancements
 
-
-
-
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../includes/public-preview.md)]
 
 Dynamics Translation Service (DTS) allows ISVs and partners to translate
 Dynamics solutions and products (ERP only) in existing and new languages, taking
 advantage of their own linguistics assets and Microsoft linguistic assets. In
 addition to supporting user interface (UI) translation, DTS now supports user
 assistance (UA) translation in Microsoft Word and HTML formats (.docx, .html)
-(Public Preview). Recycling capabilities from the latest Microsoft translations
+. Recycling capabilities from the latest Microsoft translations
 have also been enhanced for UI and documentation translation projects.
 
 ![A screenshot showing the Translation service](media/translation-service-enhancements-1.png "A screenshot showing the Translation service")

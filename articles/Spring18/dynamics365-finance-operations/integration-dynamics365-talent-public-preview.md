@@ -14,12 +14,11 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Integration with Dynamics 365 for Talent (Public Preview)
-
-
-
+#  Integration with Dynamics 365 for Talent 
 
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 Finance and Operations customers can use Dynamics 365 for Talent to manage their
 people. The integration provides the ability to integrate appropriate HR
@@ -33,5 +32,4 @@ recurring integration flow from Talent to Finance and Operations.
 <!-- FO_talent-integration-A.PNG -->
 
 
-*Configuring Dynamics 365 for Finance and Operations and Dynamics 365 for Talent
-integration*
+*Configuring Dynamics 365 for Finance and Operations and Dynamics 365 for Talent integration*

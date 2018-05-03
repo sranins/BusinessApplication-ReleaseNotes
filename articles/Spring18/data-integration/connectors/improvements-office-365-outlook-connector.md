@@ -19,13 +19,15 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
--   New trigger for emails with \@mentions (Public Preview)
+[!include[banner](../../../includes/public-preview.md)]
 
--   New action to forward email (Public Preview)
+-   New trigger for emails with \@mentions 
 
--   New action to respond to a calendar event (Public Preview)
+-   New action to forward email 
 
--   New action to export emails (Public Preview)
+-   New action to respond to a calendar event 
+
+-   New action to export emails 
 
 -   Ability for users to customize text for send approval mail actions (General
     Availability)

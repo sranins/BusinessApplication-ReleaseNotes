@@ -1,7 +1,7 @@
 ---
 
-title: PowerShell commands library for the on-premises data gateway (Public Preview)
-description: PowerShell commands library for the on-premises data gateway (Public Preview)
+title: PowerShell commands library for the on-premises data gateway 
+description: PowerShell commands library for the on-premises data gateway 
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -15,9 +15,11 @@ audience: Admin
 
 ---
 
-# PowerShell commands library for the on-premises data gateway (Public Preview)
+# PowerShell commands library for the on-premises data gateway 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 The on-premises data gateway PowerShell cmdlets are available in the [public
 PowerShell

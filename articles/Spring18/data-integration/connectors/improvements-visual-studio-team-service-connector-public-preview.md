@@ -1,7 +1,7 @@
 ---
 
-title: Improvements to the Visual Studio Team Service connector (Public Preview)
-description: Improvements to the Visual Studio Team Service connector (Public Preview)
+title: Improvements to the Visual Studio Team Service connector 
+description: Improvements to the Visual Studio Team Service connector 
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -15,9 +15,11 @@ audience: Admin
 
 ---
 
-# Improvements to the Visual Studio Team Service connector (Public Preview)
+# Improvements to the Visual Studio Team Service connector 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 -   New action to query work items
 

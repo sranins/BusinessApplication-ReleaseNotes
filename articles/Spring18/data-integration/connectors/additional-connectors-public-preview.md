@@ -1,7 +1,7 @@
 ---
 
-title: Additional connectors (Public Preview)
-description: Additional connectors (Public Preview)
+title: Additional connectors 
+description: Additional connectors 
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -15,9 +15,11 @@ audience: Admin
 
 ---
 
-# Additional connectors (Public Preview)
+# Additional connectors 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 The following connectors, many of which are built by our partners, are also
 available for Public Preview:

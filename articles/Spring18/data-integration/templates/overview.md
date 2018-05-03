@@ -1,6 +1,6 @@
 ---
 
-title: Templates (Public Preview)
+title: Templates 
 description: Starting in April, you can use the Salesforce.com, Field Service Integration, and Project Service Integration templates as a starting point to help map entities and fields from source to destination.
 author: MargoC
 manager: AnnBe
@@ -15,9 +15,11 @@ audience: Admin
 
 ---
 
-# Templates (Public Preview)
+# Templates 
 
 [!include[banner](../../../includes/banner.md)]
+
+[!include[banner](../../../includes/public-preview.md)]
 
 Starting in April, you can use the Salesforce.com, Field Service Integration,
 and Project Service Integration templates as a starting point to help map

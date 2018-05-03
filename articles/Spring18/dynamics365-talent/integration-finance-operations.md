@@ -14,12 +14,11 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Integration with Finance and Operations 7.2 and 7.3 (Public Preview)
-
-
-
+#  Integration with Finance and Operations 7.2 and 7.3 
 
 [!include[banner](../../includes/banner.md)]
+
+[!include[banner](../../includes/public-preview.md)]
 
 In March, we enabled a connected story for Dynamics customers who are operating
 in our cloud service and using Finance and Operations. Finance and Operations

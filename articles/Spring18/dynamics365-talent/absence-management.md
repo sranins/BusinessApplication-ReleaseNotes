@@ -56,7 +56,11 @@ Absence management days support
     amount at the time of enrollment ensure compliance with company policies and
     provide a more accurate time-off balance for employees.
 
--   **Calendar view of working time (Public Preview):** Visualizing the working
+-   **Calendar view of working time :** 
+
+    [!include[banner](../../../includes/public-preview.md)]
+
+    Visualizing the working
     days and times across the organization as a calendar enables HR
     professionals a way to easily understand when employees are working.
 

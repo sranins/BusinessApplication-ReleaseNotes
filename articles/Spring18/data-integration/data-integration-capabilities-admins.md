@@ -75,7 +75,9 @@ they fail due to errors.
 
 *Data Integrator email notification configuration screen*
 
-##### Power Query support for Data Integrator (Public Preview)
+##### Power Query support for Data Integrator 
+
+[!include[banner](../../includes/public-preview.md)]
 
 The Data Integrator uses the familiar Power Query user interface to mash up
 source data before loading it into the Common Data Service. Use Power Query to
