@@ -150,13 +150,13 @@ audience: Admin
  - [Common Data Service for Analytics capability in Power BI connectivity](../common-data-service-analytics/power-bi-apps-cds-analytics.md) - Report authors can connect to data in Common Data Service for Analytics, add entities to data models, and mash-up Common Data Service for Analytics data with data from other sources.
  - [Power BI Service](desktop/filtering-data-view.md)
  - [Query acceleration for large datasets](service/query-acceleration-large-datasets.md) - Dataset authors create in-memory aggregations to enable interactive queries over big data.
- - [Common Data Service for Analytics in Power BI](cds-analytics-capability-index.md)
- - [Common Data Service for Analytics in Power BI (Public Preview) - Datapools become artifacts in Power BI, and users can create new datapools, manage access to existing datapools, manage data refresh from Common Data Service for Analytics, and monitor processing from within a Power BI workspace.](../common-data-service-analytics/cds-datapools.md)
+ - [Common Data Service for Analytics in Power BI](../common-data-service-analytics/index.md)
+ - [Common Data Service for Analytics in Power BI (Public Preview) - Datapools become artifacts in Power BI, and users can create new datapools, manage access to existing datapools, manage data refresh from Common Data Service for Analytics, and monitor processing from within a Power BI workspace.](../common-data-service-analytics/datapools.md)
  - Use Power BI to import data to Common Data Service for Analytics - Use an authoring tool to import and transform data and map it to a common data model.
  - Manage Common Data Service for Analytics within Power BI workspaces
- - [Power BI apps for Common Data Service for Analytics - Users can customize and manage apps from the Power BI Service without writing code. No Azure subscription is required.](../common-data-service-analytics/power-bi-apps-cds-a/index.md)
+ - [Power BI apps for Common Data Service for Analytics - Users can customize and manage apps from the Power BI Service without writing code. No Azure subscription is required.](../common-data-service-analytics/power-bi-apps-cds-analytics.md)
  - [Map data from Azure Blob storage to Common Data Service for Analytics](../common-data-service-analytics/extensible-azure.md) - Map existing Azure Blob storage to standard or custom entities in Common Data Service for Analytics. Mapped entities are available in Power BI Desktop for building datasets, reports, and dashboards.
- - [Power BI Insights apps](insights-apps/index.md)
- - [Power BI for Sales Insights](insights-apps/power-bi-sales-insights.md) – Brings in key entities from either Dynamics 365 or Salesforce, allowing sales managers to track sales performance across products and salespeople.
- - [Power BI for Service Insights](powerservice/index.md) – Takes advantage of Dynamics 365 for Customer Service, Field Service, or Project Service Automation data to provide insights in each of these areas.
+ - [Power BI Insights apps](insights-apps/insights-apps.md)
+ - [Power BI for Sales Insights](insights-apps/sales-insights.md) – Brings in key entities from either Dynamics 365 or Salesforce, allowing sales managers to track sales performance across products and salespeople.
+ - [Power BI for Service Insights](insights-apps/service-insights.md) – Takes advantage of Dynamics 365 for Customer Service, Field Service, or Project Service Automation data to provide insights in each of these areas.
 -  [Incremental data refresh - Incrementally load new data into a dataset without reloading all the data.](service/data-source-setup-improvements.md) 
