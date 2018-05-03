@@ -1,10 +1,11 @@
 ---
 
 title: Release overview
-description: We’re thrilled to announce our Spring ’18 release, which delivers significant investments designed to help you transform your business.
+description: Release overview
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 05/01/2018
+ms.assetid: b61a8f81-2d14-4c00-9f3f-ef613b9e8c2c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
