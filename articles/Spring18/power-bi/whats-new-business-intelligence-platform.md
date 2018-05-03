@@ -168,3 +168,5 @@ audience: Admin
 -   [Incremental data refresh - Incrementally load new data into a dataset
     without reloading all the data.](power-bi-service/data-source-setup-improvements.md)
 
+ - [Ask Top N questions in Q&A](power-bi/desktop/ask-top-n-questions-q-a.md) - Easily ask Top N questions in Q&A in both Power BI Desktop and Power BI Service.
+ - [Azure Active Directory authentication - Leverage Azure Active Directory authentication when connecting to Azure SQL Database and Azure SQL Data Warehouse.](power-bi/desktop/azure-active-directory-authentication.md)
