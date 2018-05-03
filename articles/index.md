@@ -1,3 +1,18 @@
+---
+title: Business Applications Release Notes
+description: Release notes are the way that the Microsoft Business Applications group describes new and upcoming capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
+author: MargoC
+manager: AnnBe
+ms.date: 05/01/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: margoc
+audience: Admin, end user, Developer
+
+---
+
 # Welcome to the Business Applications Release notes!
 
 Release notes are the way that the Microsoft Business Applications group describes new and upcoming capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
@@ -9,4 +24,4 @@ To make it easy to find a list of changes for each business application or platf
 We know how important these release notes are to your organization for planning a successful update. We want to know what works and what doesn’t. Let us know your thoughts by sending email to [releasenotes@microsoft.com](mailto:releasenotes@microsoft.com). We’ll use your feedback to improve our content.
 
 
-[Spring 18 release notes](Spring18/release-overview.md)
+[Spring '18 release notes](Spring18/release-overview.md)
