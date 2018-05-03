@@ -66,19 +66,19 @@ The following changes are included in the Spring ’18 Release Notes version
    				
 				
 -   [Globalization – United Arab Emirates				
-    localization](dynamics365-finance-operations/overview.md) for Fall 2017 release (version 7.3				
+    localization](dynamics365-finance-operations/index.md) for Fall 2017 release (version 7.3				
     update/overview.md)				
 				
 -   [Create actuals in Project Service				
-    Automation](dynamics365-finance-operations/overview.md) and synchronize them to the				
+    Automation](dynamics365-finance-operations/index.md) and synchronize them to the				
     Finance and Operations integration journal				
 				
--   [Extensible project work breakdown structure](dynamics365-finance-operations/overview.md)				
+-   [Extensible project work breakdown structure](dynamics365-finance-operations/index.md)				
 				
 -   [On-premises availability of Retail head-office				
     capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md )				
 				
--   [Absence management](talent/overview.md)				
+-   [Absence management](dynamics365-talent/overview.md)				
 				
 -   Time entry on behalf of someone else				
 				
@@ -92,7 +92,7 @@ The following changes are included in the Spring ’18 Release Notes version
 				
 -   Incremental Refresh Policies removed from April '18 General Availability.				
 				
--   Drill-through on measures, [conditional formatting](power-bi/desktop/overview.md), and Incremental data refresh				
+-   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh				
     added to May ’18 General Availability.				
 				
 -   Filters on data view section added to June '18 General Availability.				
@@ -108,14 +108,14 @@ The following changes are included in the Spring ’18 Release Notes version
 				
 Power BI Service revisions:				
 				
--   [Incremental data refresh](power-bi/service/overview.md) moved from May '18				
+-   [Incremental data refresh](power-bi/overview.md) moved from May '18				
     General Availability to May '18 Public Preview.				
 				
 -   Workspace search section moved from June '18 General Availability to June				
     '18 Public Preview.				
 				
 -   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and				
-    [Power BI Insights Apps](power-bi/insights-apps/overview.md) sections moved to Public				
+    [Power BI Insights Apps](power-bi/insights-apps/insights-app.md) sections moved to Public				
     Preview sometime between July and September.				
 				
 The following changes were included in Spring ’18 Release Notes version 18.1.1,				
@@ -123,9 +123,9 @@ published April 2, 2018.
 				
 | Document section                   | Description of change                                                                                                                                                                                                                                                                                                                                                                                                               |				
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|				
-| Sales                              | Added section: [New sales professional license](sales/overview.md) with link to comparison page for details. Removed section: LinkedIn profile pictures for contact records.                                                                                                                                                                                                                                                     |				
+| Sales                              | Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details. Removed section: LinkedIn profile pictures for contact records.                                                                                                                                                                                                                                                     |				
 | Service, Field Service application | Removed FBX from list of supported file formats for 3D models.                                                                                                                                                                                                                                                                                                                                                                      |				
-| Finance and Operations             | Added section: [Customer payment insights](dynamics365-finance-operations/overview.md)                                                                                                                                                                                                                                                                                                                                                                  |				
+| Finance and Operations             | Added section: [Customer payment insights](dynamics365-finance-operations/index.md)                                                                                                                                                                                                                                                                                                                                                                  |				
 | Business Intelligence Platform     | Updated availability information for the following sections: Incremental data refresh; Query acceleration for large datasets; Data metadata translations; Smart alerts; Workspaces with Azure AD groups; Export to PDF. [For more information, see Spring '18 summary of what's new in Business Intelligence Platform](release-overview.md) Removed the following sections: Slideshow mode; Report snapshots for Power BI Premium. |				
 | Data Integration                   | [Added multiple new pages on connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md).                                                                                                                                                                                                                                                                                                          |				
 | Media Platform                     | Removed public anonymous playback feature from the summary table.                                                                                                                                                                                                                                                                                                                                                                   |				
