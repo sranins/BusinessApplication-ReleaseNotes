@@ -1,4 +1,4 @@
----
+ ---
 title: "Welcome to the Release Notes for Business Applications"
 description: "These release notes describe the latest services and capabilities in the Microsoft Dynamics 365 business applications and platforms."
 author: MargoC
@@ -22,9 +22,7 @@ Plus, to help you plan for upcoming capabilities, the release notes include a li
 > [!div class="nextstepaction"]
 > [Go to the Spring '18 release notes](Spring18/release-overview.md)
 
-We’re eager to hear your feedback as you dig in to the release notes.
-
-Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
+We’re eager to hear your feedback as you dig in to the release notes. Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
 
 
 > [!TIP]
