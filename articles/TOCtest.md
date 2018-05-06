@@ -5,7 +5,7 @@
 ## [Change history](Spring18/change-history.md)
 # [General Data Protection Regulation (GDPR)](Spring18/data-protection-security.md)
 ## [Resources to manage GDPR compliance for your organization](Spring18/resources-manage-gdpr-compliance-organization.md)
-# [Accessibility](Spring18/accessibility.md)
+# [Accessibility investments](Spring18/accessibility.md)
 
 ## [Sales](Spring18/dynamics365-sales/overview.md)
 ### [Summary of what’s new](Spring18/dynamics365-sales/whats-new-sales.md)
@@ -15,6 +15,6 @@
 ### [Predictive lead scoring (Public Preview)](Spring18/dynamics365-sales/predictive-lead-scoring.md)
 ### [LinkedIn Sales Navigator integration](Spring18/linkedin-sales-navigator/overview.md)
 ### [LinkedIn Sales Navigator (SNAP) controls on forms](Spring18/linkedin-sales-navigator/linkedin-sales-navigator-snap-controls-forms.md)
-### [Dynamics 365 Gamification](Spring18/dynamics365-gamification/overview.md)
-#### [Gamification compliance](Spring18/dynamics365-gamification/gamification-compliance.md)
+### [Gamification overview](Spring18/dynamics365-gamification/overview.md)
+### [Gamification GDPR and accessibility](Spring18/dynamics365-gamification/gamification-compliance.md)
 ### [Sales professional user license](Spring18/dynamics365-sales/dynamics365-sales-professional-user-license.md)
