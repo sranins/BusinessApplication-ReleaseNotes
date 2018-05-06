@@ -1,6 +1,6 @@
 ---
-title: Business Applications Release Notes
-description: Release notes are the way that the Microsoft Business Applications group describes new and upcoming capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
+title: "Welcome to the Release Notes for Business Applications"
+description: "These release notes describe the latest services and capabilities in the Microsoft Dynamics 365 business applications and platforms."
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -13,13 +13,11 @@ audience: Admin, end user, Developer
 
 ---
 
-# Welcome to the Business Applications Release notes!
+# Welcome to the Business Applications Release notes
 
-Release notes are the way that the Microsoft Business Applications group describes new and upcoming capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
+These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
 
-We plan to publish a set of release notes for each release timeframe, as well as a list of features that we are ready to announce that are in development, but not assigned to a release. 
-
-To make it easy to find a list of changes for each business application or platform, there’s a quick summary table in each section with links to any relevant information. 
+Plus, to help you plan for upcoming capabilities, the release notes include a list of capabilities that are currently in development, but not yet assigned a release date.  
 
 We know how important these release notes are to your organization for planning a successful update. We want to know what works and what doesn’t. Let us know your thoughts by sending email to [releasenotes@microsoft.com](mailto:releasenotes@microsoft.com). We’ll use your feedback to improve our content.
 
