@@ -1,3 +1,4 @@
+
 ---
 
 title: Release overview
@@ -23,6 +24,8 @@ audience: Admin
 
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
+
+These release notes provide descriptions of the new services and capabilities, which are available starting in April 2018.
 
 We’ve made tremendous progress:
 
@@ -55,3 +58,8 @@ the digital transformation of your business on your terms.
 We’re looking forward to engaging with you as you put these new services and
 capabilities to work, and we’re eager to hear your feedback as you dig into the
 Spring ’18 release.
+
+Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
+
+
+
