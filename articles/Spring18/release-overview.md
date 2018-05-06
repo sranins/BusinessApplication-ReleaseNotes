@@ -61,5 +61,7 @@ Spring ’18 release.
 
 Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
 
+[!TIP]
+Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
 
 
