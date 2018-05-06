@@ -15,12 +15,17 @@ audience: Admin, end user, Developer
 
 # Welcome to the Business Applications Release notes
 
-These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and PowerBI.
+These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and our application platform products, such as Microsoft PowerApps and Power BI.
 
 Plus, to help you plan for upcoming capabilities, the release notes include a list of capabilities that are currently in development, but not yet assigned a release date.  
 
 > [!div class="nextstepaction"]
 > [Go to the Spring '18 release notes](Spring18/release-overview.md)
+
+We’re eager to hear your feedback as you dig in to the release notes.
+
+Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
+
 
 > [!TIP]
 > Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
