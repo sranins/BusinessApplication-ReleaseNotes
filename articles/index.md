@@ -19,9 +19,8 @@ These release notes describe new services and capabilities in the Microsoft Dyna
 
 Plus, to help you plan for upcoming capabilities, the release notes include a list of capabilities that are currently in development, but not yet assigned a release date.  
 
-We know how important these release notes are to your organization for planning a successful update. We want to know what works and what doesn’t. Let us know your thoughts by sending email to [releasenotes@microsoft.com](mailto:releasenotes@microsoft.com). We’ll use your feedback to improve our content.
+> [!TIP]
+> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
 
-> [!NOTE]
-> The release notes are available as a PDF. [Download the Spring '18 release notes](https://go.microsoft.com/fwlink/?linkid=870424). 
 
 [Spring '18 release notes](Spring18/release-overview.md)
