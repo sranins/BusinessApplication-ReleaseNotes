@@ -16,7 +16,7 @@ audience: Admin
 
 # New and improved connectors 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 ## Improved connectors for Power BI
 Connectors provide direct access to a wide range of data sources in Power BI.
