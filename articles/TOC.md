@@ -1,7 +1,5 @@
 # [Microsoft Business Applications Release Notes](index.md)
 ## [Spring '18](Spring18/release-overview.md)
-### [Release overview](Spring18/release-overview.md)
-### [Availability](availability.md)
 ### [Change history](Spring18/change-history.md)
 ### GDPR and accessibility
 #### [Data protection and security](Spring18/data-protection-security.md)
