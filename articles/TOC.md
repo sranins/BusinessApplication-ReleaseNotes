@@ -14,9 +14,9 @@
 ### [Predictive lead scoring (Public Preview)](Spring18/dynamics365-sales/predictive-lead-scoring.md)
 ### [LinkedIn Sales Navigator integration](Spring18/linkedin-sales-navigator/overview.md)
 ### [LinkedIn Sales Navigator (SNAP) controls on forms](Spring18/linkedin-sales-navigator/linkedin-sales-navigator-snap-controls-forms.md)
+### [Sales professional user license](Spring18/dynamics365-sales/dynamics365-sales-professional-user-license.md)
 ### [Dynamics 365 Gamification](Spring18/dynamics365-gamification/overview.md)
 #### [Gamification compliance](Spring18/dynamics365-gamification/gamification-compliance.md)
-### [Sales professional user license](Spring18/dynamics365-sales/dynamics365-sales-professional-user-license.md)
 
 ## [Service](Spring18/dynamics365-customer-service/overview.md)
 ### [Summary of what’s new](Spring18/dynamics365-customer-service/whats-new-customer-service.md)
@@ -165,8 +165,8 @@
 ### [Extensibility (HQ, POS, CRT)](Spring18/dynamics365-retail/extensibility-hq-pos-crt.md)
 ### [Monitoring and alerting](Spring18/dynamics365-retail/monitoring-alerting.md)
 
-## [Talent]
-### [Talent – Core HR](Spring18/dynamics365-talent/corehr/overview.md)
+## Talent
+### [Talent – Core HR](Spring18/dynamics365-talent/overview.md)
 #### [Summary of what’s new](Spring18/dynamics365-talent/whats-new-talent-core-hr.md)
 #### [Manager self-service](Spring18/dynamics365-talent/manager-self-service.md)
 #### [Attachments](Spring18/dynamics365-talent/attachments.md)
