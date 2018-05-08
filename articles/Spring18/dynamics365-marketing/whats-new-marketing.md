@@ -21,7 +21,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-| April ‘18 – General Availability                                                                                                                                                                                                                              |
+| April '18 – General Availability                                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Easy setup with guided first-run experience](easy-setup-guided-first-run-experience.md)                                                                                                                                                                                |
 | [Multi-channel campaigns with personalized customer journeys](easy-setup-guided-first-run-experience.md)                                                                                                                                                          |
