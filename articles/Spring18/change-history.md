@@ -22,9 +22,10 @@ audience: Admin
 				
 ### Intro                          
 
-Added section: [Availability](../availability.md) with link to availability guide.                                                                                                             |				
+Added section: [Availability](../availability.md) with link to availability guide. 
+
 ### Sales
-Updated section: Built on the Unified Interface framework lists additional capabilities and solutions Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md). |				
+Updated section: Built on the Unified Interface framework lists additional capabilities and solutions Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md). 
 
 ### Field Service
 Universal Resource Scheduling added features:                                                                                           - [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
@@ -123,6 +124,5 @@ Removed the following sections:
 ### Microsoft Stream
 - Removed public anonymous playback feature from the summary table.
 
-To find out when there are updates to these release notes, follow us on Twitter				
-/@MSFTDynamics365.				
+To find out when there are updates to these release notes, follow us on Twitter	/@MSFTDynamics365.				
 				
