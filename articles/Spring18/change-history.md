@@ -22,11 +22,13 @@ audience: Admin
 				
 ### Intro                          
 
-Added section: [Availability](../availability.md) with link to availability guide. 
+Added section: [Availability](release-overview.md#availability) with link to availability guide. 
 
 ### Sales
 - Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
-- Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md). 
+
+- Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md) 
+
 
 ### Field Service
 Universal Resource Scheduling added features: 
@@ -81,35 +83,32 @@ No features added
 -   [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)				
 -   Ceridian payroll integration is now available in the UK
 -   [Assignee placeholders](/dynamics365-talent/onboard/assignee-placeholders.md)							
--   Incremental Refresh Policies removed from April '18 General Availability.							
--   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh added to May ’18 General Availability.
--   Filters on data view section added to June '18 General Availability.						
--   Matrix expand or collapse section removed from June '18 General Availability.
--   Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability.
--   Performance inspector for reports section removed from June '18 General				
-    Availability.
+-   Incremental Refresh Policies removed from April '18 General Availability							
+-   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh added to May ’18 General Availability
+-   Filters on data view section added to June '18 General Availability						
+-   Matrix expand or collapse section removed from June '18 General Availability
+-   Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability
+-   Performance inspector for reports section removed from June '18 General Availability
 
 ### Power BI Service				
 				
--   [Incremental data refresh](power-bi/overview.md) moved from May '18 General Availability to May '18 Public Preview.	
--   Workspace search section moved from June '18 General Availability to June '18 Public Preview.
--   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and	
-    [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public				
-    Preview sometime between July and September.				
+-   [Incremental data refresh](power-bi/overview.md) moved from May '18 General Availability to May '18 Public Preview
+-   Workspace search section moved from June '18 General Availability to June '18 Public Preview
+-   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public Preview sometime between July and September				
 				
 ## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018				
 				
 ### Sales
-- Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details. 
-- Removed section: LinkedIn profile pictures for contact records.
+- Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details
+- Removed section: LinkedIn profile pictures for contact records
 
 ### Field Service
-- Removed FBX from list of supported file formats for 3D models.
+- Removed FBX from list of supported file formats for 3D models
 
 ### Finance and Operations
 - Added section: [Customer payment insights](dynamics365-finance-operations/index.md)                                                    
 ### Business Intelligence Platform
-Updated availability information for the following sections. For more information, see the [Spring '18 summary of what's new in Business Intelligence Platform](release-overview.md) 
+Updated availability information for the following sections. For more information, see the [Spring '18 summary of what's new in Business Intelligence Platform](release-overview.md). 
 
 - Incremental data refresh
 - Query acceleration for large datasets
@@ -120,7 +119,7 @@ Updated availability information for the following sections. For more informatio
 
 Removed the following sections: 
 - Slideshow mode
-- Report snapshots for Power BI Premium
+- Report snapshots for Power BI Premium. 
 
 ### Data Integration
 - [Added multiple new pages on connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)
@@ -128,5 +127,5 @@ Removed the following sections:
 ### Microsoft Stream
 - Removed public anonymous playback feature from the summary table.
 
-To find out when there are updates to these release notes, follow us on Twitter	/@MSFTDynamics365.				
+To find out when there are updates to these release notes, follow us on Twitter	@MSFTDynamics365.				
 				
