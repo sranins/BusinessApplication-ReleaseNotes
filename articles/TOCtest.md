@@ -53,14 +53,14 @@
 #### [GDPR investments](Spring18/voice-of-customer/gdpr-investments.md)
 #### [Survey page accessibility](Spring18/voice-of-customer/survey-page-accessibility.md)
 
-### [Dynamics 365 for Field Service](Spring18/dynamics365-field-service/overview.md)
+### [Field Service](Spring18/dynamics365-field-service/overview.md)
 #### [Summary of what’s new](Spring18/dynamics365-field-service/whats-new-field-service.md)
 #### [Field Service app enhancements](Spring18/dynamics365-field-service/app-enhancements.md)
 #### [Built on the Unified Interface framework](Spring18/dynamics365-field-service/built-unified-interface-framework-field-service.md)
 #### [Common Controls Framework (CCF)](Spring18/dynamics365-field-service/common-controls-framework.md)
 #### [3D content for customer asset records](Spring18/dynamics365-field-service/associate-3d-content-customer-asset-records.md)
 
-### [Universal Resource Scheduling (URS) enhancements](Spring18/dynamics365-field-service/urs-enhancements.md)
+### [Universal Resource Scheduling (URS)](Spring18/dynamics365-field-service/urs-enhancements.md)
 #### [Schedule board list view](Spring18/dynamics365-field-service/schedule-board-list-view.md)
 #### [Book by estimated arrival time](Spring18/dynamics365-field-service/book-estimated-arrival-time-instead-start-travel.md)
 #### [Adjust the scale of the schedule board](Spring18/dynamics365-field-service/display-more-schedule-board-adjusting-scale.md)
@@ -75,18 +75,18 @@
 #### [Keep the context when substituting a resource via search](Spring18/dynamics365-field-service/keep-context-searching-availability-substituting-resource.md)
 #### [Schedule board extensibility enhancements](Spring18/dynamics365-field-service/schedule-board-extensibility-enhancements.md)
 
-### [Resource Scheduling Optimization (RSO) enhancements](Spring18/dynamics365-field-service/rso-enhancements.md)
+### [Resource Scheduling Optimization (RSO)](Spring18/dynamics365-field-service/rso-enhancements.md)
 #### [Extensible scope](Spring18/dynamics365-field-service/extensible-scope.md)
 #### [Run as a simulation](Spring18/dynamics365-field-service/run-as-simulation.md)
 #### [Enforce skill level](Spring18/dynamics365-field-service/enforce-skill-level.md)
 
-### [Connected Field Service (IoT) enhancements](Spring18/dynamics365-field-service/connected-iot-enhancements.md)
+### [Connected Field Service (IoT)](Spring18/dynamics365-field-service/connected-iot-enhancements.md)
 #### [Built on the Unified Interface framework](Spring18/dynamics365-field-service/built-unified-interface-framework.md)
 #### [Synchronization of device conditions and properties with device twins](Spring18/dynamics365-field-service/synchronization-device-conditions-properties-device-twins.md)
 #### [Synchronization of device tags with device twins](Spring18/dynamics365-field-service/synchronization-device-tags-device-twins.md)
 #### [Configuration of device properties and commands through device categories](Spring18/dynamics365-field-service/configuration-device-properties-commands-device-categories.md)
 
-### [Dynamics 365 for Project Service](Spring18/dynamics365-project-service/overview.md)
+### [Project Service](Spring18/dynamics365-project-service/overview.md)
 #### [Summary of what’s new](Spring18/dynamics365-project-service/whats-new-project-service.md)
 #### [Project Service app enhancements](Spring18/dynamics365-project-service/app-enhancements.md)
 #### [Built on the Unified Interface framework](Spring18/dynamics365-project-service/built-unified-interface-framework.md)
@@ -239,6 +239,7 @@
 ##### [Improved support ticketing for admins](Spring18/powerapps/improved-support-ticketing-admins.md)
 ##### [GDPR compliance](Spring18/powerapps/gdpr-compliance.md)
 ##### [Automate governance with PowerShell](Spring18/powerapps/automate-governance-powershell.md)
+
 #### [Common Data Service for Apps](Spring18/common-data-service-apps/index.md)
 ##### [Summary of what’s new](Spring18/common-data-service-apps/whats-new-common-data-service-apps.md)
 ##### [Support for additional data types](Spring18/common-data-service-apps/support-additional-data-types.md)
@@ -247,6 +248,7 @@
 ##### [Calculated and rollup fields](Spring18/common-data-service-apps/calculated-rollup-fields.md)
 ##### [Improved Excel add-in](Spring18/common-data-service-apps/improved-excel-add-in.md)
 ##### [Software Development Kit (SDK)](Spring18/common-data-service-apps/software-development-kit-sdk.md)
+
 #### [Microsoft Flow](Spring18/microsoft-flow/overview.md)
 ##### [Summary of what’s new](Spring18/microsoft-flow/whats-new-flow.md)
 ##### [Create a business process flow](Spring18/microsoft-flow/create-business-process-flow.md)
@@ -276,8 +278,10 @@
 ##### [Add multiple records to array inputs](Spring18/microsoft-flow/add-multiple-records-array-inputs.md)
 ##### [Test flows with previous run data](Spring18/microsoft-flow/test-flows-previous-run-data.md)
 ##### [Access flow details with the workflow() expression](Spring18/microsoft-flow/access-flow-details-workflow-expression.md)
+
 ### [Business Intelligence Platform](Spring18/power-bi/overview.md)
 #### [Summary of what’s new](Spring18/power-bi/whats-new-business-intelligence-platform.md)
+
 #### Power BI Desktop
 ##### [Ask Top N questions in Q&A](Spring18/power-bi/desktop/ask-top-n-questions-q-a.md)
 ##### [Azure Active Directory authentication](Spring18/power-bi/desktop/azure-active-directory-authentication.md)
@@ -294,6 +298,7 @@
 ##### [User experiences for Q&A in reports](Spring18/power-bi/desktop/user-experiences-q-reports.md)
 ##### [Conditional formatting based on another column](Spring18/power-bi/desktop/conditional-formatting-based-another-column.md)
 ##### [Filtering on Data View](Spring18/power-bi/desktop/filtering-data-view.md)
+
 #### Power BI Service
 ##### [Share and favorite reports](Spring18/power-bi/service/share-favorite-reports.md)
 ##### [Push apps](Spring18/power-bi/service/push-apps.md)
@@ -311,21 +316,25 @@
 ##### [SQL Server Reporting Services (SSRS) reports for Power BI Premium (Public Preview)](Spring18/power-bi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md)
 ##### [Subscribe other users for email](Spring18/power-bi/service/subscribe-other-users-email.md)
 ##### [XMLA connectivity with Analysis Services](Spring18/power-bi/service/xmla-connectivity-analysis-services.md)
+
 #### [Common Data Service for Analytics capability in Power BI](Spring18/common-data-service-analytics/index.md)
 ##### Common Data Service for Analytics in Power BI (Public Preview)
 ###### [Common Data Service for Analytics datapools](Spring18/common-data-service-analytics/datapools.md)
 ###### [Customizable out-of-the-box apps](Spring18/common-data-service-analytics/customizable-out-box-apps.md)
 ###### [Extensible through Azure](Spring18/common-data-service-analytics/extensible-azure.md)
+
 ##### [Power BI apps for Common Data Service for Analytics](Spring18/common-data-service-analytics/power-bi-apps-cds-analytics.md)
 ###### [Guided setup](Spring18/common-data-service-analytics/guided-setup.md)
 ###### [Tailor apps to business needs](Spring18/common-data-service-analytics/tailor-apps-business-needs.md)
 ###### [Rich, immersive experiences](Spring18/common-data-service-analytics/rich-immersive-experiences.md)
+
 #### [Power BI Insights apps](Spring18/power-bi/insights-apps/insights-apps.md)
 ##### [Power BI for Sales Insights](Spring18/power-bi/insights-apps/sales-insights.md)
 ##### [Power BI for Service Insights](Spring18/power-bi/insights-apps/service-insights.md)
 ###### [Project Service Automation](Spring18/power-bi/insights-apps/project-service-automation.md)
 ###### [Customer Service Analytics](Spring18/power-bi/insights-apps/customer-service-analytics.md)
 ###### [Field Service Analytics](Spring18/power-bi/insights-apps/field-service-analytics.md)
+
 #### Power BI Embedded
 ##### [Capacity API](Spring18/power-bi/embedded/capacity-api.md)
 ##### [Row-level security on Azure Analysis Services based on CustomData](Spring18/power-bi/embedded/row-level-security-azure-analysis-services-based-customdata.md)
@@ -352,6 +361,7 @@
 ##### [Workspace collection deprecation](Spring18/power-bi/embedded/workspace-collection-deprecation.md)
 ##### [Export to PowerPoint](Spring18/power-bi/embedded/export-powerpoint.md)
 ##### [Export to PDF](Spring18/power-bi/embedded/export-pdf.md)
+
 #### Power BI Mobile
 ##### [Visio custom visuals](Spring18/power-bi/mobile/visio-custom-visuals.md)
 ##### [Responsive Visualization optimized for phone layout](Spring18/power-bi/mobile/responsive-visualization-optimized-phone-layout.md)
@@ -363,6 +373,7 @@
 ##### [Power BI for mixed reality (Public Preview)](Spring18/power-bi/mobile/power-bi-mixed-reality.md)
 ##### [Drill-down and drill-up support](Spring18/power-bi/mobile/drill-down-drill-up-support.md)
 ##### [Drill-through support](Spring18/power-bi/mobile/drill-support.md)
+
 ### [Data Integration](Spring18/data-integration/overview.md)
 #### [Common Data Model and Data Integration](Spring18/data-integration/common-data-model-data-integration.md)
 #### [Highlights from the Spring ‘18 release](Spring18/data-integration/highlights-spring-18-release.md)
@@ -389,9 +400,9 @@
 ###### [Other gateway improvements](Spring18/data-integration/gateway/other-gateway-improvements.md)
 ##### [Smart data preparation capabilities – Add Column from Examples](Spring18/data-integration/smart-data-preparation-capabilities-add-column-examples.md)
 ##### [Extensibility (Public Preview)](Spring18/data-integration/extensibility.md)
-### Media Platform
-#### [Microsoft Stream](Spring18/microsoft-stream/overview.md)
-##### [Summary of what’s new](Spring18/microsoft-stream/whats-new-media-platform.md)
-##### [Spotlight videos](Spring18/microsoft-stream/spotlight-videos.md)
-##### [Edit transcripts and curate the people timeline](Spring18/microsoft-stream/edit-transcripts-curate-people-timeline.md)
-##### [Cloud recording for meetings in Microsoft Teams](Spring18/microsoft-stream/cloud-recording-meetings-teams.md)
+
+### [Microsoft Stream](Spring18/microsoft-stream/overview.md)
+#### [Summary of what’s new](Spring18/microsoft-stream/whats-new-media-platform.md)
+#### [Spotlight videos](Spring18/microsoft-stream/spotlight-videos.md)
+#### [Edit transcripts and curate the people timeline](Spring18/microsoft-stream/edit-transcripts-curate-people-timeline.md)
+#### [Cloud recording for meetings in Microsoft Teams](Spring18/microsoft-stream/cloud-recording-meetings-teams.md)
