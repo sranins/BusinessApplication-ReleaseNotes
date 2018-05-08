@@ -1,4 +1,3 @@
-
 ---
 title: Resources to manage GDPR compliance for your organization
 description: Resources to manage GDPR compliance for your organization
@@ -26,6 +25,10 @@ In May 2018, a European privacy law, the General Data Protection Regulation
 non-profits, and other organizations that offer goods and services to people in
 the EU, or that collect and analyze data tied to EU residents. The GDPR applies
 no matter where you are located.
+
+The Spring ’18 release includes investments in Dynamics 365 products to address
+the requirements of the General Data Protection Regulation (GDPR) adopted by the
+European Union (EU).
 
 Microsoft has extensive expertise in protecting data, championing privacy, and
 complying with complex regulations, and currently complies with both EU-U.S.
