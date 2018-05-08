@@ -17,7 +17,7 @@ audience: Admin
 #  Change history
 
 
-## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018.
+## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
 				
 ### Intro                          
@@ -97,7 +97,7 @@ No features added
     [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public				
     Preview sometime between July and September.				
 				
-## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018.				
+## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018				
 				
 ### Sales
 - Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details. 
@@ -120,7 +120,7 @@ Updated availability information for the following sections. For more informatio
 
 Removed the following sections: 
 - Slideshow mode
-- Report snapshots for Power BI Premium. 
+- Report snapshots for Power BI Premium
 
 ### Data Integration
 - [Added multiple new pages on connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)
