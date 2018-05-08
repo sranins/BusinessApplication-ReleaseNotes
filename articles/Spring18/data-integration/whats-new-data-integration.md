@@ -21,7 +21,7 @@ audience: Admin
 
 | General Availability                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------|
-| [New and improved connectors for Power BI](#_New_and_improved_2)                                                                |
+| [New and improved connectors for Power BI](connectors.md#improved-connectors-for-power-BI)                                                                |
 | Improved SAP BW DirectQuery connector.                                                                                          |
 | Improved SAP HANA DirectQuery connector.                                                                                        |
 | Improved SAP HANA & BW certification.                                                                                           |
@@ -29,7 +29,7 @@ audience: Admin
 | New Azure Analysis Services connector.                                                                                          |
 | New IBM Netezza connector.                                                                                                      |
 | Improved Azure Blob Storage connector.                                                                                          |
-| [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](#_New_and_improved_1)                                       |
+| [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](connectors.md#improved-connectors-for-powerapps-flow-and-logic-apps)                                       |
 | Improved SQL Server connector supports views, native queries, and temporal tables.                                              |
 | New operations in Office 365 Outlook and Office 365 Users connectors.                                                           |
 | Write support for PostgreSQL, MySQL, and Teradata connectors.                                                                   |
