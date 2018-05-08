@@ -29,7 +29,8 @@ Added section: [Availability](../availability.md) with link to availability guid
 - Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md). 
 
 ### Field Service
-Universal Resource Scheduling added features:                                                                                           - [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
+Universal Resource Scheduling added features: 
+- [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
 - [Display up to 14 days on the hourly schedule board](dynamics365-field-service/overview.md)
 - [Change booking statuses from daily, weekly, and monthly schedule boards](dynamics365-field-service/overview.md)
 - [Pass in date and time for search parameters with the URL](dynamics365-field-service/overview.md)
