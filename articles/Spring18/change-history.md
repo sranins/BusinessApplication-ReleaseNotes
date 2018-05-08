@@ -99,7 +99,8 @@ No features added
 ## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018.				
 				
 ### Sales
-- Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details. Removed section: LinkedIn profile pictures for contact records.
+- Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details. 
+- Removed section: LinkedIn profile pictures for contact records.
 
 ### Field Service
 - Removed FBX from list of supported file formats for 3D models.
@@ -117,7 +118,8 @@ Updated availability information for the following sections. For more informatio
 - Export to PDF  
 
 Removed the following sections: 
-- Slideshow mode; Report snapshots for Power BI Premium. 
+- Slideshow mode
+- Report snapshots for Power BI Premium. 
 
 ### Data Integration
 - [Added multiple new pages on connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)
