@@ -2,7 +2,7 @@
 # [Spring '18](Spring18/release-overview.md)
 ## [Release overview](Spring18/release-overview.md)
 ## [Availability](availability.md)
-## [Resources to manage GDPR compliance for your organization](Spring18/resources-manage-gdpr-compliance-organization.md)
+## [Resources to help with GDPR compliance](Spring18/resources-manage-gdpr-compliance-organization.md)
 ## [Accessibility](Spring18/accessibility.md)
 ## [Change history](Spring18/change-history.md)
 
