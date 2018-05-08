@@ -118,7 +118,7 @@
 ### [Reserve project resources past the task end date](Spring18/dynamics365-finance-operations/reserve-project-resources-past-task-end-date.md)
 ### [Person search report](Spring18/dynamics365-finance-operations/person-search-report.md)
 ### [Data sharing for customer and vendor tables](Spring18/dynamics365-finance-operations/data-sharing-customer-vendor-tables.md)
-### [One voucher deprecation](Spring18/dynamics365-finance-operations/one-voucher-deprecation.md)
+### [One voucher deprecation](Spring18/dynamics365-finance-operations/one-voucher-deprecation.md
 ### [Customizations through extensions only](Spring18/dynamics365-finance-operations/customizations-extensions-only.md)
 ### [Extensibility requests](Spring18/dynamics365-finance-operations/extensibility-requests.md)
 ### [Extensible project work breakdown structure](Spring18/dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
@@ -165,7 +165,7 @@
 ### [Extensibility (HQ, POS, CRT)](Spring18/dynamics365-retail/extensibility-hq-pos-crt.md)
 ### [Monitoring and alerting](Spring18/dynamics365-retail/monitoring-alerting.md)
 
-## [Talent](Spring18/dynamics365-talent/overview.md)
+## [Talent]
 ### [Talent – Core HR](Spring18/dynamics365-talent/corehr/overview.md)
 #### [Summary of what’s new](Spring18/dynamics365-talent/whats-new-talent-core-hr.md)
 #### [Manager self-service](Spring18/dynamics365-talent/manager-self-service.md)
