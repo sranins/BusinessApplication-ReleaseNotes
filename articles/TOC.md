@@ -1,4 +1,3 @@
-# [Microsoft Business Applications Release Notes](index.md)
 ## [Spring '18](Spring18/release-overview.md)
 ### [Change history](Spring18/change-history.md)
 ### [GDPR and accessibility](Spring18/gdpr-accessibility.md)
@@ -348,7 +347,6 @@
 ##### [Drill-through support](Spring18/power-bi/mobile/drill-support.md)
 ### [Data Integration](Spring18/data-integration/overview.md)
 #### [Common Data Model and Data Integration](Spring18/data-integration/common-data-model-data-integration.md)
-#### [Highlights from the Spring ‘18 release](Spring18/data-integration/highlights-spring-18-release.md)
 #### [Spring ’18 summary of what’s new in Data Integration](Spring18/data-integration/whats-new-data-integration.md)
 #### [New and improved connectors](Spring18/data-integration/connectors.md)
 #### [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](Spring18/data-integration/integration-cds-apps-cds-analytics.md)
