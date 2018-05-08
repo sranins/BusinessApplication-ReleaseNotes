@@ -1,4 +1,4 @@
-# [How to use these release notes](index.md)
+# [How to use the Business Applications release notes](index.md)
 # [Spring '18](Spring18/release-overview.md)
 ## [Release overview](Spring18/release-overview.md)
 ## [Availability](availability.md)
