@@ -69,7 +69,7 @@ No features added
 
 ### Power BI Desktop
 - [Book by estimated arrival time instead of start of travel](power-bi/overview.md)
-- [Globalization – United Arab Emirates localizatio](dynamics365-finance-operations/index.md) for Fall 2017 release (version 7.3 update/overview.md)
+- [Globalization – United Arab Emirates localization](dynamics365-finance-operations/index.md) for Fall 2017 release (version 7.3 update/overview.md)
 -   [Create actuals in Project Service Automation](dynamics365-finance-operations/index.md) and synchronize them to the	Finance and Operations integration journal
 -   [Extensible project work breakdown structure](dynamics365-finance-operations/index.md)	
 -   [Book by estimated arrival time instead of start of  travel](power-bi/overview.md)				
