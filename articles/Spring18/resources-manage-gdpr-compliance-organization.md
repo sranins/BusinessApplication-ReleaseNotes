@@ -1,5 +1,5 @@
----
 
+---
 title: Resources to manage GDPR compliance for your organization
 description: Resources to manage GDPR compliance for your organization
 author: MargoC
@@ -35,8 +35,8 @@ We believe that the GDPR is an important step forward for clarifying and
 enabling individual privacy rights. We want to help you focus on your core
 business while efficiently preparing for the GDPR.
 
-Looking for resources to help you comply? [Go to the Microsoft Trust
-Center](https://go.microsoft.com/fwlink/?linkid=866190),
+## Looking for resources to help you comply? 
+[Go to the Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=866190),
 where you’ll find tools and auditing reports to help you manage cloud-data
 security and compliance for your organization:
 
@@ -46,5 +46,4 @@ security and compliance for your organization:
 -   Get details on how the Microsoft Cloud complies with standards that matter
     to your organization.
 
--   Find webinars, videos, white papers, and [FAQ](https://go.microsoft.com/fwlink/?linkid=871100) about
-    the regulation.
+-   Find webinars, videos, white papers, and [FAQ about the regulation](https://go.microsoft.com/fwlink/?linkid=871100).
