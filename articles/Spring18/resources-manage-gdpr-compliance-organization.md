@@ -21,8 +21,22 @@ audience: Admin
 
 [!include[banner](../includes/banner.md)]
 
-[Go to the Trust
-Center](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx),
+In May 2018, a European privacy law, the General Data Protection Regulation
+(GDPR), takes effect. The GDPR imposes rules on companies, government agencies,
+non-profits, and other organizations that offer goods and services to people in
+the EU, or that collect and analyze data tied to EU residents. The GDPR applies
+no matter where you are located.
+
+Microsoft has extensive expertise in protecting data, championing privacy, and
+complying with complex regulations, and currently complies with both EU-U.S.
+Privacy Shield and EU Model Clauses.
+
+We believe that the GDPR is an important step forward for clarifying and
+enabling individual privacy rights. We want to help you focus on your core
+business while efficiently preparing for the GDPR.
+
+Looking for resources to help you comply? [Go to the Microsoft Trust
+Center](https://go.microsoft.com/fwlink/?linkid=866190),
 where you’ll find tools and auditing reports to help you manage cloud-data
 security and compliance for your organization:
 
@@ -33,7 +47,7 @@ security and compliance for your organization:
     to your organization.
 
 -   [Find
-    resources](https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/resources)
-    like webinars, videos, white papers, and
+    webinars, videos, white papers](https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/resources),
+    and
     [FAQs](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/FAQ) about
     the regulation.
