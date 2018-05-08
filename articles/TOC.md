@@ -347,7 +347,6 @@
 ##### [Drill-down and drill-up support](Spring18/power-bi/mobile/drill-down-drill-up-support.md)
 ##### [Drill-through support](Spring18/power-bi/mobile/drill-support.md)
 ### [Data Integration](Spring18/data-integration/overview.md)
-#### [Common Data Model and Data Integration](Spring18/data-integration/common-data-model-data-integration.md)
 #### [Spring ’18 summary of what’s new in Data Integration](Spring18/data-integration/whats-new-data-integration.md)
 #### [New and improved connectors](Spring18/data-integration/connectors.md)
 #### [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](Spring18/data-integration/integration-cds-apps-cds-analytics.md)
