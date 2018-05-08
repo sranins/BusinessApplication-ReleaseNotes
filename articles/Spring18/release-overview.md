@@ -16,14 +16,12 @@ audience: Admin
 ---
 #  Release overview
 
-
-
-
 [!include[banner](../includes/banner.md)]
 
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
 
+## Releas themes
 We’ve made tremendous progress:
 
 -   **Unifying our business applications** across marketing, sales, service,
@@ -55,3 +53,9 @@ the digital transformation of your business on your terms.
 We’re looking forward to engaging with you as you put these new services and
 capabilities to work, and we’re eager to hear your feedback as you dig into the
 Spring ’18 release.
+
+##  Availability
+
+For a list of the regions where Dynamics 365 business applications are
+available, [see the Availability
+Guide](https://aka.ms/dynamics_365_international_availability_deck).
