@@ -146,7 +146,7 @@ Apps, you can:
     third-party applications to create standalone line-of-business apps with
     PowerApps.
 
--   **Automate business processes with Microsoft Flow** Use a business process
+-   **Automate business processes with Microsoft Flow** - Use a business process
     flow to define a set of stages and steps to achieve a desired outcome.
 
 ## Common Data Service for Analytics
