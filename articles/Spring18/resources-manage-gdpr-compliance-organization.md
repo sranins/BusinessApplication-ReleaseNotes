@@ -46,8 +46,5 @@ security and compliance for your organization:
 -   Get details on how the Microsoft Cloud complies with standards that matter
     to your organization.
 
--   [Find
-    webinars, videos, white papers](https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/resources),
-    and
-    [FAQs](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/FAQ) about
+-   Find webinars, videos, white papers, and [FAQ](https://go.microsoft.com/fwlink/?linkid=871100) about
     the regulation.
