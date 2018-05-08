@@ -21,7 +21,6 @@ audience: Admin
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
 
-## Releas themes
 We’ve made tremendous progress:
 
 -   **Unifying our business applications** across marketing, sales, service,
