@@ -1,9 +1,9 @@
 # [How to use these release notes](index.md)
 # [Spring '18](Spring18/release-overview.md)
 ## [Release overview](Spring18/release-overview.md)
+## [Availability](availability.md)
 ## [Resources to manage GDPR compliance for your organization](Spring18/resources-manage-gdpr-compliance-organization.md)
 ## [Accessibility](Spring18/accessibility.md)
-## [Availability](availability.md)
 ## [Change history](Spring18/change-history.md)
 
 ## [Sales](Spring18/dynamics365-sales/overview.md)
