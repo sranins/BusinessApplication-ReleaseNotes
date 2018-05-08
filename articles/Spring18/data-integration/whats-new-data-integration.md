@@ -44,6 +44,8 @@ audience: Admin
 
 [Smart data preparation capabilities for Power Query](smart-data-preparation-capabilities-add-column-examples.md)
 
+Use Power Query to integrate data into the Common Data Service for Apps and the Common Data Service for Analytics. Create, populate, transform, and enrich standard entities defined in the Common Data Model. You can use example column values to infer column rows (Add Column from Examples feature).
+
 ## Public Preview
 [New and improved connectors for Power BI](connectors.md#improved-connectors-for-power-bi)
 - HDInsight Interactive Query
@@ -72,6 +74,9 @@ audience: Admin
 - [PowerShell gateway commands library](powershell-commands-library-premises-data-gateway.md)
 
 [Extensibility](extensibility.md)
+
+Partners can create and distribute their own connectors and submit them for certification across the platform.
+
 - M connector SDK enables third parties to write new connectors
 - Improved certification program for partners looking to build and release connectors across Power BI, Microsoft Flow, PowerApps, and Logic Apps
 - M connector support for on-premises data gateway (personal mode), starting in April
