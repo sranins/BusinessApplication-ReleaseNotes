@@ -1,11 +1,7 @@
 # [Microsoft Business Applications Release Notes](index.md)
 ## [Spring '18](Spring18/release-overview.md)
 ### [Change history](Spring18/change-history.md)
-### GDPR and accessibility
-#### [Data protection and security](Spring18/data-protection-security.md)
-##### [General Data Protection Regulation](Spring18/general-data-protection-regulation.md)
-##### [Resources to manage GDPR compliance for your organization](Spring18/resources-manage-gdpr-compliance-organization.md)
-#### [Accessibility](Spring18/accessibility.md)
+### [GDPR and accessibility](Spring18/gdpr-accessibility.md)
 ### Marketing
 #### [Dynamics 365 for Marketing](Spring18/dynamics365-marketing/overview.md)
 ##### [Spring ’18 summary of what’s new in Marketing](Spring18/dynamics365-marketing/whats-new-marketing.md)
