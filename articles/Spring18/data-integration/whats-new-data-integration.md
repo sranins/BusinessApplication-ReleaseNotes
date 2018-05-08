@@ -32,7 +32,7 @@ audience: Admin
 - New IBM Netezza connector.
 - Improved Azure Blob Storage connector.
 
-### [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](#_New_and_improved_1)
+### [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](connectors.md#improved-connectors-for-powerapps-flow-and-logic-apps)
 
 - Improved SQL Server connector supports views, native queries, and temporal tables.
 - New operations in Office 365 Outlook and Office 365 Users connectors.
