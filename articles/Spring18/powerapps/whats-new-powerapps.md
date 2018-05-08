@@ -1,7 +1,7 @@
 ---
 
-title: Spring  18 summary of what s new in PowerApps
-description: Spring  18 summary of what s new in PowerApps
+title: Spring '18 summary of what's new in PowerApps
+description: Spring '18 summary of what's new in PowerApps
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -14,29 +14,29 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Spring '18 summary of what’s new in PowerApps
+# Spring ’18 summary of what’s new in PowerApps
 
 
 
 
 [!include[banner](../../includes/banner.md)]
 
-| April '18 - General Availability                                                          |
-|-------------------------------------------------------------------------------------------|
-| [Model-driven apps](model-driven-apps.md)                                                   |
-| [Entity forms for model‑driven apps](model-driven-apps.md)                                      |
-| [Entity views for model‑driven apps](model-driven-apps.md)                                      |
-| [Business process flows for model‑driven apps](model-driven-apps.md)                  |
-| [Dashboards for model‑driven apps](model-driven-apps.md)                         |
-| [Metadata-driven responsive user experiences](model-driven-apps.md)          |
-| [Accessible model‑driven apps out of the box](model-driven-apps.md)             |
-| [Mobile player for model‑driven apps](model-driven-apps.md)                                |
-| [Canvas apps](canvas-apps.md)                                                              |
-| [Controllable delegation limits for canvas apps](canvas-apps.md)      |
-| [SQL views for canvas apps](canvas-apps.md)                                                  |
-| [Simplified access to entities through foreign key relationships](canvas-apps.md) |
-| [Improved app sharing experience](improved-app-sharing-experience.md)                                |
-| [Apps connected to SharePoint can include attachments](apps-connected-sharepoint-can-include-attachments.md)             |
-| [Improved support ticketing for admins](improved-support-ticketing-admins.md)                     |
-| [GDPR compliance](gdpr-compliance.md)                                                       |
-| [Automate governance with PowerShell](automate-governance-powershell.md)                         |
+## April ’18 - General Availability
+
+- [Model-driven apps](model-driven-apps.md)
+- [Entity forms for model‑driven apps](model-driven-apps.md)
+- [Entity views for model‑driven apps](model-driven-apps.md)
+- [Business process flows for model‑driven apps](model-driven-apps.md)
+- [Dashboards for model‑driven apps](model-driven-apps.md)
+- [Metadata-driven responsive user experiences](model-driven-apps.md)
+- [Accessible model‑driven apps out of the box](model-driven-apps.md)
+- [Mobile player for model‑driven apps](model-driven-apps.md)
+- [Canvas apps](canvas-apps.md)
+- [Controllable delegation limits for canvas apps](canvas-apps.md)
+- [SQL views for canvas apps](canvas-apps.md)
+- [Simplified access to entities through foreign key relationships](canvas-apps.md)
+- [Improved app sharing experience](improved-app-sharing-experience.md)
+- [Apps connected to SharePoint can include attachments](apps-connected-sharepoint-can-include-attachments.md)
+- [Improved support ticketing for admins](improved-support-ticketing-admins.md)
+- [GDPR compliance](gdpr-compliance.md)
+- [Automate governance with PowerShell](automate-governance-powershell.md)
