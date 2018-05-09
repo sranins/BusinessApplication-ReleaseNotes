@@ -18,6 +18,8 @@ audience: Admin
 
 [!include[banner](../includes/banner.md)]
 
+![Backdrop](media/backdrop.png)
+
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
 
