@@ -24,23 +24,22 @@ audience: Admin
     Service for Analytics. Create, populate, transform, and enrich standard
     entities defined in the Common Data Model.
 
--   **27 new connectors for PowerApps, Flow, and Logic Apps**
-
-    [!include[banner](../../includes/public-preview.md)]
-    
-    Includes connectors for Excel Online, Microsoft To-Do, ServiceNow, Workday
+-   **27 new connectors for PowerApps, Flow, and Logic Apps** – Includes connectors for Excel Online, Microsoft To-Do, ServiceNow, Workday
     HCM, and Azure SQL Data Warehouse, among others. [See the full
     list](#FullList).
+
+    [!include[banner](../../includes/public-preview.md)]
+
 
 -   **3 new connectors for Power BI (General Availability)** – Includes Adobe
     Analytics, IBM Netezza, and Azure Analysis Services.
 
--   **5 new connectors for Power BI**
-
-    [!include[banner](../../includes/public-preview.md)]
-    Includes HDInsight
+-   **5 new connectors for Power BI** – Includes HDInsight
     Interactive Query, Data.World, Vertica, Azure Consumption Insights, and
     Dynamics 365 for Financials.
+
+    [!include[banner](../../includes/public-preview.md)]
+
 
 -   **Enhancements to major connectors** – Includes SQL Server, SAP HANA, SAP
     BW, Office 365 Outlook, Salesforce.com, Visual Studio Team Services, Azure

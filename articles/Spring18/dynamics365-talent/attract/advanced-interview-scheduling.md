@@ -29,9 +29,9 @@ New capabilities include:
 
 -   Scheduler role that provides the ability to:
 
--   View interview accept/decline notifications in Attract.
+    -   View interview accept/decline notifications in Attract.
 
--   Create an interview schedule in just a few clicks.
+    -   Create an interview schedule in just a few clicks.
 
 -   Propose alternate interview times.
 

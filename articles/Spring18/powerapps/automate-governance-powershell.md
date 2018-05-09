@@ -41,6 +41,6 @@ following areas:
 <!-- Picture 12 -->
 
 
-PowerShell administration
+*PowerShell administration*
 
 

@@ -19,24 +19,18 @@ audience: Admin
 [!include[banner](../../../includes/banner.md)]
 [!include[banner](../../../includes/public-preview.md)]
 
->   **Availability**
 
->   Public Preview of Talent - Attract is available in all regions where the
->   product is available.
-
->   For a complete list of regions, see the [Dynamics 365 International
->   Availability
->   Guide](https://aka.ms/dynamics_365_international_availability_deck).
+Job management lets customers automate the publication of jobs to the new Talent Career site or use a unique URL for each job to advertise a position. New capabilities include:
 
 -   Talent Career site – Organizations can host open jobs on the public job
     listing site, which allows:
 
--   Searching for jobs, saving searches, and setting notifications of future job
+    -   Searching for jobs, saving searches, and setting notifications of future job
     postings.
 
--   Displaying jobs based on internal versus external flags.
+    -   Displaying jobs based on internal versus external flags.
 
--   Recommending jobs based on candidate information.
+    -   Recommending jobs based on candidate information.
 
 -   Quickly posting jobs to a company career site to kick off the application
     process.
@@ -58,3 +52,12 @@ boards, on separate tiles.
 
 
 *Job page on the Talent Career site*
+
+>   **Availability**
+>
+>   Public Preview of Talent - Attract is available in all regions where the
+>   product is available.
+>
+>   For a complete list of regions, see the [Dynamics 365 International
+>   Availability
+>   Guide](https://aka.ms/dynamics_365_international_availability_deck).

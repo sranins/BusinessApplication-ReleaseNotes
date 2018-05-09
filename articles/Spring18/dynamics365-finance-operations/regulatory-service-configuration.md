@@ -14,22 +14,14 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Regulatory service – Configuration<br>(Public Preview)
+#  Regulatory service – Configuration (Public Preview)
 
 
 [!include[banner](../../includes/banner.md)]
 
 [!include[banner](../../includes/public-preview.md)]
 
->   **Availability**
-
->   Public Preview of Regulatory service - Configuration is available in all
->   regions where Dynamics 365 for Finance and Operations is available. However,
->   data is hosted only in a US data center.
-
->   For a complete list of regions, see the [Dynamics 365 International
->   Availability
->   Guide](https://aka.ms/dynamics_365_international_availability_deck).
+(Available at the end of April) Regulatory service targets a no-code programming approach, allowing users to configure Electronic reporting formats or tax rules rather than write code for them in the underlying application. Partners and customers using multiple versions of Finance and Operations and earlier versions (such as Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2009, for India only) can work with one configuration service to produce configurations for use across the various versions that they are using. With the Public Preview release, customers and partners can access Regulatory service as an independent service through a browser.
 
 They will have access to:
 
@@ -41,3 +33,13 @@ They will have access to:
     the target application’s artifacts, such as data tables, enumeration, and
     classes. These are used at design time to define data sources of a data
     model mapping version.
+
+>   **Availability**
+>
+>   Public Preview of Regulatory service - Configuration is available in all
+>   regions where Dynamics 365 for Finance and Operations is available. However,
+>   data is hosted only in a US data center.
+>
+>   For a complete list of regions, see the [Dynamics 365 International
+>   Availability
+>   Guide](https://aka.ms/dynamics_365_international_availability_deck).

@@ -21,14 +21,8 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
->   **Availability**
 
->   Public Preview of Credit and collections is available in  
->   all regions where Dynamics 365 for Finance and Operations is available.
-
->   For a complete list of regions, see the [Dynamics 365 International
->   Availability
->   Guide](https://aka.ms/dynamics_365_international_availability_deck).
+Are you providing the right level of credit to the right customers? Is your organization collecting efficiently and effectively? Credit and collections insights provides proactive guidance about questions such as these and more. It provides key credit and collections metrics, such as days sales outstanding, balance overdue, credit exposure, and customers who are over their credit limit. It uses transactional data and provides aggregate views of credit and collections across all designated companies. It also provides a breakdown per company, customer group, and customer.
 
 In addition to historical trends and analysis, you can leverage predictive
 analysis and built-in visuals to proactively show and identify trends. By
@@ -50,3 +44,12 @@ stand-alone app, which is available at <https://appsource.microsoft.com>.
 
 
 *Credit and collections*
+
+>   **Availability**
+>
+>   Public Preview of Credit and collections is available in  
+>   all regions where Dynamics 365 for Finance and Operations is available.
+>
+>   For a complete list of regions, see the [Dynamics 365 International
+>   Availability
+>   Guide](https://aka.ms/dynamics_365_international_availability_deck).

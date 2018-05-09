@@ -36,4 +36,4 @@ an experience that best fits the work they do in PowerApps.
 
 [For more information about business process flows, go to Create a business
 process flow to standardize
-processes](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-business-process-flow).
+processes.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-business-process-flow)

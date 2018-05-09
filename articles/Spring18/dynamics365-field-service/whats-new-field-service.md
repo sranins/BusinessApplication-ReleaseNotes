@@ -30,6 +30,8 @@ audience: Admin
 
 ### Field Service app
 - [Built on the Unified Interface framework](app-enhancements.md).
+- [Common Controls Framework (CCF)](app-enhancements.md).
+- [Associate 3D content with customer asset records](app-enhancements.md).
 
 ### Universal Resource Scheduling (URS) solution
 
@@ -38,14 +40,12 @@ audience: Admin
 ### Resource Scheduling Optimization (RSO) solution
 
 - [Extensible scope](rso-enhancements.md).
+- [Run as a simulation](rso-enhancements.md).
+- [Enforce skill level](rso-enhancements.md).
 
 ### Connected Field Service (IoT) solution
 
 - [Built on the Unified Interface framework](connected-iot-enhancements.md).
-- [Common Controls Framework (CCF)](app-enhancements.md).
-- [Associate 3D content with customer asset records](app-enhancements.md).
-- [Run as a simulation](rso-enhancements.md).
-- [Enforce skill level](rso-enhancements.md).
 - [Synchronization of device conditions and properties with device twins](connected-iot-enhancements.md).
 - [Synchronization of device tags with device twins](connected-iot-enhancements.md).
 - [Configuration of device properties and commands through device categories](connected-iot-enhancements.md).

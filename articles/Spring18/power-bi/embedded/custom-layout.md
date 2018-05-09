@@ -27,17 +27,17 @@ control the size, position, and visibility of a report visual.
 -   **Page layout.** When you build a report page through Power BI Desktop, you
     configure the layout using two fields: page size type and page layout.
 
-![A screenshot of a menu allowing a user to adjust page size](media/custom-layout-1.png "A screenshot of a menu allowing a user to adjust page size")
+    ![A screenshot of a menu allowing a user to adjust page size](media/custom-layout-1.png "A screenshot of a menu allowing a user to adjust page size")
 
-Page size options
+    *Page size options*
 
-![A screenshot of a menu allowing a user to adjust page layout ](media/custom-layout-2.png "A screenshot of a menu allowing a user to adjust page layout ")
-<!-- Picture 21 -->
+    ![A screenshot of a menu allowing a user to adjust page layout ](media/custom-layout-2.png "A screenshot of a menu allowing a user to adjust page layout ")
+    <!-- Picture 21 -->
 
 
-Page layout options
+    *Page layout options*
 
-By default, each time you embed a report, it uses the configuration made in
+    By default, each time you embed a report, it uses the configuration made in
 Power BI Desktop. With custom layout, you can dynamically set the definitions to
 optimize the report layout inside the application page. You can change the
 layout during the session based on events such as a content change or browser
@@ -49,7 +49,7 @@ resizing.
     have full configuration control of appearance of visuals on the canvas
     dynamically during user sessions.
 
-For example, assume that your application’s customer has different departments.
+    For example, assume that your application’s customer has different departments.
 Instead of creating copies of the same report or report pages for each
 department and making the modifications, you can show the same report page and
 expose only the relevant visuals to that user. Using custom layout, you can

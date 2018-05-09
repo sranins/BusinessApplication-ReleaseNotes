@@ -53,5 +53,5 @@ To get started with model‑driven apps, use designers to:
 
 *Model-driven apps designer*
 
-For more information about the app designer, go to Design custom business apps
-by using the app designer.
+[For more information about the app designer, go to Design custom business apps
+by using the app designer.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/design-custom-business-apps-using-app-designer)

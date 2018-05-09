@@ -29,12 +29,3 @@ timeline.
 ![Record meetings for Microsoft Teams](media/cloud-recording-meetings-microsoft-teams-1.png "Record meetings for Microsoft Teams")
 
 *Record meetings for Microsoft Teams*
-
-Got feedback?
-
-Drop us a line at
-[releasenotes\@microsoft.com](mailto:releasenotes@microsoft.com?subject=What%20would%20you%20like%20to%20let%20us%20know%20about%20the%20Release%20Notes?).
-We’ll use your feedback to improve our content.
-
-To find out when there are updates to this guide, follow us on Twitter
-\@MSFTDynamics365.

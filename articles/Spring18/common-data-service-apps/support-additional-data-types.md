@@ -65,6 +65,4 @@ Existing data types include:
 
 -   Lookup.
 
-    [For more information about data types, go to the Types of fields and data
-    types
-    page.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/types-of-fields)
+[For more information about data types, go to the Types of fields and data types page.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/types-of-fields)

@@ -30,29 +30,29 @@ capabilities include:
 
 -   Retail POS capabilities:
 
--   Digital signing of all retail sales transactions, and also end-of-day
+    -   Digital signing of all retail sales transactions, and also end-of-day
     reports and audit events.
 
--   Additional required data fields that can be added to receipt layouts,
+    -   Additional required data fields that can be added to receipt layouts,
     including an extract of the digital signature of the signed retail
     transaction, software version, count of receipt lines, and so on.
 
--   Registration of audit events, such as printing a copy of a receipt,
+    -   Registration of audit events, such as printing a copy of a receipt,
     entering/exiting offline mode, and so on.
 
--   Additional required data in end-of-day reports (X/Z reports), including
+    -   Additional required data in end-of-day reports (X/Z reports), including
     cumulative grand totals, decomposition of shift totals per tax code, and so
     on.
 
--   Options to restrict shift duration to one day.
+    -   Options to restrict shift duration to one day.
 
 -   Retail headquarters capabilities:
 
--   A period grand total journal that calculates retail sales and returns totals
+    -   A period grand total journal that calculates retail sales and returns totals
     per store for a period and cumulatively, and also the decomposition of
     totals per tax code. A calculated and closed journal is digitally signed.
 
--   Archiving the export of retail sales data for a closed period, such as a
+    -   Archiving the export of retail sales data for a closed period, such as a
     closed period grand total journal. This includes transaction data for
     transactions completed in the period, shift data for shifts closed in the
     period, audit event data for events in the period, and the period grand
