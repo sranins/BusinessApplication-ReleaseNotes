@@ -149,9 +149,9 @@
 #### [Analytical workspaces with embedded Power BI for cost management](Spring18/dynamics365-finance-operations/analytical-workspaces-embedded-power-bi-cost-management.md)
 
 ### Globalization
-#### [Globalization – India localization: Project and upgrade](Spring18/dynamics365-finance-operations/globalization-india-localization-project-upgrade.md)
-#### [Globalization – Enhanced configurability](Spring18/dynamics365-finance-operations/globalization-enhanced-configurability.md)
-#### [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](Spring18/dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
+#### [India localization: Project and upgrade](Spring18/dynamics365-finance-operations/globalization-india-localization-project-upgrade.md)
+#### [United Arab Emirates localization for Fall 2017 release (version 7.3 update)](Spring18/dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
+#### [Enhanced configurability](Spring18/dynamics365-finance-operations/globalization-enhanced-configurability.md)
 #### [Translation Service enhancements](Spring18/dynamics365-finance-operations/translation-service-enhancements.md)
 #### [Regulatory service – Configuration (Public Preview)](Spring18/dynamics365-finance-operations/regulatory-service-configuration.md)
 
