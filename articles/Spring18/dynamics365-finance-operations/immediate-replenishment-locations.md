@@ -32,9 +32,7 @@ that it’s restricted by specific units and uses quantities that are set for
 specific locations.
 
 > [!div class="mx-imgBorder"] 
-> ![A screenshot demonstrating the immediate replenishment of locations
-](media/immediate-replenishment-locations-1.png "A screenshot demonstrating the immediate replenishment of locations
-")
+> ![A screenshot demonstrating the immediate replenishment of locations](media/immediate-replenishment-locations-1.png "A screenshot demonstrating the immediate replenishment of locations")
 <!-- FO_Immediate_replenishment_of_locations_A.png -->
 
 
