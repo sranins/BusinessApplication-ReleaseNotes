@@ -1,6 +1,6 @@
 ---
 
-title: "Release overview"
+title: "Spring '18 Release Overview"
 description: "Learn what's new in the Dynamics 365 business applications and platforms Spring '18 release."
 author: MargoC
 manager: AnnBe
@@ -14,7 +14,7 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Release overview
+#  Spring '18 Release Overview
 
 [!include[banner](../includes/banner.md)]
 
