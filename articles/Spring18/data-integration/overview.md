@@ -111,7 +111,7 @@ that spans multiple channels, service implementations, and vendors.
     Salesforce.com. Mapping templates are fully customizable and extensible.
 
     > [!div class="mx-imgBorder"] 
-> ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
+    > ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
 
     *Import external data and map it to standard entities in Power Query*
 
