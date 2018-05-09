@@ -26,4 +26,7 @@ We know how important these release notes are to your organization for planning 
 > [!NOTE]
 > The release notes are available as a PDF. [Download the Spring '18 release notes](https://go.microsoft.com/fwlink/?linkid=870424). 
 
+To find out when there are updates to this guide, follow us on Twitter
+\@MSFTDynamics365.
+
 [Spring '18 release notes](Spring18/release-overview.md)

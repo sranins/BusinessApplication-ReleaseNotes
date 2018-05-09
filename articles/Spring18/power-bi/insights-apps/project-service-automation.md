@@ -28,24 +28,24 @@ tailored reporting and insights for each role:
     key insights around gross margins, revenue, costs, and utilization to help
     answer questions like:
 
--   Who are the most profitable customers?
+    -   Who are the most profitable customers?
 
--   Where are the largest costs on a project incurred?
+    -   Where are the largest costs on a project incurred?
 
 -   **Resource Manager.** Responsible for assigning the right resources to the
     projects at the right time. The app provides key insights about resource and
     role utilization, as well as unfulfilled demand to help answer questions
     like:
 
--   What does the utilization rate look like for developers over the last six
+    -   What does the utilization rate look like for developers over the last six
     weeks?
 
--   Is there enough resource capacity to fulfill incoming requests?
+    -   Is there enough resource capacity to fulfill incoming requests?
 
 -   **Account Manager.** Responsible for driving revenue from the customers. The
     app provides key insights about closed deals, billed versus unbilled sales,
     and ongoing engagements to help answer questions like:
 
--   On average, how long does it take to close a deal?
+    -   On average, how long does it take to close a deal?
 
--   How are current contracts performing?
+    -   How are current contracts performing?

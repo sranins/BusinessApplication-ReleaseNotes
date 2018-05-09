@@ -1,7 +1,7 @@
 ---
 
-title: Spring  18 summary of what s new in Project Service
-description: Spring  18 summary of what s new in Project Service
+title: Spring '18 summary of what's new in Project Service
+description: Spring '18 summary of what's new in Project Service
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -14,39 +14,30 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Spring ’18 summary of what’s new in Project Service
+# Spring ’18 summary of what’s new in Project Service
 
 
 
 
 [!include[banner](../../includes/banner.md)]
 
-| April ’18 – Private Preview                                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Compliance                                                                                                                                                                                                                                                    |
-| General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
-| Accessibility enhancements- [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                       |
-| Project Service Automation app                                                                                                                                                                                                                                |
-| [Built on the Unified Interface framework](app-enhancements.md).                                                                                                                                                                                                 |
-| Universal Resource Scheduling for Project Service                                                                                                                                                                                                             |
-| [Schedule board list view](universal-resource-scheduling.md).                                                                                                                                                                                                          |
+## April ’18 – Private Preview
 
--   General Data Protection Regulation (GDPR) - Investments address the European
-    privacy law’s requirements. [Go to the Trust Center to learn more and find
-    resources to help you
-    comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
+### Compliance
 
--   [Common Control Framework (CCF)](app-enhancements.md).
+- General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
+- Accessibility enhancements- [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)
 
--   [Custom pricing dimensions for resource
-    pricing](app-enhancements.md).
+### Project Service Automation app
 
--   [Dimension priority and dimension context for
-    resolution](app-enhancements.md).
+- [Built on the Unified Interface framework](app-enhancements.md).
+- [Common Control Framework (CCF)](app-enhancements.md).
+- [Custom pricing dimensions for resource pricing](app-enhancements.md).
+- [Dimension priority and dimension context for resolution](app-enhancements.md).
+- [Price mark-ups and mark-downs](price-mark-ups-mark-downs.md).
+- [Work breakdown structure (WBS) editable grid with Gantt visualization](app-enhancements.md).
+- [Extensible time and expense entry](app-enhancements.md).
 
--   [Price mark-ups and mark-downs](price-mark-ups-mark-downs.md).
+### Universal Resource Scheduling for Project Service
 
--   [Work breakdown structure (WBS) editable grid with Gantt
-    visualization](app-enhancements.md).
-
--   [Extensible time and expense entry](app-enhancements.md).
+- [Schedule board list view](universal-resource-scheduling.md).

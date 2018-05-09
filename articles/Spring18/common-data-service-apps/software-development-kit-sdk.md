@@ -52,6 +52,4 @@ The SDK can also be used for more advanced scenarios, including:
 
 -   Solution creation and management (ALM). 
 
-    [For information about the SDK, go to Developer Guide for Dynamics 365
-    Customer
-    Engagement.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/developer-guide)
+[For information about the SDK, go to Developer Guide for Dynamics 365 Customer Engagement.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/developer-guide)

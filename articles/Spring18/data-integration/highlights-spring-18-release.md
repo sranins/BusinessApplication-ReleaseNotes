@@ -1,7 +1,7 @@
 ---
 
-title: Highlights from the Spring ‘18 release
-description: Highlights from the Spring ‘18 release
+title: Highlights from the Spring ’18 release
+description: Highlights from the Spring ’18 release
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -15,7 +15,7 @@ audience: Admin
 
 ---
 
-# Highlights from the Spring ‘18 release 
+# Highlights from the Spring ’18 release 
 
 [!include[banner](../../includes/banner.md)]
 
@@ -27,7 +27,7 @@ audience: Admin
 -   **27 new connectors for PowerApps, Flow, and Logic Apps**
 
     [!include[banner](../../includes/public-preview.md)]
-    
+
     Includes connectors for Excel Online, Microsoft To-Do, ServiceNow, Workday
     HCM, and Azure SQL Data Warehouse, among others. [See the full
     list](#FullList).
@@ -38,6 +38,7 @@ audience: Admin
 -   **5 new connectors for Power BI**
 
     [!include[banner](../../includes/public-preview.md)]
+
     Includes HDInsight
     Interactive Query, Data.World, Vertica, Azure Consumption Insights, and
     Dynamics 365 for Financials.

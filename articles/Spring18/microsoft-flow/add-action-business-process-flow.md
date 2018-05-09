@@ -37,7 +37,7 @@ must appear on the opportunity business process flow.
 To enable this functionality, under Available to Run, select As a Business
 Process Flow action step.
 
-![A screenshot showing "available to run as a business process flow" configuration](media/add-action-to-business-process-flow-1.png "A screenshot showing "available to run as a business process flow" configuration")
+![A screenshot showing "available to run as a business process flow" configuration](media/add-action-to-business-process-flow-1.png "A screenshot showing 'available to run as a business process flow' configuration")
 <!-- Picture 17 -->
 
 

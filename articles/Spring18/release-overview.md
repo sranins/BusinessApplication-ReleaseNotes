@@ -23,6 +23,7 @@ investments designed to help you transform your business.
 
 We’ve made tremendous progress in the following areas:
 
+
 -   **Unifying our business applications** across marketing, sales, service,
     operations, finance, talent, and retail into a comprehensive family of
     capabilities that spans the entire business process landscape – so you can
@@ -53,6 +54,3 @@ We’re looking forward to engaging with you as you put these new services and
 capabilities to work, and we’re eager to hear your feedback as you dig into the
 Spring ’18 release.
 
-##  Availability
-
-For a list of the regions where Dynamics 365 business applications are available, [see the Availability Guide](https://aka.ms/dynamics_365_international_availability_deck).

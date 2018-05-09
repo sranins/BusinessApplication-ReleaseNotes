@@ -29,7 +29,7 @@ that is a lookup to a record in the Contacts entity. Previously, the maker had
 to manually look up records across entities, which meant knowing about and
 working with a foreign key. Now, a maker can simply write:
 
-     First( Accounts ).PrimaryContact.FullName
+First( Accounts ).PrimaryContact.FullName
 
 The maker then has access to all the PrimaryContact fields, such as Fullname,
 EmailAddress, or any other field.

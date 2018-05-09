@@ -65,29 +65,29 @@ Additional on-premises-specific features are listed below.
 -   **Retail.** The following retail head-office capabilities will be included
     in the Spring ’18 timeframe:
 
--   Product categories 
+    -   Product categories 
 
--   Channel categories and product attributes 
+    -   Channel categories and product attributes 
 
--   Attributes, attribute types, and attribute groups 
+    -   Attributes, attribute types, and attribute groups 
 
--   Trade agreements 
+    -   Trade agreements 
 
--   On-hand quantities 
+    -   On-hand quantities 
 
--   Stock counts 
+    -   Stock counts 
 
--   Assortments 
+    -   Assortments 
 
--   Retail catalogs 
+    -   Retail catalogs 
 
--   Retail product kits 
+    -   Retail product kits 
 
--   Cross-docking and buyer's push 
+    -   Cross-docking and buyer's push 
 
--   Call Center
+    -   Call Center
 
--   Customer Loyalty
+    -   Customer Loyalty
 
->   Retail channel components, including support for Retail Server and Point of
->   Sale, will be available in the Fall ’18 timeframe.
+    Retail channel components, including support for Retail Server and Point of
+    Sale, will be available in the Fall ’18 timeframe.

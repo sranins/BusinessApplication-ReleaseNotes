@@ -28,7 +28,7 @@ There are two ways to access the test flow:
 -   Go to the flow details page, select the contextual menu (…), and then select
     Test Flow.
 
-\-or-
+    \-or-
 
 -   Select the Test button in the banner after saving your flow.
 

@@ -1,7 +1,7 @@
 ---
 
-title: Spring  18 summary of what s new in Talent   Onboard
-description: Spring  18 summary of what s new in Talent   Onboard
+title: Spring '18 summary of what's new in Talent - Onboard
+description: Spring '18 summary of what's new in Talent - Onboard
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -14,19 +14,20 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Spring ’18 summary of what’s new in Talent – Onboard
+# Spring ’18 summary of what’s new in Talent – Onboard
 
 
 
 
 [!include[banner](../../../includes/banner.md)]
 
-| March ‘18 - General Availability                                 |
-|------------------------------------------------------------------|
-| [Customizable welcome emails](customizable-welcome-emails.md).  |
-| [Due date placeholders](due-date-placeholders.md).                |
-| [Export to Excel](export-excel.md).                          |
-| June ‘18 – Public Preview                                        |
-| [Import](customizable-welcome-emails.md) activities from other guides or templates. |
+## March ’18 - General Availability
 
--   Assignee placeholders
+- [Customizable welcome emails](customizable-welcome-emails.md).
+- [Due date placeholders](due-date-placeholders.md).
+- [Export to Excel](export-excel.md).
+
+## June ’18 – Public Preview
+
+- [Import](customizable-welcome-emails.md) activities from other guides or templates.
+- Assignee placeholders

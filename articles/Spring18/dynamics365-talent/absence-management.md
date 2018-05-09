@@ -28,19 +28,17 @@ audience: Admin
     absence tracking and approvals, while employees can submit time-off requests
     in increments of days or half-days as well as in hours.
 
-![A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
-<!-- Talent_ Absence Management - Days Support_A.png -->
+    ![A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
+    <!-- Talent_ Absence Management - Days Support_A.png -->
 
 
-Absence management days support
+    *Absence management days support*
 
 -   **Working day calendar:** Human resource administrators can create working
     day calendars that reflect company holidays. Working day calendars can be
     created for different types of employees and employees in different
     countries. As employees submit time-off requests, holidays are automatically
     excluded from the request, which streamlines the time-off request process.
-
-
 
 -   **Custom absence accrual dates:** (coming after April) Enable carry-over and
     time-off accrual capabilities that are customizable to meet organization
@@ -56,12 +54,12 @@ Absence management days support
     amount at the time of enrollment ensure compliance with company policies and
     provide a more accurate time-off balance for employees.
 
--   **Calendar view of working time :** 
+-   **Calendar view of working time:** Visualizing the working
+    days and times across the organization as a calendar enables HR
+    professionals a way to easily understand when employees are working.
 
     [!include[banner](../../includes/public-preview.md)]
 
-    Visualizing the working
-    days and times across the organization as a calendar enables HR
-    professionals a way to easily understand when employees are working.
+    
 
 

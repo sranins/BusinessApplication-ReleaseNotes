@@ -38,4 +38,4 @@ Entity views include the following features:  
 
 [For more information about entity views, go to Create and edit public or system
 views by using the app
-designer](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/form-editor-user-interface-legacy).
+designer.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/form-editor-user-interface-legacy)

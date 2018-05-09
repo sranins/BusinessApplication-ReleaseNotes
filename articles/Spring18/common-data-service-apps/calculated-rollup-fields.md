@@ -43,7 +43,7 @@ Create calculated and rollup fields when you need to:
 <!-- Picture 13 -->
 
 
-Calculated field
+*Calculated field*
 
 For more information about calculated fields, go to [Define calculated fields to
 automate manual

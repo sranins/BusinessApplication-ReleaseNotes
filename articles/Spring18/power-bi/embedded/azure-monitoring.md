@@ -47,7 +47,7 @@ resource:
     units (virtual cores) to process the queries, and you should consider
     scaling to a higher capacity.
 
-The threshold to scale up or down depends on the developer’s decision and can
+    The threshold to scale up or down depends on the developer’s decision and can
 vary based on the data and the type of queries that are running.
 
 -   **Query pool queue length.** Provides information about the number of

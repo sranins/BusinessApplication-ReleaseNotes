@@ -25,32 +25,32 @@ At launch, Dynamics 365 Business Central is available in 14 markets:
 
 -   Europe:
 
--   Austria
+    -   Austria
 
--   Belgium
+    -   Belgium
 
--   Denmark
+    -   Denmark
 
--   Germany
+    -   Germany
 
--   Finland
+    -   Finland
 
--   France
+    -   France
 
--   Italy
+    -   Italy
 
--   Netherlands
+    -   Netherlands
 
--   Spain
+    -   Spain
 
--   Sweden
+    -   Sweden
 
--   Switzerland
+    -   Switzerland
 
--   United Kingdom
+    -   United Kingdom
 
 -   North America:
 
--   Canada
+    -   Canada
 
--   United States
+    -   United States

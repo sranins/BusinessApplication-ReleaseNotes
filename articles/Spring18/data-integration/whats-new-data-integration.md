@@ -20,6 +20,7 @@ audience: Admin
 [!include[banner](../../includes/banner.md)]
 
 ## General Availability
+
 [New and improved connectors for Power BI](connectors.md#improved-connectors-for-power-bi)
 - Improved SAP BW DirectQuery connector
 - Improved SAP HANA DirectQuery connector
@@ -84,3 +85,4 @@ Partners can create and distribute their own connectors and submit them for cert
 ## Regional availability
 
 Data Integration features available for Public Preview are typically available in all regions where the product is available. [For a complete list of regions, see the Availability Guide.](https://aka.ms/dynamics_365_international_availability_deck)
+
