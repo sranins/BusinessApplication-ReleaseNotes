@@ -22,12 +22,12 @@ audience: Admin
 				
 ### Intro                          
 
-Added section: [Availability](availability.md) with link to availability guide. 
+Added section: [Availability](availability.md) to link to the availability guide. 
 
 ### Sales
 - Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
 
-- Added feature: [Predictive lead scoring (Public Preview/overview.md)](dynamics365-sales/overview.md) 
+- Added feature: [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
 
 
 ### Field Service
