@@ -25,7 +25,8 @@ We always want to make it easier to learn about Microsoft Flow. There is a lot
 of content out there, so we have grouped our documentation content into three
 sections to help you find the right level of depth for your task:
 
-![New documentation page](media/new-documentation-landing-page-1.png "New documentation page")
+> [!div class="mx-imgBorder"] 
+> ![New documentation page](media/new-documentation-landing-page-1.png "New documentation page")
 <!-- Picture 13 -->
 
 

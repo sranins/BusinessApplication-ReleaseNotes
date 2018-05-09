@@ -33,13 +33,15 @@ The Credit and collections insights capabilities are available as part of a
 workspace within Dynamics 365 for Finance and Operations, and also in a
 stand-alone app, which is available at <https://appsource.microsoft.com>.
 
-![A screenshot showing credit and collections insights](media/credit-collections-overview-1.png "A screenshot showing credit and collections insights")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing credit and collections insights](media/credit-collections-overview-1.png "A screenshot showing credit and collections insights")
 <!-- FO_Credit_and_collections_a.png -->
 
 
 *Credit and collections*
 
-![A screenshot showing a credit and collections report](media/credit-collections-overview-2.png "A screenshot showing a credit and collections report")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing a credit and collections report](media/credit-collections-overview-2.png "A screenshot showing a credit and collections report")
 <!-- FO_credit_and_collections_b.png -->
 
 

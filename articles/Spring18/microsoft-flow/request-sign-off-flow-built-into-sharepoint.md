@@ -29,7 +29,8 @@ file or list item (not a folder) in SharePoint, access the Flow menu in the
 modern library UI, and then select Request sign-off. This flow will appear
 alongside any other custom flows added to the library.
 
-![A screenshot showing how to request sign-off from the Flow menu in SharePoint](media/request-sign-off-flow-built-into-sharepoint-1.png "A screenshot showing how to request sign-off from the Flow menu in SharePoint")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to request sign-off from the Flow menu in SharePoint](media/request-sign-off-flow-built-into-sharepoint-1.png "A screenshot showing how to request sign-off from the Flow menu in SharePoint")
 <!-- Picture 21 -->
 
 
@@ -45,7 +46,8 @@ your behalf, and asked to provide consent. After providing consent, pick one or
 more approvers, and then write a message for your approval request. If you add
 more than one approver, any one of them can approve your request.
 
-![A screenshot showing that users can pick one or more approvers and send them a message before running flow](media/request-sign-off-flow-built-into-sharepoint-2.png "A screenshot showing that users can pick one or more approvers and send them a message before running flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing that users can pick one or more approvers and send them a message before running flow](media/request-sign-off-flow-built-into-sharepoint-2.png "A screenshot showing that users can pick one or more approvers and send them a message before running flow")
 <!-- Picture 1 -->
 
 
@@ -60,7 +62,8 @@ approve the request directly from Outlook. The approver can also provide
 comments along with their decision and can click a link to view the item in
 question.
 
-![A screenshot with an actionable response from an approver, powered by Microsoft Flow](media/request-sign-off-flow-built-into-sharepoint-3.png "A screenshot with an actionable response from an approver, powered by Microsoft Flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot with an actionable response from an approver, powered by Microsoft Flow](media/request-sign-off-flow-built-into-sharepoint-3.png "A screenshot with an actionable response from an approver, powered by Microsoft Flow")
 <!-- AppPlat_Request_Sign_Off_3.png -->
 
 
@@ -69,7 +72,8 @@ question.
 The Sign-off status column is then updated with the decision, and the person who
 sent the approval request receives an email with the comments.
 
-![A screenshot showing sign-off status on a list of requests](media/request-sign-off-flow-built-into-sharepoint-4.png "A screenshot showing sign-off status on a list of requests")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing sign-off status on a list of requests](media/request-sign-off-flow-built-into-sharepoint-4.png "A screenshot showing sign-off status on a list of requests")
 <!-- Picture 23 -->
 
 

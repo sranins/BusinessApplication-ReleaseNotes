@@ -43,7 +43,8 @@ takes the following steps:
 
 3.  Save and publish the application.
 
-    ![A screenshot showing data connections](media/gdpr-compliance-1.png "A screenshot showing data connections")
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot showing data connections](media/gdpr-compliance-1.png "A screenshot showing data connections")
     <!-- Picture 11 -->
 
 

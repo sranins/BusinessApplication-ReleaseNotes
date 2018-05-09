@@ -26,7 +26,8 @@ columns. In this way, they can view a wider date range. Whether you’re viewing
 the hourly, daily, weekly, or monthly board, you’ll see a scale control at the
 bottom of the screen.
 
-![Screenshot showing location of scale control](media/display-more-on-schedule-board-by-adjusting-scale-1.png "Screenshot showing location of scale control")
+> [!div class="mx-imgBorder"] 
+> ![Screenshot showing location of scale control](media/display-more-on-schedule-board-by-adjusting-scale-1.png "Screenshot showing location of scale control")
 <!-- URS_6_Scale-control-on-hourly-board.png -->
 
 

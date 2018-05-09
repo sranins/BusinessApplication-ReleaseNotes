@@ -34,7 +34,8 @@ To add a list or library as a run-only user:
 4.  Select the site address and list ID of the list you want to share the flow
     with, and then select **Share**.
 
-![A screenshot demonstrating how to share a flow with run-only permissions](media/to-add-list-or-library-as-run-only-user-1.png "A screenshot demonstrating how to share a flow with run-only permissions")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating how to share a flow with run-only permissions](media/to-add-list-or-library-as-run-only-user-1.png "A screenshot demonstrating how to share a flow with run-only permissions")
 <!-- Picture 24 -->
 
 

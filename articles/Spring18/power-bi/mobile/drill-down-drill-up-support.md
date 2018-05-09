@@ -28,7 +28,8 @@ from the report visual’s tooltip menu. Tapping on a visual data point will pop
 the menu and if drill down or drill up is defined, additional drill buttons are
 presented and enabled for tapping.
 
-![A mobile screenshot demonstrating how a user can drill up or down into data](media/drill-down-drill-up-support-1.png "A mobile screenshot demonstrating how a user can drill up or down into data")
+> [!div class="mx-imgBorder"] 
+> ![A mobile screenshot demonstrating how a user can drill up or down into data](media/drill-down-drill-up-support-1.png "A mobile screenshot demonstrating how a user can drill up or down into data")
 <!-- Picture 2 -->
 
 

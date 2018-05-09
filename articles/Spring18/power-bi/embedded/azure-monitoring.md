@@ -32,7 +32,8 @@ and [REST APIs](https://docs.microsoft.com/en-us/rest/api/monitor/metrics/list)
 to automatically monitor the resources. The data can be viewed using different
 measures and time periods.
 
-![A screenshot of an example of Azure monitoring](media/azure-monitoring-1.png "A screenshot of an example of Azure monitoring")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an example of Azure monitoring](media/azure-monitoring-1.png "A screenshot of an example of Azure monitoring")
 <!-- picture -->
 
 

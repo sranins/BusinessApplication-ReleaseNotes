@@ -41,7 +41,8 @@ Integrate with Dynamics 365 for Sales in a few easy steps to synchronize your
 data, including sales orders, item availability, units of measure, and
 currencies.
 
-![A screenshot of Business Central on a tablet device](media/customer-relational-management-1.png "A screenshot of Business Central on a tablet device")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of Business Central on a tablet device](media/customer-relational-management-1.png "A screenshot of Business Central on a tablet device")
 <!-- SMB_BusinessCentral_Tablet_A.png -->
 
 

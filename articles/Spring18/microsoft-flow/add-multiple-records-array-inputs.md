@@ -30,7 +30,8 @@ action. However, there was no easy way to just have *two* attachments.
 So we're happy to announce that, for any action that takes a list as an input,
 you can now add as many items inline as you want.
 
-![Adding multiple attachments](media/add-multiple-records-to-array-inputs-1.png "Adding multiple attachments")
+> [!div class="mx-imgBorder"] 
+> ![Adding multiple attachments](media/add-multiple-records-to-array-inputs-1.png "Adding multiple attachments")
 <!-- Picture 5 -->
 
 

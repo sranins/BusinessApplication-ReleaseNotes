@@ -48,7 +48,8 @@ capabilities include:
 -   We track telemetry for all regulatory features, extending the coverage from
     configurable-only features.
 
-![A screenshot showing an example of a customized invoice](media/globalization-enhanced-configurability-1.png "A screenshot showing an example of a customized invoice")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an example of a customized invoice](media/globalization-enhanced-configurability-1.png "A screenshot showing an example of a customized invoice")
 <!-- FO_Globalization_enhanced_configurability_A.png -->
 
 

@@ -25,7 +25,8 @@ Publish SQL Server Reporting Services (SSRS) reports (\*.RDL format) to a Power
 BI Premium workspace, and view reports within the Power BI web app. No SSRS
 server is required.
 
-![A screenshot of SSRS reports for Power BI Premium](media/sql-server-reporting-services-ssrs-reports-power-bi-premium-public-preview-1.png "A screenshot of SSRS reports for Power BI Premium")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of SSRS reports for Power BI Premium](media/sql-server-reporting-services-ssrs-reports-power-bi-premium-public-preview-1.png "A screenshot of SSRS reports for Power BI Premium")
 
 *SSRS reports for Power BI Premium*
 

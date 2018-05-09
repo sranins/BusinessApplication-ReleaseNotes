@@ -22,7 +22,8 @@ audience: Admin
 Reference panel tabs allow agents to quickly find related records, or search
 knowledge articles for accounts, contacts, cases, and other knowledge articles.
 
-![A screenshot of the reference panel on the case dashboard](media/search-knowledge-articles-on-reference-panel-1.png "A screenshot of the reference panel on the case dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the reference panel on the case dashboard](media/search-knowledge-articles-on-reference-panel-1.png "A screenshot of the reference panel on the case dashboard")
 <!-- picture -->
 
 

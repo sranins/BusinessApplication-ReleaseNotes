@@ -25,7 +25,8 @@ Users can multi-select data points across visuals to apply cross-highlighting.
 Users can perform deeper data exploration and glean new insights that may have
 otherwise been missed.
 
-![A screenshot showing an example of cross-highlighting for deeper data exploration](media/cross-highlight-across-multiple-visuals-1.png "A screenshot showing an example of cross-highlighting for deeper data exploration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an example of cross-highlighting for deeper data exploration](media/cross-highlight-across-multiple-visuals-1.png "A screenshot showing an example of cross-highlighting for deeper data exploration")
 
 *Example of cross-highlighting for deeper data exploration*
 

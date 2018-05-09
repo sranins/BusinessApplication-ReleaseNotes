@@ -26,7 +26,8 @@ Business process flows support floating and docked mode for process stages,
 which lets agents view case information and update the process stages
 simultaneously.
 
-![A screenshot of a business process flow example for a case record](media/business-process-flows-standardized-case-handling-1.png "A screenshot of a business process flow example for a case record")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a business process flow example for a case record](media/business-process-flows-standardized-case-handling-1.png "A screenshot of a business process flow example for a case record")
 <!-- picture -->
 
 

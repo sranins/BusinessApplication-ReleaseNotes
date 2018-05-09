@@ -45,7 +45,8 @@ projects. Standard templates can be used to create custom integration projects,
 where additional standard and custom fields, and also entities, can be mapped to
 adjust the integration and meet specific needs.
 
-![A flow chart showing Field service and Finance and Operations integrations ](media/integration-dynamics365-field-service-1.png "A flow chart showing Field service and Finance and Operations integrations ")
+> [!div class="mx-imgBorder"] 
+> ![A flow chart showing Field service and Finance and Operations integrations ](media/integration-dynamics365-field-service-1.png "A flow chart showing Field service and Finance and Operations integrations ")
 <!-- FO_field_service_integration_B.png -->
 
 
@@ -60,7 +61,8 @@ Finance and Operations for the following entities:
 
 -   Agreements invoices to free text invoices
 
-![A screenshot showing work orders to field service integration](media/integration-dynamics365-field-service-2.png "A screenshot showing work orders to field service integration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing work orders to field service integration](media/integration-dynamics365-field-service-2.png "A screenshot showing work orders to field service integration")
 <!-- FO_field_service_integration_A.png -->
 
 
@@ -73,7 +75,8 @@ and functionality for Prospect to cash integration can be used to synchronize:
 
 -   Invoices.
 
-![A graphic showing the Prospect-to-cash data flow
+> [!div class="mx-imgBorder"] 
+> ![A graphic showing the Prospect-to-cash data flow
 ](media/integration-dynamics365-field-service-3.png "A graphic showing the Prospect-to-cash data flow
 ")
 <!-- Picture 1 -->

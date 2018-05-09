@@ -28,7 +28,8 @@ quickly identify at-risk accounts that they may want to focus their attention
 on. The app provides key KPIs like win ratios, lead conversion rates, and
 year-to-date (YTD) revenue.
 
-![A screenshot showing an example of Sales Insights](media/power-bi-sales-insights-1.png "A screenshot showing an example of Sales Insights")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an example of Sales Insights](media/power-bi-sales-insights-1.png "A screenshot showing an example of Sales Insights")
 <!-- picture -->
 
 

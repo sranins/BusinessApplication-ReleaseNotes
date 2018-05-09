@@ -27,7 +27,8 @@ but not author it. You can use additional admin controls through Azure Active
 Directory to restrict or control consumer sharing behavior, depending on
 organizational security policies.
 
-![A screenshot of the Share a report screen](media/sharing-content-consumer-accounts-1.png "A screenshot of the Share a report screen")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Share a report screen](media/sharing-content-consumer-accounts-1.png "A screenshot of the Share a report screen")
 
 *Share a report*
 

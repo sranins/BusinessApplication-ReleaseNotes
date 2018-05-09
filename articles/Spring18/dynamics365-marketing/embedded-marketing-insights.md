@@ -28,7 +28,8 @@ email, landing page, or customer journey. Generate detailed analytics with
 pre-made widget-based reports. Gain qualitative insights, improve
 decision-making, maximize return on marketing investment (ROMI), and much more.
 
-![A screenshot demonstrating how embedded marketing insights display](media/embedded-marketing-insights-1.png "A screenshot demonstrating how embedded marketing insights display")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating how embedded marketing insights display](media/embedded-marketing-insights-1.png "A screenshot demonstrating how embedded marketing insights display")
 <!-- Marketing_EmbeddedMarketingInsights_A.png -->
 
 

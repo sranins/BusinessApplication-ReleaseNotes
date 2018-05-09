@@ -34,13 +34,15 @@ Responsive user experiences allow for:
 -   Visual controls that are optimized for touch and provide engaging user
     experiences. Examples include Slider, Arc, and Calendar controls.
 
-![Example of an account form on a desktop computer](media/metadata-driven-responsive-user-experiences-1.png "Example of an account form on a desktop computer")
+> [!div class="mx-imgBorder"] 
+> ![Example of an account form on a desktop computer](media/metadata-driven-responsive-user-experiences-1.png "Example of an account form on a desktop computer")
 <!-- App_Plat_ResponseAcct_G.PNG -->
 
 
 *Account form on a desktop computer*
 
-![A screenshot of an account form on a mobile device](media/metadata-driven-responsive-user-experiences-2.png "A screenshot of an account form on a mobile device")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an account form on a mobile device](media/metadata-driven-responsive-user-experiences-2.png "A screenshot of an account form on a mobile device")
 <!-- Picture 4 -->
 
 

@@ -33,7 +33,8 @@ The Power BI for Mixed Reality
 app is based on our Universal Windows Platform (UWP) app, with additional unique
 capabilities that lights up on HoloLens like voice commands and hand gestures.
 
-![Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration](media/power-bi-mixed-reality-public-preview-1.jpg "Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration")
+> [!div class="mx-imgBorder"] 
+> ![Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration](media/power-bi-mixed-reality-public-preview-1.jpg "Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration")
 <!-- Picture 1 -->
 
 

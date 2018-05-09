@@ -33,7 +33,8 @@ These useful email notifications provide:
 
 -   Additional resources to help you build robust flows that never fail.
 
-![A screenshot of a Flow repair email](media/repair-recommendations-sent-email-failed-flows-1.png "A screenshot of a Flow repair email")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a Flow repair email](media/repair-recommendations-sent-email-failed-flows-1.png "A screenshot of a Flow repair email")
 <!-- Picture 20 -->
 
 

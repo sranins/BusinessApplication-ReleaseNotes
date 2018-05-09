@@ -30,7 +30,8 @@ charts, and dashboards that are similar to those created with any other entity.
 Business process flows, such as Lead To Opportunity Sales Process, appear as a
 customizable entity in Solution Explorer.
 
-![A screenshot of the Solution Explorer with the Lead To Opportunity Sales Process entity ](media/business-process-flow-entity-customization-1.png "A screenshot of the Solution Explorer with the Lead To Opportunity Sales Process entity ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Solution Explorer with the Lead To Opportunity Sales Process entity ](media/business-process-flow-entity-customization-1.png "A screenshot of the Solution Explorer with the Lead To Opportunity Sales Process entity ")
 <!-- Picture 15 -->
 
 
@@ -39,7 +40,8 @@ customizable entity in Solution Explorer.
 Several default views are available that you can view as a chart, such as the
 Active Lead To Opportunity Sales Processes view.
 
-![A screenshot of the Active Lead to Opportunity Sales Processes view ](media/business-process-flow-entity-customization-2.png "A screenshot of the Active Lead to Opportunity Sales Processes view ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Active Lead to Opportunity Sales Processes view ](media/business-process-flow-entity-customization-2.png "A screenshot of the Active Lead to Opportunity Sales Processes view ")
 <!-- Picture 16 -->
 
 

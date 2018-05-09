@@ -29,7 +29,8 @@ they reach a defined score threshold. Run lead-generation campaigns on LinkedIn
 and import those leads directly into Dynamics 365 for follow-up, nurturing, and
 eventual qualification.
 
-![A screenshot of a lead score model setup example](media/lead-management-1.png "A screenshot of a lead score model setup example")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a lead score model setup example](media/lead-management-1.png "A screenshot of a lead score model setup example")
 <!-- Marketing_LeadManagement_A.png -->
 
 

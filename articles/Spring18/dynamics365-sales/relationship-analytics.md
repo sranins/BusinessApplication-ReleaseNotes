@@ -27,19 +27,22 @@ of Microsoft Office Exchange online email to enhance the relationship health
 score. [For more details about the capabilities, go to the Embedded intelligence
 page](https://docs.microsoft.com/en-in/dynamics365/customer-engagement/admin/embedded-intelligence).
 
-![A screenshot of a relationship overview](media/relationship-analytics-public-preview-1.png "A screenshot of a relationship overview")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a relationship overview](media/relationship-analytics-public-preview-1.png "A screenshot of a relationship overview")
 <!-- Picture 5 -->
 
 
 *Relationship analytics overview*
 
-![A screenshot of the relationship analytics dashboard](media/relationship-analytics-public-preview-2.png "A screenshot of the relationship analytics dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the relationship analytics dashboard](media/relationship-analytics-public-preview-2.png "A screenshot of the relationship analytics dashboard")
 <!-- Picture 6 -->
 
 
 *Relationship analytics dashboard*
 
-![Sales insights configuration for administrators](media/relationship-analytics-public-preview-3.png "Sales insights configuration for administrators")
+> [!div class="mx-imgBorder"] 
+> ![Sales insights configuration for administrators](media/relationship-analytics-public-preview-3.png "Sales insights configuration for administrators")
 <!-- Picture 4 -->
 
 

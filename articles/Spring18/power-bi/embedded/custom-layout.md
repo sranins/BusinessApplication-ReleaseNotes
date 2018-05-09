@@ -27,11 +27,13 @@ control the size, position, and visibility of a report visual.
 -   **Page layout.** When you build a report page through Power BI Desktop, you
     configure the layout using two fields: page size type and page layout.
 
-    ![A screenshot of a menu allowing a user to adjust page size](media/custom-layout-1.png "A screenshot of a menu allowing a user to adjust page size")
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot of a menu allowing a user to adjust page size](media/custom-layout-1.png "A screenshot of a menu allowing a user to adjust page size")
 
     *Page size options*
 
-    ![A screenshot of a menu allowing a user to adjust page layout ](media/custom-layout-2.png "A screenshot of a menu allowing a user to adjust page layout ")
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot of a menu allowing a user to adjust page layout ](media/custom-layout-2.png "A screenshot of a menu allowing a user to adjust page layout ")
     <!-- Picture 21 -->
 
 

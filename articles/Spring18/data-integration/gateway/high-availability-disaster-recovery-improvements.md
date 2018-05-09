@@ -30,6 +30,7 @@ the gateway instance is added to an existing cluster or a new one. Older
 gateways are exposed in their own clusters, so that users can either associate
 new gateway instances with the existing ones or set up new clusters.
 
-![Adding new gateways to existing clusters for high availability](media/high-availability-disaster-recovery-improvements-public-preview-1.png "Adding new gateways to existing clusters for high availability")
+> [!div class="mx-imgBorder"] 
+> ![Adding new gateways to existing clusters for high availability](media/high-availability-disaster-recovery-improvements-public-preview-1.png "Adding new gateways to existing clusters for high availability")
 
 *Adding new gateways to existing clusters for high availability*

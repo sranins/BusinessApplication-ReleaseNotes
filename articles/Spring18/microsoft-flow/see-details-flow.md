@@ -28,7 +28,8 @@ flow, select **See details** to view a list of every action that the flow uses
 connections, you should only ever run a flow if you trust the owner of the flow
 and are comfortable having them take the actions listed under **See details**. 
 
-![List of actions under See details](media/see-details-a-flow-1.png "List of actions under See details")
+> [!div class="mx-imgBorder"] 
+> ![List of actions under See details](media/see-details-a-flow-1.png "List of actions under See details")
 <!-- Picture 3 -->
 
 

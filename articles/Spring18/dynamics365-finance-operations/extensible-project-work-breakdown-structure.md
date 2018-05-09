@@ -27,13 +27,15 @@ to support hierarchical data. This change will let you use extensions to
 customize the project work breakdown structure. This feature is available in the
 May 2018 application update.
 
-![Example of the work breakdown structure Scheduling view](media/extensible-project-work-breakdown-structure-1.png "Example of the work breakdown structure Scheduling view")
+> [!div class="mx-imgBorder"] 
+> ![Example of the work breakdown structure Scheduling view](media/extensible-project-work-breakdown-structure-1.png "Example of the work breakdown structure Scheduling view")
 <!-- ProjectManagementAndAccounting_ExtensibleProjectWBS_SchedulingView.png -->
 
 
 *Work breakdown structure – Scheduling view*
 
-![Example of the work breakdown structure Cost estimates view](media/extensible-project-work-breakdown-structure-2.png "Example of the work breakdown structure Cost estimates view")
+> [!div class="mx-imgBorder"] 
+> ![Example of the work breakdown structure Cost estimates view](media/extensible-project-work-breakdown-structure-2.png "Example of the work breakdown structure Cost estimates view")
 <!-- ProjectManagementAndAccounting_ExtensibleProjectWBS_CostEstimatesView.png -->
 
 

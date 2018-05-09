@@ -39,6 +39,7 @@ When you share a report, the underlying dataset is also shared. Row-level
 security settings for the dataset remain the same, so recipients see only the
 data that they’re authorized to view.
 
-![A screenshot example of report sharing](media/share-favorite-reports-1.png "A screenshot example of report sharing")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot example of report sharing](media/share-favorite-reports-1.png "A screenshot example of report sharing")
 
 *Example of report sharing*

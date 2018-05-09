@@ -38,7 +38,8 @@ PowerApps.com is improved in the following ways:
     entities by creating option sets directly in-line when adding fields to your
     entities. There’s no need to switch contexts.
 
-![A screenshot demonstrating improved entity experience](media/improved-entity-creation-customization-1.png "A screenshot demonstrating improved entity experience")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating improved entity experience](media/improved-entity-creation-customization-1.png "A screenshot demonstrating improved entity experience")
 <!-- App_Plat_EntityExperience_V (1).png -->
 
 

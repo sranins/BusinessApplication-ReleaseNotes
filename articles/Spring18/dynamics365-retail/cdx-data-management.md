@@ -34,7 +34,8 @@ how to best handle any changes to the work being done.
 On the Offline profile page, retail organizations can configure what happens
 when the point of sale terminal switches to offline functionality.
 
-![A screenshot of configuring offline functionality](media/cdx-data-management-1.png "A screenshot of configuring offline functionality")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of configuring offline functionality](media/cdx-data-management-1.png "A screenshot of configuring offline functionality")
 <!-- Retail_CDX_A.png -->
 
 
@@ -43,7 +44,8 @@ when the point of sale terminal switches to offline functionality.
 On the point of sale device, users can view the status of their connection to
 the database and choose to work offline, if required.
 
-![A screenshot showing the connection status of point of sale](media/cdx-data-management-2.png "A screenshot showing the connection status of point of sale")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the connection status of point of sale](media/cdx-data-management-2.png "A screenshot showing the connection status of point of sale")
 <!-- Retail_CDX_B.png -->
 
 
@@ -52,7 +54,8 @@ the database and choose to work offline, if required.
 Based on configuration settings, users can be prompted when offline operation is
 triggered.
 
-![A screenshot showing a Retail point of sale system displaying the database connection status and the option to work offline](media/cdx-data-management-3.png "A screenshot showing a Retail point of sale system displaying the database connection status and the option to work offline")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing a Retail point of sale system displaying the database connection status and the option to work offline](media/cdx-data-management-3.png "A screenshot showing a Retail point of sale system displaying the database connection status and the option to work offline")
 <!-- Retail_CDX_C.png -->
 
 

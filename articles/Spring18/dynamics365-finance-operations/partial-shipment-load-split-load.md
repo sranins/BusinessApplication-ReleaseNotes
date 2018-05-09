@@ -29,7 +29,8 @@ planning load. This feature lets customers designate a single load or multiple
 loads to be fully or partially loaded. The feature is integrated with
 appointment scheduling.
 
-![A screenshot showing how to designate partial shipment of a load](media/partial-shipment-a-load-split-load-1.png "A screenshot showing how to designate partial shipment of a load")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to designate partial shipment of a load](media/partial-shipment-a-load-split-load-1.png "A screenshot showing how to designate partial shipment of a load")
 <!-- FO_partial_shipment_of-a_load_A.png -->
 
 

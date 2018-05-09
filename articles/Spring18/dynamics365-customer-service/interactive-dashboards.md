@@ -34,7 +34,8 @@ The Tier 1 multi-stream dashboard is displayed by default. The Tier 1 dashboard
 is tailored to help agents deliver the initial level of support needed, and
 handle multiple customer issues at the same time. 
 
-![A screenshot of a Tier 1 dashboard for service agents](media/interactive-dashboards-1.png "A screenshot of a Tier 1 dashboard for service agents")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a Tier 1 dashboard for service agents](media/interactive-dashboards-1.png "A screenshot of a Tier 1 dashboard for service agents")
 <!-- picture -->
 
 
@@ -45,7 +46,8 @@ handle multiple customer issues at the same time. 
 The Tier 2 single-stream dashboard helps customer service managers and Tier 2
 agents monitor more complex or escalated cases in a single view. 
 
-![A screenshot of a Tier 2 dashboard for service managers and Tier 2 agents](media/interactive-dashboards-2.png "A screenshot of a Tier 2 dashboard for service managers and Tier 2 agents")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a Tier 2 dashboard for service managers and Tier 2 agents](media/interactive-dashboards-2.png "A screenshot of a Tier 2 dashboard for service managers and Tier 2 agents")
 <!-- picture -->
 
 

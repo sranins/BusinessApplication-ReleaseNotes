@@ -39,7 +39,8 @@ experience.
 
 3.  Select Insert, and the selected PowerApp is available on the form.
 
-![A screenshot showing how to select a PowerApp to embed](media/embedding-powerapps-workspaces-forms-1.png "A screenshot showing how to select a PowerApp to embed")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to select a PowerApp to embed](media/embedding-powerapps-workspaces-forms-1.png "A screenshot showing how to select a PowerApp to embed")
 <!-- FO_Embedding PowerApps_A.png -->
 
 
@@ -51,7 +52,8 @@ outside Finance and Operations, is now enabled as an embedded experience. For
 more information, see [PowerApps host
 control](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/user-interface/powerapps-host-control).
 
-![A screenshot showing an embedded PowerApp
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an embedded PowerApp
 ](media/embedding-powerapps-workspaces-forms-2.png "A screenshot showing an embedded PowerApp
 ")
 <!-- FO_Embedding PowerApps_B.png -->

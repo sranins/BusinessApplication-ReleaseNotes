@@ -43,7 +43,8 @@ Some sample transactions that are possible with this new functionality include:
 
 -   Return a transaction that has GST.
 
-![Example of a receipt from a taxable goods sale to an anonymous customer where the price includes GST
+> [!div class="mx-imgBorder"] 
+> ![Example of a receipt from a taxable goods sale to an anonymous customer where the price includes GST
 ](media/globalization-retail-localization-india-1.png "Example of a receipt from a taxable goods sale to an anonymous customer where the price includes GST
 ")
 <!-- IND_GST_ReceiptExample.png -->
