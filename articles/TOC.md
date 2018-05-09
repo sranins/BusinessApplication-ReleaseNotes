@@ -384,7 +384,7 @@
 ##### [Field Service Analytics](Spring18/power-bi/insights-apps/field-service-analytics.md)
 
 ## [Data Integration](Spring18/data-integration/overview.md)
-### [Spring ’18 summary of what’s new in Data Integration](Spring18/data-integration/whats-new-data-integration.md)
+### [Summary of what’s new](Spring18/data-integration/whats-new-data-integration.md)
 ### [Connectors](Spring18/data-integration/connectors.md)
 ### [Common Data Service for Apps and Common Data Service for Analytics](Spring18/data-integration/integration-cds-apps-cds-analytics.md)
 #### [Data integration capabilities for admins](Spring18/data-integration/data-integration-capabilities-admins.md)
