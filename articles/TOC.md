@@ -111,45 +111,63 @@
 
 ## [Finance and Operations](Spring18/dynamics365-finance-operations/index.md)
 ### [Summary of what’s new](Spring18/dynamics365-finance-operations/whats-new-finance-operations.md)
-### [Alerts](Spring18/dynamics365-finance-operations/alerts.md)
-### [Optimization advisor](Spring18/dynamics365-finance-operations/optimization-advisor.md)
-### [Project timesheet mobile](Spring18/dynamics365-finance-operations/project-timesheet-mobile.md)
-### [Edit default project fulfillment hours](Spring18/dynamics365-finance-operations/edit-default-project-fulfillment-hours.md)
-### [Reserve project resources past the task end date](Spring18/dynamics365-finance-operations/reserve-project-resources-past-task-end-date.md)
-### [Person search report](Spring18/dynamics365-finance-operations/person-search-report.md)
-### [Data sharing for customer and vendor tables](Spring18/dynamics365-finance-operations/data-sharing-customer-vendor-tables.md)
-### [One voucher deprecation](Spring18/dynamics365-finance-operations/one-voucher-deprecation.md)
-### [Customizations through extensions only](Spring18/dynamics365-finance-operations/customizations-extensions-only.md)
-### [Extensibility requests](Spring18/dynamics365-finance-operations/extensibility-requests.md)
-### [Extensible project work breakdown structure](Spring18/dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
-### [Embedding PowerApps in workspaces and forms](Spring18/dynamics365-finance-operations/embedding-powerapps-workspaces-forms.md)
-### [Custom fields](Spring18/dynamics365-finance-operations/custom-fields.md)
-### [Integration with Common Data Service (CDS)](Spring18/dynamics365-finance-operations/integration-common-data-service-cds.md)
-### [Integration with Dynamics 365 for Field Service](Spring18/dynamics365-finance-operations/integration-dynamics365-field-service.md)
-### [Integration with Dynamics 365 for Talent (Public Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-talent.md)
-### [Integration with Dynamics 365 for Project Service Automation (Private Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
-### [Lifecycle Services: Telemetry-based KB recommendation](Spring18/dynamics365-finance-operations/lifecycle-services-telemetry-based-kb-recommendation.md)
-### [KB recommendations when entering a support case](Spring18/dynamics365-finance-operations/kb-recommendations-entering-support-case.md)
-### [Report production outage](Spring18/dynamics365-finance-operations/report-production-outage.md)
-### [Vendor collaboration – RFQ process](Spring18/dynamics365-finance-operations/vendor-collaboration-rfq-process.md)
-### [Partial shipment of a load (split load)](Spring18/dynamics365-finance-operations/partial-shipment-load-split-load.md)
-### [Immediate replenishment of locations](Spring18/dynamics365-finance-operations/immediate-replenishment-locations.md)
-### [Reason codes added to warehouse counting and adjustment](Spring18/dynamics365-finance-operations/reason-codes-added-warehouse-counting-adjustment.md)
-### [Batch balancing enabled for advanced warehousing processes](Spring18/dynamics365-finance-operations/batch-balancing-enabled-advanced-warehousing-processes.md)
-### [Analytical workspaces with embedded Power BI for cost management](Spring18/dynamics365-finance-operations/analytical-workspaces-embedded-power-bi-cost-management.md)
-### [Globalization – India localization: Project and upgrade](Spring18/dynamics365-finance-operations/globalization-india-localization-project-upgrade.md)
-### [Globalization – Enhanced configurability](Spring18/dynamics365-finance-operations/globalization-enhanced-configurability.md)
-### [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](Spring18/dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
-### [Translation Service enhancements](Spring18/dynamics365-finance-operations/translation-service-enhancements.md)
-### [Regulatory service – Configuration (Public Preview)](Spring18/dynamics365-finance-operations/regulatory-service-configuration.md)
-### [Customer payment insights (Preview)](Spring18/dynamics365-finance-operations/customer-payment-insights-preview.md)
-### [Improved delivery of platform and financial reporting updates](Spring18/dynamics365-finance-operations/improved-delivery-platform-financial-reporting-updates.md)
-### [Upgrade automation](Spring18/dynamics365-finance-operations/upgrade-automation.md)
-### [Service hardening](Spring18/dynamics365-finance-operations/service-hardening.md)
-### [Lifecycle Services sandbox self-service automation and RDP lockdown](Spring18/dynamics365-finance-operations/lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md)
-### [On-premises deployment updates](Spring18/dynamics365-finance-operations/on-premises-deployment-updates.md)
-### [Accessibility](Spring18/dynamics365-finance-operations/accessibility.md)
-### [GDPR compliance](Spring18/dynamics365-finance-operations/gdpr-compliance.md)
+
+### Business productivity
+#### [Alerts](Spring18/dynamics365-finance-operations/alerts.md)
+#### [Optimization advisor](Spring18/dynamics365-finance-operations/optimization-advisor.md)
+#### [Project timesheet mobile](Spring18/dynamics365-finance-operations/project-timesheet-mobile.md)
+#### [Edit default project fulfillment hours](Spring18/dynamics365-finance-operations/edit-default-project-fulfillment-hours.md)
+#### [Reserve project resources past the task end date](Spring18/dynamics365-finance-operations/reserve-project-resources-past-task-end-date.md)
+#### [Person search report](Spring18/dynamics365-finance-operations/person-search-report.md)
+#### [Data sharing for customer and vendor tables](Spring18/dynamics365-finance-operations/data-sharing-customer-vendor-tables.md)
+#### [One voucher deprecation](Spring18/dynamics365-finance-operations/one-voucher-deprecation.md)
+
+### Extensibility and customization
+#### [Customizations through extensions only](Spring18/dynamics365-finance-operations/customizations-extensions-only.md)
+#### [Extensibility requests](Spring18/dynamics365-finance-operations/extensibility-requests.md)
+#### [Extensible project work breakdown structure](Spring18/dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
+#### [Embedding PowerApps in workspaces and forms](Spring18/dynamics365-finance-operations/embedding-powerapps-workspaces-forms.md)
+#### [Custom fields](Spring18/dynamics365-finance-operations/custom-fields.md)
+
+### Integration
+#### [Integration with Common Data Service (CDS)](Spring18/dynamics365-finance-operations/integration-common-data-service-cds.md)
+#### [Integration with Dynamics 365 for Field Service](Spring18/dynamics365-finance-operations/integration-dynamics365-field-service.md)
+#### [Integration with Dynamics 365 for Talent (Public Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-talent.md)
+#### [Integration with Dynamics 365 for Project Service Automation (Private Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
+
+### Support experiences
+#### [Lifecycle Services: Telemetry-based KB recommendation](Spring18/dynamics365-finance-operations/lifecycle-services-telemetry-based-kb-recommendation.md)
+#### [KB recommendations when entering a support case](Spring18/dynamics365-finance-operations/kb-recommendations-entering-support-case.md)
+#### [Report production outage](Spring18/dynamics365-finance-operations/report-production-outage.md)
+
+### Supply chain management
+#### [Vendor collaboration – RFQ process](Spring18/dynamics365-finance-operations/vendor-collaboration-rfq-process.md)
+#### [Partial shipment of a load (split load)](Spring18/dynamics365-finance-operations/partial-shipment-load-split-load.md)
+#### [Immediate replenishment of locations](Spring18/dynamics365-finance-operations/immediate-replenishment-locations.md)
+#### [Reason codes added to warehouse counting and adjustment](Spring18/dynamics365-finance-operations/reason-codes-added-warehouse-counting-adjustment.md)
+#### [Batch balancing enabled for advanced warehousing processes](Spring18/dynamics365-finance-operations/batch-balancing-enabled-advanced-warehousing-processes.md)
+#### [Analytical workspaces with embedded Power BI for cost management](Spring18/dynamics365-finance-operations/analytical-workspaces-embedded-power-bi-cost-management.md)
+
+### Globalization
+#### [Globalization – India localization: Project and upgrade](Spring18/dynamics365-finance-operations/globalization-india-localization-project-upgrade.md)
+#### [Globalization – Enhanced configurability](Spring18/dynamics365-finance-operations/globalization-enhanced-configurability.md)
+#### [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](Spring18/dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
+#### [Translation Service enhancements](Spring18/dynamics365-finance-operations/translation-service-enhancements.md)
+#### [Regulatory service – Configuration (Public Preview)](Spring18/dynamics365-finance-operations/regulatory-service-configuration.md)
+
+### Servicing, performance, and deplyoment
+
+#### [Improved delivery of platform and financial reporting updates](Spring18/dynamics365-finance-operations/improved-delivery-platform-financial-reporting-updates.md)
+#### [Upgrade automation](Spring18/dynamics365-finance-operations/upgrade-automation.md)
+#### [Service hardening](Spring18/dynamics365-finance-operations/service-hardening.md)
+#### [Lifecycle Services sandbox self-service automation and RDP lockdown](Spring18/dynamics365-finance-operations/lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md)
+#### [On-premises deployment updates](Spring18/dynamics365-finance-operations/on-premises-deployment-updates.md)
+
+### Compliance
+#### [Accessibility](Spring18/dynamics365-finance-operations/accessibility.md)
+#### [GDPR compliance](Spring18/dynamics365-finance-operations/gdpr-compliance.md)
+#### [Customer payment insights (Preview)](Spring18/dynamics365-finance-operations/customer-payment-insights-preview.md)
+
 ### Finance Insights: Credit and collections
 ### [Summary of what’s new](Spring18/finance-insights/whats-new-credit-collections.md)
 ### [Credit and collections overview](Spring18/finance-insights/credit-collections-overview.md)
