@@ -26,8 +26,8 @@ If you want users to view their insights in context, embed your Power BI app
 wherever you choose. You’ll be able to customize your reports and leverage
 features like Q&A and Quick Insights.
 
-![A screenshot showing an example of quick insights](media/rich-immersive-experiences-1.png "A screenshot showing an example of quick insights")
-<!-- picture -->
+> [!div class="mx-imgBorder"]
+> ![A screenshot showing an example of quick insights](media/rich-immersive-experiences-1.png "A screenshot showing an example of quick insights")
 
 
 *Example of quick insights*

@@ -59,7 +59,7 @@ Use Power Query to integrate data into the Common Data Service for Apps and the 
 - New Excel Online connector for Microsoft Flow and Logic Apps
 - Support for views in Teradata and Oracle connectors
 - Improved Visual Studio Team Services connector
-- New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more. [See the full list](connectors.md).
+- New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more. [See the full list](connectors.md)
 
 [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](integration-cds-apps-cds-analytics.md)
 - Load data from a wide range of data sources into the Common Data Service for Apps or the Common Data Service for Analytics

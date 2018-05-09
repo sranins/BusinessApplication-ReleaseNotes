@@ -26,7 +26,8 @@ candidate app that a new task is waiting for them. They can easily navigate to
 the questionnaire and complete the assessment. The hiring manager and recruiter
 can track the process and results directly in Attract.
 
-![A screenshot showing Gauge integration, which allows candidate assessment data to be integrated into Talent](media/gauge-public-preview-1.png "A screenshot showing Gauge integration, which allows candidate assessment data to be integrated into Talent")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing Gauge integration, which allows candidate assessment data to be integrated into Talent](media/gauge-public-preview-1.png "A screenshot showing Gauge integration, which allows candidate assessment data to be integrated into Talent")
 <!-- Talent_Assessment activities_A.png -->
 
 

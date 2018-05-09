@@ -46,13 +46,15 @@ The reporting flow is as follows:
 
 5.  A support engineer contacts the customer to provide a status update.
 
-![A screenshot showing how to report a production outage](media/report-production-outage-1.png "A screenshot showing how to report a production outage")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to report a production outage](media/report-production-outage-1.png "A screenshot showing how to report a production outage")
 <!-- FO_Report production outage_D.png -->
 
 
 *Report production outage*
 
-![A screenshot showing how to confirm a production outage ](media/report-production-outage-2.png "A screenshot showing how to confirm a production outage ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to confirm a production outage ](media/report-production-outage-2.png "A screenshot showing how to confirm a production outage ")
 <!-- FO_Report production outage_B.png -->
 
 

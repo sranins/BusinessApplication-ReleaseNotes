@@ -37,7 +37,8 @@ must appear on the opportunity business process flow.
 To enable this functionality, under Available to Run, select As a Business
 Process Flow action step.
 
-![A screenshot showing "available to run as a business process flow" configuration](media/add-action-to-business-process-flow-1.png "A screenshot showing "available to run as a business process flow" configuration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing "available to run as a business process flow" configuration](media/add-action-to-business-process-flow-1.png "A screenshot showing 'available to run as a business process flow' configuration")
 <!-- Picture 17 -->
 
 
@@ -46,7 +47,8 @@ Process Flow action step.
 Next, add the action step to Contoso’s Opportunity business process flow, and
 validate the process.
 
-![A screenshot of an action added to the Opportunity business process flow](media/add-action-to-business-process-flow-2.png "A screenshot of an action added to the Opportunity business process flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an action added to the Opportunity business process flow](media/add-action-to-business-process-flow-2.png "A screenshot of an action added to the Opportunity business process flow")
 <!-- Picture 18 -->
 
 
@@ -55,7 +57,8 @@ validate the process.
 Now, members of Contoso’s salesforce can start the action from the Opportunity
 Qualify business process step whenever they want by selecting Execute.
 
-![A screenshot demonstrating how to execute an action](media/add-action-to-business-process-flow-3.png "A screenshot demonstrating how to execute an action")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating how to execute an action](media/add-action-to-business-process-flow-3.png "A screenshot demonstrating how to execute an action")
 <!-- Picture 19 -->
 
 

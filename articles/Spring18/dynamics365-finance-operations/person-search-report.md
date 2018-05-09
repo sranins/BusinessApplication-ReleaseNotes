@@ -48,23 +48,24 @@ To use the Person search report:
 
 2.  Name the project “Jodi Christiansen.”
 
-![A screenshot showing the person search report](media/person-search-report-1.png "A screenshot showing the person search report")
-<!-- FO_Person_Search_Report_A.png -->
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot showing the person search report](media/person-search-report-1.png "A screenshot showing the person search report")
+    <!-- FO_Person_Search_Report_A.png -->
 
 
-Person search report
+    *Person search report*
 
-1.  The search gives you three options: you can search by ID, by name, or by
+3.  The search gives you three options: you can search by ID, by name, or by
     address. In this example, you would search by ID, so that the report will
     return instances of each name that is associated with the ID you entered.
 
-2.  Run the search to show the results.
+4.  Run the search to show the results.
 
-3.  Verify that the results are valid. Clear any selections that return
+5.  Verify that the results are valid. Clear any selections that return
     information you don't want to include on the report.
 
-4.  Select Process report, and then select the Person search template.
+6.  Select Process report, and then select the Person search template.
 
-5.  Select OK. A data package is generated.
+7.  Select OK. A data package is generated.
 
-6.  When the package has been generated, export it to your selected data format.
+8.  When the package has been generated, export it to your selected data format.

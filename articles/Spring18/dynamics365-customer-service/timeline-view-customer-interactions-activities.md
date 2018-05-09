@@ -25,7 +25,8 @@ view of everything that has happened with a case, such as email received,
 follow-up tasks, and automatically generated system posts, plus any notes taken
 during customer interactions.
 
-![A screenshot of a customer activity timeline on the case dashboard](media/timeline-view-customer-interactions-activities-1.png "A screenshot of a customer activity timeline on the case dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a customer activity timeline on the case dashboard](media/timeline-view-customer-interactions-activities-1.png "A screenshot of a customer activity timeline on the case dashboard")
 <!-- picture -->
 
 

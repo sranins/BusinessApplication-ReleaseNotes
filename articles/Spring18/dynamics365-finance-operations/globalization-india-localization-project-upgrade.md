@@ -37,7 +37,8 @@ Project localization for India lets users manage Indian Goods and Services Tax
 Localization upgrade for India lets current Microsoft Dynamics AX 2012 customers
 upgrade to Microsoft Dynamics 365 for Finance and Operations.
 
-![A screenshot showing tax calculation in the project management and accounting for India](media/globalization-india-localization-project-upgrade-1.png "A screenshot showing tax calculation in the project management and accounting for India")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing tax calculation in the project management and accounting for India](media/globalization-india-localization-project-upgrade-1.png "A screenshot showing tax calculation in the project management and accounting for India")
 <!-- FO_India_localization_project_and_upgrade_A.png -->
 
 

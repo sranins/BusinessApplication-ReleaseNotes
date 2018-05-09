@@ -24,7 +24,8 @@ audience: Admin
 Knowledge article attachments are searchable to increase the likelihood of
 relevant search results.
 
-![A screenshot demonstrating searchable attachments for knowledge articles](media/searchable-attachments-knowledge-articles-1.png "A screenshot demonstrating searchable attachments for knowledge articles")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating searchable attachments for knowledge articles](media/searchable-attachments-knowledge-articles-1.png "A screenshot demonstrating searchable attachments for knowledge articles")
 <!-- picture -->
 
 

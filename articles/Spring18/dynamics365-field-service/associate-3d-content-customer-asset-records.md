@@ -26,7 +26,8 @@ sequences can be uploaded (directly to Dynamics 365 or hosted externally), and
 then associated with customer asset records for use by technicians within the
 mobile app. Supported 3D file formats are glTF, GLB, and OBJ.
 
-![A screenshot of a 3D model image](media/associate-3d-content-customer-asset-records-1.png "A screenshot of a 3D model image")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a 3D model image](media/associate-3d-content-customer-asset-records-1.png "A screenshot of a 3D model image")
 <!-- FS_NASA3DPhoto.png -->
 
 

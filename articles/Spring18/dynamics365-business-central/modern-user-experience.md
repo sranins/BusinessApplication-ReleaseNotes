@@ -24,7 +24,8 @@ audience: Admin
 With the Spring ’18 release, Dynamics 365 Business Central offers a refreshed
 and modern user experience, optimized for insights and productivity.
 
-![A screenshot showing an example of the refreshed interface in Business Central](media/modern-user-experience-1.png "A screenshot showing an example of the refreshed interface in Business Central")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an example of the refreshed interface in Business Central](media/modern-user-experience-1.png "A screenshot showing an example of the refreshed interface in Business Central")
 <!-- SMB_BusinessCentral_ModenaRoleCenter_A.png -->
 
 

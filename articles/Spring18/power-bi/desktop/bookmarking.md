@@ -26,7 +26,8 @@ Power BI Desktop. The Bookmarking feature is generally available, and it no
 longer requires the feature to be turned on from the **Preview** tab in the
 **Options** dialog box.
 
-![A screenshot showing an example of bookmarks](media/bookmarking-1.png "A screenshot showing an example of bookmarks")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an example of bookmarks](media/bookmarking-1.png "A screenshot showing an example of bookmarks")
 <!-- picture -->
 
 

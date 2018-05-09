@@ -39,11 +39,12 @@ Create calculated and rollup fields when you need to:
 
 -   Create rollups of date fields (for example, MAX(Datefield)).
 
-![A screenshot of a calculated field](media/calculated-rollup-fields-1.png "A screenshot of a calculated field")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a calculated field](media/calculated-rollup-fields-1.png "A screenshot of a calculated field")
 <!-- Picture 13 -->
 
 
-Calculated field
+*Calculated field*
 
 For more information about calculated fields, go to [Define calculated fields to
 automate manual

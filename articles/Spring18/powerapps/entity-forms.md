@@ -41,7 +41,8 @@ Entity forms include the following features:
 
 -   Navigation. Add navigation links to other related entities.
 
-![A screenshot of the form designer](media/entity-forms-1.png "A screenshot of the form designer")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the form designer](media/entity-forms-1.png "A screenshot of the form designer")
 <!-- Picture 3 -->
 
 

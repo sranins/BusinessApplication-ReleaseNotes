@@ -41,7 +41,8 @@ environment, build a deployable package, and then deploy and test it in your
 sandbox environment. After it's fully tested, you can then deploy it to your
 production environment.
 
-![A screenshot showing LCS Telemetry-based KB recommendations](media/lifecycle-services-telemetry-based-kb-recommendation-1.png "A screenshot showing LCS Telemetry-based KB recommendations")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing LCS Telemetry-based KB recommendations](media/lifecycle-services-telemetry-based-kb-recommendation-1.png "A screenshot showing LCS Telemetry-based KB recommendations")
 <!-- FO_LCS_telemtry_KB_A.png -->
 
 

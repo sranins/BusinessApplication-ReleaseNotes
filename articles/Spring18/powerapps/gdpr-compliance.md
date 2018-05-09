@@ -43,13 +43,14 @@ takes the following steps:
 
 3.  Save and publish the application.
 
-![A screenshot showing data connections](media/gdpr-compliance-1.png "A screenshot showing data connections")
-<!-- Picture 11 -->
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot showing data connections](media/gdpr-compliance-1.png "A screenshot showing data connections")
+    <!-- Picture 11 -->
 
 
-Update connections
+    *Update connections*
 
-Go to the Trust Center to learn more about GDPR and find resources to help you
-comply.
+[Go to the Trust Center to learn more about GDPR and find resources to help you
+comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
 
 

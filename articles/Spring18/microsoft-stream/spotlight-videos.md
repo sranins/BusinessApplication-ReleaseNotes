@@ -24,6 +24,7 @@ page to get the broadest reach. Additionally, group owners can highlight videos
 on their group home page. Employees who sign in to Stream and have access to
 these videos see them prominently featured.
 
-![Spotlight videos on the Stream home page](media/spotlight-videos-1.png "Spotlight videos on the Stream home page")
+> [!div class="mx-imgBorder"] 
+> ![Spotlight videos on the Stream home page](media/spotlight-videos-1.png "Spotlight videos on the Stream home page")
 
 *Spotlight videos on the Stream home page*

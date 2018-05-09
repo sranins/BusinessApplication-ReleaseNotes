@@ -25,7 +25,8 @@ merge data from online and on-premises sources.
 The enterprise gateway admin decides whether to allow the gateway to refresh
 cloud data sources by using the newly added setting on the Manage Gateways page.
 
-![Setting that allows refresh of cloud source data sources](media/index-1.png "Setting that allows refresh of cloud source data sources")
+> [!div class="mx-imgBorder"] 
+> ![Setting that allows refresh of cloud source data sources](media/index-1.png "Setting that allows refresh of cloud source data sources")
 
 *Setting that allows refresh of cloud source data sources*
 
@@ -43,6 +44,7 @@ mobile app). Therefore, each user sees only the data they have permissions for
 in the underlying data source. There is no shared data caching across different
 users.
 
-![Single Sign-On Kerberos settings when adding a supported data source](media/index-2.png "Single Sign-On Kerberos settings when adding a supported data source")
+> [!div class="mx-imgBorder"] 
+> ![Single Sign-On Kerberos settings when adding a supported data source](media/index-2.png "Single Sign-On Kerberos settings when adding a supported data source")
 
 *Single Sign-On Kerberos settings when adding a supported data source*

@@ -32,7 +32,8 @@ activity information on the timesheet. The saved favorites can be used to create
 future timesheets, speeding the time entry process. Project timesheet can be
 accessed via the web browser on a mobile device.
 
-![A screenshot of the project timesheet mobile app](media/project-timesheet-mobile-1.png "A screenshot of the project timesheet mobile app")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the project timesheet mobile app](media/project-timesheet-mobile-1.png "A screenshot of the project timesheet mobile app")
 <!-- FO_Project_timesheet_mobile_A.png -->
 
 

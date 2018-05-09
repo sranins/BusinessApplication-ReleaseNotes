@@ -26,6 +26,7 @@ a report. This capability allows for dynamic navigation without losing context
 when switching from page to page. Report authors can take control of filtering
 in their report and customize it to meet user needs.
 
-![A screenshot showing report level slicers](media/report-level-slicers-1.png "A screenshot showing report level slicers")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing report level slicers](media/report-level-slicers-1.png "A screenshot showing report level slicers")
 
 *Report level slicers*

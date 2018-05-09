@@ -35,7 +35,8 @@ To create an extensibility request, sign in to LCS, in the project for which you
 need the additional extension support, and then from the Support Work items
 workspace, create the request.
 
-![A screenshot showing an extensibility request, with the request type dropdown expanded](media/extensibility-requests-1.png "A screenshot showing an extensibility request, with the request type dropdown expanded")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing an extensibility request, with the request type dropdown expanded](media/extensibility-requests-1.png "A screenshot showing an extensibility request, with the request type dropdown expanded")
 <!-- FO_extensibility_requests_A.png -->
 
 

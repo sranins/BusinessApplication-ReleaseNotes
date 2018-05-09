@@ -30,7 +30,8 @@ speaker bios, register online, and build their session schedule. Finally, set up
 a customer journey to promote the event, collect registrations, and follow up
 with attendees.
 
-![A screenshot of an example event portal. ](media/event-management-1.png "A screenshot of an example event portal. ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an example event portal. ](media/event-management-1.png "A screenshot of an example event portal. ")
 <!-- Marketing_EventManagement_A.png -->
 
 

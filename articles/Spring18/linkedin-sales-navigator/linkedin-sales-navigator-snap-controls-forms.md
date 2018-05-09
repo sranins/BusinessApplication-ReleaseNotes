@@ -28,7 +28,8 @@ Sales Navigator member or company profiles, or focused views into lead
 icebreakers, mutual connections, and related leads, as well as account
 connections, recommended leads, and news.
 
-![LinkedIn Sales Navigator integration controls screen](media/linkedin-sales-navigator-snap-controls-on-forms-1.png "LinkedIn Sales Navigator integration controls screen")
+> [!div class="mx-imgBorder"] 
+> ![LinkedIn Sales Navigator integration controls screen](media/linkedin-sales-navigator-snap-controls-on-forms-1.png "LinkedIn Sales Navigator integration controls screen")
 <!-- Picture 10 -->
 
 

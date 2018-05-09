@@ -26,8 +26,9 @@ their data set. Power BI now supports Excel like filtering on the data view,
 enabling end users to slice and dice in the data view to get a better
 understanding of the data they are working with.
 
-![cid:image002.png@01D3CBF1.3E916830](media/filtering-on-data-view-1.png "cid:image002.png@01D3CBF1.3E916830")
+> [!div class="mx-imgBorder"] 
+> ![Filtering on the data view](media/filtering-on-data-view-1.png "Filtering on the data view")
 <!-- Picture 2 -->
 
-
+*Filtering on the data view*
 

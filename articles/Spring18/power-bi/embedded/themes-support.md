@@ -21,18 +21,19 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-With **report themes,** you can apply a color theme to your entire report, such
+With **report themes**, you can apply a color theme to your entire report, such
 as corporate colors, seasonal coloring, or any other color theme you might want
-to apply. When you apply a **report theme**, all visuals in your report use the
+to apply. When you apply a report theme, all visuals in your report use the
 colors from your selected theme.
 
-![A screenshot of how to apply themes to a report](media/themes-support-1.png "A screenshot of how to apply themes to a report")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of how to apply themes to a report](media/themes-support-1.png "A screenshot of how to apply themes to a report")
 <!-- picture -->
 
 
 *Apply themes to a report*
 
-Applying a **report theme** requires a JSON file, which you can then import into
+Applying a report theme requires a JSON file, which you can then import into
 Power BI Desktop and apply to your report. The JSON file structure and the
 process of importing are quick and easy.
 

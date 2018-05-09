@@ -35,7 +35,8 @@ for United Arab Emirates (UAE). The UAE localization functionality includes:
 
 -   New user interface language: Arabic for UAE.
 
-![User interface in Arabic (UAE) language](media/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update-1.png "User interface in Arabic (UAE) language")
+> [!div class="mx-imgBorder"] 
+> ![User interface in Arabic (UAE) language](media/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update-1.png "User interface in Arabic (UAE) language")
 <!-- picture -->
 
 

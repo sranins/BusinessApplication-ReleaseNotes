@@ -37,10 +37,11 @@ following areas:
 
 -   PowerApps and Flow licenses report (of active users)
 
-![A screenshot of PowerShell administration](media/automate-governance-powershell-1.png "A screenshot of PowerShell administration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of PowerShell administration](media/automate-governance-powershell-1.png "A screenshot of PowerShell administration")
 <!-- Picture 12 -->
 
 
-PowerShell administration
+*PowerShell administration*
 
 

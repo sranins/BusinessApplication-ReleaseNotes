@@ -24,7 +24,8 @@ Interface framework for improved user experience. The app delivers a consistent,
 uniform user interface, and follows responsive design principles for optimal
 viewing on any screen size or device.
 
-![A screenshot of the work order form on the Unified Interface framework](media/built-on-unified-interface-framework-1.png "A screenshot of the work order form on the Unified Interface framework")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the work order form on the Unified Interface framework](media/built-on-unified-interface-framework-1.png "A screenshot of the work order form on the Unified Interface framework")
 <!-- picture -->
 
 

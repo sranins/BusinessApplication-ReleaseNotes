@@ -41,17 +41,19 @@ To get started with model‑driven apps, use designers to:
 -   **Include entities and components.** Add specific forms, views, dashboards,
     and charts for targeted entities to craft your user experience.
 
-![A screenshot of the model-driven apps list](media/model-driven-apps-1.jpg "A screenshot of the model-driven apps list")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the model-driven apps list](media/model-driven-apps-1.jpg "A screenshot of the model-driven apps list")
 <!-- Picture 1 -->
 
 
 *Model-driven apps list*
 
-![A screenshot of the model-driven apps designer](media/model-driven-apps-2.png "A screenshot of the model-driven apps designer")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the model-driven apps designer](media/model-driven-apps-2.png "A screenshot of the model-driven apps designer")
 <!-- Picture 2 -->
 
 
 *Model-driven apps designer*
 
-For more information about the app designer, go to Design custom business apps
-by using the app designer.
+[For more information about the app designer, go to Design custom business apps
+by using the app designer.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/design-custom-business-apps-using-app-designer)

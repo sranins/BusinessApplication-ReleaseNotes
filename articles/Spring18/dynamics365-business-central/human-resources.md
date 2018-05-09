@@ -31,7 +31,8 @@ and union membership.
 
 Post expenses against employee cards to track and reimburse their expenses.
 
-![A screenshot of a Business Central employee list](media/human-resources-1.png "A screenshot of a Business Central employee list")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a Business Central employee list](media/human-resources-1.png "A screenshot of a Business Central employee list")
 <!-- SMB_BusinessCentral_EmployeeList_A.png -->
 
 

@@ -39,8 +39,9 @@ To try out the new support experience:
 2.  Select **New support request**, fill out the details for your issue, attach
     any relevant screenshots, and select **Submit**.
 
-![A screenshot of a new support request form](media/improved-support-ticketing-admins-1.png "A screenshot of a new support request form")
-<!-- Picture 10 -->
+    > [!div class="mx-imgBorder"] 
+    > ![A screenshot of a new support request form](media/improved-support-ticketing-admins-1.png "A screenshot of a new support request form")
+    <!-- Picture 10 -->
 
 
-New support request form
+    *New support request form*

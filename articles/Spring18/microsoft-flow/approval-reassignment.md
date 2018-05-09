@@ -28,7 +28,8 @@ provide the email address of the user that you want to handle the approval on
 your behalf. After you reassign the approval, that user will see the approval
 request in their Approval center.
 
-![Reassigning approvals](media/approval-reassignment-1.png "Reassigning approvals")
+> [!div class="mx-imgBorder"] 
+> ![Reassigning approvals](media/approval-reassignment-1.png "Reassigning approvals")
 <!-- Picture 1 -->
 
 

@@ -40,7 +40,8 @@ such as creating a To-Do or posting to Microsoft Teams.
 
 
 
-![Approvals in the CDS template](media/access-modern-approvals-the-common-data-service-apps-1.png "Approvals in the CDS template")
+> [!div class="mx-imgBorder"] 
+> ![Approvals in the CDS template](media/access-modern-approvals-the-common-data-service-apps-1.png "Approvals in the CDS template")
 <!-- Picture 2 -->
 
 

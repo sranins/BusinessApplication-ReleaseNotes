@@ -32,7 +32,8 @@ user’s input. Therefore, it provides more relevant search results and better
 solutions, thereby reducing the need for users to submit cases by helping them
 find existing solutions.
 
-![A screenshot showing the KB recommendations when entering a support case form](media/kb-recommendations-entering-support-case-1.png "A screenshot showing the KB recommendations when entering a support case form")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the KB recommendations when entering a support case form](media/kb-recommendations-entering-support-case-1.png "A screenshot showing the KB recommendations when entering a support case form")
 <!-- FO_KB recommendations when entering a support case_A.png -->
 
 

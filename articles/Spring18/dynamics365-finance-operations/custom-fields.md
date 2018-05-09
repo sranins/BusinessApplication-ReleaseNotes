@@ -27,7 +27,8 @@ to track additional information in their system. To accommodate this, Finance
 and Operations lets you create custom fields to tailor the application to fit
 your business, without coding.
 
-![A screenshot showing how to add a custom field](media/custom-fields-1.png "A screenshot showing how to add a custom field")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to add a custom field](media/custom-fields-1.png "A screenshot showing how to add a custom field")
 <!-- FO_Adding custom fields_A.png -->
 
 
@@ -39,7 +40,8 @@ can also export your personalizations, send them to one or more users, and have
 each of those users import your changes. Use the Manage option on the
 personalization toolbar to export and import personalizations.
 
-![A screenshot showing how to export a custom field](media/custom-fields-2.png "A screenshot showing how to export a custom field")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to export a custom field](media/custom-fields-2.png "A screenshot showing how to export a custom field")
 <!-- FO_Adding custom fields_B.png -->
 
 
@@ -58,7 +60,8 @@ administration module. This is used to:
 
 -   Provide translations of custom field labels and Help text.
 
-![A screenshot showing how to manage custom fields](media/custom-fields-3.png "A screenshot showing how to manage custom fields")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to manage custom fields](media/custom-fields-3.png "A screenshot showing how to manage custom fields")
 <!-- FO_Adding custom fields_C.png -->
 
 

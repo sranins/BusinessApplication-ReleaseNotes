@@ -28,7 +28,8 @@ assistance (UA) translation in Microsoft Word and HTML formats (.docx, .html)
 . Recycling capabilities from the latest Microsoft translations
 have also been enhanced for UI and documentation translation projects.
 
-![A screenshot showing the Translation service](media/translation-service-enhancements-1.png "A screenshot showing the Translation service")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the Translation service](media/translation-service-enhancements-1.png "A screenshot showing the Translation service")
 <!-- FO_translation_service_A.png -->
 
 

@@ -85,7 +85,8 @@ Some new extensibility capabilities include:
     support existing device extensions, such as printers or line displays.
     Almost any new device can be integrated.
 
-![A screenshot showing a retail point of sale extensibility example](media/extensibility-hq-pos-crt-1.png "A screenshot showing a retail point of sale extensibility example")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing a retail point of sale extensibility example](media/extensibility-hq-pos-crt-1.png "A screenshot showing a retail point of sale extensibility example")
 <!-- Retail_Extensibility_A.png -->
 
 

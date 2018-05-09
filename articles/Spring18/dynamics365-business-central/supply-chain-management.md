@@ -49,7 +49,8 @@ value of inventory in transit at various locations.
 Manage items on a bin level. Pick and put away items in a bin, and move items
 between bins by using a report that optimizes space usage and picking processes.
 
-![A screenshot of a new warehouse shipment example in Business Central](media/supply-chain-management-1.png "A screenshot of a new warehouse shipment example in Business Central")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a new warehouse shipment example in Business Central](media/supply-chain-management-1.png "A screenshot of a new warehouse shipment example in Business Central")
 <!-- SMB_BusinessCentral_WarehouseShipment_A.png -->
 
 

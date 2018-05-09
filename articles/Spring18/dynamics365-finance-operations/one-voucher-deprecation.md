@@ -36,11 +36,11 @@ at once. Instead, we will use the following schedule:
     on if your organization has a scenario that falls in the business scenario
     gaps that are listed in the One voucher documentation.
 
--   If a customer has a business scenario that doesn't require One voucher,
+    -   If a customer has a business scenario that doesn't require One voucher,
     don't turn the functionality on. We won't fix “bugs” in the areas that are
     identified in the One voucher documentation if this functionality is used.
 
--   Stop using One voucher for integrations into Microsoft Dynamics 365 Finance
+    -   Stop using One voucher for integrations into Microsoft Dynamics 365 Finance
     and Operations, unless the functionality is required for one of the
     functional gaps.
 

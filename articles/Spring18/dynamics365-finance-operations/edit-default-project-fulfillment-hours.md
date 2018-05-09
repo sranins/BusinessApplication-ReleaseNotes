@@ -39,7 +39,8 @@ projects) on the first day and 8 hours on the third day. The resource manager
 can also potentially choose to schedule days 2 and 3 at 10 hours each, and day 1
 at 0 hours for the project task (all within the task schedule period).
 
-![A screenshot showing editing defaulted project fulfillment hours](media/edit-default-project-fulfillment-hours-1.png "A screenshot showing editing defaulted project fulfillment hours")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing editing defaulted project fulfillment hours](media/edit-default-project-fulfillment-hours-1.png "A screenshot showing editing defaulted project fulfillment hours")
 <!-- FO_EditFullfilment_A.png -->
 
 

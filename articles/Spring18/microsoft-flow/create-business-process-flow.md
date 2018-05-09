@@ -31,7 +31,8 @@ customers.
 With business process flows, you define a set of stages and steps that people go
 through.
 
-![A screenshot of an example business process flow](media/create-business-process-flow-1.png "A screenshot of an example business process flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an example business process flow](media/create-business-process-flow-1.png "A screenshot of an example business process flow")
 <!-- Picture 14 -->
 
 

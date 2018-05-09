@@ -43,7 +43,8 @@ In this release, Optimization advisor rules analyze the:
 
 -   Ability to unlock a financial journal that is locked by the system.
 
-![A screenshot showing a list of optimization opportunities recommended by the Optimization advisor](media/optimization-advisor-1.PNG "A screenshot showing a list of optimization opportunities recommended by the Optimization advisor")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing a list of optimization opportunities recommended by the Optimization advisor](media/optimization-advisor-1.PNG "A screenshot showing a list of optimization opportunities recommended by the Optimization advisor")
 <!-- FO_Optimization_Advisor_B.PNG -->
 
 
@@ -61,7 +62,8 @@ create new Optimization advisor rules for their businesses.
 In the following example, an inefficient route runtime was detected in a
 warehouse because the route runtime varied from the system's average runtime.
 
-![A screenshot showing a recommendation made by Optimization advisor](media/optimization-advisor-2.png "A screenshot showing a recommendation made by Optimization advisor")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing a recommendation made by Optimization advisor](media/optimization-advisor-2.png "A screenshot showing a recommendation made by Optimization advisor")
 <!-- FO_Optimization_advisor_A.png -->
 
 

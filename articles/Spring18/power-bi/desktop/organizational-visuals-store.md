@@ -25,7 +25,8 @@ Power BI admins can deploy visuals as part of an organizational repository.
 Deployed visuals display under a section of the Power BI custom visual store
 called MY ORGANIZATION.
 
-![A screenshot of the marketplace for Power BI Visuals](media/organizational-visuals-store-1.png "A screenshot of the marketplace for Power BI Visuals")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the marketplace for Power BI Visuals](media/organizational-visuals-store-1.png "A screenshot of the marketplace for Power BI Visuals")
 
 *Marketplace for Power BI Visuals*
 

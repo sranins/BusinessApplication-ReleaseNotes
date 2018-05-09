@@ -32,7 +32,8 @@ and [REST APIs](https://docs.microsoft.com/en-us/rest/api/monitor/metrics/list)
 to automatically monitor the resources. The data can be viewed using different
 measures and time periods.
 
-![A screenshot of an example of Azure monitoring](media/azure-monitoring-1.png "A screenshot of an example of Azure monitoring")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of an example of Azure monitoring](media/azure-monitoring-1.png "A screenshot of an example of Azure monitoring")
 <!-- picture -->
 
 
@@ -47,7 +48,7 @@ resource:
     units (virtual cores) to process the queries, and you should consider
     scaling to a higher capacity.
 
-The threshold to scale up or down depends on the developer’s decision and can
+    The threshold to scale up or down depends on the developer’s decision and can
 vary based on the data and the type of queries that are running.
 
 -   **Query pool queue length.** Provides information about the number of

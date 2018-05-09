@@ -27,7 +27,8 @@ that are distributed to you through apps, as well as when you’re the owner of
 the dashboard or report that you’re pinning from. You can create a personal
 dashboard or bring together and distribute information.
 
-![A screenshot showing how to pin apps to a dashboard](media/pin-apps-to-dashboard-1.png "A screenshot showing how to pin apps to a dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to pin apps to a dashboard](media/pin-apps-to-dashboard-1.png "A screenshot showing how to pin apps to a dashboard")
 
 *Pin apps to a dashboard*
 

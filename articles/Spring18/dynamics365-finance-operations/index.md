@@ -50,18 +50,18 @@ include:
 -   Lifecycle Services (LCS) tools that make it easier for customers to get
     support when they need it, including:
 
--   Telemetry-driven knowledge-base (KB) recommendations that help us understand
+    -   Telemetry-driven knowledge-base (KB) recommendations that help us understand
     how well hotfixes have solved an issue and proactively push out hotfixes to
     customers. This will allow customers to spend less time looking for
     solutions to issues that a hotfix already exists for.
 
--   Returning a list of KB recommendations when customers enter a support case
+    -   Returning a list of KB recommendations when customers enter a support case
     and continuously refining search results based on the user’s input. This
     feature provides more relevant search results and reduces the need for
     customers to submit support cases by helping them find the solution before
     submitting a case.
 
--   Ability to report a production outage, providing a quick and effective
+    -   Ability to report a production outage, providing a quick and effective
     channel to escalate issues to Microsoft Support if the services in a
     production environment are degraded or become unavailable.
 

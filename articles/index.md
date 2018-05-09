@@ -28,4 +28,4 @@ We’re eager to hear your feedback as you dig in to the release notes. Let us k
 
 
 > [!TIP]
-> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
+> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). To find out when there are updates to the PDF, follow us on Twitter @MSFTDynamics365.

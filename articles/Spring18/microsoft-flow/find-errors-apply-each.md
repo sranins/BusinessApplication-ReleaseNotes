@@ -29,6 +29,7 @@ are two new buttons to take you directly to the next and previous *failed*
 items. You can now quickly go through only the failures in your actions to
 identify what went wrong, even if there are thousands of items in the loop.
 
-![Apply to each errors](media/find-errors-apply-to-each-1.png "Apply to each errors")
+> [!div class="mx-imgBorder"] 
+> ![Apply to each errors](media/find-errors-apply-to-each-1.png "Apply to each errors")
 
 *Errors in Apply to each*

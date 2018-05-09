@@ -26,6 +26,8 @@ based on another column, even if that column isn’t being used in the visual
 itself. This will allow more flexibility with conditional formatting and even
 allow you to write measures for deeper control over the formatting.
 
-![cid:image001.png@01D3CB66.E2DF3CE0](media/conditional-formatting-based-on-another-column-1.png "cid:image001.png@01D3CB66.E2DF3CE0")
+> [!div class="mx-imgBorder"] 
+> ![Conditional formatting based on another column](media/conditional-formatting-based-on-another-column-1.png "Conditional formatting based on another column")
 <!-- Picture 1 -->
 
+*Conditional formatting based on another column*
