@@ -27,9 +27,7 @@ and provide justification for them. The system then provides a workflow so HR
 can review and approve changes and ensure they are accurate and within budget.
 
 > [!div class="mx-imgBorder"] 
-> ![A screenshot showing manager self-promotion requests in Talent
-](media/manager-self-service-1.png "A screenshot showing manager self-promotion requests in Talent
-")
+> ![A screenshot showing manager self-promotion requests in Talent](media/manager-self-service-1.png "A screenshot showing manager self-promotion requests in Talent")
 <!-- Talent_Manager self-service_A.png -->
 
 
