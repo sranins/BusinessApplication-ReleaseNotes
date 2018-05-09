@@ -168,9 +168,8 @@
 #### [GDPR compliance](Spring18/dynamics365-finance-operations/gdpr-compliance.md)
 #### [Customer payment insights (Preview)](Spring18/dynamics365-finance-operations/customer-payment-insights-preview.md)
 
-### Finance Insights: Credit and collections
-### [Summary of what’s new](Spring18/finance-insights/whats-new-credit-collections.md)
-### [Credit and collections overview](Spring18/finance-insights/credit-collections-overview.md)
+### [Finance Insights: Credit and collections](Spring18/finance-insights/credit-collections-overview.md)
+#### [Summary of what’s new](Spring18/finance-insights/whats-new-credit-collections.md)
 
 ## [Retail](Spring18/dynamics365-retail/overview.md)
 ### [Summary of what’s new](Spring18/dynamics365-retail/whats-new-retail.md)
