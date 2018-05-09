@@ -99,8 +99,8 @@
 
 ## [Marketing](Spring18/dynamics365-marketing/overview.md)
 ### [Summary of what’s new](Spring18/dynamics365-marketing/whats-new-marketing.md)
-### [Easy setup with guided first-run](Spring18/dynamics365-marketing/easy-setup-guided-first-run-experience.md)
-### [Multi-channel campaigns with customer journeys](Spring18/dynamics365-marketing/multi-channel-campaign-orchestration-customer-journeys.md)
+### [Guided first-run setup](Spring18/dynamics365-marketing/easy-setup-guided-first-run-experience.md)
+### [Multi-channel campaigns](Spring18/dynamics365-marketing/multi-channel-campaign-orchestration-customer-journeys.md)
 ### [Content creation](Spring18/dynamics365-marketing/content-creation.md)
 ### [Event management](Spring18/dynamics365-marketing/event-management.md)
 ### [Lead management](Spring18/dynamics365-marketing/lead-management.md)
