@@ -16,6 +16,5 @@ audience: Admin
 ---
 #  Availability
 
-For a list of the regions where Dynamics 365 business applications are
-available, [see the Availability
+For a list of the regions where Dynamics 365 business applications are available, [see the Availability
 Guide](https://aka.ms/dynamics_365_international_availability_deck).
