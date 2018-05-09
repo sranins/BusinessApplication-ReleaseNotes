@@ -42,7 +42,8 @@ fixed-price jobs and time-and-materials jobs.
 Time sheets are a simple and flexible solution for time registration with
 manager approval, and they integrate with Service, Jobs, and Basic Resources.
 
-![A screenshot of the Business Central project list](media/project-management-1.png "A screenshot of the Business Central project list")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Business Central project list](media/project-management-1.png "A screenshot of the Business Central project list")
 <!-- SMB_BusinessCentral_Projects_A.png -->
 
 

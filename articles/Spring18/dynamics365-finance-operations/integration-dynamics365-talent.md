@@ -28,7 +28,8 @@ Operations. It provides the ability to quickly front-load Talent - Core HR with
 HCM data that currently resides in Finance and Operations. There will then be a
 recurring integration flow from Talent to Finance and Operations.
 
-![A screenshot showing how to configure Finance and Operations and Talent integration](media/integration-dynamics365-talent-public-preview-1.PNG "A screenshot showing how to configure Finance and Operations and Talent integration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to configure Finance and Operations and Talent integration](media/integration-dynamics365-talent-public-preview-1.PNG "A screenshot showing how to configure Finance and Operations and Talent integration")
 <!-- FO_talent-integration-A.PNG -->
 
 

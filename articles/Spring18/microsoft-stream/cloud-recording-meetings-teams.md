@@ -26,6 +26,7 @@ transcription and people detection. The people who attended the meeting receive
 permission to view the video and can watch it from within the conversation
 timeline.
 
-![Record meetings for Microsoft Teams](media/cloud-recording-meetings-microsoft-teams-1.png "Record meetings for Microsoft Teams")
+> [!div class="mx-imgBorder"] 
+> ![Record meetings for Microsoft Teams](media/cloud-recording-meetings-microsoft-teams-1.png "Record meetings for Microsoft Teams")
 
 *Record meetings for Microsoft Teams*

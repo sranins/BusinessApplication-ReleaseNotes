@@ -33,7 +33,8 @@ that they can review the task assignments and determine the impact on the
 project overall. The project manager can then either make the changes to the
 project tasks or request a new resource reservation.
 
-![A screenshot demonstrating reserving a resource past the planned task end date ](media/reserve-project-resources-past-task-end-date-1.png "A screenshot demonstrating reserving a resource past the planned task end date ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating reserving a resource past the planned task end date ](media/reserve-project-resources-past-task-end-date-1.png "A screenshot demonstrating reserving a resource past the planned task end date ")
 <!-- FO_ReservePastTaskDate_A.png -->
 
 

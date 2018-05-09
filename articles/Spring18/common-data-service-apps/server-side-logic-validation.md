@@ -33,7 +33,8 @@ Use business rules to:
 
 -   Trigger workflows and other processes directly from rule logic.
 
-![A screenshot showing the business rules designer](media/server-side-logic-validation-1.png "A screenshot showing the business rules designer")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the business rules designer](media/server-side-logic-validation-1.png "A screenshot showing the business rules designer")
 <!-- App_Plat_BusinessRules_W (1).png -->
 
 

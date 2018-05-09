@@ -39,7 +39,8 @@ a mobile device. The following functions will be available:
 
 -   Adjustment out
 
-![A screenshot showing reason codes for warehouse counting and adjustment ](media/reason-codes-added-to-warehouse-counting-adjustment-1.png "A screenshot showing reason codes for warehouse counting and adjustment ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing reason codes for warehouse counting and adjustment ](media/reason-codes-added-to-warehouse-counting-adjustment-1.png "A screenshot showing reason codes for warehouse counting and adjustment ")
 <!-- FO_Reason_codes_for_warehouse_counting_and_adjustment_A.png -->
 
 

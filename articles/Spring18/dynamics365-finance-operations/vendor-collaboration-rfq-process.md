@@ -30,7 +30,8 @@ of a new reply status. In addition, there is a new form dedicated to entering
 bids, so that entering the bid and processing the bid are now handled on
 separate forms.
 
-![A screenshot of the vendor bidding list](media/vendor-collaboration-rfq-process-1.png "A screenshot of the vendor bidding list")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the vendor bidding list](media/vendor-collaboration-rfq-process-1.png "A screenshot of the vendor bidding list")
 <!-- FO_Vendor portal_Vendor_ bidding_A.png -->
 
 

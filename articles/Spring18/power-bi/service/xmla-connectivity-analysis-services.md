@@ -21,7 +21,8 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-![A diagram demonstrating connectivity of Power BI Premium](media/xmla-connectivity-analysis-services-1.png "A diagram demonstrating connectivity of Power BI Premium")
+> [!div class="mx-imgBorder"] 
+> ![A diagram demonstrating connectivity of Power BI Premium](media/xmla-connectivity-analysis-services-1.png "A diagram demonstrating connectivity of Power BI Premium")
 <!-- Picture 2 -->
 
 *Connectivity of Power BI Premium*

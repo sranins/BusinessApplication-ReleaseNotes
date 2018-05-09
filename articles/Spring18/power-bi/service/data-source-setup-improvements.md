@@ -24,7 +24,8 @@ audience: Admin
 Data source setup improvements make it easier to configure gateways and diagnose
 common errors.
 
-![A screenshot demonstrating improved data source setup](media/data-source-setup-improvements-1.png "A screenshot demonstrating improved data source setup")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating improved data source setup](media/data-source-setup-improvements-1.png "A screenshot demonstrating improved data source setup")
 
 *Improved data source setup*
 

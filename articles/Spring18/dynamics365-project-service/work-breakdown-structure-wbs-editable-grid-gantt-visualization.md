@@ -33,7 +33,8 @@ has been detailed.
 This simplifies the project manager experience, and improves the range of
 scenarios where Project Service can be used to schedule work.
 
-![A screenshot of assigning named or generic resources to project tasks](media/work-breakdown-structure-wbs-editable-grid-gantt-visualization-1.png "A screenshot of assigning named or generic resources to project tasks")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of assigning named or generic resources to project tasks](media/work-breakdown-structure-wbs-editable-grid-gantt-visualization-1.png "A screenshot of assigning named or generic resources to project tasks")
 <!-- Assigning Resource to Task.png -->
 
 

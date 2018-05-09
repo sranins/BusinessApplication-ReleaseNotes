@@ -25,16 +25,19 @@ ties to configured pricing dimensions, such as role or resourcing unit, as
 defined by the administrator. Priority-based mark-up or mark-down resolution is
 also supported.
 
-![Markup settings applied to a pricing dimension](media/price-mark-ups-mark-downs-1.png "Markup settings applied to a pricing dimension")
+> [!div class="mx-imgBorder"] 
+> ![Markup settings applied to a pricing dimension](media/price-mark-ups-mark-downs-1.png "Markup settings applied to a pricing dimension")
 
 
 
 *Application of markup settings to a pricing dimension*
 
-![Screen showing role price markups](media/price-mark-ups-mark-downs-2.png "Screen showing role price markups")
+> [!div class="mx-imgBorder"] 
+> ![Screen showing role price markups](media/price-mark-ups-mark-downs-2.png "Screen showing role price markups")
 
 *Configuration of cost price markups*
 
-![Screen showing role price markups for sales](media/price-mark-ups-mark-downs-3.png "Screen showing role price markups for sales")
+> [!div class="mx-imgBorder"] 
+> ![Screen showing role price markups for sales](media/price-mark-ups-mark-downs-3.png "Screen showing role price markups for sales")
 
 *Configuration of sales price markups*

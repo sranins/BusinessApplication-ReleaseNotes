@@ -28,7 +28,8 @@ deleted from the corporate directory. The admin can determine which flows the
 user owned by executing a PowerShell script, and can then reassign ownership in
 the Flow Admin Center.
 
-![A screenshot of how to modify ownership in the admin center](media/gdpr-compliance-1.png "A screenshot of how to modify ownership in the admin center")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of how to modify ownership in the admin center](media/gdpr-compliance-1.png "A screenshot of how to modify ownership in the admin center")
 <!-- Picture 31 -->
 
 
@@ -36,7 +37,8 @@ the Flow Admin Center.
 
 Newly assigned owners can view or export the run details for the flow.
 
-![A screenshot showing the run details from the flow](media/gdpr-compliance-2.png "A screenshot showing the run details from the flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the run details from the flow](media/gdpr-compliance-2.png "A screenshot showing the run details from the flow")
 <!-- Picture 32 -->
 
 
@@ -44,7 +46,8 @@ Newly assigned owners can view or export the run details for the flow.
 
 Flow owners can also do a Save As operation to provide a new name.
 
-![A screenshot showing how to Save As for a flow](media/gdpr-compliance-3.png "A screenshot showing how to Save As for a flow")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to Save As for a flow](media/gdpr-compliance-3.png "A screenshot showing how to Save As for a flow")
 <!-- Picture 33 -->
 
 
@@ -53,7 +56,8 @@ Flow owners can also do a Save As operation to provide a new name.
 During this process, connections need to be reestablished to make the flow
 operational again.
 
-![A screenshot of Connections](media/gdpr-compliance-4.png "A screenshot of Connections")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of Connections](media/gdpr-compliance-4.png "A screenshot of Connections")
 <!-- Picture 34 -->
 
 

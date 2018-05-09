@@ -27,7 +27,8 @@ the workday. You can easily create your own set of alert rules so that you're
 alerted about deliveries that are overdue, orders that are deleted, prices that
 change, or other events you must respond to.
 
-![A screenshot showing how to create an alert rule](media/alerts-1.png "A screenshot showing how to create an alert rule")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing how to create an alert rule](media/alerts-1.png "A screenshot showing how to create an alert rule")
 <!-- FO_Alerts_A.png -->
 
 

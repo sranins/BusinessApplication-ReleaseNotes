@@ -28,7 +28,8 @@ before by going to the **Run history** view and selecting **Resubmit**. Now, to
 streamline the editing experience, we are adding a **Test flow** button directly
 in the designer.
 
-![Test flow button](media/test-flows-previous-run-data-1.png "Test flow button")
+> [!div class="mx-imgBorder"] 
+> ![Test flow button](media/test-flows-previous-run-data-1.png "Test flow button")
 <!-- Picture 1 -->
 
 
@@ -44,7 +45,8 @@ When you select Test flow, you will see a new pane with two options:
 2.  **Use data from previous runs.** Here, if your flow has run before, you'll
     get a list of the most recent runs and can pick one to test your flow with.
 
-![Test flow pane](media/test-flows-previous-run-data-2.png "Test flow pane")
+> [!div class="mx-imgBorder"] 
+> ![Test flow pane](media/test-flows-previous-run-data-2.png "Test flow pane")
 <!-- Picture 2 -->
 
 

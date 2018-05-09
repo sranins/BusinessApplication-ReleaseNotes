@@ -27,6 +27,7 @@ Additionally, the date hierarchy in Power BI is no longer required for time
 intelligence quick measures. Instead, you can use the **Date** field from your
 own date table.
 
-![ A screenshot of quick measures for Power BI Desktop](media/quick-measures-1.png " A screenshot of quick measures for Power BI Desktop")
+> [!div class="mx-imgBorder"] 
+> ![ A screenshot of quick measures for Power BI Desktop](media/quick-measures-1.png " A screenshot of quick measures for Power BI Desktop")
 
 *Quick measures for Power BI Desktop*

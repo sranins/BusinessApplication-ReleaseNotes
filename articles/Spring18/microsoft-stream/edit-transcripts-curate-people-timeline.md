@@ -23,7 +23,8 @@ Microsoft Stream generates automatic transcripts for videos by using AI to
 convert speech to text. Automatically generated transcripts can be corrected
 through inline editing.
 
-![Transcript editor in Stream](media/edit-transcripts-curate-people-timeline-1.png "Transcript editor in Stream")
+> [!div class="mx-imgBorder"] 
+> ![Transcript editor in Stream](media/edit-transcripts-curate-people-timeline-1.png "Transcript editor in Stream")
 
 *Transcript editor in Stream*
 
@@ -32,6 +33,7 @@ timeline view showing where they appeared. Owners of the video can curate these
 timelines by hiding extra people or merging two timelines into one with a
 built-in inline editor.
 
-![Detected faces appear in the video timeline](media/cloud-recording-meetings-microsoft-teams-2.png "Detected faces appear in the video timeline")
+> [!div class="mx-imgBorder"] 
+> ![Detected faces appear in the video timeline](media/cloud-recording-meetings-microsoft-teams-2.png "Detected faces appear in the video timeline")
 
 *Detected faces appear in the video timeline*

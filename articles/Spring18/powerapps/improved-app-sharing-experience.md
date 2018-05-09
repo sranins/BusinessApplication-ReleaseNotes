@@ -31,7 +31,8 @@ to these entities, such as Read only, Read and write, or Full access. If the
 quick permissions don't meet your needs, assign custom permissions through
 security roles.
 
-![Data sources and permissions](media/improved-app-sharing-experience-1.png "Data sources and permissions")
+> [!div class="mx-imgBorder"] 
+> ![Data sources and permissions](media/improved-app-sharing-experience-1.png "Data sources and permissions")
 <!-- picture -->
 
 
@@ -41,7 +42,8 @@ security roles.
 appropriate security roles that provide access to the entities and data in the
 Common Data Service for Apps.
 
-![A screenshot of how to share a model-driven app with security roles](media/improved-app-sharing-experience-2.png "A screenshot of how to share a model-driven app with security roles")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of how to share a model-driven app with security roles](media/improved-app-sharing-experience-2.png "A screenshot of how to share a model-driven app with security roles")
 <!-- AppSharing - Screenshot 3.png -->
 
 

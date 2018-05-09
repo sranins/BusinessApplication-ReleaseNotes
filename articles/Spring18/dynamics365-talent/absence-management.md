@@ -28,7 +28,8 @@ audience: Admin
     absence tracking and approvals, while employees can submit time-off requests
     in increments of days or half-days as well as in hours.
 
-    ![A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
+    > [!div class="mx-imgBorder"] 
+    > ![A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
     <!-- Talent_ Absence Management - Days Support_A.png -->
 
 
@@ -57,8 +58,6 @@ audience: Admin
 -   **Calendar view of working time:** Visualizing the working
     days and times across the organization as a calendar enables HR
     professionals a way to easily understand when employees are working.
-
-    [!include[banner](../../includes/public-preview.md)]
 
     
 

@@ -26,13 +26,15 @@ can run on mobile devices, including Windows tablets, iPhone, iPad, Android
 phones, and Android tablets. Manage model‑driven apps through Intune integration
 for enterprise scenarios.
 
-![Two screenshots of the account form on a mobile device, showing summary and timeline tabs](media/mobile-player-model-driven-apps-1.png "Two screenshots of the account form on a mobile device, showing summary and timeline tabs")
+> [!div class="mx-imgBorder"] 
+> ![Two screenshots of the account form on a mobile device, showing summary and timeline tabs](media/mobile-player-model-driven-apps-1.png "Two screenshots of the account form on a mobile device, showing summary and timeline tabs")
 <!-- Picture 5 -->
 
 
 *Account form on a phone, showing Summary and Timeline tabs*
 
-![A screenshot of the interactive dashboard on a mobile device](media/mobile-player-model-driven-apps-2.png "A screenshot of the interactive dashboard on a mobile device")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the interactive dashboard on a mobile device](media/mobile-player-model-driven-apps-2.png "A screenshot of the interactive dashboard on a mobile device")
 <!-- Picture 6 -->
 
 

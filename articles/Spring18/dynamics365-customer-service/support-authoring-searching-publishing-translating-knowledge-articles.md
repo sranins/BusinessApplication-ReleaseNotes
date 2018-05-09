@@ -25,7 +25,8 @@ linking, find and replace, and insert images and tables. Search, publish, and
 translate knowledge articles. Preview how the knowledge articles render on
 different devices before publishing.
 
-![A screenshot of the knowledge article editor](media/support-authoring-searching-publishing-translating-knowledge-articles-1.png "A screenshot of the knowledge article editor")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the knowledge article editor](media/support-authoring-searching-publishing-translating-knowledge-articles-1.png "A screenshot of the knowledge article editor")
 <!-- picture -->
 
 
@@ -34,7 +35,8 @@ different devices before publishing.
 Knowledge managers and authors monitor the status of knowledge articles using
 interactive knowledge management dashboards.
 
-![A screenshot of the knowledge manager dashboard](media/support-authoring-searching-publishing-translating-knowledge-articles-2.png "A screenshot of the knowledge manager dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the knowledge manager dashboard](media/support-authoring-searching-publishing-translating-knowledge-articles-2.png "A screenshot of the knowledge manager dashboard")
 <!-- picture -->
 
 

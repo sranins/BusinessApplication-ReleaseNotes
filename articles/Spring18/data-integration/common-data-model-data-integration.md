@@ -42,7 +42,8 @@ Common Data Model form. This means you can quickly implement new business
 processes and gain insights into your business operations without friction or
 complexity.
 
-![Applications on top of the Common Data Services take advantage of Common Data Model entities](media/common-data-model-data-integration-1.png "Applications on top of the Common Data Services take advantage of Common Data Model entities")
+> [!div class="mx-imgBorder"] 
+> ![Applications on top of the Common Data Services take advantage of Common Data Model entities](media/common-data-model-data-integration-1.png "Applications on top of the Common Data Services take advantage of Common Data Model entities")
 
 *Applications on top of the Common Data Services take advantage of Common Data
 Model entities*
@@ -89,7 +90,8 @@ capabilities:
     templates simplify the process of connecting to common data sources such as
     Salesforce.com. Mapping templates are fully customizable and extensible.
 
-    ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.png "Import external data and map it to standard entities in Power Query")
+    > [!div class="mx-imgBorder"] 
+> ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.png "Import external data and map it to standard entities in Power Query")
 
     *Import external data and map it to standard entities in Power Query*
 

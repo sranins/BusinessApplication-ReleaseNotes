@@ -41,11 +41,13 @@ Query editor. Power Query provides suggestions for common operations, based on
 columns in context. Suggestions are based on data samples (Tuesday, for example)
 and descriptive text (day of the week, for example).
 
-![Add Column from Examples](media/smart-data-preparation-capabilities-add-column-examples-1.png "Add Column from Examples")
+> [!div class="mx-imgBorder"] 
+> ![Add Column from Examples](media/smart-data-preparation-capabilities-add-column-examples-1.png "Add Column from Examples")
 
 *Add Column from Examples*
 
-![Remaining column rows inferred from example column values](media/smart-data-preparation-capabilities-add-column-examples-2.png "Remaining column rows inferred from example column values")
+> [!div class="mx-imgBorder"] 
+> ![Remaining column rows inferred from example column values](media/smart-data-preparation-capabilities-add-column-examples-2.png "Remaining column rows inferred from example column values")
 
 *Remaining column rows inferred from example column values*
 

@@ -32,7 +32,8 @@ portal](https://docs.microsoft.com/en-us/power-bi/service-admin-portal). Admins
 can specify whether the entire organization or specific security groups get this
 capability.
 
-![A screenshot of push apps functionality in the admin portal](media/push-apps-1.png "A screenshot of push apps functionality in the admin portal")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of push apps functionality in the admin portal](media/push-apps-1.png "A screenshot of push apps functionality in the admin portal")
 <!-- Picture 5 -->
 
 
@@ -45,7 +46,8 @@ to all users or groups defined in the **Permissions** section of the **Access**
 tab. To do this, they select **Install app automatically**, and then select
 **Finish**.
 
-![A screenshot of the auto-install configuration setting](media/push-apps-2.png "A screenshot of the auto-install configuration setting")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the auto-install configuration setting](media/push-apps-2.png "A screenshot of the auto-install configuration setting")
 
 *Auto-install configuration setting*
 
@@ -54,7 +56,8 @@ tab. To do this, they select **Install app automatically**, and then select
 After you push an app, it automatically shows up in the **Apps** list. This
 helps organizations curate apps for a user or job role.
 
-![A screenshot example of a curated list of apps](media/push-apps-3.png "A screenshot example of a curated list of apps")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot example of a curated list of apps](media/push-apps-3.png "A screenshot example of a curated list of apps")
 
 *Curated list of apps*
 

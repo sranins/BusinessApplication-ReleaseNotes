@@ -26,7 +26,8 @@ as corporate colors, seasonal coloring, or any other color theme you might want
 to apply. When you apply a report theme, all visuals in your report use the
 colors from your selected theme.
 
-![A screenshot of how to apply themes to a report](media/themes-support-1.png "A screenshot of how to apply themes to a report")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of how to apply themes to a report](media/themes-support-1.png "A screenshot of how to apply themes to a report")
 <!-- picture -->
 
 

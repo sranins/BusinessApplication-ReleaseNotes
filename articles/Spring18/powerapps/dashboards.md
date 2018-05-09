@@ -35,13 +35,15 @@ Include rich Power BI capabilities directly inside model‑driven apps by
 embedding Power BI dashboards in home pages. Dashboards can include data from
 any source, including the Common Data Service for Apps.
 
-![A screenshot of the interactive dashboard](media/dashboards-1.png "A screenshot of the interactive dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the interactive dashboard](media/dashboards-1.png "A screenshot of the interactive dashboard")
 <!-- Picture 1 -->
 
 
 *Interactive dashboard*
 
-![A screenshot of the Power BI Embedded in a dashboard](media/dashboards-2.png "A screenshot of the Power BI Embedded in a dashboard")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Power BI Embedded in a dashboard](media/dashboards-2.png "A screenshot of the Power BI Embedded in a dashboard")
 <!-- Picture 2 -->
 
 

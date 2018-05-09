@@ -41,7 +41,8 @@ In the Test pane, there are three modes for testing your flow:
 
 -   Use data from previous runs to perform the test.
 
-![A screenshot of the testing flow side panel](media/test-flow-by-using-sample-data-1.png "A screenshot of the testing flow side panel")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the testing flow side panel](media/test-flow-by-using-sample-data-1.png "A screenshot of the testing flow side panel")
 <!-- IMAGE_AppPlat_FlowsTest_AA.png -->
 
 

@@ -26,7 +26,8 @@ their data in a single place for business applications and analytics. Data
 Integration is based on Power Query, the same technology that millions of people
 use daily in Power BI and Excel.
 
-![Data Integration connectors](media/data-integration-1.png "Data Integration connectors")
+> [!div class="mx-imgBorder"] 
+> ![Data Integration connectors](media/data-integration-1.png "Data Integration connectors")
 
 *Data Integration connectors*
 
@@ -63,7 +64,8 @@ Common Data Model form. This means you can quickly implement new business
 processes and gain insights into your business operations without friction or
 complexity.
 
-![Applications on top of the Common Data Services take advantage of Common Data Model entities](media/common-data-model-data-integration-1.png "Applications on top of the Common Data Services take advantage of Common Data Model entities")
+> [!div class="mx-imgBorder"] 
+> ![Applications on top of the Common Data Services take advantage of Common Data Model entities](media/common-data-model-data-integration-1.png "Applications on top of the Common Data Services take advantage of Common Data Model entities")
 
 *Applications on top of the Common Data Services take advantage of Common Data
 Model entities*
@@ -108,7 +110,8 @@ that spans multiple channels, service implementations, and vendors.
     templates simplify the process of connecting to common data sources such as
     Salesforce.com. Mapping templates are fully customizable and extensible.
 
-    ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
+    > [!div class="mx-imgBorder"] 
+    > ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
 
     *Import external data and map it to standard entities in Power Query*
 

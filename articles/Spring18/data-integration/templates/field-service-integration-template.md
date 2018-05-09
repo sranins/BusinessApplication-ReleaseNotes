@@ -39,6 +39,7 @@ and Operations as sales orders. In Finance and Operations, the sales orders are
 invoiced to generate invoice documents. In addition, the information from Field
 Service agreement invoices is synchronized to Finance and Operations.
 
-![Integrating Field Service with Finance and Operations](media/field-service-integration-template-1.png "Integrating Field Service with Finance and Operations")
+> [!div class="mx-imgBorder"] 
+> ![Integrating Field Service with Finance and Operations](media/field-service-integration-template-1.png "Integrating Field Service with Finance and Operations")
 
 *Integrating Field Service with Finance and Operations*

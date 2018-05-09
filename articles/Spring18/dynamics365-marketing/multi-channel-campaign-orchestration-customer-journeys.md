@@ -27,7 +27,8 @@ can then deliver automated communications, make automated decisions, generate
 internal tasks, deliver follow-up communications, respond to customer
 interactions, and more.
 
-![A screenshot of a multi-channel campaign in Dynamics 365 for Marketing](media/multi-channel-campaign-orchestration-customer-journeys-1.png "A screenshot of a multi-channel campaign in Dynamics 365 for Marketing")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of a multi-channel campaign in Dynamics 365 for Marketing](media/multi-channel-campaign-orchestration-customer-journeys-1.png "A screenshot of a multi-channel campaign in Dynamics 365 for Marketing")
 <!-- Marketing_MultiChannelCampaignOrchestration_A.png -->
 
 
@@ -42,7 +43,8 @@ segments that perfectly target your campaigns. The engine queries against a
 high-volume database that uses your collected behavioral, demographic, and
 firmographic data to find targeted prospects.
 
-![A screenshot of segmentation flow example in Dynamics 365 for Marketing](media/multi-channel-campaign-orchestration-customer-journeys-2.png "A screenshot of segmentation flow example in Dynamics 365 for Marketing")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of segmentation flow example in Dynamics 365 for Marketing](media/multi-channel-campaign-orchestration-customer-journeys-2.png "A screenshot of segmentation flow example in Dynamics 365 for Marketing")
 <!-- Marketing_MultiChannelCampaignOrchestration_B.png -->
 
 

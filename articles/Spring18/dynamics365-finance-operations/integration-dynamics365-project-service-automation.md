@@ -27,7 +27,8 @@ Integration templates that are available with the data integrator feature enable
 the flow of projects, project contracts, and project contract lines from Project
 Service Automation to Finance and Operations.
 
-**Note:** Before you can integrate Project Service Automation with Finance and
+> [!NOTE]
+> Before you can integrate Project Service Automation with Finance and
 Operations, you must configure the Project Service Automation integration
 parameters.
 
@@ -84,16 +85,16 @@ synchronizing:
 The following illustration shows how data is synchronized as part of the
 integration between Project Service Automation and Finance and Operations.
 
-![A diagram showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration 
-](media/integration-dynamics365-project-service-automation-private-preview-1.png "A diagram showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration 
-")
+> [!div class="mx-imgBorder"] 
+> ![A diagram showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration](media/integration-dynamics365-project-service-automation-private-preview-1.png "A diagram showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration")
 <!-- PSA-integration.png -->
 
 
 *Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and
 Operations integration*
 
-![A screenshot showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration ](media/integration-dynamics365-project-service-automation-private-preview-2.png "A screenshot showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration ](media/integration-dynamics365-project-service-automation-private-preview-2.png "A screenshot showing Dynamics 365 for Project Service Automation and Dynamics 365 for Finance and Operations integration")
 <!-- FO_PSAIntegration_A.png -->
 
 

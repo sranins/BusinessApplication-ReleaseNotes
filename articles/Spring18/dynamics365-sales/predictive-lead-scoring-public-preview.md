@@ -33,25 +33,29 @@ results. Plus, the business analyst can change the score ranges for lead grades
 to determine lead prioritization for their business, based on qualification
 rates.
 
-![Predictive lead scoring screen, grid view](media/predictive-lead-scoring-public-preview-1.png "Predictive lead scoring screen, grid view")
+> [!div class="mx-imgBorder"] 
+> ![Predictive lead scoring screen, grid view](media/predictive-lead-scoring-public-preview-1.png "Predictive lead scoring screen, grid view")
 <!-- Predictive lead scoring - Grid view.png -->
 
 
 *Predictive lead scoring – Grid view*
 
-![Predictive lead scoring screen, score and reasons widget on a form](media/predictive-lead-scoring-public-preview-2.png "Predictive lead scoring screen, score and reasons widget on a form")
+> [!div class="mx-imgBorder"] 
+> ![Predictive lead scoring screen, score and reasons widget on a form](media/predictive-lead-scoring-public-preview-2.png "Predictive lead scoring screen, score and reasons widget on a form")
 <!-- Predictive lead scoring - Score and reasons widget in form.png -->
 
 
 *Predictive lead scoring – Score and reasons widget in form*
 
-![Predictive lead scoring configuration screen](media/predictive-lead-scoring-public-preview-3.png "Predictive lead scoring configuration screen")
+> [!div class="mx-imgBorder"] 
+> ![Predictive lead scoring configuration screen](media/predictive-lead-scoring-public-preview-3.png "Predictive lead scoring configuration screen")
 <!-- Predictive lead scoring - Configuration create model.png -->
 
 
 *Predictive lead scoring – Configuration create model*
 
-![Predictive lead scoring configuration screen, apply model option](media/predictive-lead-scoring-public-preview-4.png "Predictive lead scoring configuration screen, apply model option")
+> [!div class="mx-imgBorder"] 
+> ![Predictive lead scoring configuration screen, apply model option](media/predictive-lead-scoring-public-preview-4.png "Predictive lead scoring configuration screen, apply model option")
 <!-- Predictive lead scoring - Configuration apply model.png -->
 
 

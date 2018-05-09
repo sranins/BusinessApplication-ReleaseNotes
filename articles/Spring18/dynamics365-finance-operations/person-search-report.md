@@ -48,7 +48,8 @@ To use the Person search report:
 
 2.  Name the project “Jodi Christiansen.”
 
-    ![A screenshot showing the person search report](media/person-search-report-1.png "A screenshot showing the person search report")
+    > [!div class="mx-imgBorder"] 
+> ![A screenshot showing the person search report](media/person-search-report-1.png "A screenshot showing the person search report")
     <!-- FO_Person_Search_Report_A.png -->
 
 

@@ -25,7 +25,8 @@ Setting up a new environment to develop and deploy Power BI Embedded involved
 defining and configuring several entities. With the new onboarding tool, the
 process is faster and easier to complete.
 
-![A screenshot of Power BI embedding environment setup](media/onboarding-experience-power-bi-embedded-1.png "A screenshot of Power BI embedding environment setup")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of Power BI embedding environment setup](media/onboarding-experience-power-bi-embedded-1.png "A screenshot of Power BI embedding environment setup")
 
 *Power BI embedding environment setup*
 

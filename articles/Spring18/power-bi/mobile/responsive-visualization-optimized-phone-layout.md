@@ -36,7 +36,8 @@ A responsive visualization optimizes across Power BI platforms, whether in a
 report, a dashboard, a phone report, a mobile dashboard, or even in embedded
 Power BI visuals that use the Power BI API.
 
-![A graphic demonstrating 5 differently-sized examples of responsive visualizations](media/responsive-visualization-optimized-phone-layout-1.png "A graphic demonstrating 5 differently-sized examples of responsive visualizations")
+> [!div class="mx-imgBorder"] 
+> ![A graphic demonstrating 5 differently-sized examples of responsive visualizations](media/responsive-visualization-optimized-phone-layout-1.png "A graphic demonstrating 5 differently-sized examples of responsive visualizations")
 <!-- Picture 7 -->
 
 

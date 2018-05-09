@@ -27,7 +27,8 @@ helpful for reports with many pages that should be hidden from the user unless
 accessed within context. This capability is familiar to users who use Excel and
 PowerPoint.
 
-![A screenshot demonstrating that authors can hide pages](media/hide-pages-reading-mode-1.png "A screenshot demonstrating that authors can hide pages")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot demonstrating that authors can hide pages](media/hide-pages-reading-mode-1.png "A screenshot demonstrating that authors can hide pages")
 
 *Authors can hide pages*
 

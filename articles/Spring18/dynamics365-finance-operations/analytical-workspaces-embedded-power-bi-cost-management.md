@@ -47,13 +47,15 @@ The Cost administration workspace provides a bird's-eye view of:
 
 -   Manufacturing accounting status (Embedded Power BI)
 
-![A screenshot showing the Inventory accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-1.png "A screenshot showing the Inventory accounting status Power BI content in Cost Administration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the Inventory accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-1.png "A screenshot showing the Inventory accounting status Power BI content in Cost Administration")
 <!-- new FO Inventory accounting status overview.png -->
 
 
 *Inventory accounting status*
 
-![A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-2.png "A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration](media/analytical-workspaces-embedded-power-bi-cost-management-2.png "A screenshot showing the Manufacturing accounting status Power BI content in Cost Administration")
 <!-- New FO Manufacturing accounting status overview.png -->
 
 

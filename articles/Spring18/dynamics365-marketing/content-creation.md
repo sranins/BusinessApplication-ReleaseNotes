@@ -27,7 +27,8 @@ can get to work quickly by starting with professionally designed templates,
 which can easily be customized and saved to help reinforce brand identity and
 build brand awareness.
 
-![A screenshot of the content designer interface, showing an example of a sign up form](media/content-creation-1.png "A screenshot of the content designer interface, showing an example of a sign up form")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the content designer interface, showing an example of a sign up form](media/content-creation-1.png "A screenshot of the content designer interface, showing an example of a sign up form")
 <!-- Marketing_ContentCreation_A.png -->
 
 

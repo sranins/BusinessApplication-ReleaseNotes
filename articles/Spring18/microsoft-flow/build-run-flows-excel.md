@@ -45,7 +45,8 @@ from one of the templates:
 After the flow is created, select a row, and then select the Play button to see
 your flow in action.
 
-![A screenshot of Excel, showing how to create a new on-demand flow ](media/build-run-flows-excel-1.png "A screenshot of Excel, showing how to create a new on-demand flow ")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of Excel, showing how to create a new on-demand flow ](media/build-run-flows-excel-1.png "A screenshot of Excel, showing how to create a new on-demand flow ")
 <!-- Picture 2 -->
 
 

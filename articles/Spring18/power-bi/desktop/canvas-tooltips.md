@@ -25,6 +25,7 @@ other visuals in a report. You can design any type of custom tooltips you need,
 from using cards that show detailed information to miniature drill-through pages
 shown on mouse hover.
 
-![A screenshot of the customizable canvas tooltips](media/canvas-tooltips-public-preview-1.png "A screenshot of the customizable canvas tooltips")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the customizable canvas tooltips](media/canvas-tooltips-public-preview-1.png "A screenshot of the customizable canvas tooltips")
 
 *Customizable canvas tooltips*

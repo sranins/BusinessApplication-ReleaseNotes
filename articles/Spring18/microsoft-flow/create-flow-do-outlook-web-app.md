@@ -34,7 +34,8 @@ Microsoft To-Do whenever someone is \@mentioned in an email message. That way,
 tasks they need to follow up on are centrally located in the Microsoft To-Do
 app.
 
-![A screenshot of flow creation in the Outlook web app](media/create-flow-microsoft-to-do-outlook-web-app-1.png "A screenshot of flow creation in the Outlook web app")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of flow creation in the Outlook web app](media/create-flow-microsoft-to-do-outlook-web-app-1.png "A screenshot of flow creation in the Outlook web app")
 <!-- Picture 28 -->
 
 

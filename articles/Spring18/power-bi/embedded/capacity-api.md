@@ -28,7 +28,8 @@ Currently, through the Power BI portal, a workspace admin with capacity assign
 permissions can use the **Edit workspace** dialog box to assign a capacity to a
 workspace.
 
-![A screenshot showing edit workspace options](media/capacity-api-1.PNG "A screenshot showing edit workspace options")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot showing edit workspace options](media/capacity-api-1.PNG "A screenshot showing edit workspace options")
 <!-- PBIE_assign WS_A.PNG -->
 
 

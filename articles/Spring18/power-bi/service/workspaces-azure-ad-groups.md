@@ -27,7 +27,8 @@ Capabilities include assigning workspace roles to individual users, Azure AD
 security groups, and Office 365 modern groups. Additionally, governance of Power
 BI workspaces is separated from governance of Office 365 modern groups.
 
-![A screenshot of how to add a Power BI workspace on mobile](media/workspaces-azure-ad-groups-1.png "A screenshot of how to add a Power BI workspace on mobile")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of how to add a Power BI workspace on mobile](media/workspaces-azure-ad-groups-1.png "A screenshot of how to add a Power BI workspace on mobile")
 
 *Add a Power BI workspace on mobile*
 

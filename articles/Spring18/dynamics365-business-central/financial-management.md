@@ -66,7 +66,8 @@ Manage multiple currencies throughout the system, including payables and
 receivables, general ledger reports, resource and inventory items, and bank
 accounts.
 
-![A screenshot of the Business Central Accountant role center](media/financial-management-1.png "A screenshot of the Business Central Accountant role center")
+> [!div class="mx-imgBorder"] 
+> ![A screenshot of the Business Central Accountant role center](media/financial-management-1.png "A screenshot of the Business Central Accountant role center")
 <!-- SMB_BusinessCentral_AccountantRoleCenter_A.png -->
 
 
