@@ -235,27 +235,26 @@
 #### [Individual customizations](Spring18/dynamics365-business-central/individual-customizations.md)
 #### [Modern developer experience](Spring18/dynamics365-business-central/modern-developer-experience.md)
 
-## Business Application Platform
-### [PowerApps](Spring18/powerapps/overview.md)
-#### [Summary of what’s new](Spring18/powerapps/whats-new-powerapps.md)
-#### [Model-driven apps](Spring18/powerapps/model-driven-apps.md)
-##### [Entity forms](Spring18/powerapps/entity-forms.md)
-##### [Entity views](Spring18/powerapps/entity-views.md)
-##### [Business process flows](Spring18/powerapps/business-process-flows.md)
-##### [Dashboards](Spring18/powerapps/dashboards.md)
-##### [Metadata-driven responsive user experiences](Spring18/powerapps/metadata-driven-responsive-user-experiences.md)
-##### [Accessible apps out of the box](Spring18/powerapps/accessible-apps-out-box.md)
-##### [Mobile player for model driven apps](Spring18/powerapps/mobile-player-model-driven-apps.md)
-#### [Canvas apps](Spring18/powerapps/canvas-apps.md)
-##### [Controllable delegation limits for canvas apps](Spring18/powerapps/controllable-delegation-limits-canvas-apps.md)
-##### [SQL views for canvas apps](Spring18/powerapps/sql-views-canvas-apps.md)
-##### [Simplified access to entities through foreign key relationships](Spring18/powerapps/simplified-access-entities-foreign-key-relationships.md)
-#### [Improved app sharing experience](Spring18/powerapps/improved-app-sharing-experience.md)
-#### [Apps connected to SharePoint can include attachments](Spring18/powerapps/apps-connected-sharepoint-can-include-attachments.md)
-#### [Canvas apps support storing up to 20 MB of data locally on Android and iOS](Spring18/powerapps/canvas-apps-support-storing-up-20-mb-data-locally-android-ios.md)
-#### [Improved support ticketing for admins](Spring18/powerapps/improved-support-ticketing-admins.md)
-#### [GDPR compliance](Spring18/powerapps/gdpr-compliance.md)
-#### [Automate governance with PowerShell](Spring18/powerapps/automate-governance-powershell.md)
+## [PowerApps](Spring18/powerapps/overview.md)
+### [Summary of what’s new](Spring18/powerapps/whats-new-powerapps.md)
+### [Model-driven apps](Spring18/powerapps/model-driven-apps.md)
+#### [Entity forms](Spring18/powerapps/entity-forms.md)
+#### [Entity views](Spring18/powerapps/entity-views.md)
+#### [Business process flows](Spring18/powerapps/business-process-flows.md)
+#### [Dashboards](Spring18/powerapps/dashboards.md)
+#### [Metadata-driven responsive user experiences](Spring18/powerapps/metadata-driven-responsive-user-experiences.md)
+#### [Accessible apps out of the box](Spring18/powerapps/accessible-apps-out-box.md)
+#### [Mobile player for model driven apps](Spring18/powerapps/mobile-player-model-driven-apps.md)
+### [Canvas apps](Spring18/powerapps/canvas-apps.md)
+#### [Controllable delegation limits for canvas apps](Spring18/powerapps/controllable-delegation-limits-canvas-apps.md)
+#### [SQL views for canvas apps](Spring18/powerapps/sql-views-canvas-apps.md)
+#### [Simplified access to entities through foreign key relationships](Spring18/powerapps/simplified-access-entities-foreign-key-relationships.md)
+### [Improved app sharing experience](Spring18/powerapps/improved-app-sharing-experience.md)
+### [Apps connected to SharePoint can include attachments](Spring18/powerapps/apps-connected-sharepoint-can-include-attachments.md)
+### [Canvas apps support storing up to 20 MB of data locally on Android and iOS](Spring18/powerapps/canvas-apps-support-storing-up-20-mb-data-locally-android-ios.md)
+### [Improved support ticketing for admins](Spring18/powerapps/improved-support-ticketing-admins.md)
+### [GDPR compliance](Spring18/powerapps/gdpr-compliance.md)
+### [Automate governance with PowerShell](Spring18/powerapps/automate-governance-powershell.md)
 
 ### [Common Data Service for Apps](Spring18/common-data-service-apps/index.md)
 #### [Summary of what’s new](Spring18/common-data-service-apps/whats-new-common-data-service-apps.md)
@@ -281,9 +280,6 @@
 #### [Build and run flows from Excel](Spring18/microsoft-flow/build-run-flows-excel.md)
 #### [Create a flow for Microsoft To-Do in Outlook Web App](Spring18/microsoft-flow/create-flow-do-outlook-web-app.md)
 #### [Return data to PowerApps from a flow](Spring18/microsoft-flow/return-data-powerapps.md)
-##### Step One
-##### Step Two
-##### Step Three
 #### [Quick access to help and support](Spring18/microsoft-flow/quick-access-help-support.md)
 #### [GDPR compliance](Spring18/microsoft-flow/gdpr-compliance.md)
 #### [Access modern approvals in the Common Data Service for Apps](Spring18/microsoft-flow/access-modern-approvals-common-data-service-apps.md)
@@ -296,10 +292,10 @@
 #### [Test flows with previous run data](Spring18/microsoft-flow/test-flows-previous-run-data.md)
 #### [Access flow details with the workflow() expression](Spring18/microsoft-flow/access-flow-details-workflow-expression.md)
 
-## [Business Intelligence Platform](Spring18/power-bi/overview.md)
+## [Power BI](Spring18/power-bi/overview.md)
 ### [Summary of what’s new](Spring18/power-bi/whats-new-business-intelligence-platform.md)
 
-### Power BI Desktop
+### Desktop
 #### [Ask Top N questions in Q&A](Spring18/power-bi/desktop/ask-top-n-questions-q-a.md)
 #### [Azure Active Directory authentication](Spring18/power-bi/desktop/azure-active-directory-authentication.md)
 #### [Hide pages from reading mode](Spring18/power-bi/desktop/hide-pages-reading-mode.md)
@@ -316,7 +312,7 @@
 #### [Conditional formatting based on another column](Spring18/power-bi/desktop/conditional-formatting-based-another-column.md)
 #### [Filtering on Data View](Spring18/power-bi/desktop/filtering-data-view.md)
 
-### Power BI Service
+### Service
 #### [Share and favorite reports](Spring18/power-bi/service/share-favorite-reports.md)
 #### [Push apps](Spring18/power-bi/service/push-apps.md)
 #### [Pin from apps to dashboard](Spring18/power-bi/service/pin-apps-dashboard.md)
@@ -334,25 +330,7 @@
 #### [Subscribe other users for email](Spring18/power-bi/service/subscribe-other-users-email.md)
 #### [XMLA connectivity with Analysis Services](Spring18/power-bi/service/xmla-connectivity-analysis-services.md)
 
-### [Common Data Service for Analytics capability in Power BI](Spring18/common-data-service-analytics/index.md)
-#### Common Data Service for Analytics in Power BI (Public Preview)
-##### [Common Data Service for Analytics datapools](Spring18/common-data-service-analytics/datapools.md)
-##### [Customizable out-of-the-box apps](Spring18/common-data-service-analytics/customizable-out-box-apps.md)
-##### [Extensible through Azure](Spring18/common-data-service-analytics/extensible-azure.md)
-
-#### [Power BI apps for Common Data Service for Analytics](Spring18/common-data-service-analytics/power-bi-apps-cds-analytics.md)
-##### [Guided setup](Spring18/common-data-service-analytics/guided-setup.md)
-##### [Tailor apps to business needs](Spring18/common-data-service-analytics/tailor-apps-business-needs.md)
-##### [Rich, immersive experiences](Spring18/common-data-service-analytics/rich-immersive-experiences.md)
-
-### [Power BI Insights apps](Spring18/power-bi/insights-apps/insights-apps.md)
-#### [Power BI for Sales Insights](Spring18/power-bi/insights-apps/sales-insights.md)
-#### [Power BI for Service Insights](Spring18/power-bi/insights-apps/service-insights.md)
-##### [Project Service Automation](Spring18/power-bi/insights-apps/project-service-automation.md)
-##### [Customer Service Analytics](Spring18/power-bi/insights-apps/customer-service-analytics.md)
-##### [Field Service Analytics](Spring18/power-bi/insights-apps/field-service-analytics.md)
-
-### Power BI Embedded
+### Embedded
 #### [Capacity API](Spring18/power-bi/embedded/capacity-api.md)
 #### [Row-level security on Azure Analysis Services based on CustomData](Spring18/power-bi/embedded/row-level-security-azure-analysis-services-based-customdata.md)
 #### [Custom layout](Spring18/power-bi/embedded/custom-layout.md)
@@ -379,7 +357,7 @@
 #### [Export to PowerPoint](Spring18/power-bi/embedded/export-powerpoint.md)
 #### [Export to PDF](Spring18/power-bi/embedded/export-pdf.md)
 
-### Power BI Mobile
+### Mobile
 #### [Visio custom visuals](Spring18/power-bi/mobile/visio-custom-visuals.md)
 #### [Responsive Visualization optimized for phone layout](Spring18/power-bi/mobile/responsive-visualization-optimized-phone-layout.md)
 #### [Report tooltip touch optimization](Spring18/power-bi/mobile/report-tooltip-touch-optimization.md)
@@ -391,22 +369,27 @@
 #### [Drill-down and drill-up support](Spring18/power-bi/mobile/drill-down-drill-up-support.md)
 #### [Drill-through support](Spring18/power-bi/mobile/drill-support.md)
 
+### [Common Data Service for Analytics in Power BI](Spring18/common-data-service-analytics/index.md)
+#### [Common Data Service for Analytics datapools](Spring18/common-data-service-analytics/datapools.md)
+#### [Customizable out-of-the-box apps](Spring18/common-data-service-analytics/customizable-out-box-apps.md)
+#### [Extensible through Azure](Spring18/common-data-service-analytics/extensible-azure.md)
+
+#### [Power BI apps for Common Data Service for Analytics](Spring18/common-data-service-analytics/power-bi-apps-cds-analytics.md)
+##### [Guided setup](Spring18/common-data-service-analytics/guided-setup.md)
+##### [Tailor apps to business needs](Spring18/common-data-service-analytics/tailor-apps-business-needs.md)
+##### [Rich, immersive experiences](Spring18/common-data-service-analytics/rich-immersive-experiences.md)
+
+### [Insights apps](Spring18/power-bi/insights-apps/insights-apps.md)
+#### [Power BI for Sales Insights](Spring18/power-bi/insights-apps/sales-insights.md)
+#### [Power BI for Service Insights](Spring18/power-bi/insights-apps/service-insights.md)
+##### [Project Service Automation](Spring18/power-bi/insights-apps/project-service-automation.md)
+##### [Customer Service Analytics](Spring18/power-bi/insights-apps/customer-service-analytics.md)
+##### [Field Service Analytics](Spring18/power-bi/insights-apps/field-service-analytics.md)
+
 ## [Data Integration](Spring18/data-integration/overview.md)
-### [Common Data Model and Data Integration](Spring18/data-integration/common-data-model-data-integration.md)
-### [Highlights from the Spring ‘18 release](Spring18/data-integration/highlights-spring-18-release.md)
-### [Summary of what’s new](Spring18/data-integration/whats-new-data-integration.md)
-### [New and improved connectors for Power BI](Spring18/data-integration/connectors/power-bi-connectors.md)
-#### [New connectors for General Availability](Spring18/data-integration/connectors/new-connectors-general-availability.md)
-#### [New connectors for Public Preview](Spring18/data-integration/connectors/new-connectors.md)
-#### [Improvements to the SAP BW connector](Spring18/data-integration/connectors/improvements-sap-bw-connector.md)
-#### [Improvements to the SAP HANA connector](Spring18/data-integration/connectors/improvements-sap-hana-connector.md)
-### [Improved connectors for PowerApps, Flow, and Logic Apps](Spring18/data-integration/connectors/overview.md)
-#### [Improvements to the SQL Server connector (General Availability)](Spring18/data-integration/connectors/improvements-sql-server-connector-general-availability.md)
-#### [Improvements to the Office 365 Outlook connector](Spring18/data-integration/connectors/improvements-office-365-outlook-connector.md)
-#### [Improvements to the Office 365 Users connector (General Availability)](Spring18/data-integration/connectors/improvements-office-365-users-connector-general-availability.md)
-#### [Improvements to the Visual Studio Team Service connector (Public Preview)](Spring18/data-integration/connectors/improvements-visual-studio-team-service-connector.md)
-#### [Additional connectors (Public Preview)](Spring18/data-integration/connectors/additional-connectors.md)
-### [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](Spring18/data-integration/integration-cds-apps-cds-analytics.md)
+### [Spring ’18 summary of what’s new in Data Integration](Spring18/data-integration/whats-new-data-integration.md)
+### [Connectors](Spring18/data-integration/connectors.md)
+### [Common Data Service for Apps and Common Data Service for Analytics](Spring18/data-integration/integration-cds-apps-cds-analytics.md)
 #### [Data integration capabilities for admins](Spring18/data-integration/data-integration-capabilities-admins.md)
 ### [Templates (Public Preview)](Spring18/data-integration/templates/overview.md)
 #### [Salesforce.com template](Spring18/data-integration/templates/salesforce-com-template.md)
@@ -417,6 +400,7 @@
 ##### [Other gateway improvements](Spring18/data-integration/gateway/other-gateway-improvements.md)
 #### [Smart data preparation capabilities – Add Column from Examples](Spring18/data-integration/smart-data-preparation-capabilities-add-column-examples.md)
 #### [Extensibility (Public Preview)](Spring18/data-integration/extensibility.md)
+
 
 ## [Microsoft Stream](Spring18/microsoft-stream/overview.md)
 ### [Summary of what’s new](Spring18/microsoft-stream/whats-new-media-platform.md)
