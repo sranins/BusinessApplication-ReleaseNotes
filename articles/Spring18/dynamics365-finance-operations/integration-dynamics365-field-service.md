@@ -76,14 +76,10 @@ and functionality for Prospect to cash integration can be used to synchronize:
 -   Invoices.
 
 > [!div class="mx-imgBorder"] 
-> ![A graphic showing the Prospect-to-cash data flow
-](media/integration-dynamics365-field-service-3.png "A graphic showing the Prospect-to-cash data flow
-")
+> ![A graphic showing the Prospect-to-cash data flow](media/integration-dynamics365-field-service-3.png "A graphic showing the Prospect-to-cash data flow")
 <!-- Picture 1 -->
 
 
 *Prospect to cash data flow*
 
-To learn more about the Prospect to cash integration, [watch this
-video](https://youtu.be/AVV9x5x-XCg) or go to the [Prospect to cash
-documentation](https://docs.microsoft.com/en-us/dynamics365/unified-operations/supply-chain/sales-marketing/prospect-to-cash).
+To learn more about the Prospect to cash integration, [watch this video](https://youtu.be/AVV9x5x-XCg) or go to the [Prospect to cash documentation](https://docs.microsoft.com/en-us/dynamics365/unified-operations/supply-chain/sales-marketing/prospect-to-cash).
