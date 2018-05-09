@@ -1,6 +1,6 @@
 # [What's new in Business Applications](index.md)
 # [Spring '18](Spring18/release-overview.md)
-## [GDPR compliance resources](Spring18/resources-manage-gdpr-compliance-organization.md)
+## [GDPR compliance resources](Spring18/gdpr.md)
 ## [Regional availability](Spring18/availability.md)
 ## [Change history](Spring18/change-history.md)
 
