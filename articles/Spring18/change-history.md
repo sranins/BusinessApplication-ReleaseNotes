@@ -16,20 +16,17 @@ audience: Admin
 ---
 #  Change history
 
-This topic is updated when features are added, or change release dates. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
+This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
 ## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
-				
 ### Intro                          
 
 Added section: [Availability](availability.md) to link to the availability guide. 
 
 ### Sales
 - Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
-
 - Added feature: [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
-
 
 ### Field Service
 Universal Resource Scheduling added features: 
@@ -45,12 +42,27 @@ Universal Resource Scheduling added features:
 - [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)
 
 ### Finance and Operations
-No features added
+
+Added features:
+- [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
+- [Create actuals in Project Service Automation and synchronize them to the Finance and Operations integration journal](dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
+- [Extensible project work breakdown structure](dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
+- [On-premises availability of Retail head-office capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md)
 
 ### Talent
-No features added
+
+Added features: 
+- [Absence management](dynamics365-talent/absence-management.md)
+	- Time entry on behalf of someone else
+	- Configurable proration options
+
+- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
+	- Ceridian payroll integration is now available in the UK
+	- Assignee placeholders (Public Preview)
 
 ### PowerApps
+
+Added section:
 - [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md)
 
 ### Microsoft Flow features added in May
@@ -72,27 +84,19 @@ No features added
 - [Access flow details with the workflow expression](microsoft-flow/overview.md)
 
 ### Power BI Desktop
-- [Book by estimated arrival time instead of start of travel](power-bi/overview.md)
-- [Globalization – United Arab Emirates localization](dynamics365-finance-operations/index.md) for Fall 2017 release (version 7.3 update/overview.md)
--   [Create actuals in Project Service Automation](dynamics365-finance-operations/index.md) and synchronize them to the	Finance and Operations integration journal
--   [Extensible project work breakdown structure](dynamics365-finance-operations/index.md)	
--   [Book by estimated arrival time instead of start of  travel](power-bi/overview.md)				
--   [On-premises availability of Retail head-office capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md)
--   [Absence management](dynamics365-talent/overview.md)
--   Time entry on behalf of someone else		
--   Configurable proration options	
--   [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)				
--   Ceridian payroll integration is now available in the UK
--   [Assignee placeholders](/dynamics365-talent/onboard/assignee-placeholders.md)							
+Removed: 
 -   Incremental Refresh Policies removed from April '18 General Availability							
--   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh added to May ’18 General Availability
--   Filters on data view section added to June '18 General Availability						
 -   Matrix expand or collapse section removed from June '18 General Availability
 -   Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability
--   Performance inspector for reports section removed from June '18 General Availability
+-   Performance inspector for reports section removed from June '18 General Availability		
+
+Added: 
+-   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh added to May ’18 General Availability
+-   Filters on data view section added to June '18 General Availability				
 
 ### Power BI Service				
-				
+
+Release date changed: 
 -   [Incremental data refresh](power-bi/overview.md) moved from May '18 General Availability to May '18 Public Preview
 -   Workspace search section moved from June '18 General Availability to June '18 Public Preview
 -   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public Preview sometime between July and September				
@@ -100,8 +104,8 @@ No features added
 ## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018				
 				
 ### Sales
-- Added section: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details
-- Removed section: LinkedIn profile pictures for contact records
+- Added: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details
+- Removed: LinkedIn profile pictures for contact records
 
 ### Field Service
 - Removed FBX from list of supported file formats for 3D models
@@ -118,7 +122,7 @@ Updated availability information for the following sections. For more informatio
 - Workspaces with Azure AD groups
 - Export to PDF  
 
-Removed the following sections: 
+Removed: 
 - Slideshow mode
 - Report snapshots for Power BI Premium. 
 
