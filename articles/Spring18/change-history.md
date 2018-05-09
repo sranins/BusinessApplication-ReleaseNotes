@@ -16,6 +16,7 @@ audience: Admin
 ---
 #  Change history
 
+This topic is updated when features are added, or change release dates. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
 ## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
@@ -127,5 +128,5 @@ Removed the following sections:
 ### Microsoft Stream
 - Removed public anonymous playback feature from the summary table.
 
-To find out when there are updates to these release notes, follow us on Twitter	@MSFTDynamics365.				
+			
 				
