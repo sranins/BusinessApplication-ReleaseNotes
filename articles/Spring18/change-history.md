@@ -22,7 +22,7 @@ audience: Admin
 				
 ### Intro                          
 
-Added section: [Availability](release-overview.md#availability) with link to availability guide. 
+Added section: [Availability](availability.md) with link to availability guide. 
 
 ### Sales
 - Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
