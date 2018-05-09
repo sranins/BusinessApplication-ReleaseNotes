@@ -53,8 +53,7 @@ more information, see [PowerApps host
 control](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/user-interface/powerapps-host-control).
 
 > [!div class="mx-imgBorder"] 
-> ![A screenshot showing an embedded PowerApp](media/embedding-powerapps-workspaces-forms-2.png "A screenshot showing an embedded PowerApp
-")
+> ![A screenshot showing an embedded PowerApp](media/embedding-powerapps-workspaces-forms-2.png "A screenshot showing an embedded PowerApp")
 <!-- FO_Embedding PowerApps_B.png -->
 
 
