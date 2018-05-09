@@ -1,7 +1,7 @@
 # [What's new in Business Applications](index.md)
 # [Spring '18](Spring18/release-overview.md)
 ## [GDPR compliance resources](Spring18/resources-manage-gdpr-compliance-organization.md)
-## [Regional availability](availability.md)
+## [Regional availability](Spring18/availability.md)
 ## [Change history](Spring18/change-history.md)
 
 ## [Sales](Spring18/dynamics365-sales/overview.md)
