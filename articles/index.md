@@ -1,4 +1,5 @@
- ---
+---
+
 title: "What's new in Business Applications"
 description: "These release notes describe the latest services and capabilities in the Microsoft Dynamics 365 business applications and platforms."
 author: MargoC
