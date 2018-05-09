@@ -31,3 +31,5 @@ features like Q&A and Quick Insights.
 
 
 *Example of quick insights*
+
+> [!div class="mx-imgBorder"] > ![![A screenshot showing an example of quick insights](media/rich-immersive-experiences-1.png "A screenshot showing an example of quick insights")
