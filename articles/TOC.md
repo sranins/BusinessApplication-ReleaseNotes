@@ -134,7 +134,7 @@
 ### Integration
 #### [Integration with Common Data Service (CDS)](Spring18/dynamics365-finance-operations/integration-common-data-service-cds.md)
 #### [Integration with Dynamics 365 for Field Service](Spring18/dynamics365-finance-operations/integration-dynamics365-field-service.md)
-#### [Integration with Dynamics 365 for Talent (Public Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-talent.md)
+### [Integration with Dynamics 365 for Talent (Public Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-talent.md)
 #### [Integration with Dynamics 365 for Project Service Automation (Private Preview)](Spring18/dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
 
 ### Support experiences
@@ -158,7 +158,6 @@
 #### [Regulatory service – Configuration (Public Preview)](Spring18/dynamics365-finance-operations/regulatory-service-configuration.md)
 
 ### Servicing, performance, and deplyoment
-
 #### [Improved delivery of platform and financial reporting updates](Spring18/dynamics365-finance-operations/improved-delivery-platform-financial-reporting-updates.md)
 #### [Upgrade automation](Spring18/dynamics365-finance-operations/upgrade-automation.md)
 #### [Service hardening](Spring18/dynamics365-finance-operations/service-hardening.md)
@@ -295,7 +294,7 @@
 ## [Power BI](Spring18/power-bi/overview.md)
 ### [Summary of what’s new](Spring18/power-bi/whats-new-business-intelligence-platform.md)
 
-### Desktop
+### Power BI Desktop
 #### [Ask Top N questions in Q&A](Spring18/power-bi/desktop/ask-top-n-questions-q-a.md)
 #### [Azure Active Directory authentication](Spring18/power-bi/desktop/azure-active-directory-authentication.md)
 #### [Hide pages from reading mode](Spring18/power-bi/desktop/hide-pages-reading-mode.md)
@@ -312,7 +311,7 @@
 #### [Conditional formatting based on another column](Spring18/power-bi/desktop/conditional-formatting-based-another-column.md)
 #### [Filtering on Data View](Spring18/power-bi/desktop/filtering-data-view.md)
 
-### Service
+### Power BI Service
 #### [Share and favorite reports](Spring18/power-bi/service/share-favorite-reports.md)
 #### [Push apps](Spring18/power-bi/service/push-apps.md)
 #### [Pin from apps to dashboard](Spring18/power-bi/service/pin-apps-dashboard.md)
@@ -330,7 +329,7 @@
 #### [Subscribe other users for email](Spring18/power-bi/service/subscribe-other-users-email.md)
 #### [XMLA connectivity with Analysis Services](Spring18/power-bi/service/xmla-connectivity-analysis-services.md)
 
-### Embedded
+### Power BI Embedded
 #### [Capacity API](Spring18/power-bi/embedded/capacity-api.md)
 #### [Row-level security on Azure Analysis Services based on CustomData](Spring18/power-bi/embedded/row-level-security-azure-analysis-services-based-customdata.md)
 #### [Custom layout](Spring18/power-bi/embedded/custom-layout.md)
@@ -357,7 +356,7 @@
 #### [Export to PowerPoint](Spring18/power-bi/embedded/export-powerpoint.md)
 #### [Export to PDF](Spring18/power-bi/embedded/export-pdf.md)
 
-### Mobile
+### Power BI Mobile
 #### [Visio custom visuals](Spring18/power-bi/mobile/visio-custom-visuals.md)
 #### [Responsive Visualization optimized for phone layout](Spring18/power-bi/mobile/responsive-visualization-optimized-phone-layout.md)
 #### [Report tooltip touch optimization](Spring18/power-bi/mobile/report-tooltip-touch-optimization.md)
@@ -400,7 +399,6 @@
 #### [Other gateway improvements](Spring18/data-integration/gateway/other-gateway-improvements.md)
 #### [Smart data preparation capabilities – Add Column from Examples](Spring18/data-integration/smart-data-preparation-capabilities-add-column-examples.md)
 #### [Extensibility (Public Preview)](Spring18/data-integration/extensibility.md)
-
 
 ## [Microsoft Stream](Spring18/microsoft-stream/overview.md)
 ### [Summary of what’s new](Spring18/microsoft-stream/whats-new-media-platform.md)
