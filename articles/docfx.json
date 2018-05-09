@@ -55,6 +55,7 @@
     "fileMetadata": {},
     "template": [],
     "dest": "business-applications-release-notes",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "feedback_system": "None" 
   }
 }
