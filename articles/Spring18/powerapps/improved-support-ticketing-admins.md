@@ -40,7 +40,7 @@ To try out the new support experience:
     any relevant screenshots, and select **Submit**.
 
     > [!div class="mx-imgBorder"] 
-> ![A screenshot of a new support request form](media/improved-support-ticketing-admins-1.png "A screenshot of a new support request form")
+    > ![A screenshot of a new support request form](media/improved-support-ticketing-admins-1.png "A screenshot of a new support request form")
     <!-- Picture 10 -->
 
 
