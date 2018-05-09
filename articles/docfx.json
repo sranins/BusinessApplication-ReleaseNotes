@@ -21,9 +21,12 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.tif"
+          "**/**.png",
+          "**/**.jpg",
+          "**/**.jpeg",
+          "**/**.gif",
+          "**/**.tif",
+          "**/**.svg"
         ],
         "exclude": [
           "**/obj/**",
@@ -36,12 +39,22 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/sbox-busapp-relnote/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "contributors_to_exclude": [
+        "OpenLocalizationService"
+      ],
+      "layout": "Conceptual",
+      "searchScope": [
+        "Release notes"
+      ],
+      "extendBreadcrumb": "true",
+      "breadcrumb_path": "/business-applications-release-notes/breadcrumb/toc.json",
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "brand": "dyn-ops",
+      "titleSuffix": "Release Notes"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "sbox-busapp-relnote",
+    "dest": "business-applications-release-notes",
     "markdownEngineName": "markdig"
   }
 }
