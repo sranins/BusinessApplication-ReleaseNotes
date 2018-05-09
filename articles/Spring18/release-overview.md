@@ -1,7 +1,7 @@
 ---
 
-title: Release overview
-description: Release overview
+title: "Release overview"
+description: "Learn what's new in the Dynamics 365 business applications and platforms Spring '18 release."
 author: MargoC
 manager: AnnBe
 ms.date: 05/01/2018
@@ -21,8 +21,9 @@ audience: Admin
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
 
-We’ve made tremendous progress in the following areas:
+These new services and capabilities are available starting in April 2018.
 
+We’ve made tremendous progress:
 
 -   **Unifying our business applications** across marketing, sales, service,
     operations, finance, talent, and retail into a comprehensive family of
@@ -53,4 +54,10 @@ the digital transformation of your business on your terms.
 We’re looking forward to engaging with you as you put these new services and
 capabilities to work, and we’re eager to hear your feedback as you dig into the
 Spring ’18 release.
+
+Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
+
+> [!TIP]
+> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
+
 

@@ -20,7 +20,6 @@ audience: Admin
 [!include[banner](../../includes/banner.md)]
 
 ## General Availability
-
 [New and improved connectors for Power BI](connectors.md#improved-connectors-for-power-bi)
 - Improved SAP BW DirectQuery connector
 - Improved SAP HANA DirectQuery connector
@@ -47,7 +46,7 @@ audience: Admin
 
 Use Power Query to integrate data into the Common Data Service for Apps and the Common Data Service for Analytics. Create, populate, transform, and enrich standard entities defined in the Common Data Model. You can use example column values to infer column rows (Add Column from Examples feature).
 
-## Public Preview
+## Public Preview
 [New and improved connectors for Power BI](connectors.md#improved-connectors-for-power-bi)
 - HDInsight Interactive Query
 - Data.World
@@ -60,7 +59,7 @@ Use Power Query to integrate data into the Common Data Service for Apps and the 
 - New Excel Online connector for Microsoft Flow and Logic Apps
 - Support for views in Teradata and Oracle connectors
 - Improved Visual Studio Team Services connector
-- New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more. [See the full list](connectors.md).
+- New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more. [See the full list](connectors.md)
 
 [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](integration-cds-apps-cds-analytics.md)
 - Load data from a wide range of data sources into the Common Data Service for Apps or the Common Data Service for Analytics
@@ -84,5 +83,4 @@ Partners can create and distribute their own connectors and submit them for cert
 
 ## Regional availability
 
-Data Integration features available for Public Preview are typically available in all regions where the product is available. [For a complete list of regions, see the Availability Guide.](https://aka.ms/dynamics_365_international_availability_deck)
-
+Data Integration features available for Public Preview are typically available in all regions where the product is available. [For a complete list of regions, see the Availability Guide.](https://aka.ms/dynamics_365_international_availability_deck)
