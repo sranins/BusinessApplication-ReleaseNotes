@@ -28,7 +28,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-1.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-marketing.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -259,6 +259,47 @@ ms.topic: hub-page
                                                 </p>
                                                 <p>
                                                     <a href="/powershell/azure/get-started-azureps">Common Data Service for Analytics</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>                            
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>Media Platform</h3>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Microsoft Stream</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>                            
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>Data Integration</h3>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Common Data Model</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Connectors and Gateways</a>
                                                 </p>
                                             </div>
                                         </div>
