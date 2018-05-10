@@ -27,7 +27,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-1.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-marketing.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -48,7 +48,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-2.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-sales.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -96,7 +96,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/media/logos/logo_gopher.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-customer-service.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -258,7 +258,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-1.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-marketing.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -282,7 +282,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-2.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-sales.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -354,7 +354,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/media/logos/logo_gopher.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-customer-service.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
