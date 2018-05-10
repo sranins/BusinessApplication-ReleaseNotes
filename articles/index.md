@@ -7,16 +7,70 @@ title: Business Applications Release Notes
 description: These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and platforms.
 ms.topic: hub-page
 ---
-<div id="main" class="v2">
+ <div id="main" class="v2">
     <div class="container">
         <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
-             <li>
-                <a href="#spring18">Spring '18</a>
-                <ul id="spring18">
+            <li>
+                <a href="#autumn18">Autumn '18</a>
+                <ul id="autumn18">
                     <li>
-                        <a href="#spring18-all">all</a>
-                        <ul id="spring18-all" class="cardsF">
+                        <a href="#autumn18-all">all</a>
+                        <ul id="autumn18-all" class="cardsF">
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Themes</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Regional availability</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Change history</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                             <li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
@@ -215,7 +269,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                   Business Application Platform
+                                                    Business Application Platform
                                                 </h3>
                                                 <p>
                                                     <a href="index">PowerApps</a>
@@ -264,7 +318,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -283,7 +337,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -305,18 +359,72 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                         </ul>
                     </li>
                 </ul>
             </li>
-             <li>
-                <a href="#autum18">Autumn '18</a>
+            <li>
+                <a href="#autum18">Spring '18</a>
                 <ul id="autum18">
                     <li>
-                        <a href="#autumn18-all">all</a>
-                        <ul id="autumn18-all" class="cardsF">
+                        <a href="#spring18-all">all</a>
+                        <ul id="spring18-all" class="cardsF">
                             <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Themes</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Regional availability</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Change history</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+							<li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
                                 </div>
@@ -508,7 +616,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                   Business Application Platform
+                                                    Business Application Platform
                                                 </h3>
                                                 <p>
                                                     <a href="index">PowerApps</a>
@@ -557,7 +665,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -579,7 +687,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                         </ul>
                     </li>
                 </ul>
