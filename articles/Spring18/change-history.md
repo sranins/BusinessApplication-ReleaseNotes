@@ -21,7 +21,7 @@ This topic is updated when features are added, or when a feature's release date 
 ## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
 ### Intro                          
-
+ 
 Added section: [Availability](availability.md) to link to the availability guide. 
 
 ### Sales
@@ -57,7 +57,8 @@ Added features:
 	- Configurable proration options
 
 - [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
-	- Ceridian payroll integration is now available in the UK
+	- Ceridian payroll integration is now available (Public Preview in May, not Generally Available)
+	- Ceridian payroll integration is now available in the UK (Public Preview in June, not May)
 	- Assignee placeholders (Public Preview)
 
 ### PowerApps
