@@ -23,7 +23,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -41,7 +41,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -59,7 +59,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
