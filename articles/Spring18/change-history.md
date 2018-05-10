@@ -16,7 +16,7 @@ audience: Admin
 ---
 #  Change history
 
-This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
+This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter [@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
 ## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
@@ -51,14 +51,17 @@ Added features:
 
 ### Talent
 
+Release date changed: 
+- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
+	- Ceridian payroll integration is now available (Public Preview in May, not Generally Available)
+	- Ceridian payroll integration is now available in the UK (Public Preview in June, not May)
+	
 Added features: 
 - [Absence management](dynamics365-talent/absence-management.md)
 	- Time entry on behalf of someone else
 	- Configurable proration options
 
 - [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
-	- Ceridian payroll integration is now available (Public Preview in May, not Generally Available)
-	- Ceridian payroll integration is now available in the UK (Public Preview in June, not May)
 	- Assignee placeholders (Public Preview)
 
 ### PowerApps
@@ -132,6 +135,3 @@ Removed:
 
 ### Microsoft Stream
 - Removed public anonymous playback feature from the summary table.
-
-			
-				
