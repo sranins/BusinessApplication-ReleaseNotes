@@ -12,11 +12,11 @@ ms.topic: hub-page
         <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
              <li>
-                <a href="#sdkstools">Spring '18</a>
-                <ul id="sdkstools">
+                <a href="#spring18">Spring '18</a>
+                <ul id="spring18">
                     <li>
-                        <a href="#sdkstools-all">all</a>
-                        <ul id="sdkstools-all" class="cardsF">
+                        <a href="#spring18-all">all</a>
+                        <ul id="spring18-all" class="cardsF">
                             <li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
@@ -314,8 +314,8 @@ ms.topic: hub-page
                 <a href="#autum18">Autumn '18</a>
                 <ul id="autum18">
                     <li>
-                        <a href="#sdkstools-all">all</a>
-                        <ul id="sdkstools-all" class="cardsF">
+                        <a href="#autumn18-all">all</a>
+                        <ul id="autumn18-all" class="cardsF">
                             <li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
