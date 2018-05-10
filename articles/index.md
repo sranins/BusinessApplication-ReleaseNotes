@@ -903,8 +903,6 @@ featureFlags:
                                                 <p>Bing Visual Search API</p>
                                             </a>
                                         </li>
-
-
                                         <li>
                                             <a href="/azure/cognitive-services/Bing-Autosuggest/">
                                                 <img src="media/index/API_Bing_AutoSuggest.svg" alt="" />
@@ -1047,7 +1045,7 @@ featureFlags:
                                         <li>
                                             <a href="/azure/data-factory/">
                                                 <img src="media/index/DataFactory.svg" alt="" />
-                                                <p>Data Factory</p>
+                                                <p>Content added</p>
                                             </a>
                                         </li>
                                         <li>
