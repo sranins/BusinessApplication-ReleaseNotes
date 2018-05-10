@@ -36,10 +36,10 @@ ms.topic: hub-page
                                                     Marketing
                                                 </h3>
                                                 <p>
-                                                    <a href="/dotnet/azure">Dynamics 365 for Marketing</a>
+                                                    <a href="index">Dynamics 365 for Marketing</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/dotnet/api/overview/azure/?view=azure-dotnet">Social Engagement</a>
+                                                    <a href="index">Social Engagement</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -52,7 +52,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-2.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-sales.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -60,10 +60,10 @@ ms.topic: hub-page
                                                     Sales
                                                 </h3>
                                                 <p>
-                                                    <a href="/python/azure">Dynamics 365 for Sales</a>
+                                                    <a href="index">Dynamics 365 for Sales</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/python/api/overview/azure/">Gamification</a>
+                                                    <a href="index">Gamification</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -76,7 +76,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-3.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-operations.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -84,10 +84,10 @@ ms.topic: hub-page
                                                     Operations, Finance
                                                 </h3>
                                                 <p>
-                                                    <a href="/javascript/azure/">Dynamics 365 for Operations and Finance</a>
+                                                    <a href="index">Dynamics 365 for Operations and Finance</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/javascript/api/overview/azure/">Dynamics 365 Finance Insights</a>
+                                                    <a href="index">Dynamics 365 Finance Insights</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -100,7 +100,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-4.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-retail.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -124,7 +124,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/media/logos/logo_gopher.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-customer-service.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -157,7 +157,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-6.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-talent.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -184,7 +184,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-6.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-business-central.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -210,7 +210,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-7.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -237,7 +237,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_sync.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -271,7 +271,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-project-services.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -290,7 +290,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
