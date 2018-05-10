@@ -3460,11 +3460,10 @@ featureFlags:
                                                                     <span>Answer Search</span>
                                                                 </a>
                                                             </li>
-
                                                             <li>
                                                                 <a class="barLink" href="/azure/cognitive-services/labs/anomaly-finder/overview">
                                                                     <img src="media/index/API_Anomaly_Finder.svg" alt="" />
-                                                                    <span>Anomaly Finder</span>
+                                                                    <span>Updated content</span>
                                                                 </a>
                                                             </li>
                                                             <li>
@@ -3473,8 +3472,6 @@ featureFlags:
                                                                     <span>Conversation Learner</span>
                                                                 </a>
                                                             </li>
-
-
                                                         </ul>
                                                     </div>
                                                 </div>
