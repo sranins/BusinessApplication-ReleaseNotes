@@ -12,11 +12,11 @@ ms.topic: hub-page
         <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
             <li>
-                <a href="#spring18">Spring '18</a>
-                <ul id="spring18">
+                <a href="#autumn18">Autumn '18</a>
+                <ul id="autumn18">
                     <li>
-                        <a href="#spring18-all">all</a>
-                        <ul id="spring18-all" class="cardsF">
+                        <a href="#autumn18-all">all</a>
+                        <ul id="autumn18-all" class="cardsF">
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -365,11 +365,11 @@ ms.topic: hub-page
                 </ul>
             </li>
             <li>
-                <a href="#autum18">Autumn '18</a>
+                <a href="#autum18">Spring '18</a>
                 <ul id="autum18">
                     <li>
-                        <a href="#autumn18-all">all</a>
-                        <ul id="autumn18-all" class="cardsF">
+                        <a href="#spring18-all">all</a>
+                        <ul id="spring18-all" class="cardsF">
                             <li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
