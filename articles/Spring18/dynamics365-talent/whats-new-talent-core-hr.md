@@ -41,12 +41,11 @@ audience: Admin
 
 ## April ’18 – General Availability
 
-- [Payroll integration](payroll-integration-payroll-data-package.md) - Connect Talent to your payroll system by using out-of-box integration with Ceridian, or connect manually to other payroll providers.
 - [Absence management](absence-management.md):
 
     - Working days calendars – Supports the creation of calendars that reflect company holidays.
     - Submit time off in days – More flexible increments for entering time off.
-    - Custom absence accrual dates – Customize time carry-over and time-off accrual capabilities.
+    
 
 - Position and employee management updates - Provide additional information related to positions and employees, allowing HR professionals and managers to streamline the hiring process.
 
@@ -56,12 +55,16 @@ audience: Admin
 
     - Time entry on behalf of someone else – Enables managers and HR professionals to enter time-off for employees who can’t.
     - Configurable proration options – More flexible options for handling proration of time-off accruals.
+    - Custom absence accrual dates – Customize time carry-over and time-off accrual capabilities.
 
 ## May ’18 – Public Preview
 
-- Payroll integration – Take advantage of the out-of-box integration with Ceridian in the UK.
+- [Payroll integration](payroll-integration-payroll-data-package.md) - Connect Talent to your payroll system by using out-of-box integration with Ceridian, or connect manually to other payroll providers.
+
+
 - [Benefits enhancements – Open enrollment](benefits-enhancements.md)
 
 ## June ’18 – Public Preview
 
+- Payroll integration – Take advantage of the out-of-box integration with Ceridian in the UK.
 - [Calendar view of working time](absence-management.md) – Visualize the working days and times across the organization in a calendar view.
