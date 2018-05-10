@@ -9,17 +9,17 @@ ms.topic: hub-page
 ---
 <div id="main" class="v2">
     <div class="container">
-        <h1 class="screenReader">Microsoft Azure Documentation</h1>
+        <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
              <li>
-                <a href="#sdkstools">SDKs/Tools</a>
+                <a href="#sdkstools">Autumn '18</a>
                 <ul id="sdkstools">
                     <li>
                         <a href="#sdkstools-all">all</a>
                         <ul id="sdkstools-all" class="cardsF">
                             <li>
                                 <div class="container">
-                                    <h2>Languages &amp; Frameworks</h2>
+                                    <h2>Dynamics 365 applications</h2>
                                 </div>
                             </li>
                             <li>
@@ -33,13 +33,13 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure for .NET Developers
+                                                    Marketing
                                                 </h3>
                                                 <p>
-                                                    <a href="/dotnet/azure">Get started</a>
+                                                    <a href="/dotnet/azure">Dynamics 365 for Marketing</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/dotnet/api/overview/azure/?view=azure-dotnet">API reference</a>
+                                                    <a href="/dotnet/api/overview/azure/?view=azure-dotnet">Social Engagement</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -57,13 +57,13 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure for Python Developers
+                                                    Sales
                                                 </h3>
                                                 <p>
-                                                    <a href="/python/azure">Get started</a>
+                                                    <a href="/python/azure">Dynamics 365 for Sales</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/python/api/overview/azure/">API reference</a>
+                                                    <a href="/python/api/overview/azure/">Gamification</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -81,13 +81,13 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure for Node.js Developers
+                                                    Operations, Finance
                                                 </h3>
                                                 <p>
-                                                    <a href="/javascript/azure/">Get started</a>
+                                                    <a href="/javascript/azure/">Dynamics 365 for Operations and Finance</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/javascript/api/overview/azure/">API reference</a>
+                                                    <a href="/javascript/api/overview/azure/">Dynamics 365 Finance Insights</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -105,10 +105,10 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure for Java Developers
+                                                    Retail
                                                 </h3>
                                                 <p>
-                                                    <a href="/java/azure">Get started</a>
+                                                    <a href="/java/azure">Dynamics 365 for Retail</a>
                                                 </p>
                                                 <p>
                                                     <a href="/java/api/overview/azure">API reference</a>
@@ -129,13 +129,22 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure for Go Developers
+                                                    Service
                                                 </h3>
                                                 <p>
-                                                    <a href="/go/azure/">Get started</a>
+                                                    <a href="/go/azure/">Dynamics 365 for Customer Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">API Reference</a>
+                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 Portal</a>
+                                                </p>
+                                                <p>
+                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Voice of Customer</a>
+                                                </p>
+                                                <p>
+                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Field Service</a>
+                                                </p>
+                                                <p>
+                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Project Service Automation</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -153,10 +162,37 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure REST APIs
+                                                    Talent
                                                 </h3>
                                                 <p>
-                                                    <a href="/rest/api">API Reference</a>
+                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Core HR</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Attract</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Onboard</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="media/index/azure_dev-6.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    Business Central
+                                                </h3>
+                                                <p>
+                                                    <a href="/rest/api">Dynamics 365 Business Central</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -165,7 +201,7 @@ ms.topic: hub-page
                             </li>
                             <li>
                                 <div class="container">
-                                    <h2>Command-Line Interface (CLI)</h2>
+                                    <h2>Platform</h2>
                                 </div>
                             </li>
                             <li>
@@ -179,13 +215,16 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    Azure CLI
+                                                   Business Application Platform
                                                 </h3>
                                                 <p>
-                                                    <a href="/cli/azure">Get Started</a>
+                                                    <a href="/cli/azure">PowerApps</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/cli/azure/reference-index">Reference</a>
+                                                    <a href="/cli/azure/reference-index">Microsoft Flow</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/cli/azure/reference-index">Common Data Service for Apps</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -202,223 +241,30 @@ ms.topic: hub-page
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Azure PowerShell</h3>
+                                                <h3>Business Intelligence Platform</h3>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Get Started</a>
+                                                    <a href="/powershell/azure/get-started-azureps">Power BI Desktop</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/overview">Reference</a>
+                                                    <a href="/powershell/azure/get-started-azureps">Power BI Service</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Power BI Insights Apps</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Power BI Embedded</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Power BI Mobile</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/powershell/azure/get-started-azureps">Common Data Service for Analytics</a>
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="container">
-                                    <h2>Tools &amp; Extensions</h2>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/logos/logo_vs-code.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack">Visual Studio Code</a>
-                                                </h3>
-                                                <p>
-                                                    <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice">App Service</a>
-                                                </p>
-                                                 <p>
-                                                    <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions">Azure Functions</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage">Storage</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb">Cosmos DB</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="media/index/azure_dev-10.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Docker
-                                                </h3>
-                                                <p>
-                                                    <a href="/aspnet/core/host-and-deploy/docker/visual-studio-tools-for-docker">Visual Studio Tools for Docker</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://go.microsoft.com/fwlink/?LinkId=780680">Download for Visual Studio</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://go.microsoft.com/fwlink/?LinkId=780681">Download for Visual Studio Code</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://go.microsoft.com/fwlink/?LinkId=780682">Download for Team Services</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/logos/logo_java.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Java Tools
-                                                </h3>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/java/api/overview/azure/maven/readme">Maven plugins</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/java/azure/java-azure-tools">IntelliJ and Eclipse</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://code.visualstudio.com/docs/languages/java">Visual Studio Code</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="media/index/azure_dev-2.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="https://www.visualstudio.com/vs/python">Python Tools</a>
-                                                </h3>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/visualstudio/python/python-in-visual-studio">Visual Studio</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://code.visualstudio.com/docs/languages/python">Visual Studio Code</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/common/i_tools.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    SQL Tools
-                                                </h3>
-                                                <p>
-                                                    <a href="/sql/sql-operations-studio/download">SQL Operations Studio <sup>PREVIEW</sup></a>
-                                                </p>
-                                                <p>
-                                                    <a href="/sql/ssms/download-sql-server-management-studio-ssms">SQL Server Management Studio (SSMS)</a>
-                                                </p>                                            <p>
-                                                    <a href="/sql/ssdt/download-sql-server-data-tools-ssdt">SQL Server Data Tools (SSDT)</a>
-                                                </p>
-                                                <p>
-                                                    <a href="/sql/tools/overview-sql-tools">See all SQL tools</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="media/index/azure_dev-11.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="http://storageexplorer.com">Storage Explorer</a>
-                                                </h3>
-                                                <p>
-                                                    <a href="/azure/vs-azure-tools-storage-manage-with-storage-explorer">Get Started</a>
-                                                </p>
-                                                <p>
-                                                    <a href="http://go.microsoft.com/fwlink/?LinkId=722418">Download for Linux</a>
-                                                </p>
-                                                <p>
-                                                    <a href="http://go.microsoft.com/fwlink/?LinkId=708342">Download for Mac</a>
-                                                </p>
-                                                <p>
-                                                    <a href="http://go.microsoft.com/fwlink/?LinkId=708343">Download for Windows</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="media/index/Fabric.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Service Fabric SDK and Tools
-                                                </h3>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-get-started">Download for Windows</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-get-started-linux">Download for Linux</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-get-started-mac">Download Mac OS X</a>
-                                                </p>
-                                                <p>
-                                                    <a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-cli">Download Service Fabric CLI </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
+                            </li>                            
                         </ul>
                     </li>
                 </ul>
