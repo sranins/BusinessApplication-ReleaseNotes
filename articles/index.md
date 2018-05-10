@@ -10,6 +10,7 @@ ms.topic: hub-page
 <div id="main" class="v2">
     <div class="container">
         <h1 class="screenReader">Business Applications Release Notes</h1>
+        <a href="#sdkstools-all">all</a>
         <ul class="pivots">
              <li>
                 <a href="index">Autumn '18</a>
