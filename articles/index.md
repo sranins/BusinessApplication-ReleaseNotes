@@ -7,72 +7,70 @@ title: Business Applications Release Notes
 description: These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and platforms.
 ms.topic: hub-page
 ---
-<div id="main" class="v2">
+ <div id="main" class="v2">
     <div class="container">
         <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
-             <li>
+            <li>
                 <a href="#spring18">Spring '18</a>
                 <ul id="spring18">
                     <li>
-						<ul class="cardsY panelContent featuredContent">
-            <li>
-                <a href="/azure/guides/developer/azure-developer-guide">
-                    <div class="cardSize">
-                        <div class="cardPadding">
-                            <div class="card">
-                                <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="media/index/getstarted-developer.svg" src="media/index/getstarted-developer.png" alt="" />
-                                    </div>
-                                </div>
-                                <div class="cardText">
-                                    <span class="likeAnH3">Get Started Guide for Azure Developers</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </li>
-            <li>
-                <a href="/azure/architecture/guide/">
-                    <div class="cardSize">
-                        <div class="cardPadding">
-                            <div class="card">
-                                <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="media/index/getstarted-architecture.png" src="media/index/getstarted-architecture.png" alt="" />
-                                    </div>
-                                </div>
-                                <div class="cardText">
-                                    <span class="likeAnH3">Azure Application Architecture Guide</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </li>
-            <li>
-                <a href="https://azure.microsoft.com/community/training/">
-                    <div class="cardSize">
-                        <div class="cardPadding">
-                            <div class="card">
-                                <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="media/index/getstarted_pluralsight.svg" src="media/index/getstarted_pluralsight.png" alt="" />
-                                    </div>
-                                </div>
-                                <div class="cardText">
-                                    <span class="likeAnH3">Free Pluralsight Video Training for Azure</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </li>
-        </ul>
-		<a href="#spring18-all">all</a>
+                        <a href="#spring18-all">all</a>
                         <ul id="spring18-all" class="cardsF">
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Themes</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Regional availability</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>
+                                                    <a href="index">Change history</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                             <li>
                                 <div class="container">
                                     <h2>Dynamics 365 applications</h2>
@@ -271,7 +269,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                   Business Application Platform
+                                                    Business Application Platform
                                                 </h3>
                                                 <p>
                                                     <a href="index">PowerApps</a>
@@ -320,7 +318,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -339,7 +337,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -361,12 +359,12 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                         </ul>
                     </li>
                 </ul>
             </li>
-             <li>
+            <li>
                 <a href="#autum18">Autumn '18</a>
                 <ul id="autum18">
                     <li>
@@ -564,7 +562,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                   Business Application Platform
+                                                    Business Application Platform
                                                 </h3>
                                                 <p>
                                                     <a href="index">PowerApps</a>
@@ -613,7 +611,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -635,7 +633,7 @@ ms.topic: hub-page
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
                         </ul>
                     </li>
                 </ul>
