@@ -12,10 +12,9 @@ ms.topic: hub-page
         <h1 class="screenReader">Business Applications Release Notes</h1>
         <ul class="pivots">
              <li>
-                <a href="#sdkstools">Autumn '18</a>
+                <a href="index">Autumn '18</a>
                 <ul id="sdkstools">
                     <li>
-                        <a href="#sdkstools-all">all</a>
                         <ul id="sdkstools-all" class="cardsF">
                             <li>
                                 <div class="container">
@@ -36,10 +35,7 @@ ms.topic: hub-page
                                                     Marketing
                                                 </h3>
                                                 <p>
-                                                    <a href="/dotnet/azure">Dynamics 365 for Marketing</a>
-                                                </p>
-                                                <p>
-                                                    <a href="/dotnet/api/overview/azure/?view=azure-dotnet">Social Engagement</a>
+                                                    <a href="index">Dynamics 365 for Marketing</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -60,10 +56,10 @@ ms.topic: hub-page
                                                     Sales
                                                 </h3>
                                                 <p>
-                                                    <a href="/python/azure">Dynamics 365 for Sales</a>
+                                                    <a href="index">Dynamics 365 for Sales</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/python/api/overview/azure/">Gamification</a>
+                                                    <a href="index">Gamification</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -84,40 +80,16 @@ ms.topic: hub-page
                                                     Operations, Finance
                                                 </h3>
                                                 <p>
-                                                    <a href="/javascript/azure/">Dynamics 365 for Operations and Finance</a>
+                                                    <a href="index">Dynamics 365 for Operations and Finance</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/javascript/api/overview/azure/">Dynamics 365 Finance Insights</a>
+                                                    <a href="index">Dynamics 365 Finance Insights</a>
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="media/index/azure_dev-4.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Retail
-                                                </h3>
-                                                <p>
-                                                    <a href="/java/azure">Dynamics 365 for Retail</a>
-                                                </p>
-                                                <p>
-                                                    <a href="/java/api/overview/azure">API reference</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
+                            </li>                            
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -132,19 +104,19 @@ ms.topic: hub-page
                                                     Service
                                                 </h3>
                                                 <p>
-                                                    <a href="/go/azure/">Dynamics 365 for Customer Service</a>
+                                                    <a href="index">Dynamics 365 for Customer Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 Portal</a>
+                                                    <a href="index">Dynamics 365 Portal</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Voice of Customer</a>
+                                                    <a href="index">Voice of Customer</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Field Service</a>
+                                                    <a href="index">Dynamics 365 for Field Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Project Service Automation</a>
+                                                    <a href="index">Dynamics 365 for Project Service Automation</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -165,13 +137,13 @@ ms.topic: hub-page
                                                     Talent
                                                 </h3>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Core HR</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Core HR</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Attract</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Attract</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Onboard</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Onboard</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -192,7 +164,7 @@ ms.topic: hub-page
                                                     Business Central
                                                 </h3>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 Business Central</a>
+                                                    <a href="index">Dynamics 365 Business Central</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -218,13 +190,13 @@ ms.topic: hub-page
                                                    Business Application Platform
                                                 </h3>
                                                 <p>
-                                                    <a href="/cli/azure">PowerApps</a>
+                                                    <a href="index">PowerApps</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/cli/azure/reference-index">Microsoft Flow</a>
+                                                    <a href="index">Microsoft Flow</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/cli/azure/reference-index">Common Data Service for Apps</a>
+                                                    <a href="index">Common Data Service for Apps</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -243,22 +215,22 @@ ms.topic: hub-page
                                             <div class="cardText">
                                                 <h3>Business Intelligence Platform</h3>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Desktop</a>
+                                                    <a href="index">Power BI Desktop</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Service</a>
+                                                    <a href="index">Power BI Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Insights Apps</a>
+                                                    <a href="index">Power BI Insights Apps</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Embedded</a>
+                                                    <a href="index">Power BI Embedded</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Mobile</a>
+                                                    <a href="index">Power BI Mobile</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Common Data Service for Analytics</a>
+                                                    <a href="index">Common Data Service for Analytics</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -270,10 +242,10 @@ ms.topic: hub-page
                 </ul>
             </li>
              <li>
-                <a href="#sdkstools">Spring '18</a>
+                <a href="index">Spring '18</a>
                 <ul id="sdkstools">
                     <li>
-                        <a href="#sdkstools-all">all</a>
+                        <a href="index">all</a>
                         <ul id="sdkstools-all" class="cardsF">
                             <li>
                                 <div class="container">
@@ -294,10 +266,10 @@ ms.topic: hub-page
                                                     Marketing
                                                 </h3>
                                                 <p>
-                                                    <a href="/dotnet/azure">Dynamics 365 for Marketing</a>
+                                                    <a href="index">Dynamics 365 for Marketing</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/dotnet/api/overview/azure/?view=azure-dotnet">Social Engagement</a>
+                                                    <a href="index">Social Engagement</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -318,10 +290,10 @@ ms.topic: hub-page
                                                     Sales
                                                 </h3>
                                                 <p>
-                                                    <a href="/python/azure">Dynamics 365 for Sales</a>
+                                                    <a href="index">Dynamics 365 for Sales</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/python/api/overview/azure/">Gamification</a>
+                                                    <a href="index">Gamification</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -342,10 +314,10 @@ ms.topic: hub-page
                                                     Operations, Finance
                                                 </h3>
                                                 <p>
-                                                    <a href="/javascript/azure/">Dynamics 365 for Operations and Finance</a>
+                                                    <a href="index">Dynamics 365 for Operations and Finance</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/javascript/api/overview/azure/">Dynamics 365 Finance Insights</a>
+                                                    <a href="index">Dynamics 365 Finance Insights</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -366,10 +338,10 @@ ms.topic: hub-page
                                                     Retail
                                                 </h3>
                                                 <p>
-                                                    <a href="/java/azure">Dynamics 365 for Retail</a>
+                                                    <a href="index">Dynamics 365 for Retail</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/java/api/overview/azure">API reference</a>
+                                                    <a href="index">API reference</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -390,19 +362,19 @@ ms.topic: hub-page
                                                     Service
                                                 </h3>
                                                 <p>
-                                                    <a href="/go/azure/">Dynamics 365 for Customer Service</a>
+                                                    <a href="index">Dynamics 365 for Customer Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 Portal</a>
+                                                    <a href="index">Dynamics 365 Portal</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Voice of Customer</a>
+                                                    <a href="index">Voice of Customer</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Field Service</a>
+                                                    <a href="index">Dynamics 365 for Field Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://godoc.org/github.com/Azure/azure-sdk-for-go">Dynamics 365 for Project Service Automation</a>
+                                                    <a href="index">Dynamics 365 for Project Service Automation</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -423,13 +395,13 @@ ms.topic: hub-page
                                                     Talent
                                                 </h3>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Core HR</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Core HR</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Attract</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Attract</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 for Talent &mdash; Onboard</a>
+                                                    <a href="index">Dynamics 365 for Talent &mdash; Onboard</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -450,7 +422,7 @@ ms.topic: hub-page
                                                     Business Central
                                                 </h3>
                                                 <p>
-                                                    <a href="/rest/api">Dynamics 365 Business Central</a>
+                                                    <a href="index">Dynamics 365 Business Central</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -476,13 +448,13 @@ ms.topic: hub-page
                                                    Business Application Platform
                                                 </h3>
                                                 <p>
-                                                    <a href="/cli/azure">PowerApps</a>
+                                                    <a href="index">PowerApps</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/cli/azure/reference-index">Microsoft Flow</a>
+                                                    <a href="index">Microsoft Flow</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/cli/azure/reference-index">Common Data Service for Apps</a>
+                                                    <a href="index">Common Data Service for Apps</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -501,28 +473,69 @@ ms.topic: hub-page
                                             <div class="cardText">
                                                 <h3>Business Intelligence Platform</h3>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Desktop</a>
+                                                    <a href="index">Power BI Desktop</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Service</a>
+                                                    <a href="index">Power BI Service</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Insights Apps</a>
+                                                    <a href="index">Power BI Insights Apps</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Embedded</a>
+                                                    <a href="index">Power BI Embedded</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Power BI Mobile</a>
+                                                    <a href="index">Power BI Mobile</a>
                                                 </p>
                                                 <p>
-                                                    <a href="/powershell/azure/get-started-azureps">Common Data Service for Analytics</a>
+                                                    <a href="index">Common Data Service for Analytics</a>
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>                            
+                            </li>
+                        <li>
+                            <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>Media Platform</h3>
+                                                <p>
+                                                    <a href="index">Microsoft Stream</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        <li>
+                            <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="media/index/azure_dev-8.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>Data Integration</h3>
+                                                <p>
+                                                    <a href="index">Common Data Model</a>
+                                                </p>
+                                                <p>
+                                                    <a href="index">Connectors and Gateways</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </li>
                 </ul>
