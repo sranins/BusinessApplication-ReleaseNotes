@@ -28,7 +28,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    <a href="index">Themes</a>
+                                                    <a href="index">Release themes</a>
                                                 </h3>
                                             </div>
                                         </div>
@@ -381,7 +381,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    <a href="index">Themes</a>
+                                                    <a href="index">Release themes</a>
                                                 </h3>
                                             </div>
                                         </div>
