@@ -255,7 +255,7 @@ ms.topic: hub-page
                             </li>
                             <li>
                                 <div class="container">
-                                    <h2>Platform</h2>
+                                    <h2>Business Platform applications</h2>
                                 </div>
                             </li>
                             <li>
@@ -602,7 +602,7 @@ ms.topic: hub-page
                             </li>
                             <li>
                                 <div class="container">
-                                    <h2>Platform</h2>
+                                    <h2>Business Platform applications</h2>
                                 </div>
                             </li>
                             <li>
