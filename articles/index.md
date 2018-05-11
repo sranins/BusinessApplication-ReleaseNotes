@@ -54,7 +54,25 @@ ms.topic: hub-page
                             </a>
                         </li>
                         <li>
-                            <a href="index" title="Future Releases" data-linktype="absolute-path">
+                            <a href="index" title="In Development" data-linktype="absolute-path">
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img data-scaleimage="media/past.png" src="media/past.png" alt="" data-linktype="relative-path">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>Previous Release Notes</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index" title="Previous Release Notes" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
