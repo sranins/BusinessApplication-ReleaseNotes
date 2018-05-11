@@ -7,691 +7,134 @@ title: Business Applications Release Notes
 description: These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and platforms.
 ms.topic: hub-page
 ---
- <div id="main" class="v2">
-    <div class="container">
-        <h1 class="screenReader">Business Applications Release Notes</h1>
-        <ul class="pivots">
-            <li>
-                <a href="#autumn18">Autumn '18</a>
-                <ul id="autumn18">
-                    <li>
-                        <a href="#autumn18-all">all</a>
-                        <ul id="autumn18-all" class="cardsF">
-                            <li>
+<div id="main" class="v2">
+<div class="container">
+    <h1>Documentation for Visual Studio Products</h1>
+    <ul class="pivots">
+        <li>
+            <a href="#products" data-linktype="self-bookmark"></a>
+            <ul id="products">
+                <li>
+                    <a href="#products1" data-linktype="self-bookmark"></a>
+                    <ul id="products1" class="cardsC cols cols3">
+                        <li>
+                            <a href="/en-us/visualstudio/" title="Visual Studio" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-ide.svg" src="images/vs-ide.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Release themes</a>
-                                                </h3>
+                                                <h3>Visual Studio IDE</h3>
+                                                <p>Build apps and games, using Windows, to reach every device with Android, iOS, Windows, web or cloud.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://docs.microsoft.com/vsts" title="Visual Studio Team Services" data-linktype="external">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-team-services.svg" src="images/vs-team-services.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Regional availability</a>
-                                                </h3>
+                                                <h3>Visual Studio Team Services</h3>
+                                                <p>Increase team productivity with Agile project tools and reports. Build, test, and deploy projects from source control with modern CI/CD tools.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://code.visualstudio.com/docs" title="Visual Studio Code" data-linktype="external">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-code.svg" src="images/vs-code.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Change history</a>
-                                                </h3>
+                                                <h3>Visual Studio Code</h3>
+                                                <p>Rich editing and debugging in hundreds of languages on MacOS, Linux, and Windows</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="container">
-                                    <h2>Dynamics 365 applications</h2>
-                                </div>
-                            </li>
-                            <li>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/en-us/visualstudio/mac" title="Visual Studio for Mac" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-marketing.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-mac.svg" src="images/vs-mac.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    Marketing
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Marketing</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Social Engagement</a>
-                                                </p>
+                                                <h3>Visual Studio for Mac</h3>
+                                                <p>Build apps and games, using the Mac, for the cloud, iOS, Android, macOS, and wearables.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://docs.microsoft.com/appcenter" title="Visual Studio App Center" data-linktype="external">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-sales.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-mobile-center.svg" src="images/vs-mobile-center.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    Sales
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Sales</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Gamification</a>
-                                                </p>
+                                                <h3>Visual Studio App Center</h3>
+                                                <p>Continuous integration, delivery, and learning for Android, iOS, macOS, and Windows apps. Ship 5-star, higher-quality apps faster and with confidence.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://aka.ms/vs-subscriptions" title="Visual Studio App Center" data-linktype="external">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-operations.svg" alt="" />
+                                                    <img data-scaleimage="./images/vs-subscription-temp.svg" src="images/vs-subscription-temp.svg" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>
-                                                    Operations, Finance
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Operations and Finance</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Finance Insights</a>
-                                                </p>
+                                                <h3>Visual Studio Subscriptions</h3>
+                                                <p>Developer tools, cloud services, training and support all in one place.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-retail.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Retail
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Retail</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">API reference</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-customer-service.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Service
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Customer Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Portal</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Voice of Customer</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Field Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Project Service Automation</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-talent.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Talent
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Core HR</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Attract</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Onboard</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-business-central.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Business Central
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Business Central</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="container">
-                                    <h2>Business Platform applications</h2>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Business Application Platform
-                                                </h3>
-                                                <p>
-                                                    <a href="index">PowerApps</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Microsoft Flow</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Common Data Service for Apps</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_sync.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>Business Intelligence Platform</h3>
-                                                <p>
-                                                    <a href="index">Power BI Desktop</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Insights Apps</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Embedded</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Mobile</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Common Data Service for Analytics</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-project-services.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>Media Platform</h3>
-                                                <p>
-                                                    <a href="index">Microsoft Stream</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>Data Integration</h3>
-                                                <p>
-                                                    <a href="index">Common Data Model</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Connectors and Gateways</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="#autum18">Spring '18</a>
-                <ul id="autum18">
-                    <li>
-                        <a href="#spring18-all">all</a>
-                        <ul id="spring18-all" class="cardsF">
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Release themes</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Regional availability</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    <a href="index">Change history</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-							<li>
-                                <div class="container">
-                                    <h2>Dynamics 365 applications</h2>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-marketing.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Marketing
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Marketing</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-sales.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Sales
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Sales</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Gamification</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-operations.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Operations, Finance
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Operations and Finance</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Finance Insights</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-retail.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Retail
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Retail</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">API reference</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-customer-service.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Service
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Customer Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Portal</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Field Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Project Service Automation</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-talent.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Talent
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Core HR</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Attract</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Dynamics 365 for Talent &mdash; Onboard</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/dynamics-business-central.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Business Central
-                                                </h3>
-                                                <p>
-                                                    <a href="index">Dynamics 365 Business Central</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="container">
-                                    <h2>Business Platform applications</h2>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_setup.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>
-                                                    Business Application Platform
-                                                </h3>
-                                                <p>
-                                                    <a href="index">PowerApps</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Microsoft Flow</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Common Data Service for Apps</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_sync.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>Business Intelligence Platform</h3>
-                                                <p>
-                                                    <a href="index">Power BI Desktop</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Service</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Insights Apps</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Embedded</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Power BI Mobile</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Common Data Service for Analytics</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardImageOuter">
-                                                <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/en-us/dynamics365/images/i_tools.svg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="cardText">
-                                                <h3>Data Integration</h3>
-                                                <p>
-                                                    <a href="index">Common Data Model</a>
-                                                </p>
-                                                <p>
-                                                    <a href="index">Connectors and Gateways</a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+                            </a>
+                        </li>
+                    </ul><br>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
 </div>
