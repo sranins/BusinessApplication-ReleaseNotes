@@ -60,11 +60,11 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="media/past.png" src="media/past.png" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/future.png" src="media/future.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Previous Release Notes</h3>
+                                                <h3>In Development</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -78,11 +78,11 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="media/future.png" src="media/future.png" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/future.png" src="media/past.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Future Releases</h3>
+                                                <h3>Previous Release Notes</h3>
                                             </div>
                                         </div>
                                     </div>
