@@ -24,7 +24,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="./images/vs-ide.svg" src="images/vs-ide.svg" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/autumn.png" src="media/autumn.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -42,7 +42,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="./images/vs-team-services.svg" src="images/vs-team-services.svg" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/spring.png" src="media/spring.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
@@ -60,7 +60,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="./images/vs-code.svg" src="images/vs-code.svg" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/future.png" src="media/future.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
