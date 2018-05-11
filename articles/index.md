@@ -18,7 +18,7 @@ ms.topic: hub-page
                     <a href="#products1" data-linktype="self-bookmark"></a>
                     <ul id="products1" class="cardsC cols cols3">
                         <li>
-                            <a href="/en-us/visualstudio/" title="Visual Studio" data-linktype="absolute-path">
+                            <a href="index" title="Autumn '18" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -36,7 +36,7 @@ ms.topic: hub-page
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/vsts" title="Visual Studio Team Services" data-linktype="external">
+                            <a href="index" title="Spring '18" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -54,7 +54,7 @@ ms.topic: hub-page
                             </a>
                         </li>
                         <li>
-                            <a href="https://code.visualstudio.com/docs" title="Visual Studio Code" data-linktype="external">
+                            <a href="index" title="Future Releases" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
