@@ -78,7 +78,7 @@ ms.topic: hub-page
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img data-scaleimage="media/future.png" src="media/past.png" alt="" data-linktype="relative-path">
+                                                    <img data-scaleimage="media/past.png" src="media/past.png" alt="" data-linktype="relative-path">
                                                 </div>
                                             </div>
                                             <div class="cardText">
