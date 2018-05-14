@@ -1,4 +1,4 @@
-## Autumn '18 
+## [Autumn '18 ](index.md)
 ### Azure App Service Platform
 #### [Azure App Service platform continues to expand to meet customer demands](azure-app-service-platform/azure-app-service-platform-continues-expand-meet-customer-demands.md)
 #### [Features delivered in this period](azure-app-service-platform/features-delivered-this-period.md)
