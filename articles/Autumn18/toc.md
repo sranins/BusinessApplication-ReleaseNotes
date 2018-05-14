@@ -115,7 +115,7 @@
 #### [Best in class sales experiences with multi-platform applications](dynamics365-sales/best-class-sales-experiences-multi-platform-applications.md)
 #### [Sales performance at scale through productivity and collaboration](dynamics365-sales/sales-performance-at-scale-productivity-collaboration.md)
 #### [Strategic decision making powered by sales intelligence and analytics](dynamics365-sales/strategic-decision-making-powered-sales-intelligence-analytics.md)
-### [Microsoft Dynamics 365 for Talent modernizes candidate and employee experiences](dynamics365-talent/index.md)
+### [Microsoft Dynamics 365 for Talent](dynamics365-talent/index.md)
 #### [Attract](dynamics365-talent/attract.md)
 #### [Core HR](dynamics365-talent/core-hr.md)
 #### [Fall  18 Quick Summary for Talent](dynamics365-talent/fall-18-quick-summary-talent.md)
