@@ -1,11 +1,11 @@
 ---
 
 title: Microsoft launches the Fall 2018 release of Microsoft Dynamics 365 for Finance and Operations
-description: [Description]
+description: Microsoft launches the Fall 2018 release of Microsoft Dynamics 365 for Finance and Operations
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 95977dbb-202c-4ccc-97c9-0a53ceb6ec13
+ms.assetid: 71769b8a-87f6-474b-aef0-5e55f7dd825d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Microsoft launches the Fall 2018 release of Microsoft Dynamics 365 for Finance and Operations
----------------------------------------------------------------------------------------------
+#  Microsoft launches the Fall 2018 release of Microsoft Dynamics 365 for Finance and Operations
+
+
+[!include[banner](../../includes/banner.md)]
 
 **Redmond, WA – October 1, 2018** – Companies of all sizes are coming to the
 realization that the essence of their business depends on the success (or

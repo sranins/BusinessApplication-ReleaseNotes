@@ -1,11 +1,11 @@
 ---
 
 title: Distributed order management 
-description: [Description]
+description: Distributed order management 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 28d9a2b8-11a2-4ca8-9dc2-1d9026ab907b
+ms.assetid: 4da4d2a7-0f56-4565-bce3-3938d2af3d0c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,9 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Distributed order management:
+#  Distributed order management:
 
 
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Retailers can now take advantage of intelligent Distributed Order Management
 (DOM) algorithms to optimize their order fulfilment operations across their

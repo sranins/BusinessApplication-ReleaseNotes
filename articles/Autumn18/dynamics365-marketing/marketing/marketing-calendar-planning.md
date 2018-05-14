@@ -1,11 +1,11 @@
 ---
 
 title: Marketing Calendar for planning
-description: [Description]
+description: Marketers frequently plan their marketing activities for the entire year and beyond.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 8952db8f-66f7-4b57-9a2e-2797f436671a
+ms.assetid: 66191d4f-466e-4c57-ba5a-6bbb88ff8f90
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Marketing Calendar for planning
--------------------------------
+#  Marketing Calendar for planning
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Marketers frequently plan their marketing activities for the entire year and
 beyond. Marketing calendars are an essential aspect of modern marketing

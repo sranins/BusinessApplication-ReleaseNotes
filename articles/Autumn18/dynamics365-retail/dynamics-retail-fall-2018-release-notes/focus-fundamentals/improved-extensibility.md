@@ -1,11 +1,11 @@
 ---
 
 title: Improved Extensibility 
-description: [Description]
+description: Improved Extensibility 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3fc8b147-cf1a-4942-8716-c6570b025819
+ms.assetid: 999c9a76-4cc9-4409-a92b-cc232c2bc5ad
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Improved Extensibility: 
+#  Improved Extensibility: 
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Additional user interface and API extensions have been adding to the Retail
 headquarters, POS (Retail Modern POS and Cloud POS, and Commerce run-time (CRT),

@@ -1,11 +1,11 @@
 ---
 
 title: Microsoft Integrations  Social Insights in Dynamics 365 Marketing
-description: [Description]
+description: Microsoft Integrations  Social Insights in Dynamics 365 Marketing
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3302e3b6-23c2-43f1-b5c6-3b901e7df49a
+ms.assetid: 91aef89e-c8e9-427a-9e4b-3bc30fef1e1d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,9 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Microsoft Integrations: Social Insights in Dynamics 365 Marketing
+#  Microsoft Integrations: Social Insights in Dynamics 365 Marketing
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 >   Get contextual social insights from Microsoft Social Engagement in your
 >   Dynamics 365 Marketing app. Track your campaigns and events and find out how

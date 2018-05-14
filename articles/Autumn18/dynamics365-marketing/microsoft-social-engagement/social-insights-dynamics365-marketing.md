@@ -1,11 +1,11 @@
 ---
 
 title: Social Insights in Dynamics 365 Marketing
-description: [Description]
+description: Modern Marketing relies on signals from social media for a tighter customer engagement.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 6e86da4a-10a8-44f1-a63a-f8a004fbcf50
+ms.assetid: 77f58950-eb60-4556-b62d-7cde63f11b7d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Social Insights in Dynamics 365 Marketing
------------------------------------------
+#  Social Insights in Dynamics 365 Marketing
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Modern Marketing relies on signals from social media for a tighter customer
 engagement. With Social Insights in Dynamics 365 for Marketing, you can get

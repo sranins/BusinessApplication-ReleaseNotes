@@ -1,11 +1,11 @@
 ---
 
 title: Dynamics 365 for Marketing
-description: [Description]
+description: Since its launch in Spring release, Dynamics 365 for Marketing continues to see good traction with businesses to support their digital transformation.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 605eaa4d-bfe6-4d10-8de5-70bc46913257
+ms.assetid: 9f37030b-1814-4582-a260-9ac6b370120b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Dynamics 365 for Marketing
---------------------------
+#  Dynamics 365 for Marketing
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Since its launch in Spring release, Dynamics 365 for Marketing continues to see
 good traction with businesses to support their digital transformation. The

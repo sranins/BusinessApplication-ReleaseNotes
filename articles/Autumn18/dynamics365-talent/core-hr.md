@@ -1,11 +1,11 @@
 ---
 
 title: Core HR
-description: [Description]
+description: Core HR
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: f432ad4d-13fa-4596-865c-64be2d3e2d67
+ms.assetid: 2bf0e2ac-40af-4006-ac94-8336ca2b71c0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Core HR
--------
+#  Core HR
+
+
+[!include[banner](../../includes/banner.md)]
 
 \>\> MICROSOFT INTERNAL ONLY
 

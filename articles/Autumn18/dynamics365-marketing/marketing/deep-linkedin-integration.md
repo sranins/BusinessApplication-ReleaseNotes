@@ -1,11 +1,11 @@
 ---
 
 title: Deep LinkedIn Integration
-description: [Description]
+description: Continuing our investment in LinkedIn integration, Dynamics 365 for Marketing will provide a tighter integration for lead generation from professional networks and relationships in LinkedIn.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: fff15afc-b1dd-459e-85a0-d93322d8c501
+ms.assetid: 0994039a-5ff0-4b3d-bc47-1e1cd78b242e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Deep LinkedIn Integration
--------------------------
+#  Deep LinkedIn Integration
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Continuing our investment in LinkedIn integration, Dynamics 365 for Marketing
 will provide a tighter integration for lead generation from professional

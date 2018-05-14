@@ -1,11 +1,11 @@
 ---
 
 title: Productivity user experience features
-description: [Description]
+description: The web client has received several most common requested features from customers that drive increased productivity.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: f7cfc334-ba0a-4b2a-824c-0d81fdaacbb3
+ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,9 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Productivity user experience features
+#  Productivity user experience features
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 The web client has received several most common requested features from
 customers that drive increased productivity. Examples of such features are:

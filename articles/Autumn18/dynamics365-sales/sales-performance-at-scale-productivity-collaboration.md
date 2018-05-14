@@ -1,11 +1,11 @@
 ---
 
 title: Sales performance at scale through productivity and collaboration
-description: [Description]
+description: Sales performance at scale through productivity and collaboration
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3815985c-edc2-4163-8ba9-085802af80fc
+ms.assetid: 3ed460dd-f051-4272-9f12-3f328991e0dc
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Sales performance at scale through productivity and collaboration
------------------------------------------------------------------
+#  Sales performance at scale through productivity and collaboration
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Transform sales team collaboration through tight integration with Microsoft
 Teams

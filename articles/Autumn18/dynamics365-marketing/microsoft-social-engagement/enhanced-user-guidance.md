@@ -1,11 +1,11 @@
 ---
 
 title: Enhanced User Guidance
-description: [Description]
+description: Providing in-app guidance right where the users need it helps them get the most value by quickly getting familiar with how to get around and use the app.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3dfd5815-a817-418e-952f-a9ef52d79892
+ms.assetid: 64a7b8da-3723-408a-8620-f7e5188b610d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Enhanced User Guidance
-----------------------
+#  Enhanced User Guidance
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Providing in-app guidance right where the users need it helps them get the most
 value by quickly getting familiar with how to get around and use the app.

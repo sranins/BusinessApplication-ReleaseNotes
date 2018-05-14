@@ -1,11 +1,11 @@
 ---
 
 title: Microsoft Social Engagement
-description: [Description]
+description: Microsoft Social Engagement
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: b8f016d9-5d70-4fc2-b6ce-00d0a52bc372
+ms.assetid: ec2e2980-2b6f-4b29-b7cd-b667217182ee
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,9 @@ ms.author: margoc
 audience: Admin
 
 ---
-Microsoft Social Engagement
-===========================
+
+[!include[banner](../../includes/banner.md)]
+
+#  Microsoft Social Engagement
 
 

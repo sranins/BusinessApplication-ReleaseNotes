@@ -1,11 +1,11 @@
 ---
 
 title: Enhanced Customer search 
-description: [Description]
+description: Enhanced Customer search 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: e13bb525-42f1-4664-ba49-7da561d51db8
+ms.assetid: 22fd2ce9-003f-4d55-a178-ad6472054c71
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Enhanced Customer search:
+#  Enhanced Customer search:
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Customer search in Retail Modern POS (MPOS) and Cloud POS has been improved by
 adding configurable search "shortcuts” which allows store users to quickly and

@@ -1,11 +1,11 @@
 ---
 
 title: Improved Omni-channel order processing 
-description: [Description]
+description: Improved Omni-channel order processing 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 5f83a8a4-5b1d-4c41-9671-435a89552858
+ms.assetid: 5c07646b-1dc8-4149-af28-b8269992ff26
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Improved Omni-channel order processing:
+#  Improved Omni-channel order processing:
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Retail Modern POS (MPOS) and Cloud POS users can provide better, more
 streamlined customer service by returning products from across multiple

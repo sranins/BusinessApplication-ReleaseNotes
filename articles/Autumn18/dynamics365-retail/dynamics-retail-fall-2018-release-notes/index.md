@@ -1,11 +1,11 @@
 ---
 
 title: DYNAMICS FOR RETAIL   FALL 2018 RELEASE NOTES 
-description: [Description]
+description: DYNAMICS FOR RETAIL   FALL 2018 RELEASE NOTES 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 764aa9ec-203e-4f14-a3d3-6800287ad930
+ms.assetid: 9483dde6-8119-43d3-b662-9bdcff065959
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,5 +14,7 @@ ms.author: margoc
 audience: Admin
 
 ---
-DYNAMICS FOR RETAIL – FALL 2018 RELEASE NOTES:
-----------------------------------------------
+
+[!include[banner](../../../includes/banner.md)]
+
+#  DYNAMICS FOR RETAIL – FALL 2018 RELEASE NOTES:

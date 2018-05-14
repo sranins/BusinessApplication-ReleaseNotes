@@ -1,11 +1,11 @@
 ---
 
 title: Better Together 
-description: [Description]
+description: Better Together 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: e3a95dd9-d411-4f7a-a2cf-80553cdb6515
+ms.assetid: 22d72004-656d-43e7-bf3f-d54c78a4f2bb
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Better Together:
+#  Better Together:
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Integration of Project Service Automation with Finance and Operations: Allows
 for project management and resource management activities to be done in Project

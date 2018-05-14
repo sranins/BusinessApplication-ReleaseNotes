@@ -1,11 +1,11 @@
 ---
 
 title: Dynamics 365 for Sales
-description: [Description]
+description: Dynamics 365 for Sales
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 84d08875-01bb-4721-9cfb-df11b0d6e44b
+ms.assetid: d79ed975-8409-4abb-ab22-f299dac29690
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Index
------
+#  Index
+
+
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Dynamics 365 for Sales enables Digital Transformation by delivering
 productivity at scale and AI-driven analytics, and by modernizing the sales team

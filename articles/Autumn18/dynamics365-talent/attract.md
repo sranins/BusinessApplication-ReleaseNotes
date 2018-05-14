@@ -1,11 +1,11 @@
 ---
 
 title: Attract
-description: [Description]
+description: Attract
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 0cc40e7f-8f91-4c22-9cc7-8226e0db32d8
+ms.assetid: b164cc57-f514-4952-9c0d-6e8a51d655b4
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Attract
--------
+#  Attract
+
+
+[!include[banner](../../includes/banner.md)]
 
 -   Sourcing:
 

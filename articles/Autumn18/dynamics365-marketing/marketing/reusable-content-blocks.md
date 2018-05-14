@@ -1,11 +1,11 @@
 ---
 
 title: Reusable Content Blocks
-description: [Description]
+description: Dynamics 365 for Marketing managers frequently want to control the creation flow and editing capabilities of marketing content in the organization.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 70c4e4ca-971d-4ccb-9335-ab5be609182c
+ms.assetid: dbf44d89-5dc7-4a17-acf0-fdc0d4f4cafe
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Reusable Content Blocks
------------------------
+#  Reusable Content Blocks
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 for Marketing managers frequently want to control the creation flow
 and editing capabilities of marketing content in the organization. For example,

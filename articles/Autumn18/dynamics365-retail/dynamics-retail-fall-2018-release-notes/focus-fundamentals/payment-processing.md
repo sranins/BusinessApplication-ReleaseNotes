@@ -1,11 +1,11 @@
 ---
 
 title: Payment processing 
-description: [Description]
+description: Payment processing 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: c33a10ac-80ee-4daf-b718-73d4a0e35168
+ms.assetid: fd9dcdf5-f7a1-45cd-adf5-59aa90235020
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Payment processing: 
+#  Payment processing: 
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Payment processing flows and integration touchpoints have been refactored to
 increase reliability and stability between in-store applications (Retail Modern

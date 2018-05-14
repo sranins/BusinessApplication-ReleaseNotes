@@ -1,11 +1,11 @@
 ---
 
 title: Impact on Dynamics GP and Dynamics SL customers
-description: [Description]
+description: All Dynamics GP and Dynamics SL customers are already Dynamics 365 Business Central customers on CSP, since all BREP maintenance payments are transitioning to Dynamics 365 Business Central CSP licenses allowing the customers to run and get updates to Dynamics GP and Dynamics SL.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: af8d3740-5ddb-4116-8f28-39aa9392596b
+ms.assetid: 7143cecd-cc4a-4545-bcd1-b586e94fb337
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Impact on Dynamics GP and Dynamics SL customers
+#  Impact on Dynamics GP and Dynamics SL customers
+
+
+[!include[banner](../../../includes/banner.md)]
 
 All Dynamics GP and Dynamics SL customers are already Dynamics 365 Business
 Central customers on CSP, since all BREP maintenance payments are transitioning

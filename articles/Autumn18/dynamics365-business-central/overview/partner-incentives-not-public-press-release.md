@@ -1,11 +1,11 @@
 ---
 
 title: Partner incentives  not a public press release 
-description: [Description]
+description: Under the unified licensing model, partners will be rewarded based on how close they follow Microsoft cloud strategy and what actions they take with their existing and new customers.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: c86a38f4-9073-462f-ab50-f00b070198ee
+ms.assetid: b801e3ae-9a89-4325-8617-202ad011c783
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Partner incentives (not a public press release)
+#  Partner incentives (not a public press release)
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Under the unified licensing model, partners will be rewarded based on how close
 they follow Microsoft cloud strategy and what actions they take with their

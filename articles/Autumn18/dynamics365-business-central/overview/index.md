@@ -1,11 +1,11 @@
 ---
 
 title: Overview
-description: [Description]
+description: This fall is an important moment for the broader Dynamics SMB partner and customer community.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3b07967b-ee4c-4c68-919f-f1d20c2dbe28
+ms.assetid: 9876d53e-d8ae-405e-9a7d-1088c897896c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Overview
---------
+#  Overview
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 This fall is an important moment for the broader Dynamics SMB partner and
 customer community. All products get unified under the same licensing model, on

@@ -1,11 +1,11 @@
 ---
 
 title: Investments in Fundamentals
-description: [Description]
+description: Investments in Fundamentals
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 955e5d6f-4164-407b-b230-8240220b0252
+ms.assetid: 9fecee1e-cd91-40f7-bf9f-acb9424fcdf0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,9 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Investments in Fundamentals
+#  Investments in Fundamentals
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 >   **Fast Provisioning**: Get started within minutes of signing up for the new
 >   app with fast provisioning and initial data loading after a quick setup

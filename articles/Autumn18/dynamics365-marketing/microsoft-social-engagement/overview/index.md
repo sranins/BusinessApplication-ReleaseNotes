@@ -1,11 +1,11 @@
 ---
 
 title: Overview
-description: [Description]
+description: Overview
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 9df38da1-bd26-42c4-9cf5-6fb73bf53ee2
+ms.assetid: a96b7287-28b7-4f9d-a4ae-5eae53226d47
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Overview
---------
+#  Overview
 
 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 >   Microsoft Social Engagement helps you harness the power of social to achieve
 >   business results. By putting social at the fingertips of sales teams,

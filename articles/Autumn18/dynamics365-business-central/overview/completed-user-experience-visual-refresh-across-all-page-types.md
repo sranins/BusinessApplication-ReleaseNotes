@@ -1,11 +1,11 @@
 ---
 
 title: Completed user experience visual refresh across all page types
-description: [Description]
+description: In the Spring 2018 release, Business Central received a new and refreshed user experience.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 2bfe1e10-c17b-4d71-ad0f-34434191fc85
+ms.assetid: 8ac65713-42af-4fcf-a3c0-eb8c6abc4aab
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Completed user experience visual refresh across all page types 
+#  Completed user experience visual refresh across all page types 
+
+
+[!include[banner](../../../includes/banner.md)]
 
 In the Spring 2018 release, Business Central received a new and refreshed user
 experience. While the refresh was across many major parts of the application,

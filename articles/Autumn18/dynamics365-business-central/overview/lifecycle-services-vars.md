@@ -1,11 +1,11 @@
 ---
 
 title: Lifecycle Services for VARs
-description: [Description]
+description: Lifecycle Services for VARs
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 568046c3-9406-4df9-a328-955be60584dd
+ms.assetid: 262f948d-49e6-4284-99a5-3c7a2e7906b1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Lifecycle Services for VARs
+#  Lifecycle Services for VARs
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Dynamics 365 Business Central VARs receive the ability to build, upload, manage,
 deploy, upgrade and troubleshoot their customizations and ISV add-ons they use

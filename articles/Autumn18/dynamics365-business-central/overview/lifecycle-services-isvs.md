@@ -1,11 +1,11 @@
 ---
 
 title: Lifecycle Services for ISVs
-description: [Description]
+description: Lifecycle Services for ISVs
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: ad3c025a-aee8-4326-8b66-254b4a3a9f58
+ms.assetid: 198a6e38-57c7-485c-a3c4-2ca9bcd94a1c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Lifecycle Services for ISVs
+#  Lifecycle Services for ISVs
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Dynamics 365 Business Central ISVs receive the ability to build, upload, manage,
 deploy, upgrade and troubleshoot their application services and add-ons through

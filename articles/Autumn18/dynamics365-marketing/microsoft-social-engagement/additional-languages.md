@@ -1,11 +1,11 @@
 ---
 
 title: Additional Languages
-description: [Description]
+description: Additional Languages
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: a6905443-935f-4ff1-afa8-3a8f1f86d4f9
+ms.assetid: a24f3596-fda2-425f-836c-04982dcd7ebc
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Additional Languages
---------------------
+#  Additional Languages
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Microsoft Social Engagement is further expanding with listening capabilities
 into new markets by adding the following languages for data acquisition: Bahasa,

@@ -1,11 +1,11 @@
 ---
 
 title: Strategic decision making powered by sales intelligence and analytics
-description: [Description]
+description: Enhance sales performance and improve sales planning with Sales Insights powered by Power BI    The Power BI Sales Insights app takes the sales pipeline analysis to the next level by not only providing deep descriptive details, but also enhancing it with predictive elements that help sales teams take proactive measures to boost sales performance on Dynamics 365 and other sales applications.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 49916fb0-e816-4475-8255-9ce1dccdf714
+ms.assetid: 3fe16045-06ad-4d41-874e-50e580f17748
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Strategic decision making powered by sales intelligence and analytics
----------------------------------------------------------------------
+#  Strategic decision making powered by sales intelligence and analytics
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Enhance sales performance and improve sales planning with Sales Insights powered
 by Power BI

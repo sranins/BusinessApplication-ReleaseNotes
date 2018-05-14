@@ -1,11 +1,11 @@
 ---
 
 title: Taking care of the fundamentals
-description: [Description]
+description: Taking care of the fundamentals
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 0b6e80cb-6c7d-4250-a2da-2e807067c43e
+ms.assetid: d1a51291-3486-4867-a11e-cea440aea889
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-**Taking care of the fundamentals**
------------------------------------
+#  **Taking care of the fundamentals**
+
+
+[!include[banner](../../includes/banner.md)]
 
 Microsoft announced that Dynamics 365 for Talent has been certified for ISO
 (27001, 20017 and 27018)  and SOC 2. ISO and SOC compliance guarantees that

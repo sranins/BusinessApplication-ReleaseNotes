@@ -1,11 +1,11 @@
 ---
 
 title: New app for Brand Monitoring
-description: [Description]
+description: Social media has become an intrinsic part of the Brand Management function of every successful marketing organization.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 5f36e908-0927-4160-9dd7-f0d2146dc5b4
+ms.assetid: 91cd6fc6-df55-4db6-9541-207b8548a22c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-New app for Brand Monitoring
-----------------------------
+#  New app for Brand Monitoring
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Social media has become an intrinsic part of the Brand Management function of
 every successful marketing organization. Monitoring, measuring, and managing how

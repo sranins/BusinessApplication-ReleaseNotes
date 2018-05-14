@@ -1,11 +1,11 @@
 ---
 
 title: Social Listening for your campaigns
-description: [Description]
+description: Modern Marketing relies on signals from social media for a tighter customer engagement.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: c38180ff-7a2d-4bd8-894c-4a926faacd8b
+ms.assetid: dc1132a0-048c-433d-bab8-9487f076c2e6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Social Listening for your campaigns
------------------------------------
+#  Social Listening for your campaigns
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Modern Marketing relies on signals from social media for a tighter customer
 engagement. Dynamics 365 for Marketing provides social, in-context engagement

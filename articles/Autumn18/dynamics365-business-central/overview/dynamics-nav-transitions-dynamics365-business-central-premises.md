@@ -1,11 +1,11 @@
 ---
 
 title: Dynamics NAV transitions to Dynamics 365 Business Central on-premises
-description: [Description]
+description: Since Dynamics NAV and Dynamics 365 Business Central share the same code base, the transition for customers running Dynamics NAV to Dynamics 365 Business Central is as seamless as just another Dynamics NAV upgrade.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 99065916-beb6-4347-8659-8bde0d9ebe7c
+ms.assetid: ff613fa8-d391-4aab-b39c-57772097415f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Dynamics NAV transitions to Dynamics 365 Business Central on-premises
+#  Dynamics NAV transitions to Dynamics 365 Business Central on-premises
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Since Dynamics NAV and Dynamics 365 Business Central share the same code base,
 the transition for customers running Dynamics NAV to Dynamics 365 Business

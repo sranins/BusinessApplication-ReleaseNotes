@@ -1,11 +1,11 @@
 ---
 
 title: Microsoft Expands Dynamics 365 for Retail to deliver Unified Commerce
-description: [Description]
+description: Microsoft Expands Dynamics 365 for Retail to deliver Unified Commerce
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 823691f8-93e8-4871-bc2c-d4246db7d821
+ms.assetid: 4f83b54b-2f08-402b-ae1e-e23d0b281738
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Microsoft Expands Dynamics 365 for Retail to deliver Unified Commerce 
-----------------------------------------------------------------------
+#  Microsoft Expands Dynamics 365 for Retail to deliver Unified Commerce 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Comprehensive update of its cloud service that enable retailers to optimize
 their operations while enhancing engagement with consumers in stores, call

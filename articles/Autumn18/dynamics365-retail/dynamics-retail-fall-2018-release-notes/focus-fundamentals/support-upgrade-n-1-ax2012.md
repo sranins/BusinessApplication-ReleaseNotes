@@ -1,11 +1,11 @@
 ---
 
 title: Support for Upgrade and N-1  AX2012  
-description: [Description]
+description: Support for Upgrade and N-1  AX2012  
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 5fdebb80-1b0e-441e-beec-059a2aae141f
+ms.assetid: 7e860b4b-c933-4fbc-97f4-0bbec07c0fe8
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Support for Upgrade and N-1 (AX2012): 
+#  Support for Upgrade and N-1 (AX2012): 
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Existing Dynamics AX2012 retailers can now upgrade their back-office
 headquarters components to the latest Dynamics 365 for Retail, while allowing

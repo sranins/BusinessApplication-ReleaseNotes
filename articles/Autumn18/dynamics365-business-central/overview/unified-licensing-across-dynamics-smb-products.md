@@ -1,11 +1,11 @@
 ---
 
 title: Unified licensing across Dynamics SMB products
-description: [Description]
+description: Unified licensing across Dynamics SMB products
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 5e3424b4-cfca-4f64-9eb2-4359b399ed39
+ms.assetid: c795abf8-493e-4b24-968e-d10f4b02e360
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Unified licensing across Dynamics SMB products
+#  Unified licensing across Dynamics SMB products
+
+
+[!include[banner](../../../includes/banner.md)]
 
 All license payments that are handled today through DPL (Dynamics Price List)
 will be transitioning to Cloud Solution Provider (CSP) licensing system.

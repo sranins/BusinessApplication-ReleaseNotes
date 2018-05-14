@@ -1,11 +1,11 @@
 ---
 
 title: Autumn 2018 Quick Summary for Microsoft Social Engagement
-description: [Description]
+description: Autumn 2018 Quick Summary for Microsoft Social Engagement
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 1e1c93c9-76bc-453f-aed8-0d8dac15a6ef
+ms.assetid: ad9424f4-23b1-40c8-b514-62318b6c463a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Autumn 2018 Quick Summary for Microsoft Social Engagement
----------------------------------------------------------
+#  Autumn 2018 Quick Summary for Microsoft Social Engagement
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 | July 2018 | **Private Preview**                       |
 |-----------|-------------------------------------------|

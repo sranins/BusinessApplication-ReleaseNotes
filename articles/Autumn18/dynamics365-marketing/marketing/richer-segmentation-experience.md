@@ -1,11 +1,11 @@
 ---
 
 title: Richer segmentation experience
-description: [Description]
+description: Marketers need to build complex segments in their daily work in an efficient and intuitive way.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: b9ab5d60-6267-4179-87d6-7663be3b3d25
+ms.assetid: cf14de60-d36d-475b-a9b2-fcb0353c655a
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Richer segmentation experience
-------------------------------
+#  Richer segmentation experience
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Marketers need to build complex segments in their daily work in an efficient and
 intuitive way. A host of additional, business-centric operators are added in

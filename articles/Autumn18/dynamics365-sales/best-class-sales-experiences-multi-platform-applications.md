@@ -1,11 +1,11 @@
 ---
 
 title: Best in class sales experiences with multi-platform applications
-description: [Description]
+description: Transforming the Inside Sales and Service call center productivity with Artificial Intelligence on Dynamics 365 and other sales applications    The Microsoft Call Intelligence for Sales app enables smart summarization of calls, empowers better sales coaching, and boosts sales conversion rates.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 890a1f5f-3b4e-4ac8-911a-03e5129f3e51
+ms.assetid: 8edae2c8-cf75-454a-990d-770e3b348660
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Best in class sales experiences with multi-platform applications
-----------------------------------------------------------------
+#  Best in class sales experiences with multi-platform applications
+
+
+[!include[banner](../../includes/banner.md)]
 
 Transforming the Inside Sales and Service call center productivity with
 Artificial Intelligence on Dynamics 365 and other sales applications

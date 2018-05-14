@@ -1,11 +1,11 @@
 ---
 
 title: Focus on Fundamentals
-description: [Description]
+description: Focus on Fundamentals
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 6df34582-1f82-43b8-8492-339c34232295
+ms.assetid: e9f2b293-4985-4c8d-867a-9bdd316c77f0
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Focus on Fundamentals
+#  Focus on Fundamentals
+
+
+[!include[banner](../../../includes/banner.md)]
 
 Usability & Productivity: Business users will experience increased performance
 while scrolling through grids. This functionality is key for organizations with

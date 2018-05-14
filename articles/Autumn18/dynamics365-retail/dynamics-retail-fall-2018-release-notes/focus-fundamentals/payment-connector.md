@@ -1,11 +1,11 @@
 ---
 
 title: Payment connector 
-description: [Description]
+description: Payment connector 
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 09fa6c6f-96bf-44f4-8724-dc80be72a761
+ms.assetid: 55687aa5-42e5-4163-bbcc-04bb10017653
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Payment connector:
+#  Payment connector:
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 A new omni-channel “out of the box” payment connector to Adyen Payment Services
 is available providing credit/debit (EMV) “card-present” payment processing for

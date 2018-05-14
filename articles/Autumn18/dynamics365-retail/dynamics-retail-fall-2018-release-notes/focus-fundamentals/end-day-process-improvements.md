@@ -1,11 +1,11 @@
 ---
 
 title: End of day process improvements 
-description: [Description]
+description: Statement calculation and posting has been improved, increasing the overall user experience, performance and reliability of the automated batch processes.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 3468fe69-7381-4517-9b95-c4e0445e12d9
+ms.assetid: e92409dd-3210-4415-9cd2-1e3e98a59ac7
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### End of day process improvements: 
+#  End of day process improvements: 
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 Statement calculation and posting has been improved, increasing the overall user
 experience, performance and reliability of the automated batch processes. User

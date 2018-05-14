@@ -1,11 +1,11 @@
 ---
 
 title: Fall  18 Quick Summary for Talent
-description: [Description]
+description: Fall  18 Quick Summary for Talent
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: ca0eb1dd-7d0f-49c0-82c3-b0888520d884
+ms.assetid: 4bff38ef-56b8-420c-ab49-37e9a9a3777f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-Fall ’18 Quick Summary for Talent
----------------------------------
+#  Fall ’18 Quick Summary for Talent
+
+
+[!include[banner](../../includes/banner.md)]
 
 **Attract**
 

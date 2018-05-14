@@ -1,11 +1,11 @@
 ---
 
 title: Microsoft Dynamics 365 for Talent modernizes candidate and employee experiences
-description: [Description]
+description: Microsoft Dynamics 365 for Talent modernizes candidate and employee experiences
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: b4f717ea-a399-4cbf-97bb-5a67f7c97909
+ms.assetid: 0801a891-41e3-4eef-96a8-5ece41274fb6
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-**Microsoft Dynamics 365 for Talent modernizes candidate and employee experiences**
-===================================================================================
+#  **Microsoft Dynamics 365 for Talent modernizes candidate and employee experiences**
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 *Microsoft doubles-down on candidate and employee experience innovations by
 expanding Dynamics 365 for Talent and creating rich integration opportunities

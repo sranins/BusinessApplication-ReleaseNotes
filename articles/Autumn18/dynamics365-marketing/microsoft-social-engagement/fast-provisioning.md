@@ -1,11 +1,11 @@
 ---
 
 title: Fast Provisioning
-description: [Description]
+description: Reducing the time to get access to and get started with our new app for Brand Monitoring is critical to provide immediate value for our customers.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 0348bb07-9d59-457f-8721-057d708ecb91
+ms.assetid: 82ea61a9-1c42-4beb-b358-ecd79d8a6a2c
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,10 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Fast Provisioning
------------------
+#  Fast Provisioning
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 Reducing the time to get access to and get started with our new app for Brand
 Monitoring is critical to provide immediate value for our customers. Setting up

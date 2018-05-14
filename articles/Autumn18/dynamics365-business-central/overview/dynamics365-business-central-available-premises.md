@@ -1,11 +1,11 @@
 ---
 
 title: Dynamics 365 Business Central available on premises
-description: [Description]
+description: While Business Central is a cloud-first service, customers that need to run their workloads on premises or on the intelligent edge connected to the cloud can do so.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 4e6226df-cd88-4b04-9237-ce4992e799a7
+ms.assetid: 39358e64-b175-4d2e-91e8-8289914440b3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Dynamics 365 Business Central available on premises
+#  Dynamics 365 Business Central available on premises
+
+
+[!include[banner](../../../includes/banner.md)]
 
 While Business Central is a cloud-first service, customers that need to run
 their workloads on premises or on the intelligent edge connected to the cloud

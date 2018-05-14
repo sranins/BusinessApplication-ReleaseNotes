@@ -1,11 +1,11 @@
 ---
 
 title: Enhanced In-store shift management 
-description: [Description]
+description: In-store shift and cash management has been improved both from a reliability standpoint as well as functional capabilities.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: 812f646c-9d3b-4e40-bcdf-f8c8aec176ce
+ms.assetid: 3bb79f0a-2b28-43a1-9ffc-d5161bcaa232
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Enhanced In-store shift management:
+#  Enhanced In-store shift management:
+
+
+[!include[banner](../../../../includes/banner.md)]
 
 In-store shift and cash management has been improved both from a reliability
 standpoint as well as functional capabilities. Additional validation and

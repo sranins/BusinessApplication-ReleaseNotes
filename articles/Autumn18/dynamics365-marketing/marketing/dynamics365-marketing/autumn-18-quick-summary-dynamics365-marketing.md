@@ -1,11 +1,11 @@
 ---
 
 title: Autumn  18 Quick Summary for Dynamics 365 for Marketing
-description: [Description]
+description: Autumn  18 Quick Summary for Dynamics 365 for Marketing
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
-ms.assetid: fe6830af-062b-4703-bc73-49b62ebf0f00
+ms.assetid: 1ee31b47-5d78-4357-a376-32118e77bb8e
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,7 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Autumn ’18 Quick Summary for Dynamics 365 for Marketing
+#  Autumn ’18 Quick Summary for Dynamics 365 for Marketing
+
+
+[!include[banner](../../../includes/banner.md)]
 
 | Oct ’18 | **General Availability**             |
 |---------|--------------------------------------|
