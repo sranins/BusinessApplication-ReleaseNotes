@@ -1,3 +1,4 @@
+# [What's new in Business Applications](../index.md)
 ## [Autumn '18 ](index.md)
 ### Azure App Service Platform
 #### [Azure App Service platform continues to expand to meet customer demands](azure-app-service-platform/azure-app-service-platform-continues-expand-meet-customer-demands.md)
