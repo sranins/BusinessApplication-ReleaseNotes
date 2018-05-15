@@ -36,7 +36,7 @@ Once in the analytics experience, users can click on the **Errors** tab to see t
 
 **Note:** It may take up to 1.5 hours for run-time data to be loaded into our analytics experience. If instant run execution data is required, please see run details for a specific flow.
 
-If you discover a discrepancy between the number of errors on your **Usage** tab compared to your **Errors **tab, there may be a valid reason for this including:
+If you discover a discrepancy between the number of errors on your **Usage** tab compared to your **Errors** tab, there may be a valid reason for this including:
 
 - If a trigger fails, you will not see it count as part of your usage as it does not represent a flow that has been successfully initiated. But, technically it is an error, so we will report it on our Errors tab.
 - A flow may have multiple errors that exist within a single flow execution. For example, you may have a loop that contains multiple action(s) that have failed as part of that run instance.
