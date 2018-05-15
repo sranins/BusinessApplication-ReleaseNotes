@@ -34,14 +34,21 @@ audience: Admin
 - [Test flows with previous run data](test-flows-previous-run-data.md) - Test your flow with trigger data from previous flow runs by using a Test flow button in the designer.
 - [Access flow details with the workflow() expression](access-flow-details-workflow-expression.md) - Access the environment name and flow display name with the workflow() expression.
 
+## May ’18 - General Availability
+
+- [Build and run flows from Excel](build-run-flows-excel.md) - With the new Flow button (accessed from the ribbon’s Data tab), you can create and trigger automations from Flow on your table data in Excel. Automate data processing or the copying/importing of data.
+- [Flows “owned by” SharePoint lists and libraries](sharepoint-lists-libraries.md) - Flows that work with SharePoint lists (and libraries) can be shared with those lists, so instead of being shared with individuals or groups, they’re shared with everyone who has access to the list. As membership of the list or library changes, users are automatically given access to the flow.
+- [GDPR compliance](gdpr-compliance.md) - To support the EU's General Data Protection Regulation (GDPR), administrators can now submit a request to export or delete all of the data about Flow users.
+- [Error details analytics](error-details-analytics.md) - A new embedded report that provides information about all of the errors that happen inside a flow.
+- [Share flows with Office 365 groups](share-with-o365-groups.md) - You can make an Office 365 modern group the owner of a flow, and you can shared button flows with Office 365 groups so anyone in the group can run the flow.
+- [SharePoint item deleted triggers](item-deleted-trigger.md) - Create flows that run when an item in a SharePoint list, or a file in a SharePoint document library, is deleted.
+
+
 ## May – July ’18 - General Availability
 
-- [Repair recommendations sent in email for failed flows](repair-recommendations-sent-email-failed-flows.md) - If a flow fails, have detailed repair recommendations sent right to your inbox. These step-by-step recommendations are linked directly to the information you need to fix the most common failures.
 - [Request for sign-off flow built into SharePoint](request-sign-off-flow-built-into-sharepoint.md) - When you select a file or item in SharePoint, you’ll see a new Request for sign-off flow. This flow, which doesn't require any configuration or setup, sends a sign-off request with a single click.
+- [Repair recommendations sent in email for failed flows](repair-recommendations-sent-email-failed-flows.md) - If a flow fails, have detailed repair recommendations sent right to your inbox. These step-by-step recommendations are linked directly to the information you need to fix the most common failures.
 - [Customize SharePoint content approvals with Flow](customize-sharepoint-content-approvals-flow.md) - For SharePoint page libraries, site administrators can take advantage of Flow for content approval workflows.
-- [Flows “owned by” SharePoint lists and libraries](sharepoint-lists-libraries.md) - Flows that work with SharePoint lists (and libraries) can be shared with those lists, so instead of being shared with individuals or groups, they’re shared with everyone who has access to the list. As membership of the list or library changes, users are automatically given access to the flow.
-- [Build and run flows from Excel](build-run-flows-excel.md) - With the new Flow button (accessed from the ribbon’s Data tab), you can create and trigger automations from Flow on your table data in Excel. Automate data processing or the copying/importing of data.
-- [GDPR compliance](gdpr-compliance.md) - To support the EU's General Data Protection Regulation (GDPR), administrators can now submit a request to export or delete all of the data about Flow users.
 - [Create a business process flow](create-business-process-flow.md) - A business process flow is a new type of stateful, human-interactive flow based on the Common Data Service for Apps. Use these new flows to define a set of stages and steps for people to follow. They can move forward and backward as needed.
 - [Business process flow entity customization](business-process-flow-entity-customization.md) - Business process flow entities can appear in the system, so that entity record data can be made available in grids, views, charts, and dashboards.
 - [Add an action to a business process flow](add-action-business-process-flow.md) - In a business process flow, add a button that triggers an action or workflow that runs processes on your data.

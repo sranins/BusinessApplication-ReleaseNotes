@@ -288,6 +288,9 @@
 ### [Add multiple records to array inputs](Spring18/microsoft-flow/add-multiple-records-array-inputs.md)
 ### [Test flows with previous run data](Spring18/microsoft-flow/test-flows-previous-run-data.md)
 ### [Access flow details with the workflow() expression](Spring18/microsoft-flow/access-flow-details-workflow-expression.md)
+### [Error details analytics](Spring19/microsoft-flow/error-details-analytics.md)
+### [Share flows with Office 365 groups](share-with-o365-groups.md)
+### [SharePoint item deleted trigger](Spring19/microsoft-flow/item-deleted-trigger.md) -
 
 ## [Power BI](Spring18/power-bi/overview.md)
 ### [Summary of what’s new](Spring18/power-bi/whats-new-business-intelligence-platform.md)
