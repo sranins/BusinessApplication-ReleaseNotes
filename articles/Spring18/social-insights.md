@@ -15,8 +15,6 @@ audience: admin, end user, customizer
 
 # Social Insights from Social Engagement
 
-[!include[banner](includes/banner.md)]
-
 In Dynamics 365, you can get powerful social insights by connecting Dynamics 365 to Social Engagement. Social Engagement puts social media at the fingertips of your sales teams, customer service agents, and everyone across the organization. The easy-to-understand widgets provide insights and help you understand what your customers or prospects are saying about your products, brands, and services. 
 
 ## Business value
