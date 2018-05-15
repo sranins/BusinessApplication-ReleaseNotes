@@ -4,7 +4,7 @@ title: Spring '18 summary of what's new in Microsoft Flow
 description: Spring '18 summary of what's new in Microsoft Flow
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 05/15/2018
 ms.assetid: fc651c83-5c2b-4b82-88ca-bbce76481431
 ms.topic: article
 ms.prod: 
@@ -15,7 +15,6 @@ audience: Admin
 
 ---
 # Spring ’18 summary of what’s new in Microsoft Flow
-
 
 
 
@@ -41,7 +40,7 @@ audience: Admin
 - [GDPR compliance](gdpr-compliance.md) - To support the EU's General Data Protection Regulation (GDPR), administrators can now submit a request to export or delete all of the data about Flow users.
 - [Error details analytics](error-details-analytics.md) - A new embedded report that provides information about all of the errors that happen inside a flow.
 - [Share flows with Office 365 groups](share-with-o365-groups.md) - You can make an Office 365 modern group the owner of a flow, and you can shared button flows with Office 365 groups so anyone in the group can run the flow.
-- [SharePoint item deleted triggers](item-deleted-trigger.md) - Create flows that run when an item in a SharePoint list, or a file in a SharePoint document library, is deleted.
+- [SharePoint connector improvements](sharepoint-connector-improvements.md) - There are two new SharePoint connector capabilities- trigger flows when items or files are deleted, and call any HTTP endpoint the SharePoint REST API supports.
 
 
 ## May – July ’18 - General Availability

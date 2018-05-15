@@ -4,7 +4,7 @@ title: Error details analytics
 description: A new embedded report that provides information about all of the errors that happen inside a flow. 
 author: MargoC
 manager: AnnBe
-ms.date: 05/12/2018
+ms.date: 05/15/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,6 +14,9 @@ audience: Admin
 
 ---
 #  Error details analytics 
+
+
+[!include[banner](../../includes/banner.md)]
 
 In December, we [announced](https://flow.microsoft.com/blog/announcing-microsoft-flow-analytics/) Microsoft Flow Analytics where we provided flow makers with the ability to visualize their run history. Starting today, we are rolling out updates to our maker analytics experience to include **Error Details**. These analytics will help users quickly identify the source and magnitude of errors they may be encountering and aid in the prompt resolution of these errors.
 
