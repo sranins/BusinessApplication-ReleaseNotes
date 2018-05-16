@@ -106,8 +106,9 @@
 ### [Lead management](Spring18/dynamics365-marketing/lead-management.md)
 ### [Embedded marketing insights](Spring18/dynamics365-marketing/embedded-marketing-insights.md)
 
-### [Microsoft Social Engagement](Spring18/microsoft-social-engagement/overview.md)
-#### [Summary of what’s new](Spring18/microsoft-social-engagement/whats-new-social-engagement.md)
+## [Social Engagement](Spring18/microsoft-social-engagement/overview.md)
+### [Summary of what’s new](Spring18/microsoft-social-engagement/whats-new-social-engagement.md)
+### [Social Insights from Social Engagement](Spring18/microsoft-social-engagement/social-insights.md)
 
 ## [Finance and Operations](Spring18/dynamics365-finance-operations/index.md)
 ### [Summary of what’s new](Spring18/dynamics365-finance-operations/whats-new-finance-operations.md)
