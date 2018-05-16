@@ -18,6 +18,16 @@ audience: Admin
 
 This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
+## Changes in Spring ’18 Release Notes version 18.1.3, published June 1, 2018
+
+### Power BI Service				
+
+Release date changed: 
+-   [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md) moved from April '18 Public Preview to June '18 Public Preview
+-   [Smart alerts](power-bi/service/smart-alerts.md) moved from June '18 General Availability to July-September '18 Public Preview
+-   Workspace search moved from June '18 Public Preview to July-September '18 Public Preview
+-   [SSRS reports for Power BI Premium](power-bi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md) moved from June '18 Public Preview to July-September '18 Public Preview
+
 ## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
 
 ### Intro                          

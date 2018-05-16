@@ -141,7 +141,7 @@ audience: Admin
 
 - [Data source setup improvements](service/data-source-setup-improvements.md) - Easily configure gateways and diagnose common errors.
 - [Organizational visuals store](desktop/sap-business-warehouse-bw-connector.md) - Discover and import custom visuals from the Power BI admin.
-- Administrator tenant usage reporting - Admins gain insights into workspace, report, and dataset usage across the tenant, including number of users and frequency of use.
+- Administrator tenant usage reporting - APIs to allow admins gain insights into workspace, report, and dataset artifacts across the tenant.
 
 ### [Power BI Mobile](overview.md)
 
@@ -157,11 +157,7 @@ audience: Admin
 - [Visual level configuration](embedded/visual-level-configuration.md) - Control which visual functions, such as focus mode and export data, are exposed to users.
 - [Azure diagnostics](embedded/azure-diagnostics.md) - Use error logging for analysis and tracking.
 
-## April ’18 - Public Preview
 
-### [Power BI Service](desktop/filtering-data-view.md)
-
-- [Workspaces with Azure AD groups](service/workspaces-azure-ad-groups.md) - Workspaces have their own roles and permissions separate from Office 365 groups to enable more control over management of workspaces, including assigning workspace roles to individual users. The preview is available for customers with Power BI deployments that meet certain criteria. Contact your Microsoft account representative to learn more about how you can participate.
 
 ## May ’18 - General Availability
 
@@ -188,7 +184,7 @@ audience: Admin
 - Multiple-geographic regions for Power BI Premium - Create Premium capacities in geographic locations that are different from the Power BI tenant to achieve compliance requirements.
 - [Set up email subscriptions for other users](service/subscribe-other-users-email.md).
 - [XMLA connectivity with Analysis Services](service/xmla-connectivity-analysis-services.md) - Treat Power BI Premium workspaces like Analysis Services servers and connect to them with existing tools.
-- [Smart alerts](service/smart-alerts.md) - Users receive automatic alerts when there are important changes to data.
+
 
 ### [Power BI Mobile](overview.md)
 
@@ -205,8 +201,7 @@ audience: Admin
 
 ### [Power BI Service](desktop/filtering-data-view.md)
 
-- Workspace search - Search for and find content across all the workspaces that you have access to.
-- [SSRS reports for Power BI Premium](service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md) - Publish and view SQL Server Reporting Services (SSRS) reports in Power BI Premium.
+- [Workspaces with Azure AD groups](service/workspaces-azure-ad-groups.md) - Workspaces have their own roles and permissions separate from Office 365 groups to enable more control over management of workspaces, including assigning workspace roles to individual users. The preview is available for customers with Power BI deployments that meet certain criteria. Contact your Microsoft account representative to learn more about how you can participate.
 
 ## July – September ’18 - General Availability
 
@@ -224,7 +219,13 @@ audience: Admin
 
 ### [Power BI Service](desktop/filtering-data-view.md)
 
+- [Smart alerts](service/smart-alerts.md) - Users receive automatic alerts when there are important changes to data.
+
 - [Query acceleration for large datasets](service/query-acceleration-large-datasets.md) - Dataset authors create in-memory aggregations to enable interactive queries over big data.
+
+- Workspace search - Search for and find content across all the workspaces that you have access to.
+
+- [SSRS reports for Power BI Premium](service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md) - Publish and view SQL Server Reporting Services (SSRS) reports in Power BI Premium.
 
 ### [Common Data Service for Analytics in Power BI](../common-data-service-analytics/index.md)
 
