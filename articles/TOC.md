@@ -107,7 +107,7 @@
 ### [Embedded marketing insights](Spring18/dynamics365-marketing/embedded-marketing-insights.md)
 
 ## [Social Engagement](Spring18/microsoft-social-engagement/overview.md)
-### [Summary of what’s new](Spring18/microsoft-social-engagement/whats-new-social-engagement.md)
+### [Compliance and accessibility enhancements](Spring18/microsoft-social-engagement/compliance-accessibility-enhancements.md)
 ### [Social Insights from Social Engagement](Spring18/microsoft-social-engagement/social-insights.md)
 
 ## [Finance and Operations](Spring18/dynamics365-finance-operations/index.md)
