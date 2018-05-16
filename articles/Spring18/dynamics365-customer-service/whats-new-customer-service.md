@@ -34,7 +34,7 @@ audience: Admin
 
 ### Unified Service Desk
 
-- [Best practice analyzer](unified-service-desk-enhancements.md) – Developer tool for identifying defects in customizations or extensions.
+- [Best practice analyzer](best-practice-analyzer-unified-service-desk.md) – Developer tool for identifying defects in customizations or extensions.
 
 ## April ’18 – Public Preview
 

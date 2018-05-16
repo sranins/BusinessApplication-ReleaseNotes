@@ -1,7 +1,4 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
-  items:
-  - name: Business Applications Release Notes
-    tocHref: /BusinessApplication-ReleaseNotes 
-    topicHref: /articles/index.md 
+- name: Business Applications Release Notes
+  tocHref:  /business-applications-release-notes/ 
+  topicHref:  /business-applications-release-notes/index 
+
