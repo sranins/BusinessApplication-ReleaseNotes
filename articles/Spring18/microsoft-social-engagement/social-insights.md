@@ -15,7 +15,7 @@ audience: admin, end user, customizer
 
 # Social Insights from Social Engagement
 
-Beginning in June 2018, the Social Insights control from Microsoft Social Engagement enables you to bring social media data directly into Dynamics 365 dashboards and entity forms. The easy-to-understand widgets provide insights and help you understand what your customers or prospects are saying about your products, brands, and services. Work with the Social Insights controls to specify what social data you want to see and in what form you want this data to be presented to you. It can be a graph or chart, or some other visual representation of data. You can find a lot of interesting, useful, and easy-to-follow information.
+In June 2018, the visually refreshed Social Insights control from Microsoft Social Engagement enables you to bring social media data directly into Dynamics 365 dashboards and entity forms. The easy-to-understand widgets provide insights and help you understand what your customers or prospects are saying about your products, brands, and services. Work with the Social Insights controls to specify what social data you want to see and in what form you want this data to be presented to you. It can be a graph or chart, or some other visual representation of data. You can find a lot of interesting, useful, and easy-to-follow information.
 
 In Dynamics 365, you can get powerful insights into social media data by connecting Dynamics 365 to Social Engagement. Social Engagement puts social media at the fingertips of your sales teams, customer service agents, and everyone across the organization. 
 
