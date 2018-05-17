@@ -43,7 +43,7 @@ audience: Admin
 - [SharePoint connector improvements](sharepoint-connector-improvements.md) - There are two new SharePoint connector capabilities: trigger flows when items or files are deleted and call any HTTP endpoint that the SharePoint REST API supports.
 
 
-## May – July ’18 - General Availability
+## June – July ’18 - General Availability
 
 - [Request for sign-off flow built into SharePoint](request-sign-off-flow-built-into-sharepoint.md) - When you select a file or item in SharePoint, you’ll see a new **Request for sign-off** flow. This flow doesn't require any configuration or setup, and sends a sign-off request with a single click.
 - [Repair recommendations sent in email for failed flows](repair-recommendations-sent-email-failed-flows.md) - If a flow fails, detailed repair recommendations can be sent to your inbox. These step-by-step recommendations are linked directly to the information you need to fix the most common failures.
