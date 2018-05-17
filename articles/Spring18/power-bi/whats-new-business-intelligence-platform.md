@@ -141,7 +141,7 @@ audience: Admin
 
 - [Data source setup improvements](service/data-source-setup-improvements.md) - Easily configure gateways and diagnose common errors.
 - [Organizational visuals store](desktop/sap-business-warehouse-bw-connector.md) - Discover and import custom visuals from the Power BI admin.
-- Administrator tenant usage reporting - APIs to allow admins to gain insights into workspace, report, and dataset artifacts across the tenant.
+- Administrator tenant usage reporting - APIs allow admins to gain insights into workspace, report, and dataset artifacts across the tenant.
 
 ### [Power BI Mobile](overview.md)
 
