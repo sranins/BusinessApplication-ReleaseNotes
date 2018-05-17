@@ -26,7 +26,7 @@ In this release of Microsoft Flow Analytics, we are providing the ability to vie
 - Distribution of errors by type
 - Error details table
 
-Users can access Microsoft Flow Analytics by clicking on **See analytics **link from a flow&rsquo;s main page.
+Users can access Microsoft Flow Analytics by clicking on **See analytics** link from a flow&rsquo;s main page.
 
 ![Flow See Analytics](media/error-details-analytics-chart.png)
 
@@ -34,7 +34,8 @@ Once in the analytics experience, users can click on the **Errors** tab to see t
 
 ![Analytics Error Details](media/error-details-analytics-entry.png)
 
-**Note:** It may take up to 1.5 hours for run-time data to be loaded into our analytics experience. If instant run execution data is required, please see run details for a specific flow.
+> [!NOTE]
+> It may take up to 1.5 hours for run-time data to be loaded into our analytics experience. If instant run execution data is required, see run details for a specific flow.
 
 If you discover a discrepancy between the number of errors on your **Usage** tab compared to your **Errors** tab, there may be a valid reason for this including:
 
@@ -42,4 +43,4 @@ If you discover a discrepancy between the number of errors on your **Usage** tab
 - A flow may have multiple errors that exist within a single flow execution. For example, you may have a loop that contains multiple action(s) that have failed as part of that run instance.
 - Within a flow, a maker can **Configure run after **settings, which allows a flow to continue executing when an action has failed.
 
-Accessing Microsoft Flow Analytics requires a Flow Plan 2 license. If you do not see the **See analytics** link, appearing in the maker portal, that means that you do not meet the minimum licensing requirements. For more details about Flow licensing, including signing up for a free Flow Plan 2 trial license, please visit our [licensing page](https://flow.microsoft.com/pricing/).
+Accessing Microsoft Flow Analytics requires a Flow Plan 2 license. If you do not see the **See analytics** link, appearing in the maker portal, it means that you do not meet the minimum licensing requirements. For more details about Flow licensing, including signing up for a free Flow Plan 2 trial license, please visit our [licensing page](https://flow.microsoft.com/pricing/).

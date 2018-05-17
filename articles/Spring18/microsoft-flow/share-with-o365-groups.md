@@ -18,7 +18,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-Currently Flow enables you to share flows with your colleagues either by adding them as co-owners or (for manual flows only) run-only users. As co-owners, they have full edit permissions for the flow. As run-only users of manual flows, they can only run the flow. Previously, you could only add other individuals in your tenant or security groups. Now, we are enhancing these capabilities by allowing you to share all flows with Office 365 Groups. 
+Currently, Flow enables you to share flows with your colleagues either by adding them as co-owners or run-only users (for manual flows only). As co-owners, they have full edit permissions for the flow. As run-only users of manual flows, they can only run the flow. Previously, you could only add other individuals in your tenant or security groups. Now, we are enhancing these capabilities by allowing you to share all flows with Office 365 Groups. 
 
 Suppose you have a flow that you want to share with an Office 365 Group called CRONUS Energy. From the Flow details screen, you can choose to “Add another owner” and simply enter the name or email address of the O365 Group. 
 

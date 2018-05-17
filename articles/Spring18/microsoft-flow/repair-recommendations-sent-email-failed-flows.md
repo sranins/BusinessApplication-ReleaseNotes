@@ -17,8 +17,6 @@ audience: Admin
 #  Repair recommendations sent in email for failed flows
 
 
-
-
 [!include[banner](../../includes/banner.md)]
 
 Enable email notifications to detect flow failures. To enable this feature, go
@@ -38,7 +36,7 @@ These useful email notifications provide:
 <!-- Picture 20 -->
 
 
-*Flow repair email*
+## Flow repair email
 
 If you don’t want to receive emails but want to read about remediation steps and
 related resources, access them from the Run History view in the Flow portal.

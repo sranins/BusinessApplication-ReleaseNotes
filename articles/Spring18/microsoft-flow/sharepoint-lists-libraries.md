@@ -1,7 +1,7 @@
 ---
 
 title: Flows owned by SharePoint lists and libraries
-description: Flows that work with SharePoint lists (and libraries) can be shared with those lists, so instead of being shared with individuals or groups, they’re shared with everyone who has access to the list. As membership of the list or library changes, users are automatically given access to the flow.
+description: Flows that work with SharePoint lists and libraries can be shared with those lists, so instead of being shared with individuals or groups, they’re shared with everyone who has access to the list.
 author: MargoC
 manager: AnnBe
 ms.date: 05/15/2018
