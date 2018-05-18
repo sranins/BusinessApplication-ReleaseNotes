@@ -70,9 +70,7 @@ audience: Admin
 ### Servicing, performance, and deployment
 
 - [Improved delivery of platform and financial reporting updates](customer-payment-insights-preview.md) - Enhancements to how software updates are provided, to improve deployment time and the reliability of servicing.
-- [Upgrade automation](upgrade-automation.md) - Upgrade automation makes major version upgrades a self-service operation for the customer, using LCS for non-production environments.
 - [Service hardening](service-hardening.md) - Added service monitoring and alerting for core business processes, and improved form load performance of the most commonly used forms.
-- [Lifecycle Services sandbox self-service automation and RDP lockdown](lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md).
 - [On-premises deployment updates](on-premises-deployment-updates.md).
 
 ### Compliance
@@ -107,10 +105,11 @@ audience: Admin
 
 
 ## July ’18 – General Availability
-
+- [Lifecycle Services sandbox self-service automation and RDP lockdown](lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md).
+- Dynamics 365 for Finance and Operations 8.0 with Platform Update 16 on-premises is available.
 
 ## July ’18 – Preview
-
+- [Upgrade automation](upgrade-automation.md) - Upgrade automation makes application upgrades a self-service operation for the customer, using LCS for non-production environments.
 
 ## August ’18 – General Availability
 
