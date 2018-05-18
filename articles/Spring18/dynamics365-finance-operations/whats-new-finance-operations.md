@@ -36,7 +36,7 @@ audience: Admin
 
 ### Extensibility and customization
 
-- [Customizations through extensions only](one-voucher-deprecation.md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
+- [Customizations through extensions only](customizations-extensions-only.md .md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
 - [Extensibility requests](extensibility-requests.md) - Customers can submit a request to Microsoft for extension support to be added to the product for a needed scenario. The Spring '18 release enhances this feature by moving it to Lifecycle Services.
 - [Embedding PowerApps in workspaces and forms](embedding-powerapps-workspaces-forms.md) - Use PowerApps to embed data from external sources into Finance and Operations data.
 - [Custom fields](custom-fields.md) - Organizations can add custom fields to tailor their application to their business requirements, using a no-code extensibility experience.
