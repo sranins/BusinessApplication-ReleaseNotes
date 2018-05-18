@@ -10,7 +10,7 @@ ms.topic: hub-page
 <div id="main" class="v2">
 <div class="container">
     <h1>Business Applications Release Notes</h1>
-	<p>This is placeholder content for this section. This section should briefly introduce the release notes. See our FAQs below for more information.</p>
+	<p>This is placeholder content for this section. This section should briefly introduce the release notes. <a href="#faq">See our FAQs</a> below for more information.</p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -97,8 +97,7 @@ ms.topic: hub-page
             </ul>
         </li>
     </ul>
-	<hr/>
-	<h2>Frequently Asked Questions</h2>
+	<h2 id="faq"/>Frequently Asked Questions</h2>
 	<table>
 	<tr>
 	<td>
