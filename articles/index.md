@@ -1,4 +1,4 @@
----
+﻿---
 layout: HubPage
 hide_bc: true
 experimental: true
@@ -10,6 +10,7 @@ ms.topic: hub-page
 <div id="main" class="v2">
 <div class="container">
     <h1>Business Applications Release Notes</h1>
+	<p>This is placeholder content for this section. This section should briefly introduce the release notes. See our FAQs below for more information.</p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -17,7 +18,7 @@ ms.topic: hub-page
                 <li>
                     <a href="#products1" data-linktype="self-bookmark"></a>
                     <ul id="products1" class="cardsC cols cols3">
-                        <li>
+                        <!--<li>
                             <a href="index" title="Autumn '18" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -34,7 +35,7 @@ ms.topic: hub-page
                                     </div>
                                 </div>
                             </a>
-                        </li>
+                        </li>-->
                         <li>
                             <a href="index" title="Spring '18" data-linktype="absolute-path">
                                 <div class="cardSize">
@@ -47,6 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
+												<p>This would be a good place to quickly introduce each release, and maybe include version info.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -65,13 +67,14 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
+												<p>This would be a good place to explain what “In Development” means, versus the release notes.​</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </a>
                         </li>
-                        <li>
+                        <!--<li>
                             <a href="index" title="Previous Release Notes" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -88,8 +91,8 @@ ms.topic: hub-page
                                     </div>
                                 </div>
                             </a>
-                        </li>
-                    </ul><br>
+                        </li>-->
+                    </ul>
                 </li>
             </ul>
         </li>
