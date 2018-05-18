@@ -99,3 +99,22 @@ audience: Admin
 ### Extensibility and customization
 
 - [Extensible project work breakdown structure](extensible-project-work-breakdown-structure.md) – Enables customization of the project work breakdown structure through extensions. This replaces the hierarchical grid control that was previously used for the project work breakdown structure with a standard grid that supports hierarchical data. This feature is available in the May 2018 application update.
+
+## June ’18 – General Availability
+
+
+## June ’18 – Preview
+
+
+## July ’18 – General Availability
+
+
+## July ’18 – Preview
+
+
+## August ’18 – General Availability
+
+
+## August ’18 – Preview
+
+
