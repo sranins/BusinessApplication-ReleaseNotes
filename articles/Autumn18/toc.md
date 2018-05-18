@@ -8,16 +8,20 @@
 #### LinkedIn Sales Navigator integration (no content)
 #### Dynamics 365 Gamification (no content)
 
+
 ### [Service](service/dynamics365-customer-service/overview.md)
+
 #### [Customer Service  core  release notes](service/customer-service-core-release-notes/index.md)
 ##### [Enhanced Org insights for Customer Service self-heal  OOB and Customization](service/customer-service-core-release-notes/enhanced-org-insights-customer-service-self-heal-oob-customization.md)
 ##### [Performance Attainment across scenarios  Goal  Org specific](service/customer-service-core-release-notes/performance-attainment-across-scenarios-goal-org-specific.md)
 ##### [Proactive Alerts on Reliability and Performance threshold violations on org specific scenarios.](service/customer-service-core-release-notes/proactive-alerts-reliability-performance-threshold-violations-org-specific-scenarios.md)
 ##### [Reliability Attainment across scenarios  Goal  99.99](service/customer-service-core-release-notes/reliability-attainment-across-scenarios-goal-99-99.md)
 ##### [Reporting through common schema and one Cosmos reporting  Project bedrock](service/customer-service-core-release-notes/reporting-common-schema-one-cosmos-reporting-project-bedrock.md)
+
 ##### [Customer Service  core  intelligence and insights](service/customer-service-core-release-notes/customer-service-core-intelligence-insights/index.md)
 ###### [Insights](service/customer-service-core-release-notes/customer-service-core-intelligence-insights/insights.md)
 ###### [Intelligent Action](service/customer-service-core-release-notes/customer-service-core-intelligence-insights/intelligent-action.md)
+
 #### [Customer Service  omni-channel](service/customer-service-omni-channel-release-notes/index.md)
 ##### [Agent and Supervisor Experiences](service/customer-service-omni-channel-release-notes/agent-supervisor-experiences.md)
 ##### [Chat Channel for Omnichannel](service/customer-service-omni-channel-release-notes/chat-channel-omnichannel.md)
@@ -30,28 +34,26 @@
 
 #### Voice of the Customer (VoC) (no content)
 
-#### Dynamics 365 Portal
+#### [Dynamics 365 Portal](service/dynamics365-portal/overview.md)
+##### [Summary of what's new](service/dynamics365-portal/fall-18-quick-summary-dynamics365-portal.md)
 ##### [ALM Investments](service/dynamics365-portal/alm-investments.md)
 ##### [Cost Reduction Investments](service/dynamics365-portal/cost-reduction-investments.md)
-##### [Summary for Dynamics 365 Portal](service/dynamics365-portal/fall-18-quick-summary-dynamics365-portal.md)
-##### [Overview](service/dynamics365-portal/overview.md)
 ##### [Performance and Reliability Investments](service/dynamics365-portal/performance-reliability-investments.md)
 ##### [Power BI embed](service/dynamics365-portal/power-bi-embed.md)
 ##### [Security Investments](service/dynamics365-portal/security-investments.md)
 ##### [SharePoint Integration](service/dynamics365-portal/sharepoint-integration.md)
-##### [Simplified Customization   Administration](service/dynamics365-portal/simplified-customization-administration.md)
+##### [Simplified Customization Administration](service/dynamics365-portal/simplified-customization-administration.md)
 ##### [Supportability Investments](service/dynamics365-portal/supportability-investments.md)
-##### [Telemetry Investments  Ready for review](service/dynamics365-portal/telemetry-investments-ready-review.md)
+##### [Telemetry Investments Ready for review](service/dynamics365-portal/telemetry-investments-ready-review.md)
 ##### [Test Automation and other engineering Investments](service/dynamics365-portal/test-automation-other-engineering-investments.md)
 
 #### Unified Service Desk 
 ##### [Strong Fundamentals](service/customer-service-core-release-notes/unified-service-desk-strong-fundamentals.md)
 ##### [Using Edge Process for hosting web applications in Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md)
 
-### Field Service
-##### [Summary for Dynamics 365 for Field Service](service/dynamics365-field-service/fall-18-quick-summary-dynamics365-field-service.md)
-#### [Overview](service/dynamics365-field-service/overview.md)
-##### [Integration with Finance and Operations](service/field-service/dynamics365-finance-operations-integration.md)
+### [Field Service](service/dynamics365-field-service/overview.md)
+#### [Summary of what's new](service/dynamics365-field-service/fall-18-quick-summary-dynamics365-field-service.md)
+#### [Integration with Finance and Operations](service/field-service/dynamics365-finance-operations-integration.md)
 #### [Entitlement management](service/field-service/entitlement-management.md)
 #### [Multi-dimensional labor cost  different rates per role](service/field-service/multi-dimensional-labor-cost-different-rates-per-role.md)
 #### [Multi-resource scheduling](service/field-service/multi-resource-scheduling.md)
@@ -63,7 +65,7 @@
 ##### [Extensibility Hook for Resource Availability](service/field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)
 ##### [In-Form Scheduling](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)
 ##### [PowerApps Sample App](service/field-service/universal-resource-scheduling-urs/powerapps-sample-app.md)
-##### [Self Service Scheduling API s](service/field-service/universal-resource-scheduling-urs/self-service-scheduling-apis.md)
+##### [Self-service Scheduling APIs](service/field-service/universal-resource-scheduling-urs/self-service-scheduling-apis.md)
 ##### [URS Customer-Driven Product Enhancements](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md)
 
 #### Connected Field Service
@@ -84,7 +86,7 @@
 ##### [What if analysis statistic and UI](service/field-service/resource-scheduling-optimization-rso/what-if-analysis-statistic-ui.md)
 
 ### [Project Service](service/dynamics365-project-service-automation/index.md)
-#### [Summary for Dynamics 365 for Project Service](service/dynamics365-project-service-automation/fall-18-quick-summary-dynamics365-project-service.md)
+#### [Summary of what's new](service/dynamics365-project-service-automation/fall-18-quick-summary-dynamics365-project-service.md)
 #### [Overview](service/dynamics365-project-service-automation/overview.md)
 #### [Graphical insights into emergent project risks](service/project-service/graphical-insights-into-emergent-project-risks.md)
 #### [Graphical insights into portfolio level trends](service/project-service/graphical-insights-into-portfolio-level-trends.md)
@@ -107,16 +109,16 @@
 #### [Dynamics 365 for Marketing](dynamics365-marketing/marketing/dynamics365-marketing/index.md)
 
 ### [Microsoft Social Engagement](dynamics365-marketing/microsoft-social-engagement/index.md)
+#### [Overview](dynamics365-marketing/microsoft-social-engagement/overview/index.md)
+#### [Summary of what's new](dynamics365-marketing/microsoft-social-engagement/autumn-2018-quick-summary-social-engagement.md)
 #### [Additional Languages](dynamics365-marketing/microsoft-social-engagement/additional-languages.md)
-#### [Autumn 2018 Quick Summary for Microsoft Social Engagement](dynamics365-marketing/microsoft-social-engagement/autumn-2018-quick-summary-social-engagement.md)
 #### [Enhanced User Guidance](dynamics365-marketing/microsoft-social-engagement/enhanced-user-guidance.md)
 #### [Fast Provisioning](dynamics365-marketing/microsoft-social-engagement/fast-provisioning.md)
 #### [New app for Brand Monitoring](dynamics365-marketing/microsoft-social-engagement/new-app-brand-monitoring.md)
 #### [Social Insights in Dynamics 365 Marketing](dynamics365-marketing/microsoft-social-engagement/social-insights-dynamics365-marketing.md)
-#### [Overview](dynamics365-marketing/microsoft-social-engagement/overview/index.md)
-##### [Intelligent Insights  New app for Brand Monitoring](dynamics365-marketing/microsoft-social-engagement/overview/intelligent-insights-new-app-brand-monitoring.md)
+##### [Intelligent Insights New app for Brand Monitoring](dynamics365-marketing/microsoft-social-engagement/overview/intelligent-insights-new-app-brand-monitoring.md)
 ##### [Investments in Fundamentals](dynamics365-marketing/microsoft-social-engagement/overview/investments-fundamentals.md)
-##### [Microsoft Integrations  Social Insights in Dynamics 365 Marketing](dynamics365-marketing/microsoft-social-engagement/overview/microsoft-integrations-social-insights-dynamics365-marketing.md)
+##### [Microsoft Integrations Social Insights in Dynamics 365 Marketing](dynamics365-marketing/microsoft-social-engagement/overview/microsoft-integrations-social-insights-dynamics365-marketing.md)
 
 ### Finance and Operations
 #### [Intro](dynamics365-finance-operations/microsoft-launches-fall-2018-release-dynamics365-finance-operations.md)
@@ -124,7 +126,7 @@
 #### [Focus on Fundamentals](dynamics365-finance-operations/release-notes/focus-fundamentals.md)
 
 ### [Retail](dynamics365-retail/dynamics-retail-fall-2018-release-notes/index.md)
-#### [Microsoft Expands Dynamics 365 for Retail to deliver Unified Commerce](dynamics365-retail/microsoft-expands-dynamics365-retail-deliver-unified-commerce.md)
+#### [Delivery of Unified Commerce](dynamics365-retail/microsoft-expands-dynamics365-retail-deliver-unified-commerce.md)
 #### Focus on fundamentals
 ##### [End of day process improvements](dynamics365-retail/dynamics-retail-fall-2018-release-notes/focus-fundamentals/end-day-process-improvements.md)
 ##### [Enhanced Commerce Data Exchange  CDX  and Offline mode](dynamics365-retail/dynamics-retail-fall-2018-release-notes/focus-fundamentals/enhanced-commerce-data-exchange-cdx-offline-mode.md)
@@ -166,25 +168,22 @@
 
 ### [Power BI](intelligence-platform/index.md)
 
-#### Power BI Apps
+#### [Power BI Apps](intelligence-platform/power-bi-apps/overview.md)
 ##### [Summary of what's new](intelligence-platform/power-bi-apps/fall-18-quick-summary-power-bi-apps.md)
-##### [Overview](intelligence-platform/power-bi-apps/overview.md)
 ##### [Quick and easy to set up](intelligence-platform/power-bi-apps/quick-easy-set-up.md)
 ##### [Rich, immersive experiences](intelligence-platform/power-bi-apps/rich-immersive-experiences.md)
 ##### [Tailor apps to your business needs](intelligence-platform/power-bi-apps/tailor-apps-business-needs.md)
-##### [APIs to manage and embed Power BI Apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/apis-manage-embed-power-bi-apps.md)
-##### [Embedding Power BI content from Power BI Apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/embedding-power-bi-content-power-bi-apps.md)
+##### [APIs to manage and embed Power BI apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/apis-manage-embed-power-bi-apps.md)
+##### [Embedding Power BI content from Power BI apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/embedding-power-bi-content-power-bi-apps.md)
 ##### [Installing Power BI Apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/installing-power-bi-apps.md)
-##### [Licensing enforcement for Power BI Apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/licensing-enforcement-power-bi-apps.md)
+##### [Licensing enforcement for Power BI apps](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/licensing-enforcement-power-bi-apps.md)
 ##### [Personalization](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-apps/personalization.md)
 
-#### Power BI Desktop
-##### [Overview](intelligence-platform/power-bi-desktop/overview.md)
+#### [Power BI Desktop](intelligence-platform/power-bi-desktop/overview.md)
 ##### [Summary of what's new](intelligence-platform/power-bi-desktop/fall-18-quick-summary-power-bi-desktop/index.md)
 
-#### Power BI Service
+#### [Power BI Service](intelligence-platform/power-bi-service/overview.md)
 ##### [Summary  of what's new](intelligence-platform/power-bi-service/fall-18-quick-summary-power-bi-service.md)
-##### [Overview](intelligence-platform/power-bi-service/overview.md)
 
 #### Power BI Embedded
 ##### [Apply and change themes](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-embedded/apply-change-themes.md)
@@ -220,7 +219,7 @@
 ##### [SQL Server Reporting Services Remote Configuration](intelligence-platform/power-bi-mobile/sql-server-reporting-services-remote-configuration.md)
 ##### [Summary for Power BI Mobile](intelligence-platform/power-bi-mobile/fall-18-quick-summary-power-bi-mobile/index.md)
 ##### [Home landing page](intelligence-platform/power-bi-mobile/home-landing-page/index.md)
-##### Multi Select Cross Highlight
+##### Multi Select Cross Highlight (content missing)
 
 #### [Common Data Service for Analytics](intelligence-platform/common-data-service-analytics/index.md)
 ##### [Artificial Intelligence](intelligence-platform/common-data-service-analytics/artificial-intelligence.md)
@@ -236,7 +235,7 @@
 ##### [Summary  of what's new](intelligence-platform/power-bi-isvs-developers/fall-18-quick-summary-isvs-developers.md)
 ##### [Fall release](intelligence-platform/power-bi-isvs-developers/overview/with-fall-release.md)
 
-#### [Power BI custom visuals](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/index.md)
+#### [Power BI Custom Visuals](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/index.md)
 ##### [Accessibility support for custom visuals](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/accessibility-support-custom-visuals.md)
 ##### [Administrator control of certified visuals](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/administrator-control-certified-visuals.md)
 ##### [Certified custom visuals in the marketplace](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/certified-custom-visuals-marketplace.md)
@@ -250,11 +249,11 @@
 ##### [Performance improvements](intelligence-platform/power-bi-isvs-developers/detailed-features-power-bi-custom-visuals/performance-improvements.md)
 
 #### [Power BI Report Server](intelligence-platform/power-bi-report-server/overview.md)
-##### [Summary for Power BI Report Server](intelligence-platform/power-bi-report-server/fall-18-quick-summary-power-bi-report-server.md)
+##### [Summary of what's new](intelligence-platform/power-bi-report-server/fall-18-quick-summary-power-bi-report-server.md)
 
 #### Profile 360O
 ##### [Customer 360  App](intelligence-platform/profile-360o/customer-360-app.md)
-##### [Summary for Profile 360   Customer 360](intelligence-platform/profile-360o/fall-18-quick-summary-profile-360-customer-360.md)
+##### [Summary of what's new](intelligence-platform/profile-360o/fall-18-quick-summary-profile-360-customer-360.md)
 ##### [Leveraging the power of Bing and Office 365 data](intelligence-platform/profile-360o/leveraging-power-bing-office-365-data.md)
 ##### [Overview](intelligence-platform/profile-360o/overview/index.md)
 
