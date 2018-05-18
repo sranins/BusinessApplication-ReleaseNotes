@@ -1,5 +1,4 @@
 ---
-
 title: "What's new in Business Applications"
 description: "These release notes describe the latest services and capabilities in the Microsoft Dynamics 365 business applications and platforms."
 author: MargoC
@@ -14,7 +13,7 @@ audience: Admin, end user, Developer
 
 ---
 
-# Find out what's new and exciting
+# Find out what's new
 
 These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and platforms. From exciting enhancements across marketing, sales, service, operations, finance, talent and retail apps to advancements in the platform beneath Dynamics 365, learn about new features designed to help you transform your business.
 
