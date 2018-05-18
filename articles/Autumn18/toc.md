@@ -317,7 +317,7 @@
 ##### [Features list](data-integration-platform/summary/features/index.md)
 ###### [Features Pending Additional Design Commitments](data-integration-platform/summary/features/features-pending-additional-design-commitments.md)
 
-### [Azure Media Services](media-services/index.md)
+### [Media platform](media-services/index.md)
 #### [About Azure Media Services](media-services/about-azure-media-services.md)
 #### [Audience Insights drives Sony s business](media-services/audience-insights-drives-sonys-business.md)
 #### [Simplicity through Innovation](media-services/simplicity-innovation.md)
