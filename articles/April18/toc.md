@@ -289,6 +289,10 @@
 ### [Add multiple records to array inputs](microsoft-flow/add-multiple-records-array-inputs.md)
 ### [Test flows with previous run data](microsoft-flow/test-flows-previous-run-data.md)
 ### [Access flow details with the workflow() expression](microsoft-flow/access-flow-details-workflow-expression.md)
+### [Error details analytics](microsoft-flow/error-details-analytics.md) 
+### [Share flows with Office 365 groups](microsoft-flow/share-with-o365-groups.md)  
+### [SharePoint connector improvements](microsoft-flow/sharepoint-connector-improvements.md)
+
 
 ## [Power BI](power-bi/overview.md)
 ### [Summary of what’s new](power-bi/whats-new-business-intelligence-platform.md)
