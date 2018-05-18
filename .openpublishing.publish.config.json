@@ -29,7 +29,7 @@
       "branch": "master",
       "branch_mapping": {}
     }
-  ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+
+  ]
+
 }
