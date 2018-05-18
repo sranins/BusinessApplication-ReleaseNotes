@@ -17,7 +17,7 @@ audience: Admin
 #  Video AI in Dynamics 365
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 Microsoft Stream brings industry leading Video AI to Dynamics 365. As part of
 our promise to make people more productive and connected with video in business

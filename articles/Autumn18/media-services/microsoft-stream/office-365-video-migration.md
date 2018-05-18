@@ -17,7 +17,7 @@ audience: Admin
 #  Office 365 Video migration
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Finally, Microsoft is also pleased to share that most of our nearly 2.5 million
 active customers have been successfully transitioned from Office 365 Video to

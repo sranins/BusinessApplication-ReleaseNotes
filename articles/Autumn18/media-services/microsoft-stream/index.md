@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 *Business users can now use Stream to host public external content as well live
 events. Additionally, users of Dynamics 365 can now make use of rich video AI to

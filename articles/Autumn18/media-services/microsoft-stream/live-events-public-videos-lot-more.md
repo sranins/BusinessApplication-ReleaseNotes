@@ -17,7 +17,7 @@ audience: Admin
 #  Live Events, public videos and a lot more
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 With today’s announcement, customers can do even more with Stream while
 continuing to enjoy the modern, easy-to-use portal experience. Enterprise

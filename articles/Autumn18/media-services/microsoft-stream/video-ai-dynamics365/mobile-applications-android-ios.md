@@ -17,7 +17,7 @@ audience: Admin
 #  Mobile Applications for Android and iOS
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 Building upon the promise to make video available on any device, anywhere, any
 time, we are very pleased to announce all new mobile applications for Android
