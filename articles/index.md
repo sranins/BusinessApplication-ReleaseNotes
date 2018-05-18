@@ -97,5 +97,19 @@ ms.topic: hub-page
             </ul>
         </li>
     </ul>
+	<hr/>
+	<h2>Frequently Asked Questions</h2>
+	<table>
+	<tr>
+	<td>
+	<h3>What are the Microsoft Business Applications?​</h3>
+	<p>This is an answer to the above question, explaining to the user what we mean by “Business Applications.” This is an answer to the above question, explaining to the user what we mean by “Business Applications.” ​</p>
+	</td>
+	<td>
+	<h3>What happened to the Dynamics Roadmap?​</h3>
+	<p>This is an answer to the question for users who are confused as to where the roadmap has gone. This is an answer to the question for users who are confused as to where the roadmap has gone.</p>
+	</td>
+	</tr>
+	</table>
 </div>
 </div>
