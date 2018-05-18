@@ -36,7 +36,7 @@ audience: Admin
 
 ### Extensibility and customization
 
-- [Customizations through extensions only](one-voucher-deprecation.md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
+- [Customizations through extensions only](customizations-extensions-only.md .md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
 - [Extensibility requests](extensibility-requests.md) - Customers can submit a request to Microsoft for extension support to be added to the product for a needed scenario. The Spring '18 release enhances this feature by moving it to Lifecycle Services.
 - [Embedding PowerApps in workspaces and forms](embedding-powerapps-workspaces-forms.md) - Use PowerApps to embed data from external sources into Finance and Operations data.
 - [Custom fields](custom-fields.md) - Organizations can add custom fields to tailor their application to their business requirements, using a no-code extensibility experience.
@@ -70,9 +70,7 @@ audience: Admin
 ### Servicing, performance, and deployment
 
 - [Improved delivery of platform and financial reporting updates](customer-payment-insights-preview.md) - Enhancements to how software updates are provided, to improve deployment time and the reliability of servicing.
-- [Upgrade automation](upgrade-automation.md) - Upgrade automation makes major version upgrades a self-service operation for the customer, using LCS for non-production environments.
 - [Service hardening](service-hardening.md) - Added service monitoring and alerting for core business processes, and improved form load performance of the most commonly used forms.
-- [Lifecycle Services sandbox self-service automation and RDP lockdown](lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md).
 - [On-premises deployment updates](on-premises-deployment-updates.md).
 
 ### Compliance
@@ -99,3 +97,23 @@ audience: Admin
 ### Extensibility and customization
 
 - [Extensible project work breakdown structure](extensible-project-work-breakdown-structure.md) – Enables customization of the project work breakdown structure through extensions. This replaces the hierarchical grid control that was previously used for the project work breakdown structure with a standard grid that supports hierarchical data. This feature is available in the May 2018 application update.
+
+## June ’18 – General Availability
+
+
+## June ’18 – Preview
+
+
+## July ’18 – General Availability
+- [Lifecycle Services sandbox self-service automation and RDP lockdown](lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md).
+- Dynamics 365 for Finance and Operations 8.0 with Platform Update 16 on-premises is available.
+
+## July ’18 – Preview
+- [Upgrade automation](upgrade-automation.md) - Upgrade automation makes application upgrades a self-service operation for the customer, using LCS for non-production environments.
+
+## August ’18 – General Availability
+
+
+## August ’18 – Preview
+
+
