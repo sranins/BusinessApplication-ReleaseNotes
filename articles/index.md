@@ -97,7 +97,7 @@ ms.topic: hub-page
             </ul>
         </li>
     </ul>
-	<h2 id="faq"/>Frequently Asked Questions</h2>
+	<h2 id="faq">Frequently Asked Questions</h2>
 	<table>
 	<tr>
 	<td>
