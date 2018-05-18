@@ -36,7 +36,7 @@ audience: Admin
 
 ### Extensibility and customization
 
-- [Customizations through extensions only](one-voucher-deprecation.md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
+- [Customizations through extensions only](customizations-extensions-only.md .md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
 - [Extensibility requests](extensibility-requests.md) - Customers can submit a request to Microsoft for extension support to be added to the product for a needed scenario. The Spring '18 release enhances this feature by moving it to Lifecycle Services.
 - [Embedding PowerApps in workspaces and forms](embedding-powerapps-workspaces-forms.md) - Use PowerApps to embed data from external sources into Finance and Operations data.
 - [Custom fields](custom-fields.md) - Organizations can add custom fields to tailor their application to their business requirements, using a no-code extensibility experience.
@@ -99,3 +99,22 @@ audience: Admin
 ### Extensibility and customization
 
 - [Extensible project work breakdown structure](extensible-project-work-breakdown-structure.md) – Enables customization of the project work breakdown structure through extensions. This replaces the hierarchical grid control that was previously used for the project work breakdown structure with a standard grid that supports hierarchical data. This feature is available in the May 2018 application update.
+
+## June ’18 – General Availability
+
+
+## June ’18 – Preview
+
+
+## July ’18 – General Availability
+
+
+## July ’18 – Preview
+
+
+## August ’18 – General Availability
+
+
+## August ’18 – Preview
+
+
