@@ -30,9 +30,6 @@ In the Spring '18 release timeframe, releases (for new deployments) include:
     7.3](https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-application-7.3-update)
     with Platform Update 15 (on-premises).
 
--   Dynamics 365 for Finance and Operations 8.0 with Platform Update 16
-    (on-premises).
-
 Additional on-premises-specific features are listed below.
 
 -   **Setup and deployment.** Improvements to setup and deployment greatly
