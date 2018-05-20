@@ -65,7 +65,7 @@ audience: Admin
 
 - [India localization – project and upgrade](globalization-india-localization-project-upgrade.md) - Users can manage India Goods and Services Tax (GST) for the Project management and accounting module, and AX 2012 customers can upgrade to Dynamics 365 for Finance and Operations.
 - [Translation Service enhancements](translation-service-enhancements.md) - In addition to supporting user interface translation, Dynamics Translation Service (DTS) now supports documentation translation in Microsoft Word and HTML formats (.docx, .html).
-- [Enhanced configurability](gdpr-compliance.md) - New features include import and testing scenarios, and also broader support for configurability without coding.
+- [Enhanced configurability](globalization-enhanced-configurability.md) - New features include import and testing scenarios, and also broader support for configurability without coding.
 
 ### Servicing, performance, and deployment
 
