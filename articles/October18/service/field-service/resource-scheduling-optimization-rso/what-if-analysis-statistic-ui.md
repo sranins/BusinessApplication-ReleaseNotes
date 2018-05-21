@@ -14,7 +14,7 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  What if analysis statistic and UI
+#  What if analysis statistic
 
 
 [!include[banner](../../../../includes/banner.md)]
@@ -24,4 +24,4 @@ RSO administrators can leverage simulation runs to adjust optimization scope
 and other parameters to understand what optimization results look like before
 locking down the recurring schedule. Additionally, with an analytic statistic,
 administrators can better evaluate optimization and compare simulation runs
-versus existing bookings in a visual manner.
+versus existing bookings.
