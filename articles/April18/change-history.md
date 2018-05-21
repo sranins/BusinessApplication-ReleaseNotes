@@ -7,145 +7,209 @@ manager: AnnBe
 ms.date: 05/01/2018
 ms.assetid: a08a8762-85b7-41bc-83e0-4380a38cf685
 ms.topic: article
-ms.prod: 
+ms.prod:
 ms.service: business-applications
-ms.technology: 
+ms.technology:
 ms.author: margoc
 audience: Admin
 
 ---
-#  Change history
+# Change history
 
 This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter [@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
-## Changes in Spring ’18 Release Notes version 18.1.2, published June 1, 2018
+## Intro
 
-### Talent
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | [Availability](availability.md) link added  | May 1, 2018   |
 
-Release date changed: 
-- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
-	- Ceridian payroll integration is now available (Public Preview in May, not Generally Available)
-	- Ceridian payroll integration is now available in the UK (Public Preview in June, not May)
+## Sales
 
-## Changes in Spring ’18 Release Notes version 18.1.3, published June 1, 2018
+### Updated features
 
-### Power BI Service				
+> [!div class="mx-tableFixed"]
+> | Feature | Date updated |
+> |---------|------------|
+> | Built on the Unified Interface framework lists additional capabilities and solutions | 1-May-18   |
 
-Release date changed: 
--   [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md) moved from April '18 Public Preview to June '18 Public Preview
--   [Smart alerts](power-bi/service/smart-alerts.md) moved from June '18 General Availability to July-September '18 Public Preview
--   Workspace search moved from June '18 Public Preview to July-September '18 Public Preview
--   [SSRS reports for Power BI Premium](power-bi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md) moved from June '18 Public Preview to July-September '18 Public Preview
+### Features added
 
-## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md)  | 1-May-18   |
+> | [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details | 1-April-18   |
 
-### Intro                          
- 
-Added section: [Availability](availability.md) to link to the availability guide. 
+### Features removed
 
-### Sales
-- Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
-- Added feature: [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
+> [!div class="mx-tableFixed"]
+> | Feature | Date removed |
+> |---------|------------|
+> | LinkedIn profile pictures for contact records | 1-May-18   |
 
-### Field Service
-Universal Resource Scheduling added features: 
-- [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
-- [Display up to 14 days on the hourly schedule board](dynamics365-field-service/overview.md)
-- [Change booking statuses from daily, weekly, and monthly schedule boards](dynamics365-field-service/overview.md)
-- [Pass in date and time for search parameters with the URL](dynamics365-field-service/overview.md)
-- [Leverage the booking panel for multiday drag-and-drop scheduling](dynamics365-field-service/overview.md)
-- [Select a resource and correctly load it into the driving directions window](dynamics365-field-service/overview.md)
-- [Show a resource card by right-clicking instead of hovering](dynamics365-field-service/overview.md)
-- [Display day of the week on hourly vertical schedule board](dynamics365-field-service/overview.md)
-- [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md)
-- [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)
+## Field Service
 
-### Finance and Operations
+### Features added
 
-Added features:
-- [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
-- [Create actuals in Project Service Automation and synchronize them to the Finance and Operations integration journal](dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
-- [Extensible project work breakdown structure](dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
-- [On-premises availability of Retail head-office capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md)
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                               | Date added |
+> |-----------------------------------------------------------------------------------------------------------------------|------------|
+> | Universal Resource Scheduling features:                                                                               | 1-May-18   |
+> | [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                    | 1-May-18   |
+> | [Display up to 14 days on the hourly schedule board](dynamics365-field-service/overview.md)                           | 1-May-18   |
+> | [Change booking statuses from daily, weekly, and monthly schedule boards](dynamics365-field-service/overview.md)      | 1-May-18   |
+> | [Pass in date and time for search parameters with the URL](dynamics365-field-service/overview.md)                     | 1-May-18   |
+> | [Leverage the booking panel for multiday drag-and-drop scheduling](dynamics365-field-service/overview.md)             | 1-May-18   |
+> | [Select a resource and correctly load it into the driving directions window](dynamics365-field-service/overview.md)   | 1-May-18   |
+> | [Show a resource card by right-clicking instead of hovering](dynamics365-field-service/overview.md)                   | 1-May-18   |
+> | [Display day of the week on hourly vertical schedule board](dynamics365-field-service/overview.md)                    | 1-May-18   |
+> | [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md) | 1-May-18   |
+> | [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)                                    | 1-May-18   |
 
-### Talent
+### Features removed
 
-Added features: 
-- [Absence management](dynamics365-talent/absence-management.md)
-	- Time entry on behalf of someone else
-	- Configurable proration options
-	
-- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
-	- Assignee placeholders (Public Preview)
+> [!div class="mx-tableFixed"]
+> | Feature | Date removed |
+> |---------|------------|
+> | FBX from list of supported file formats for 3D models | April 2   |
 
-### PowerApps
+## Talent
 
-Added section:
-- [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md)
+### Release date changes
 
-### Microsoft Flow features added in May
-- [Create a business process flow](microsoft-flow/overview.md)
-- [Business process flow entity customization](microsoft-flow/overview.md)
-- [Add an action to a business process flow](microsoft-flow/overview.md)
-- [Create a flow for Microsoft To-Do in Outlook Web App](microsoft-flow/overview.md)
-- [Test your flow by using sample data](microsoft-flow/overview.md)
-- [Quick access to help and support](microsoft-flow/overview.md)
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | May 10, 2018 |
+> | Ceridian payroll integration is now available in the UK | Public Preview in June, not May                | May 10, 2018 |
 
-### Microsoft Flow features added in April
-- [Find errors in Apply to each](microsoft-flow/overview.md)
-- [Approval reassignment](microsoft-flow/overview.md)
-- [See details of a flow](microsoft-flow/overview.md)
-- [United Kingdom region](microsoft-flow/overview.md)
-- [New documentation landing page](microsoft-flow/overview.md)
-- [Add multiple records to array inputs](microsoft-flow/overview.md)
-- [Test flows with previous run data](microsoft-flow/overview.md)
-- [Access flow details with the workflow expression](microsoft-flow/overview.md)
+### Features updated
 
-### Power BI Desktop
-Removed: 
--   Incremental Refresh Policies removed from April '18 General Availability							
--   Matrix expand or collapse section removed from June '18 General Availability
--   Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability
--   Performance inspector for reports section removed from June '18 General Availability		
+> [!div class="mx-tableFixed"]
+> | Feature | Date updated |
+> |---------|------------|
+> | [Absence management](dynamics365-talent/absence-management.md). Added time entry on behalf of someone else. | 1-May-18   |
+> | [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md). Added assignee placeholders (Public Preview)| 1-May-18   |
 
-Added: 
--   Drill-through on measures, [conditional formatting](power-bi/overview.md), and Incremental data refresh added to May ’18 General Availability
--   Filters on data view section added to June '18 General Availability				
+## Finance and Operations
 
-### Power BI Service				
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                                                                                                                                | Dated added   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+> | [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md) | May 1, 2018   |
+> | [Create actuals in Project Service Automation and synchronize them to the Finance and Operations integration journal](dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)            | May 1, 2018   |
+> | [Extensible project work breakdown structure](dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)                                                                                           | May 1, 2018   |
+> | [On-premises availability of Retail head-office capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md)                                                                                        | May 1, 2018   |
+> | [Customer payment insights](dynamics365-finance-operations/index.md)                                                                                                                                                   | April 1, 2018 |
 
-Release date changed: 
--   [Incremental data refresh](power-bi/overview.md) moved from May '18 General Availability to May '18 Public Preview
--   Workspace search section moved from June '18 General Availability to June '18 Public Preview
--   [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) and [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) sections moved to Public Preview sometime between July and September				
-				
-## Changes in the Spring ’18 Release Notes version 18.1.1, published April 2, 2018				
-				
-### Sales
-- Added: [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details
-- Removed: LinkedIn profile pictures for contact records
+## PowerApps
 
-### Field Service
-- Removed FBX from list of supported file formats for 3D models
+### Features added
 
-### Finance and Operations
-- Added section: [Customer payment insights](dynamics365-finance-operations/index.md)                                                    
-### Business Intelligence Platform
-Updated availability information for the following sections. For more information, see the [Spring '18 summary of what's new in Business Intelligence Platform](release-overview.md). 
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md) | May 1, 2018   |
 
-- Incremental data refresh
-- Query acceleration for large datasets
-- Data metadata translations
-- Smart alerts
-- Workspaces with Azure AD groups
-- Export to PDF  
+## Power BI Desktop
 
-Removed: 
-- Slideshow mode
-- Report snapshots for Power BI Premium. 
+### Features removed
 
-### Data Integration
-- [Added multiple new pages on connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                       | Dated removed |
+> |---------------------------------------------------------------------------------------------------------------|---------------|
+> | Incremental Refresh Policies removed from April '18 General Availability                                      | May 1, 2018   |
+> | Matrix expand or collapse section removed from June '18 General Availability                                  | May 1, 2018   |
+> | Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability | May 1, 2018   |
+> | Performance inspector for reports section removed from June '18 General Availability                          | May 1, 2018   |
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | Drill-through on measures, [conditional formatting](power-bi/overview.md), May 18 General availability  | May 1, 2018   |
+> | Incremental data refresh, May 18 General availability  | May 1, 2018   |
+> | Filters on data view section, June '18 General Availability  | May 1, 2018   |
+
+## Power BI Service
+
+## Microsoft Flow
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                                            | Dated added   |
+> |------------------------------------------------------------------------------------|---------------|
+> | [Create a business process flow](microsoft-flow/overview.md)                       | May 1, 2018   |
+> | [Business process flow entity customization](microsoft-flow/overview.md)           | May 1, 2018   |
+> | [Add an action to a business process flow](microsoft-flow/overview.md)             | May 1, 2018   |
+> | [Create a flow for Microsoft To-Do in Outlook Web App](microsoft-flow/overview.md) | May 1, 2018   |
+> | [Test your flow by using sample data](microsoft-flow/overview.md)                  | May 1, 2018   |
+> | [Quick access to help and support](microsoft-flow/overview.md)                     | May 1, 2018   |
+> | [Find errors in Apply to each](microsoft-flow/overview.md)                         | April 1, 2018 |
+> | [Approval reassignment](microsoft-flow/overview.md)                                | April 1, 2018 |
+> | [See details of a flow](microsoft-flow/overview.md)                                | April 1, 2018 |
+> | [United Kingdom region](microsoft-flow/overview.md)                                | April 1, 2018 |
+> | [New documentation landing page](microsoft-flow/overview.md)                       | April 1, 2018 |
+> | [Add multiple records to array inputs](microsoft-flow/overview.md)                 | April 1, 2018 |
+> | [Test flows with previous run data](microsoft-flow/overview.md)                    | April 1, 2018 |
+> | [Access flow details with the workflow expression](microsoft-flow/overview.md)     | April 1, 2018 |
+
+## Data Integration
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md           | Release date modified from May to June | May 1, 2018 |
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)  | May 1, 2018   |
 
 ### Microsoft Stream
-- Removed public anonymous playback feature from the summary table.
+
+### Features removed
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                       | Dated removed |
+> |---------------------------------------------------------------------------------------------------------------|---------------|
+> | Public anonymous playback feature                                      | May 1, 2018   |
+
+## Power BI Service
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [Incremental data refresh](power-bi/overview.md)         | Public Preview in May, not Generally Available | May 1, 2018 |
+> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1, 2018 |
+> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1, 2018 |
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature                               | Date added |
+> |---------------------------------------|---------------|
+> | Incremental data Refresh              | April 1, 2018   |
+> | Query acceleration for large datasets | April 1, 2018   |
+> | Data metadata translations            | April 1, 2018   |
+> | Smart alerts                          | April 1, 2018   |
+> | Workspaces with Azure AD groups       | April 1, 2018   |
+> | Export to PDF                         | April 1, 2018   |
+
+### Features removed
+
+> [!div class="mx-tableFixed"]
+> | Feature                               | Date removed |
+> |---------------------------------------|---------------|
+> | Slideshow mode                        | April 1, 2018 |
+> | Report snapshots for Power BI Premium | April 1, 2018 |
