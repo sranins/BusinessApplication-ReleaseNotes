@@ -22,7 +22,7 @@ To help you with planning, the release notes also include a list of upcoming cap
 Ready to get started?
 
 > [!div class="nextstepaction"]
-> [Go to the Spring '18 release notes](Spring18/release-overview.md)
+> [Go to the Spring '18 release notes](April18/release-overview.md)
 
 We’re eager to hear your feedback as you dig in to the release notes. Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
 
