@@ -17,7 +17,7 @@ audience: Admin
 #  October ’18 Quick Summary for Business Central
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 | October’18 | **General Availability**                                                                                                                              |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
