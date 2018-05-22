@@ -55,7 +55,7 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                                                               | Date added |
 > |-----------------------------------------------------------------------------------------------------------------------|------------|
-> | Universal Resource Scheduling features:                                                                               | May 1   |
+> | [Universal Resource Scheduling features](dynamics365-project-service/universal-resource-scheduling.md):                                                                               | May 1   |
 > | [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                    | May 1   |
 > | [Display up to 14 days on the hourly schedule board](dynamics365-field-service/overview.md)                           | May 1   |
 > | [Change booking statuses from daily, weekly, and monthly schedule boards](dynamics365-field-service/overview.md)      | May 1   |
@@ -122,7 +122,34 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------|------------|
 > | [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md) | May 1 |
 
+## Power BI
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1 |
+> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1 |
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature                               | Date added |
+> |---------------------------------------|---------------|
+> | [Export to PDF](power-bi/embedded/export-pdf.md)                         | April 2    |
+
+
 ## Power BI Desktop
+
+### Features added
+
+> [!div class="mx-tableFixed"]
+> | Feature | Date added |
+> |---------|------------|
+> | [Drill-through on measures and conditional formatting](power-bi/overview.md), May 18 General availability  | May 1      |
+> | Incremental data refresh, May 18 General availability  | May 1      |
+> | [Filters on data view](power-bi/desktop/filtering-data-view.md), June '18 General Availability  | May 1      |
 
 ### Features removed
 
@@ -133,15 +160,8 @@ This topic is updated when features are added, or when a feature's release date 
 > | Matrix expand or collapse section removed from June '18 General Availability                                  | May 1      |
 > | Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability | May 1      |
 > | Performance inspector for reports section removed from June '18 General Availability                          | May 1      |
-
-### Features added
-
-> [!div class="mx-tableFixed"]
-> | Feature | Date added |
-> |---------|------------|
-> | Drill-through on measures, [conditional formatting](power-bi/overview.md), May 18 General availability  | May 1      |
-> | Incremental data refresh, May 18 General availability  | May 1      |
-> | Filters on data view section, June '18 General Availability  | May 1      |
+> | Slideshow mode                        | April 2  |
+> | Report snapshots for Power BI Premium | April 2  |
 
 ## Power BI Service
 
@@ -150,23 +170,25 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
-> | Incremental data refresh  | Moved from May '18 General Availability to May '18 Public Preview | May 1 |
+> | [Incremental data refresh](power-bi/service/incremental-data-refresh.md)  | Moved from May '18 General Availability to May '18 Public Preview | May 1 |
 > | Workspace search section  | Moved from June '18 General Availability to June '18 Public Preview | May 1 |
-> | Common Data Service for Analytics in Power BI  | Moved to Public Preview sometime between July and September | May 1 |
-> | Power BI Insights Apps  | Moved to Public Preview sometime between July and September | May 1 |
+> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md)  | Moved to Public Preview sometime between July and September | May 1 |
+> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Incremental data refresh](power-bi/service/data-source-setup-improvements.md) | Moved to May ’18 – Public Preview | April 2 |
-> | Query acceleration for large datasets  | Moved to Public Preview sometime between July and September | April 2 |
+> | [Query acceleration for large datasets](power-bi/service/query-acceleration-large-datasets.md)  | Moved to Public Preview sometime between July and September | April 2 |
 > | [Smart alerts](power-bi/service/smart-alerts.md)  | Moved to Public Preview sometime between July and September | April 2 |
 > | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)  | Moved to June ’18 - Public Preview | April 2 |
 > | Export to PDF | Moved to Public Preview sometime between July and September | April 2 |
 
-### Features removed
-
+### Features added
 > [!div class="mx-tableFixed"]
-> | Feature                                                                                                       | Dated removed |
-> |---------------------------------------------------------------------------------------------------------------|---------------|
-> | Slideshow mode                                      | April 2      |
-> | Report snapshots for Power BI Premium                                  | April 2      |
+> | Feature                               | Date added |
+> |---------------------------------------|---------------|
+> | [Incremental data Refresh](power-bi/service/incremental-data-refresh.md)              | April 2    |
+> | [Query acceleration for large datasets](power-bi/service/query-acceleration-large-datasets.md) | April 2    |
+> | [Data metadata translations](power-bi/service/dataset-metadata-translations.md)            | April 2    |
+> | [Smart alerts](power-bi/service/smart-alerts.md)                          | April 2    |
+> | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)       | April 2    |
 
 
 ## Microsoft Flow
@@ -198,7 +220,7 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
-> | Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md           | Release date modified from May to June | May 1 |
+> | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)   | Release date modified from May to June | May 1 |
 
 ### Features added
 
@@ -216,33 +238,4 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------------------------------------------------------------------------------------------------------------|---------------|
 > | Public anonymous playback feature                                      | April 2   |
 
-## Power BI Service
 
-### Release date changes
-
-> [!div class="mx-tableFixed"]
-> | Feature                                                 | Change                                         | Change date  |
-> |---------------------------------------------------------|------------------------------------------------|--------------|
-> | [Incremental data refresh](power-bi/overview.md)         | Public Preview in May, not Generally Available | May 1 |
-> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1 |
-> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1 |
-
-### Features added
-
-> [!div class="mx-tableFixed"]
-> | Feature                               | Date added |
-> |---------------------------------------|---------------|
-> | Incremental data Refresh              | April 2    |
-> | Query acceleration for large datasets | April 2    |
-> | Data metadata translations            | April 2    |
-> | Smart alerts                          | April 2    |
-> | Workspaces with Azure AD groups       | April 2    |
-> | Export to PDF                         | April 2    |
-
-### Features removed
-
-> [!div class="mx-tableFixed"]
-> | Feature                               | Date removed |
-> |---------------------------------------|---------------|
-> | Slideshow mode                        | April 2  |
-> | Report snapshots for Power BI Premium | April 2  |
