@@ -20,6 +20,9 @@ audience: Admin
 
 ![Backdrop image 1](media/backdrop1.png)
 
+> [!TIP]
+> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
+
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
 
@@ -57,9 +60,7 @@ We’re looking forward to engaging with you as you put these new services and
 capabilities to work, and we’re eager to hear your feedback as you dig into the
 Spring ’18 release.
 
-Let us know your thoughts. <a href="mailto:releasenotes@microsoft.com">Send email to releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
+Let us know your thoughts. Send email to <a href="mailto:releasenotes@microsoft.com">releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
 
-> [!TIP]
-> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
 
 ![Backdrop image 2](media/backdrop2.png)
