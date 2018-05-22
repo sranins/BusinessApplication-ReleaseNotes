@@ -100,7 +100,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
 > | Dynamics 365 for Finance and Operations 8.0 with Platform Update 16 on-premises  | Generally Available in July, not in April | June 1 |
-> | [Upgrade automation](upgrade-automation.md)  | Public Preview in July, not Generally Available in April | June 1 |
+> | [Upgrade automation](dynamics365-finance-operations/upgrade-automation.md)  | Public Preview in July, not Generally Available in April | June 1 |
 
 ### Features added
 
