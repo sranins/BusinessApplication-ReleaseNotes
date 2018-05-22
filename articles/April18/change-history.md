@@ -3,7 +3,7 @@ title: Change history
 description: Change history
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: a08a8762-85b7-41bc-83e0-4380a38cf685
 ms.topic: article
 ms.prod:
@@ -26,14 +26,14 @@ This topic is updated when features are added, or when a feature's release date 
 
 ## Sales
 
-### Updated features
+### Feature descriptions updated
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date updated |
 > |---------|------------|
 > | [Built on the Unified Interface framework lists additional capabilities and solutions](dynamics365-sales/built-unified-interface-framework.md) | May 1   |
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date added |
@@ -41,7 +41,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md)  | May 1   |
 > | [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details | April 2  |
 
-### Features removed
+### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date removed |
@@ -50,7 +50,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ## Field Service
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                                                               | Date added |
@@ -67,7 +67,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md) | May 1   |
 > | [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)                                    | May 1   |
 
-### Features removed
+### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date removed |
@@ -102,7 +102,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | Dynamics 365 for Finance and Operations 8.0 with Platform Update 16 on-premises  | Generally Available in July, not in April | June 1 |
 > | [Upgrade automation](dynamics365-finance-operations/upgrade-automation.md)  | Public Preview in July, not Generally Available in April | June 1 |
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                                                                                                                                                                | Dated added   |
@@ -115,7 +115,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ## PowerApps
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date added |
@@ -132,7 +132,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1 |
 > | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1 |
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                               | Date added |
@@ -142,7 +142,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ## Power BI Desktop
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date added |
@@ -151,15 +151,15 @@ This topic is updated when features are added, or when a feature's release date 
 > | Incremental data refresh, May 18 General availability  | May 1      |
 > | [Filters on data view](power-bi/desktop/filtering-data-view.md), June '18 General Availability  | May 1      |
 
-### Features removed
+### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                                                       | Dated removed |
 > |---------------------------------------------------------------------------------------------------------------|---------------|
 > | Incremental Refresh Policies removed from April '18 General Availability                                      | May 1      |
-> | Matrix expand or collapse section removed from June '18 General Availability                                  | May 1      |
-> | Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability | May 1      |
-> | Performance inspector for reports section removed from June '18 General Availability                          | May 1      |
+> | Matrix expand or collapse removed from June '18 General Availability                                  | May 1      |
+> | Improve the results of Quick Insights with custom analysis removed from June '18 General Availability | May 1      |
+> | Performance inspector for reports removed from June '18 General Availability                          | May 1      |
 > | Slideshow mode                        | April 2  |
 > | Report snapshots for Power BI Premium | April 2  |
 
@@ -171,7 +171,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
 > | [Incremental data refresh](power-bi/service/incremental-data-refresh.md)  | Moved from May '18 General Availability to May '18 Public Preview | May 1 |
-> | Workspace search section  | Moved from June '18 General Availability to June '18 Public Preview | May 1 |
+> | Workspace search | Moved from June '18 General Availability to June '18 Public Preview | May 1 |
 > | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Incremental data refresh](power-bi/service/data-source-setup-improvements.md) | Moved to May ’18 – Public Preview | April 2 |
@@ -180,7 +180,8 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)  | Moved to June ’18 - Public Preview | April 2 |
 > | Export to PDF | Moved to Public Preview sometime between July and September | April 2 |
 
-### Features added
+### Features added to Release notes
+
 > [!div class="mx-tableFixed"]
 > | Feature                               | Date added |
 > |---------------------------------------|---------------|
@@ -193,7 +194,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ## Microsoft Flow
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                            | Dated added   |
@@ -222,16 +223,16 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------------------------------------------------------|------------------------------------------------|--------------|
 > | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)   | Release date modified from May to June | May 1 |
 
-### Features added
+### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature | Date added |
 > |---------|------------|
 > | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)  | May 1   |
 
-### Microsoft Stream
+## Microsoft Stream
 
-### Features removed
+### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                                                       | Dated removed |
