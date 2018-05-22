@@ -30,9 +30,6 @@ audience: Admin
     another resource, the travel time of all associated bookings will properly
     be recalculated.
 
--   Users will be able to view and group resources on the schedule board by job,
-    work type, crew, facility, and pool.
-
 -   Multi-Resource Scheduling, Crew Scheduling, and Pool scheduling are major
     new feature sets being introduced in Calcium. There will be market feedback
     and scenario completion we will be addressing after these features ship.
