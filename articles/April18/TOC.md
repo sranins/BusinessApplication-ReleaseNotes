@@ -1,8 +1,9 @@
 # [What's new in Business Applications](../index.md)
 # [Spring '18](release-overview.md)
+## [Change history](change-history.md)
 ## [GDPR compliance resources](gdpr.md)
 ## [Regional availability](availability.md)
-## [Change history](change-history.md)
+
 
 ## [Sales](dynamics365-sales/overview.md)
 ### [Summary of what’s new](dynamics365-sales/whats-new-sales.md)
