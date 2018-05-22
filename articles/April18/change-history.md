@@ -31,7 +31,7 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature | Date updated |
 > |---------|------------|
-> | Built on the Unified Interface framework lists additional capabilities and solutions | May 1   |
+> | [Built on the Unified Interface framework lists additional capabilities and solutions](dynamics365-sales/built-unified-interface-framework.md) | May 1   |
 
 ### Features added
 
