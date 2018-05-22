@@ -199,20 +199,23 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                                            | Dated added   |
 > |------------------------------------------------------------------------------------|---------------|
-> | [Create a business process flow](microsoft-flow/overview.md)                       | May 1      |
-> | [Business process flow entity customization](microsoft-flow/overview.md)           | May 1      |
-> | [Add an action to a business process flow](microsoft-flow/overview.md)             | May 1      |
-> | [Create a flow for Microsoft To-Do in Outlook Web App](microsoft-flow/overview.md) | May 1      |
-> | [Test your flow by using sample data](microsoft-flow/overview.md)                  | May 1      |
-> | [Quick access to help and support](microsoft-flow/overview.md)                     | May 1      |
-> | [Find errors in Apply to each](microsoft-flow/overview.md)                         | April 2 |
-> | [Approval reassignment](microsoft-flow/overview.md)                                | April 2  |
-> | [See details of a flow](microsoft-flow/overview.md)                                | April 2 |
-> | [United Kingdom region](microsoft-flow/overview.md)                                | April 2 |
-> | [New documentation landing page](microsoft-flow/overview.md)                       | April 2 |
-> | [Add multiple records to array inputs](microsoft-flow/overview.md)                 | April 2 |
-> | [Test flows with previous run data](microsoft-flow/overview.md)                    | April 2 |
-> | [Access flow details with the workflow expression](microsoft-flow/overview.md)     | April 2 |
+> | [Error details analytics](microsoft-flow/error-details-analytics.md)                       | May 15      |
+> | [Share flows with Office 365 groups](microsoft-flow/share-with-o365-groups.md)                       | May 15      |
+> | [SharePoint connector improvements](microsoft-flow/sharepoint-connector-improvements.md)                       | May 15      |
+> | [Create a business process flow](microsoft-flow/create-business-process-flow.md)                       | May 1      |
+> | [Business process flow entity customization](microsoft-flow/business-process-flow-entity-customization.md)           | May 1      |
+> | [Add an action to a business process flow](microsoft-flow/add-action-business-process-flow.md)             | May 1      |
+> | [Create a flow for Microsoft To-Do in Outlook Web App](microsoft-flow/create-flow-do-outlook-web-app.md) | May 1      |
+> | [Test your flow by using sample data](microsoft-flow/test-flow-using-sample-data.md)                  | May 1      |
+> | [Quick access to help and support](microsoft-flow/quick-access-help-support.md)                     | May 1      |
+> | [Find errors in Apply to each](microsoft-flow/find-errors-apply-each.md)                         | April 2 |
+> | [Approval reassignment](microsoft-flow/approval-reassignment.md)                                | April 2  |
+> | [See details of a flow](microsoft-flow/see-details-flow.md)                                | April 2 |
+> | [United Kingdom region](microsoft-flow/united-kingdom-region.md)                                | April 2 |
+> | [New documentation landing page](microsoft-flow/new-documentation-landing-page.md)                       | April 2 |
+> | [Add multiple records to array inputs](microsoft-flow/add-multiple-records-array-inputs.md)                 | April 2 |
+> | [Test flows with previous run data](microsoft-flow/test-flows-previous-run-data.md)                    | April 2 |
+> | [Access flow details with the workflow expression](microsoft-flow/access-flow-details-workflow-expression.md)     | April 2 |
 
 ## Data Integration
 
