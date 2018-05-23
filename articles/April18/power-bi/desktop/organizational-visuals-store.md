@@ -4,7 +4,7 @@ title: Organizational visuals store
 description: Power BI admins can deploy visuals as part of an organizational repository.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 4951632c-43ab-4d84-8bcc-e5c8c939a41e
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Relationship analytics
 description: Relationship analytics
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 7ed2600e-b834-40e5-94ce-e8c4b7802cbf
 ms.topic: article
 ms.prod: 

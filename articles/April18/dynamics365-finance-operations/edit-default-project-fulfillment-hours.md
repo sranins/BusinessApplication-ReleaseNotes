@@ -4,7 +4,7 @@ title: Edit default project fulfillment hours
 description: The project resource manager can view and edit the default hours as part of the project booking fulfillment process.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 20c79f38-1545-4737-a443-3ea996da452c
 ms.topic: article
 ms.prod: 

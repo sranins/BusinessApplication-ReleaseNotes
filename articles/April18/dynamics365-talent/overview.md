@@ -4,7 +4,7 @@ title: Dynamics 365 for Talent
 description: Dynamics 365 for Talent
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 5231ca94-4a45-49ca-936f-3482f72abdbb
 ms.topic: article
 ms.prod: 

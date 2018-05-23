@@ -4,7 +4,7 @@ title: One voucher deprecation
 description: One voucher deprecation
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8b21b831-a9eb-4177-845e-1349a497d546
 ms.topic: article
 ms.prod: 

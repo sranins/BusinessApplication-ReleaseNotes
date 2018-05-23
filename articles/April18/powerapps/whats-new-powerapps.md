@@ -4,7 +4,7 @@ title: Spring '18 summary of what's new in PowerApps
 description: Spring '18 summary of what's new in PowerApps
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 0ae591cd-d3de-4465-bb33-c3f8177158d2
 ms.topic: article
 ms.prod: 

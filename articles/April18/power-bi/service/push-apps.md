@@ -4,7 +4,7 @@ title: Push apps
 description: Push apps
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 4f347da9-a6a5-447c-8db9-248849a9732f
 ms.topic: article
 ms.prod: 

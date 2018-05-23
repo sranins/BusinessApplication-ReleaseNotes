@@ -4,7 +4,7 @@ title: Create a flow for Microsoft To-Do in Outlook Web App
 description: Create a flow for Microsoft To-Do in Outlook Web App
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: b91a6e62-1ad1-48ab-a7a3-e4c44828499d
 ms.topic: article
 ms.prod: 

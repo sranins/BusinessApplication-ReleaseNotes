@@ -4,7 +4,7 @@ title: Pin from apps to dashboard
 description: You can use dashboards to combine information from other shared dashboards, reports, or apps to create a 360-degree view.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 03ebcf9c-5a78-46c5-8e1b-0a4af7aab855
 ms.topic: article
 ms.prod: 

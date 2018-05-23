@@ -4,7 +4,7 @@ title: Repair recommendations sent in email for failed flows
 description: Enable email notifications to detect flow failures.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 76937e63-4fcd-4788-aaa7-64765555d2e8
 ms.topic: article
 ms.prod: 

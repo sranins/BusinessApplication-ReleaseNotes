@@ -4,7 +4,7 @@ title: Dynamics 365 for Talent   Attract
 description: Dynamics 365 for Talent   Attract
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 3f51d6b4-a0fa-45c1-8cf0-4da4986076fb
 ms.topic: article
 ms.prod: 

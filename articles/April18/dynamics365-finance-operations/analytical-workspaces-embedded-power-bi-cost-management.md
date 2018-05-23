@@ -4,7 +4,7 @@ title: Analytical workspaces with embedded Power BI for Cost management
 description: If you are an Operations Manager or a cost accountant who wants to optimize your supply chain performance as well as manage costs, Analytical workspaces in Cost management provide you with the deep insights necessary for your role.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 16c621a9-a1f3-4240-af27-fe74e9a3c0c1
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Conditional formatting based on another column
 description: Conditional formatting based on another column
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 7957e86f-b093-48d5-89e7-d8a8bde818a4
 ms.topic: article
 ms.prod: 

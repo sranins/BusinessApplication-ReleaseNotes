@@ -4,7 +4,7 @@ title: Payments
 description: Payments
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: c87febd0-ebc1-4bd6-9e98-4191ae4f3a2a
 ms.topic: article
 ms.prod: 

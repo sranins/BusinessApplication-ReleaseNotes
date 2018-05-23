@@ -4,7 +4,7 @@ title: Dynamics 365 for Retail
 description: Dynamics 365 for Retail
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 56f88ebd-505f-4761-a401-eadefab8e4c6
 ms.topic: article
 ms.prod: 

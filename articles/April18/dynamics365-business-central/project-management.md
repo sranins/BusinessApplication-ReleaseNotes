@@ -4,7 +4,7 @@ title: Project management
 description: Project management
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 373fb958-7ea1-4d6f-87c4-ccd2769192e7
 ms.topic: article
 ms.prod: 

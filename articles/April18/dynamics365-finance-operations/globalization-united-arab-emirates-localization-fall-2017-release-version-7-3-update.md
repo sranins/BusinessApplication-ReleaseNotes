@@ -4,7 +4,7 @@ title: Globalization   United Arab Emirates localization for Fall 2017 release  
 description: Globalization   United Arab Emirates localization for Fall 2017 release  version 7.3 update 
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 0eba6a7a-2ea4-42ca-abf9-ad75ca8fe89c
 ms.topic: article
 ms.prod: 

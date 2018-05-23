@@ -4,7 +4,7 @@ title: Financial management
 description: Financial management
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: de97400d-0996-460a-bd5c-60c59c2aeea4
 ms.topic: article
 ms.prod: 

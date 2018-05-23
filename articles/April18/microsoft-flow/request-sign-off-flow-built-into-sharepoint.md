@@ -4,7 +4,7 @@ title: Request for sign-off flow built into SharePoint
 description: Request for sign-off flow built into SharePoint
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: a99a7d09-d394-4936-935e-7acd9eef79f5
 ms.topic: article
 ms.prod: 

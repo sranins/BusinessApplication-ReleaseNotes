@@ -4,7 +4,7 @@ title: Dynamics 365 for Customer Service
 description: Dynamics 365 for Customer Service
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8036b7ff-ba74-4480-9eec-b44e23e411ca
 ms.topic: article
 ms.prod: 

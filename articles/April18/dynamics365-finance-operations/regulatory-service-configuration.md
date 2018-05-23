@@ -4,7 +4,7 @@ title: Regulatory service   Configuration
 description: Regulatory service   Configuration   Public Preview 
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d3e03d26-189a-4770-82e2-64144f3bdb0e
 ms.topic: article
 ms.prod: 

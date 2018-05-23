@@ -4,7 +4,7 @@ title: Edit transcripts and curate the people timeline
 description: Microsoft Stream generates automatic transcripts for videos by using AI to convert speech to text.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 3e1a2669-a05e-4e72-a075-eba183a92647
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Phased embedding
 description: Load the embedded content in the background to improve performance and get metadata on the object.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: c4d9e765-b76e-4a9f-a253-44d620b64e51
 ms.topic: article
 ms.prod: 

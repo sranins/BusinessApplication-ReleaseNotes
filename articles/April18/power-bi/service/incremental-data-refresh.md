@@ -4,7 +4,7 @@ title: Incremental data refresh
 description: Organizations can use incremental data refresh to scale datasets to even larger sizes.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 06759dd4-34ee-4503-b565-4feefdddb667
 ms.topic: article
 ms.prod: 

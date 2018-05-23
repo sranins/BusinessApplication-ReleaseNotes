@@ -4,7 +4,7 @@ title: SQL Server Reporting Services  SSRS  reports for Power BI Premium
 description: SQL Server Reporting Services  SSRS  reports for Power BI Premium
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 0fa2db97-86ba-469d-9d2c-e52e57047995
 ms.topic: article
 ms.prod: 

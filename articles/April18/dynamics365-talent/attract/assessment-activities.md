@@ -4,7 +4,7 @@ title: Assessment activities
 description: Hiring managers and recruiters can add an assessment activity to the hiring process.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 3b36616e-06bb-42e5-834e-b7e41a8698fa
 ms.topic: article
 ms.prod: 

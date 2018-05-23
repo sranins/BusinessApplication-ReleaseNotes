@@ -4,7 +4,7 @@ title: To add a list or library as a run-only user
 description: To add a list or library as a run-only user
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 4aeb6a9a-06fb-4dab-b0b6-7ab7a4238236
 ms.topic: article
 ms.prod: 

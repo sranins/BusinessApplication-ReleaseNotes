@@ -4,7 +4,7 @@ title: Workspaces with Azure AD groups
 description: Power BI workspaces have their own roles and permissions that are separate from Office 365 groups, and which enable control over management of workspaces.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 46cbb5ab-5f5e-49e9-b3b2-7b3950993df4
 ms.topic: article
 ms.prod: 

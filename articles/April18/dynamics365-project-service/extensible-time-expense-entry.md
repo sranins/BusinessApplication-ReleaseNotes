@@ -4,7 +4,7 @@ title: Extensible time and expense entry
 description: Extensible time and expense entry
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 5dc6f5c6-3947-4aec-9af3-773545f367d2
 ms.topic: article
 ms.prod: 

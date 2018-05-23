@@ -4,7 +4,7 @@ title: Modern user experience
 description: Modern user experience
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 419450c8-c889-496f-a098-07b14ac9cece
 ms.topic: article
 ms.prod: 

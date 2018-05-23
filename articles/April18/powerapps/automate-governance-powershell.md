@@ -4,7 +4,7 @@ title: Automate governance with PowerShell
 description: Automate governance with PowerShell
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 26ff8349-3326-45fa-8751-23051a2b0945
 ms.topic: article
 ms.prod: 

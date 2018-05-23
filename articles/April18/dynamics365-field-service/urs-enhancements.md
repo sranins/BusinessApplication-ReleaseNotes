@@ -4,7 +4,7 @@ title: Universal Resource Scheduling enhancements
 description: Universal Resource Scheduling enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 36c43000-4385-4bbd-8d35-244c99be575e
 ms.topic: article
 ms.prod: 

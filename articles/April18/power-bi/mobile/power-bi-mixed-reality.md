@@ -4,7 +4,7 @@ title: Power BI for mixed reality
 description: A preview release of Power BI for Mixed Reality targeted to first line task workers.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: c86f7243-a381-4a72-8108-c9b16aa33a71
 ms.topic: article
 ms.prod: 
