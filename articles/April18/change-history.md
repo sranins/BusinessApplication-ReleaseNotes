@@ -74,6 +74,15 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------|------------|
 > | FBX from list of supported file formats for 3D models | April 2   |
 
+## Social Engagement
+
+### Features added to Release notes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                               | Date added |
+> |-----------------------------------------------------------------------------------------------------------------------|------------|
+> | [Social Insights from Social Engagement](microsoft-social-engagement/social-insights.md)                                                                               | June 1   |
+
 ## Talent
 
 ### Release date changes
