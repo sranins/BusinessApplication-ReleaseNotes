@@ -4,7 +4,7 @@ title: Power BI Insights apps
 description: Deliver out-of-box insights tailored to specific business scenarios across marketing, sales, service, finance, operations, and talent management.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8f242904-34b7-4a81-bcfc-b1c9b40bbc20
 ms.topic: article
 ms.prod: 

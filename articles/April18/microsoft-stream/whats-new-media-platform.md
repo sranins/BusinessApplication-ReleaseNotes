@@ -4,7 +4,7 @@ title: Spring ’18 summary of what’s new in Media Platform
 description: Spring ’18 summary of what’s new in Media Platform
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: e558a3d9-b136-444b-b342-d97fabca9965
 ms.topic: article
 ms.prod: 

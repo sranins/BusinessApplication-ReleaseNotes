@@ -4,7 +4,7 @@ title: Voice of the Customer  VoC
 description: Voice of the Customer  VoC 
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 236d8253-e3f4-4388-9a3d-cb8d19f7d3a8
 ms.topic: article
 ms.prod: 

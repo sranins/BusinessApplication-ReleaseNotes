@@ -4,7 +4,7 @@ title: Enable self-troubleshooting
 description: Self-troubleshooting makes it easier for administrators and survey designers to identify issues with the configuration of surveys.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 48d1de1c-aedc-48bf-b4d3-1dd45fe8fbce
 ms.topic: article
 ms.prod: 

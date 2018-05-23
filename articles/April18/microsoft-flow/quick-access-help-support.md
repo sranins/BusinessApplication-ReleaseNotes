@@ -4,7 +4,7 @@ title: Quick access to help and support
 description: Quick access to help and support
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: f5088211-0ee6-4079-adf8-cf50f17e6309
 ms.topic: article
 ms.prod: 

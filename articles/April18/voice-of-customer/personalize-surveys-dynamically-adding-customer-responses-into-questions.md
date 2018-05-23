@@ -4,7 +4,7 @@ title: Personalize surveys by dynamically adding customer responses into questio
 description: Personalize a survey by inserting the response to a question into subsequent questions and response option texts, using the Answer Tag field.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 279f5842-bc70-458e-98c6-51e2bd0c0c0d
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Spring '18 summary of what's new in Retail
 description: Spring '18 summary of what's new in Retail
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 07a5434a-4ddd-472b-b6e6-53ddb0d3e7b9
 ms.topic: article
 ms.prod: 

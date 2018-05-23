@@ -4,7 +4,7 @@ title: Schedule board list view
 description: Schedule board list view
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 99a65c25-e4da-4e4c-a283-331e7a9a66cd
 ms.topic: article
 ms.prod: 

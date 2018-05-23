@@ -4,7 +4,7 @@ title: Manufacturing
 description: Manufacturing
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 7009b50e-cbe3-45ee-9aa3-4a37a852c854
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Server-side logic for validation
 description: Server-side logic for validation
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: cb5c457d-a658-4c6c-a452-bcf9e399d99d
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Credit and collections overview
 description: Credit and collections overview
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: e9c67f44-aa63-41ad-b163-72cfde80d02b
 ms.topic: article
 ms.prod: 

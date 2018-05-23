@@ -4,7 +4,7 @@ title: Contextual filtering of reason codes
 description: This feature lets users configure reason codes for hire, transfer, termination, and compensation processes.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d841ee7f-7185-4640-80e0-c2ccfeda61dc
 ms.topic: article
 ms.prod: 

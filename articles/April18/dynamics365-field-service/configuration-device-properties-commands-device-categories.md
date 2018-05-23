@@ -4,7 +4,7 @@ title: Configuration of device properties and commands through device categories
 description: When IoT devices are registered, connected, and configured in Azure IoT hub, Connected Field Service is able to retrieve properties and configurations from device twins.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 725d92cf-fbde-4867-a48b-da2fefaa2925
 ms.topic: article
 ms.prod: 

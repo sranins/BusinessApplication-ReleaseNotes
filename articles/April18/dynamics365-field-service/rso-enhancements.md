@@ -4,7 +4,7 @@ title: Resource Scheduling Optimization  RSO  enhancements
 description: Resource Scheduling Optimization  RSO  enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 2adf70fd-083b-4271-b172-3ff7f5bfb726
 ms.topic: article
 ms.prod: 

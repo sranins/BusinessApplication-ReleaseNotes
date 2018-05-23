@@ -4,7 +4,7 @@ title: Customizations through extensions only
 description: Customizations through extensions only
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 495e7b6f-b2de-44f0-9791-f0544b05ad5a
 ms.topic: article
 ms.prod: 

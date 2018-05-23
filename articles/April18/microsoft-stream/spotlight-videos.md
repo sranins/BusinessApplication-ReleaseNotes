@@ -4,7 +4,7 @@ title: Spotlight videos
 description: Spotlighting capability enables admins to highlight videos on the Stream home page to get the broadest reach.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 72b811e0-a85a-473a-81bd-9162c1ecb2d0
 ms.topic: article
 ms.prod: 

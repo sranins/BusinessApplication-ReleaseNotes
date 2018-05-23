@@ -4,7 +4,7 @@ title: Reason codes added to warehouse counting and adjustment
 description: Reason codes added to warehouse counting and adjustment
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 9c77c9f3-e648-43a9-8bb4-e0796c82b89f
 ms.topic: article
 ms.prod: 

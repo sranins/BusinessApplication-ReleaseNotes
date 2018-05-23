@@ -4,7 +4,7 @@ title: Default dates
 description: Dates are no longer completed by default for hire, transfer, and termination processes.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 0506e817-e48f-48dd-9ef1-13a2166d3f8b
 ms.topic: article
 ms.prod: 

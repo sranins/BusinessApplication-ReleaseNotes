@@ -4,7 +4,7 @@ title: "Spring '18 Release Overview"
 description: "Learn what's new in the Dynamics 365 business applications and platforms Spring '18 release."
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: b61a8f81-2d14-4c00-9f3f-ef613b9e8c2c
 ms.topic: article
 ms.prod: 

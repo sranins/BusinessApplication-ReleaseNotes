@@ -4,7 +4,7 @@ title: Bookmarks support
 description: An application can apply bookmarks on the embedded report and control its UI elements through APIs.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 0d9a1fa0-73ba-431a-a90e-584c7e5facae
 ms.topic: article
 ms.prod: 

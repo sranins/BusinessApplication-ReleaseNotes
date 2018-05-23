@@ -4,7 +4,7 @@ title: Availability
 description: Availability
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 218111f7-0da2-438d-ad06-75f61927b2a6
 ms.topic: article
 ms.prod: 

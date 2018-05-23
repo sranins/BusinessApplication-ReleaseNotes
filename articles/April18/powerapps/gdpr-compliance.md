@@ -4,7 +4,7 @@ title: GDPR compliance
 description: GDPR compliance
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8a95db9b-9d28-4714-9d56-646b3d3e7790
 ms.topic: article
 ms.prod: 

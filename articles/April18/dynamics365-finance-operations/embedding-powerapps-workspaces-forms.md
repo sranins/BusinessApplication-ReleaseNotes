@@ -4,7 +4,7 @@ title: Embedding PowerApps in workspaces and forms
 description: We have added support for embedding PowerApps in Finance and Operations workspaces and forms.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: dd712958-9f92-4070-9dfb-63bbca62aff4
 ms.topic: article
 ms.prod: 

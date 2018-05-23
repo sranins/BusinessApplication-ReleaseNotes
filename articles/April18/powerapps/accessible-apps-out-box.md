@@ -4,7 +4,7 @@ title: Accessible apps out of the box
 description: Model-driven apps are metadata-driven.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: b5da407e-1acf-43fc-b06a-7e8e49aa85f6
 ms.topic: article
 ms.prod: 

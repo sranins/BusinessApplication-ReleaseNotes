@@ -4,7 +4,7 @@ title: Single sign-on  SSO  for Azure SQL database
 description: Single sign-on  SSO  for Azure SQL database
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 543548f3-a642-4552-8c0d-a4a6b7c036d1
 ms.topic: article
 ms.prod: 

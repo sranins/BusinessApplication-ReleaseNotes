@@ -4,7 +4,7 @@ title: Vendor collaboration   RFQ process
 description: Vendor collaboration   RFQ process
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 1490c975-253a-48b0-ba94-8e0ea85196b5
 ms.topic: article
 ms.prod: 

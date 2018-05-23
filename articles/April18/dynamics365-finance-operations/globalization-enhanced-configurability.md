@@ -4,7 +4,7 @@ title: Globalization   Enhanced configurability
 description: Configurability of globalization features lets partners and customers do customizations without coding.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8cc01064-e975-451d-9ab1-87428f3bc849
 ms.topic: article
 ms.prod: 

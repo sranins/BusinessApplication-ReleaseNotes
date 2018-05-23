@@ -4,7 +4,7 @@ title: Integration with Dynamics 365 for Field Service
 description: Data integration supports scenarios where Field Service activities are done outside Finance and Operations.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 3344f8f0-2ef0-4239-a79a-879198aaccfd
 ms.topic: article
 ms.prod: 

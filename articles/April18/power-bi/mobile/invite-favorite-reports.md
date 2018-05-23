@@ -4,7 +4,7 @@ title: Invite and favorite reports
 description: Users can share reports from the mobile app, similar to the way they share dashboards.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8b8dac2f-5163-48bf-a2c6-70307c71a5e6
 ms.topic: article
 ms.prod: 

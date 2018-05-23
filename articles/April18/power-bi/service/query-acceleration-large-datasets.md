@@ -4,7 +4,7 @@ title: Query acceleration for large datasets
 description: Query acceleration for large datasets
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 04524b66-4727-4ce6-9cca-2b1439428497
 ms.topic: article
 ms.prod: 

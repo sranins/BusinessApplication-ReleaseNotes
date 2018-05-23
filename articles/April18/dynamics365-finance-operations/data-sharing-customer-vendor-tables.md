@@ -4,7 +4,7 @@ title: Data sharing for customer and vendor tables
 description: You can share the customer and vendor tables and many related tables across multiple legal entities.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d82dbc15-6776-4887-998e-746c22faefc3
 ms.topic: article
 ms.prod: 
