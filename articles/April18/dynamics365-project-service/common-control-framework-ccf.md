@@ -4,7 +4,7 @@ title: Common Control Framework  CCF
 description: Common Control Framework  CCF 
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: be70957c-c1c0-44ab-8311-57e88ee294dd
 ms.topic: article
 ms.prod: 

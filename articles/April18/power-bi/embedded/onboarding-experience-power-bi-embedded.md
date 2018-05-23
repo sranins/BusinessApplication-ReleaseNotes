@@ -4,7 +4,7 @@ title: Onboarding experience for Power BI Embedded
 description: Setting up a new environment to develop and deploy Power BI Embedded involved defining and configuring several entities.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d6e74a8f-761d-40d8-ab42-721a2ecf7028
 ms.topic: article
 ms.prod: 

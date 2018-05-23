@@ -4,7 +4,7 @@ title: Field Service app enhancements
 description: The Field Service app works in tandem with the customer service application to help organizations manage field-based service teams.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d0374e4e-bef5-4d45-ae72-4bdbc7c3032e
 ms.topic: article
 ms.prod: 

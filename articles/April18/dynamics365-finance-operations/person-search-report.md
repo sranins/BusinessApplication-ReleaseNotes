@@ -4,7 +4,7 @@ title: Person search report
 description: The Person search report lets you find a person and their personal data in Finance and Operations.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 91d2aebb-f7e1-4a7d-b8cd-c402bccae013
 ms.topic: article
 ms.prod: 

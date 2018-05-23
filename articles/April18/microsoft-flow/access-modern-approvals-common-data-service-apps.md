@@ -4,7 +4,7 @@ title: Access modern approvals in the Common Data Service for Apps
 description: Modern approvals data in Flow is now built on the latest version of the Common Data Service for Apps.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: c952425e-ed5f-4595-82a6-c926e6579abf
 ms.topic: article
 ms.prod: 

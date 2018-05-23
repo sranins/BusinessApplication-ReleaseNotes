@@ -4,7 +4,7 @@ title: Canvas apps support storing up to 20 MB of data locally on Android and iO
 description: Canvas apps support storing up to 20 MB of data locally on Android and iOS
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 45778239-2729-4440-89e0-470bba2b2b8c
 ms.topic: article
 ms.prod: 

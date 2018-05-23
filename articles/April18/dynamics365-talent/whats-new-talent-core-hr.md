@@ -4,7 +4,7 @@ title: Spring '18 summary of what's new in Talent - Core HR
 description: Spring '18 summary of what's new in Talent - Core HR
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: ee763fd8-3267-42a9-ab6c-b0042b1f5447
 ms.topic: article
 ms.prod: 

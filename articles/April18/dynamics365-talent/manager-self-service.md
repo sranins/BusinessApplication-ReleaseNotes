@@ -4,7 +4,7 @@ title: Manager self-service
 description: Manager self-service
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: f718f061-015c-4ed1-9c3e-a3f0d28a497f
 ms.topic: article
 ms.prod: 

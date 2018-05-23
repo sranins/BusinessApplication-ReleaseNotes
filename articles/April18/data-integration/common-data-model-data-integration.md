@@ -4,7 +4,7 @@ title: Common Data Model and Data Integration
 description: The Common Data Model is an open-source definition of standard entities that represent commonly used concepts and activities across a variety of business and application domains.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 473bd5a5-0f7f-4524-8325-3fb0d2c1bb2d
 ms.topic: article
 ms.prod: 

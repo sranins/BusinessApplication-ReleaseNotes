@@ -4,7 +4,7 @@ title: Mobile layout support
 description: Reports and dashboard support layouts are optimized to consume on mobile devices.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 15322cc3-bd97-4778-a65b-fd2e6b7d7cc1
 ms.topic: article
 ms.prod: 

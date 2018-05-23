@@ -4,7 +4,7 @@ title: Display more on the schedule board by adjusting the scale
 description: Users can adjust the scale of the schedule board to decrease the width of the columns.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 207873e6-a4bc-4a0b-b517-d01cd3b65729
 ms.topic: article
 ms.prod: 

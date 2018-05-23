@@ -4,7 +4,7 @@ title: User experiences for Q A in reports
 description: User experiences for Q A in reports
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d0eaf9fd-1ad7-470a-bc20-7bb2cc1c8925
 ms.topic: article
 ms.prod: 

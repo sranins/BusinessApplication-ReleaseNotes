@@ -4,7 +4,7 @@ title: Globalization  Retail localization for India
 description: Globalization  Retail localization for India
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 6dec8f76-56de-4267-b090-d9db43f1b85f
 ms.topic: article
 ms.prod: 

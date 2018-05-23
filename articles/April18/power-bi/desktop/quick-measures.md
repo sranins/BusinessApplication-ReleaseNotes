@@ -4,7 +4,7 @@ title: Quick measures
 description: Quick measures
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: ba978893-7d6f-4551-b56e-1863cc283c80
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Leverage the booking panel for multiday drag-and-drop scheduling
 description: Our latest investment is moving interactions to the booking panel and shifting away from pop-ups for creating bookings.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 90700c30-1263-4cd0-840d-47479e154043
 ms.topic: article
 ms.prod: 

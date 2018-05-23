@@ -4,7 +4,7 @@ title: PowerApps
 description: PowerApps is the high-productivity application development platform from Microsoft.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: f2c29205-3e32-4f76-802a-b0d880c9d45b
 ms.topic: article
 ms.prod: 

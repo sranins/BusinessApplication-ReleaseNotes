@@ -4,7 +4,7 @@ title: Mobile player for model driven apps
 description: Mobile player for model driven apps
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 63749da7-722d-4598-a20c-106f3c6f6262
 ms.topic: article
 ms.prod: 

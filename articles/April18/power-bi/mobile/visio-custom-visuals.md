@@ -4,7 +4,7 @@ title: Visio custom visuals
 description: You can use the Visio custom visual to visualize data using Microsoft Visio diagrams from within Power BI dashboards and reports.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: cb63dc8e-429d-4b51-8dee-0be3ac3349a5
 ms.topic: article
 ms.prod: 

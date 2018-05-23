@@ -4,7 +4,7 @@ title: New and improved connectors for Power BI
 description: Connectors provide direct access to a wide range of data sources in Power BI.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

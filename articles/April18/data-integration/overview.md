@@ -4,7 +4,7 @@ title: Data Integration
 description: Data Integration provides the connectors and gateways that make it possible to bring any external data into the Common Data Service (CDS) and store the data in Common Data Model (CDM) form.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 754121db-530b-49f9-8150-3ddc77bd32a5
 ms.topic: article
 ms.prod: 

@@ -4,7 +4,7 @@ title: Share and favorite reports
 description: When you share a dashboard, related resources added to the dashboard are also shared.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 3e272f6a-b5ed-478b-98a6-c740150aa2d4
 ms.topic: article
 ms.prod: 

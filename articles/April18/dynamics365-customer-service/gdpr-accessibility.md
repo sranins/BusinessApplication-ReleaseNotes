@@ -4,7 +4,7 @@ title: GDPR and accessibility
 description: GDPR and accessibility
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 699e9b0a-a7b5-4f2b-8ef7-f10a0bd5315f
 ms.topic: article
 ms.prod: 

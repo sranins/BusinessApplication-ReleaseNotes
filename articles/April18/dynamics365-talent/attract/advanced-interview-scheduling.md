@@ -4,7 +4,7 @@ title: Advanced interview scheduling
 description: Advanced interview scheduling makes it easier to manage multi-day interviews, handle last-minute interviewer replacement, and provide improved communication throughout the scheduling process.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: e3eeb3ef-5386-4ec2-993a-300f2417fa3d
 ms.topic: article
 ms.prod: 

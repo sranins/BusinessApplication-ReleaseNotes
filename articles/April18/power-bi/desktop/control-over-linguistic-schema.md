@@ -4,7 +4,7 @@ title: Control over linguistic schema
 description: Control over linguistic schema
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: bb41ef13-61a9-4e5a-a1de-0725ea31d730
 ms.topic: article
 ms.prod: 

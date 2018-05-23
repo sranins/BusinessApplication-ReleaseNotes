@@ -4,7 +4,7 @@ title: Renewal of authentication key
 description: Renewal of authentication key
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d3178ee9-d9dd-43e8-990e-7cb4538b413e
 ms.topic: article
 ms.prod: 

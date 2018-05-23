@@ -4,7 +4,7 @@ title: Available for US Government customers
 description: Available for US Government customers
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 8f0795a7-a643-4afa-b22b-e519830e8f4f
 ms.topic: article
 ms.prod: 

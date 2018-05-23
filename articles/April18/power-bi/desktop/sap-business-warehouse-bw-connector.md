@@ -4,7 +4,7 @@ title: SAP Business Warehouse  BW  connector
 description: SAP Business Warehouse  BW  connector
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 398b6bf5-9008-4b30-b97d-23ba72d05ff3
 ms.topic: article
 ms.prod: 

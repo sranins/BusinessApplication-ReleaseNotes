@@ -4,7 +4,7 @@ title: Koru
 description: Koru
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 9d677f81-1945-402a-916d-79a453587579
 ms.topic: article
 ms.prod: 

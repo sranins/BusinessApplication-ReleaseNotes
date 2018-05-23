@@ -4,7 +4,7 @@ title: Schedule board extensibility enhancements
 description: Schedule board extensibility enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 6142f0e7-83af-4f58-98d6-ecf083ac9577
 ms.topic: article
 ms.prod: 

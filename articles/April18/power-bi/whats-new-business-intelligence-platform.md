@@ -4,7 +4,7 @@ title: Spring '18 summary of what's new in Business Intelligence Platform
 description: Spring '18 summary of what's new in Business Intelligence Platform
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 294c79bd-058b-46f6-a825-b0c128ce21ec
 ms.topic: article
 ms.prod: 

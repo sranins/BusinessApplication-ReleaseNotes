@@ -4,7 +4,7 @@ title: Integration with the Common Data Service for Apps and the Common Data Ser
 description: Business users can load data from a wide range of data sources (including other CRM instances) into the Common Data Service for Apps and the Common Data Service for Analytics, visually map entities and fields, and, schedule data refreshes.
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: d22659a0-4514-4749-9757-b0926a6756df
 ms.topic: article
 ms.prod: 

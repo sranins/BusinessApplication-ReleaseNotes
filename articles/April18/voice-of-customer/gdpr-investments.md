@@ -4,7 +4,7 @@ title: GDPR investments
 description: GDPR investments
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: e16f888f-a9a7-454d-8c58-8421e259d893
 ms.topic: article
 ms.prod: 

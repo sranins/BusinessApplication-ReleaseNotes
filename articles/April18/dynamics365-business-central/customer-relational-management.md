@@ -4,7 +4,7 @@ title: Customer relational management
 description: Customer relational management
 author: MargoC
 manager: AnnBe
-ms.date: 05/01/2018
+ms.date: 06/01/2018
 ms.assetid: 5e9fa703-7ed7-43aa-b8a8-c8dcf1366f51
 ms.topic: article
 ms.prod: 
