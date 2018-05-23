@@ -130,7 +130,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | Feature | Date added |
 > |---------|------------|
 > | Drill-through on measures, May 18 General availability  | May 1      |
-> | [Conditional formatting](powerbi/desktop/conditional-formatting-based-another-column.md), May 18 General availability  | May 1      |
+> | [Conditional formatting](power-bi/desktop/conditional-formatting-based-another-column.md), May 18 General availability  | May 1      |
 > | Incremental data refresh, May 18 General availability  | May 1      |
 > | [Filters on data view](power-bi/desktop/filtering-data-view.md), June '18 General Availability  | May 1      |
 
@@ -156,7 +156,7 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Smart alerts](power-bi/service/smart-alerts.md)  | Moved to Public Preview sometime between July and September | June 1 |
 > | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)  | Moved to June ’18 - Public Preview | June 1 |
 > | Workspace search | Moved to Public Preview sometime between July and September | June 1 |
-> |[SSRS reports for Power BI Premium](powerbi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md)| Moved to Public Preview sometime between July and September|June 1|
+> |[SSRS reports for Power BI Premium](power-bi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md)[| Moved to Public Preview sometime between July and September|June 1|
 > | [Incremental data refresh](power-bi/service/incremental-data-refresh.md)  | Moved from May '18 General Availability to May '18 Public Preview | May 1 |
 > | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md)  | Moved to Public Preview sometime between July and September | May 1 |
