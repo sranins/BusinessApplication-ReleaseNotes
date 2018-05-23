@@ -36,7 +36,7 @@ audience: Admin
 
 ### Extensibility and customization
 
-- [Customizations through extensions only](customizations-extensions-only.md .md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
+- [Customizations through extensions only](customizations-extensions-only.md) - Migrating customizations from one release to the next has been simplified by moving away from over-layering to the use of extensions.
 - [Extensibility requests](extensibility-requests.md) - Customers can submit a request to Microsoft for extension support to be added to the product for a needed scenario. The Spring '18 release enhances this feature by moving it to Lifecycle Services.
 - [Embedding PowerApps in workspaces and forms](embedding-powerapps-workspaces-forms.md) - Use PowerApps to embed data from external sources into Finance and Operations data.
 - [Custom fields](custom-fields.md) - Organizations can add custom fields to tailor their application to their business requirements, using a no-code extensibility experience.
@@ -59,7 +59,7 @@ audience: Admin
 - [Immediate replenishment of locations](immediate-replenishment-locations.md) - Used during wave execution if allocation fails for a location directive line that has a replenishment template.
 - [Reason codes added to warehouse counting and adjustment](reason-codes-added-warehouse-counting-adjustment.md) - Users can add a reason code when performing counts and when making an adjustment.
 - [Batch balancing enabled for advanced warehousing processes](batch-balancing-enabled-advanced-warehousing-processes.md).
-- [Analytical workspaces with embedded Power BI for Cost management](one-voucher-deprecation.md) – new Cost administration and Cost analysis workspaces.
+- [Analytical workspaces with embedded Power BI for Cost management](one-voucher-deprecation.md) – New Cost administration and Cost analysis workspaces.
 
 ### Globalization
 
