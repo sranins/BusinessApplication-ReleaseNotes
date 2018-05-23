@@ -20,6 +20,7 @@ audience: Admin
 
 These compliance-related enhancements are available in the April 18 – General Availability release.
 
+<!--Note to author: Should it be "Enhancements address" instead of "Investments address"?-->
 - General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
 
 - Accessibility enhancements - [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)
