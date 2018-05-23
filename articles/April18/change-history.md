@@ -105,7 +105,7 @@ This topic is updated when features are added, or when a feature's release date 
 ### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
-> | Feature                                                                                                                                                                                                                | Dated added   |
+> | Feature                                                                                                                                                                                                                | Date added   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 > | [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md) | May 1   |
 > | [Create actuals in Project Service Automation and synchronize them to the Finance and Operations integration journal](dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)            | May 1   |
@@ -122,24 +122,6 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------|------------|
 > | [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md) | May 1 |
 
-## Power BI
-
-### Release date changes
-
-> [!div class="mx-tableFixed"]
-> | Feature                                                 | Change                                         | Change date  |
-> |---------------------------------------------------------|------------------------------------------------|--------------|
-> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1 |
-> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1 |
-
-### Features added to Release notes
-
-> [!div class="mx-tableFixed"]
-> | Feature                               | Date added |
-> |---------------------------------------|---------------|
-> | [Export to PDF](power-bi/embedded/export-pdf.md)                         | April 2    |
-
-
 ## Power BI Desktop
 
 ### Features added to Release notes
@@ -147,14 +129,15 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature | Date added |
 > |---------|------------|
-> | [Drill-through on measures and conditional formatting](power-bi/overview.md), May 18 General availability  | May 1      |
+> | Drill-through on measures, May 18 General availability  | May 1      |
+> | [Conditional formatting](power-bi/desktop/conditional-formatting-based-another-column.md), May 18 General availability  | May 1      |
 > | Incremental data refresh, May 18 General availability  | May 1      |
 > | [Filters on data view](power-bi/desktop/filtering-data-view.md), June '18 General Availability  | May 1      |
 
 ### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
-> | Feature                                                                                                       | Dated removed |
+> | Feature                                                                                                       | Date removed |
 > |---------------------------------------------------------------------------------------------------------------|---------------|
 > | Incremental Refresh Policies removed from April '18 General Availability                                      | May 1      |
 > | Matrix expand or collapse removed from June '18 General Availability                                  | May 1      |
@@ -170,14 +153,15 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [Smart alerts](power-bi/service/smart-alerts.md)  | Moved to Public Preview sometime between July and September | June 1 |
+> | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)  | Moved to June ’18 - Public Preview | June 1 |
+> | Workspace search | Moved to Public Preview sometime between July and September | June 1 |
+> |[SSRS reports for Power BI Premium](power-bi/service/sql-server-reporting-services-ssrs-reports-power-bi-premium.md)[| Moved to Public Preview sometime between July and September|June 1|
 > | [Incremental data refresh](power-bi/service/incremental-data-refresh.md)  | Moved from May '18 General Availability to May '18 Public Preview | May 1 |
-> | Workspace search | Moved from June '18 General Availability to June '18 Public Preview | May 1 |
 > | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md)  | Moved to Public Preview sometime between July and September | May 1 |
 > | [Incremental data refresh](power-bi/service/data-source-setup-improvements.md) | Moved to May ’18 – Public Preview | April 2 |
 > | [Query acceleration for large datasets](power-bi/service/query-acceleration-large-datasets.md)  | Moved to Public Preview sometime between July and September | April 2 |
-> | [Smart alerts](power-bi/service/smart-alerts.md)  | Moved to Public Preview sometime between July and September | April 2 |
-> | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)  | Moved to June ’18 - Public Preview | April 2 |
 > | Export to PDF | Moved to Public Preview sometime between July and September | April 2 |
 
 ### Features added to Release notes
@@ -191,17 +175,43 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Smart alerts](power-bi/service/smart-alerts.md)                          | April 2    |
 > | [Workspaces with Azure AD groups](power-bi/service/workspaces-azure-ad-groups.md)       | April 2    |
 
+## Power BI Embedded
+
+### Features added to Release notes
+
+> [!div class="mx-tableFixed"]
+> | Feature                               | Date added |
+> |---------------------------------------|---------------|
+> | [Export to PDF](power-bi/embedded/export-pdf.md)                         | April 2    |
+
+## Common Data Service for Analytics in Power BI
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1 |
+
+## Power BI Insights Apps
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1 |
 
 ## Microsoft Flow
 
 ### Features added to Release notes
 
 > [!div class="mx-tableFixed"]
-> | Feature                                                                            | Dated added   |
+> | Feature                                                                            | Date added   |
 > |------------------------------------------------------------------------------------|---------------|
-> | [Error details analytics](microsoft-flow/error-details-analytics.md)                       | May 15      |
-> | [Share flows with Office 365 groups](microsoft-flow/share-with-o365-groups.md)                       | May 15      |
-> | [SharePoint connector improvements](microsoft-flow/sharepoint-connector-improvements.md)                       | May 15      |
+> | [Error details analytics](microsoft-flow/error-details-analytics.md)                       | June 1      |
+> | [Share flows with Office 365 groups](microsoft-flow/share-with-o365-groups.md)                       | June 1      |
+> | [SharePoint connector improvements](microsoft-flow/sharepoint-connector-improvements.md)                       | June 1      |
 > | [Create a business process flow](microsoft-flow/create-business-process-flow.md)                       | May 1      |
 > | [Business process flow entity customization](microsoft-flow/business-process-flow-entity-customization.md)           | May 1      |
 > | [Add an action to a business process flow](microsoft-flow/add-action-business-process-flow.md)             | May 1      |
@@ -238,7 +248,7 @@ This topic is updated when features are added, or when a feature's release date 
 ### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
-> | Feature                                                                                                       | Dated removed |
+> | Feature                                                                                                       | Date removed |
 > |---------------------------------------------------------------------------------------------------------------|---------------|
 > | Public anonymous playback feature                                      | April 2   |
 
