@@ -31,7 +31,7 @@ audience: Admin
 - [Ability to share and favorite reports](service/share-favorite-reports.md) - Shared reports appear in recent, favorites, and “shared with me” lists, similar to dashboards.
 - [Push apps](service/push-apps.md) - Admins can automatically deploy Power BI apps to users.
 - [Pin from apps to dashboard](service/pin-apps-dashboard.md) - Create dashboards that combine information from other shared dashboards, reports, or apps in an integrated view.
-- [Persistent filters](service/pin-apps-dashboard.md)- With persistent filters, Power BI saves a user’s slicer and filter values, and automatically applies them when the user returns.
+- [Persistent filters](service/pin-apps-dashboard.md) - With persistent filters, Power BI saves a user’s slicer and filter values, and automatically applies them when the user returns.
 - Custom visual administrator control - Power BI admins can disable custom visuals for an organization.
 
 ### [Power BI Mobile](overview.md)
@@ -141,7 +141,7 @@ audience: Admin
 
 - [Data source setup improvements](service/data-source-setup-improvements.md) - Easily configure gateways and diagnose common errors.
 - [Organizational visuals store](desktop/sap-business-warehouse-bw-connector.md) - Discover and import custom visuals from the Power BI admin.
-- Administrator tenant usage reporting - APIs allow admins to gain insights into workspace, report, and dataset artifacts across the tenant.
+- Administrator tenant usage reporting - Admins gain insights into workspace, report, and dataset artifacts across the tenant using APIs.
 
 ### [Power BI Mobile](overview.md)
 
