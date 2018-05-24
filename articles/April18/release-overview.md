@@ -32,7 +32,7 @@ We’ve made tremendous progress:
 
 -   **Unifying our business applications** across marketing, sales, service,
     operations, finance, talent, and retail into a comprehensive family of
-    capabilities that spans the entire business process landscape – so you can
+    capabilities that spans the entire business process landscape—so you can
     solve specific business problems with applications that work seamlessly
     together.
 
@@ -43,17 +43,17 @@ We’ve made tremendous progress:
     also made Dynamics 365 more intelligent by employing decades of AI work
     pioneered by Microsoft Research.
 
--   **Advancing the platform beneath Dynamics 365** – the same platform beneath
-    Office 365 – to combine Power BI, PowerApps, Microsoft Flow, Microsoft
+-   **Advancing the platform beneath Dynamics 365**—the same platform beneath
+    Office 365—to combine Power BI, PowerApps, Microsoft Flow, Microsoft
     Stream, the Common Data Service for Apps, and the Common Data Service for
     Analytics into an unmatched palette of tools to extend, customize, and
     integrate Dynamics 365 and Office 365 into your environment. These
     experiences are powered by insights and intelligence from data across
     hundreds of business systems with built‑in connectivity to the platform, and
-    with rich audio‑visual media that integrates tightly into the business
+    with rich audio‑visual media that tightly integrates into the business
     applications people use daily.
 
-We’ve done this work to help you – our partners, customers, and users – drive
+We’ve done this work to help you—our partners, customers, and users—drive
 the digital transformation of your business on your terms.
 
 We’re looking forward to engaging with you as you put these new services and
