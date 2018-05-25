@@ -33,10 +33,8 @@ The refresh does not stop at a visual refresh – the application experiences ar
 ## Lifecycle Services
 Business Central partners manage the lifecycle of embed, add-on, and connect apps, as well as customizations through Lifecycle Services (LCS). Lifecycle Services is the portal for ISVs to engage with VARs and customers, and for VARs to engage with ISVs and customers. here, partners manage implementation projects, whitelisting add-ons, and full lifecycle management of ISV solutions and VAR customizations, including live site troubleshooting.  
 
-## Dynamics SMB product unification
-With the October '18 release, all SMB products get unified under the Business Central licensing model.  
-
-Business Central itself gets an on-premises deployment option that serves as a successor to Dynamics NAV. In other words, rather than a new version number for Dynamics NAV, customers can get Business Central on premises. The experience for partners and customers on premises is no different from the familiar Dynamics NAV upgrades, except for the change in name and licensing model. This is a convergence point for Dynamics SMB products, from which point forward they are all considered customers of Business Central, in the cloud or on premises, even if they are running differently branded products such as Dynamics SL, Dynamics GP, and older versions of Dynamics NAV.
+## Cloud, hybrid, and on-premises availability
+Business Central gets an on-premises deployment option that serves as a successor to Dynamics NAV. In other words, rather than a new version number for Dynamics NAV, customers can get Business Central on premises. The experience for partners and customers on premises is no different from the familiar Dynamics NAV upgrades, except for the change in name and licensing model. This is a convergence point for Dynamics SMB products, from which point forward they are all considered customers of Business Central, in the cloud or on premises, even if they are running differently branded products such as Dynamics SL, Dynamics GP, and older versions of Dynamics NAV.
 
 ## See Also
 [October ’18 Quick Summary](quick-summary-business-central.md)  

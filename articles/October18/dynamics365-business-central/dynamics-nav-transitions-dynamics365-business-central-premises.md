@@ -24,6 +24,3 @@ Since Dynamics NAV and Dynamics 365 Business Central share the same code base, t
 ![](media/dynamics-nav-transitions-dynamics365-business-central-premises-1.png "")
 
 Partners are still able to customize on-premises solutions through code customization. However, when they do that, they will receive warnings that their solution has become disconnected from the cloud and the intelligent edge. That is, their path to the cloud is disconnected until they refactor their customizations and add-ons into an extension. Upon doing so, Business Central will let them know they are again connected to the cloud and the intelligent edge. Microsoft will continue to support on-premises code customizations; however, we highly recommend that partners refactor their apps and customizations into extensions to benefit from continuous updates and the intelligent cloud and the intelligent edge.  
-
-## See also
-[Unified licensing across Dynamics SMB products](unified-licensing-across-dynamics-smb-products.md)  
