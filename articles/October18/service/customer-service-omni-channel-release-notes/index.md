@@ -54,7 +54,7 @@ slip.
 
 -   Channels (Partner Led)
 
--   [Co-browse (CafeX)](new-improved-experience-setup-environment-pbi-embedded.md)
+-   [Co-browse (CafeX)](co-browse-cafex.md)
 
 -   Extensibility
 
