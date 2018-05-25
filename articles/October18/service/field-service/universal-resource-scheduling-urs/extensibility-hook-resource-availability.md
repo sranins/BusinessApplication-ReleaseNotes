@@ -1,6 +1,6 @@
 ---
 
-title: Extensibile Resource Availability
+title: Extensible Resource Availability
 description: As part of the Schedule Assistant search, customers can now decide if they want to override the availability of a resource before the search results are returned.
 author: MargoC
 manager: AnnBe
