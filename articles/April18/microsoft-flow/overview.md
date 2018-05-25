@@ -26,5 +26,5 @@ applications, which makes it easier for every business to transform how people
 work. Microsoft Flow, the Microsoft workflow and business process management
 platform, is core to the success of this mission. It's the connective glue
 that’s used by users and app developers alike for digital transformation, no
-matter what application they’re using. Flow, together with PowerApps and Power
+matter what application they’re using. Microsoft Flow, together with PowerApps and Power
 BI, makes up the Business application platform.
