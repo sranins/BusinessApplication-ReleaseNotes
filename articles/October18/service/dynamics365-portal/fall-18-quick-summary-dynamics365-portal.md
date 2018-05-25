@@ -46,8 +46,8 @@ audience: Admin
 
 -   [SharePoint Integration](sharepoint-integration.md)
 
--   [Power BI Embed](_Relevance_Search)
+-   Power BI Embed
 
 -   [Simplified Administration and Customization](simplified-customization-administration.md)
 
--   [Portal Insights](_Portal_Insights)
+-   Portal Insights

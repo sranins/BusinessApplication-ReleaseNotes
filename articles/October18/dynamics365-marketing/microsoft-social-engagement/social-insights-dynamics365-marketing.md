@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Modern Marketing relies on signals from social media for a tighter customer
 engagement. With Social Insights in Dynamics 365 for Marketing, you can get

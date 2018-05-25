@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Continuing our investment in LinkedIn integration, Dynamics 365 for Marketing
 will provide a tighter integration for lead generation from professional

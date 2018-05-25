@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Providing in-app guidance right where the users need it helps them get the most
 value by quickly getting familiar with how to get around and use the app.

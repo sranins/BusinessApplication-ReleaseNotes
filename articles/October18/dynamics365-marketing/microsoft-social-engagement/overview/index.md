@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 >   Microsoft Social Engagement helps you harness the power of social to achieve
 >   business results. By putting social at the fingertips of sales teams,

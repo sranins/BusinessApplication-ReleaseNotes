@@ -159,7 +159,7 @@
 #### [Dynamics 365 Business Central available on premises](dynamics365-business-central/dynamics365-business-central-available-premises.md)
 #### [Dynamics NAV transitions to Dynamics 365 Business Central on-premises](dynamics365-business-central/dynamics-nav-transitions-dynamics365-business-central-premises.md)
 #### [Impact on Dynamics GP and Dynamics SL customers](dynamics365-business-central/impact-dynamics-gp-dynamics-sl-customers.md)
-#### [Unified licensing across Dynamics SMB products](dynamics365-business-central/unified-licensing-across-dynamics-smb-products.md)
+#### Unified licensing across Dynamics SMB products
 
 ### [PowerApps](powerapps/index.md)
 #### [Emerging ecosystem of ISVs on the platform](powerapps/emerging-ecosystem-isvs-platform.md)

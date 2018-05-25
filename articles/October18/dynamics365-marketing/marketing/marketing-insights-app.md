@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Marketing Insights collects, manages, and analyzes the diverse data and
 communications created throughout marketing initiatives, and then automatically

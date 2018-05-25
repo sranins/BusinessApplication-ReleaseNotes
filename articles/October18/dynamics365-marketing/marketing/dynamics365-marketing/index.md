@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 Since its launch in Spring release, Dynamics 365 for Marketing continues to see
 good traction with businesses to support their digital transformation. The

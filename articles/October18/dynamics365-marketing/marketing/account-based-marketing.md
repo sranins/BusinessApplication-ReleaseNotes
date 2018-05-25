@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 B2B marketers using Dynamics 365 for Marketing can communicate with their key
 business accounts as units of one, enabling an increased integration and

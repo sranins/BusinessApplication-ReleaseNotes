@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Dynamics 365 for Marketing managers frequently want to control the creation flow
 and editing capabilities of marketing content in the organization. For example,

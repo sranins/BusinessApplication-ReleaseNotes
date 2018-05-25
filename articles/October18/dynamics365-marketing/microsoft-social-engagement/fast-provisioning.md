@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Reducing the time to get access to and get started with our new app for Brand
 Monitoring is critical to provide immediate value for our customers. Setting up

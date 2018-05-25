@@ -54,7 +54,7 @@ slip.
 
 -   Channels (Partner Led)
 
--   [Co-browse (CafeX)](_Co-browse_through_Cafex)
+-   [Co-browse (CafeX)](co-browse-cafex.md)
 
 -   Extensibility
 

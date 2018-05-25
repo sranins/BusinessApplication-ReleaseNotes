@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 >   **Fast Provisioning**: Get started within minutes of signing up for the new
 >   app with fast provisioning and initial data loading after a quick setup
