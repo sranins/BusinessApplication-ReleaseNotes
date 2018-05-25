@@ -1,2 +1,2 @@
 > [!NOTE]
-> This feature is in Public preview. 
+> This feature is in Public Preview. 
