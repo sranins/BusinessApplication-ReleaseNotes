@@ -39,7 +39,7 @@ audience: Admin
 - [Flows “owned by” SharePoint lists and libraries](sharepoint-lists-libraries.md) - Flows that work with SharePoint lists and libraries can be shared with those lists or libraries. So, instead of being shared with individuals or groups, they’re shared with everyone who has access to the list. As users are added or removed from the list or library, their membership  automatically changes accordingly.
 - [GDPR compliance](gdpr-compliance.md) - To support the EU's General Data Protection Regulation (GDPR), administrators can now submit a request to export or delete all of the data about Flow users.
 - [Error details analytics](error-details-analytics.md) - A new embedded report that provides information about all of the errors that happen inside a flow.
-- [Share flows with Office 365 groups](share-with-o365-groups.md) - You can make an Office 365 modern group the owner of a flow, and you can shared button flows with Office 365 groups so anyone in the group can run the flow.
+- [Share flows with Office 365 groups](share-with-o365-groups.md) - You can make an Office 365 modern group the owner of a flow, and you can share button flows with Office 365 groups so anyone in the group can run the flow.
 - [SharePoint connector improvements](sharepoint-connector-improvements.md) - There are two new SharePoint connector capabilities: trigger flows when items or files are deleted and call any HTTP endpoint that the SharePoint REST API supports.
 
 
