@@ -1,7 +1,7 @@
 ---
 
 title: Extensibile Resource Availability
-description: After the Schedule Assistant runs, customers can now decide if they want to override the availability of a resource before the search results are returned.
+description: As part of the Schedule Assistant search, customers can now decide if they want to override the availability of a resource before the search results are returned.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
@@ -19,13 +19,10 @@ audience: Admin
 
 [!include[banner](../../../../includes/banner.md)]
 
-After the Schedule Assistant runs, customers can now decide if they want to override the availability of a resource before the search results are returned.
+As part of the Schedule Assistant search, customers can now decide if they want to override the availability of a resource before the search results are returned.
 For example, customers with different business closures for different
 organizational units can query a table that contains organizational units and
-the days they are closed, subsequently marking the desired hours of resources
-that are a part of that organizational unit as “non-working hours” to remove
-them from the results.
-
+the days they are closed, subsequently removing resource availability during the hours of business closure. 
 [INTERNAL] Big name customers and prospects like Best Buy, Centrica, Sonova,
 Safetykleen, Silverchain, and many financial services companies have scenarios
 which would be unblocked. [/INTERNAL]
