@@ -17,7 +17,7 @@ audience: Admin
 #  Fall ’18 Quick Summary for ISVs and Developers
 
 
-[!include[banner](../../../includes/banner.md.md)]
+[!include[banner](../../../includes/banner.md)]
 
 | Fall ’18           | **General Availability**                       |
 |--------------------|------------------------------------------------|
@@ -42,7 +42,7 @@ audience: Admin
     downtime.](detailed-features-power-bi-embedded/integration-azure-service-health.md)
 
 -   [New and improved setup experience for PBI Embedded- faster, easier
-    onboarding process for new developers.](detailed-features-power-bi-embedded.md)
+    onboarding process for new developers.](detailed-features-power-bi-embedded/new-improved-experience-setup-environment-pbi-embedded.md)
 
 -   [NPS](detailed-features-power-bi-embedded/net-promoter-score-nps.md)
 

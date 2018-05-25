@@ -1,7 +1,7 @@
 ---
 
 title: URS Customer-Driven Product Enhancements
-description: -   For onsite bookings, the scheduling of pools is now supported, accounting     for the fact that the calculation of travel time is more nuanced.
+description: URS Customer-Driven Product Enhancements
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
