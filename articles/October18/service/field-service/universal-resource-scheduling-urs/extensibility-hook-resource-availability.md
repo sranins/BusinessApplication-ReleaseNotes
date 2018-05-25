@@ -1,7 +1,7 @@
 ---
 
-title: Extensibility Hook for Resource Availability
-description: After the Schedule Assistant API runs and the results are rendered, customers can now decide if they want to override the available work hours of a resource.
+title: Extensibile Resource Availability
+description: After the Schedule Assistant runs, customers can now decide if they want to override the availability of a resource before the search results are returned.
 author: MargoC
 manager: AnnBe
 ms.date: 5/14/2018
@@ -14,13 +14,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Extensibility Hook for Resource Availability
+#  Extensible Resource Availability
 
 
 [!include[banner](../../../../includes/banner.md)]
 
-After the Schedule Assistant API runs and the results are rendered, customers
-can now decide if they want to override the available work hours of a resource.
+After the Schedule Assistant runs, customers can now decide if they want to override the availability of a resource before the search results are returned.
 For example, customers with different business closures for different
 organizational units can query a table that contains organizational units and
 the days they are closed, subsequently marking the desired hours of resources
