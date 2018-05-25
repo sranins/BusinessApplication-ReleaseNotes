@@ -15,4 +15,6 @@ audience: Admin
 
 ---
 
+[!include[banner](../includes/banner.md)]
+
 # Root page for Autumn '18 Release Notes
