@@ -26,11 +26,11 @@ In this release of Microsoft Flow Analytics, we are providing the ability to vie
 - Distribution of errors by type
 - Error details table
 
-Users can access Microsoft Flow Analytics by clicking on **See analytics** link from a flow&rsquo;s main page.
+Users can access Microsoft Flow Analytics by clicking a **See analytics** link from a flow&rsquo;s main page.
 
 ![Flow See Analytics](media/error-details-analytics-chart.png)
 
-Once in the analytics experience, users can click on the **Errors** tab to see the error details. From there, a user can filter data based upon a selected **Date Range**, **Action(s)**, **Trigger** or **Error Type(s)**. In addition to filtering, a user can navigate to the last occurrence of a specific error, by clicking on the **hyperlink** icon. After clicking on this link, a user will be re-directed to that specific run instance for further debugging.
+Once in the analytics experience, users can click the **Errors** tab to see the error details. From there, a user can filter data based upon a selected **Date Range**, **Action(s)**, **Trigger** or **Error Type(s)**. In addition to filtering, a user can navigate to the last occurrence of a specific error by clicking the **hyperlink** icon. After clicking this link, a user will be redirected to that specific run instance for further debugging.
 
 ![Analytics Error Details](media/error-details-analytics-entry.png)
 
@@ -41,6 +41,6 @@ If you discover a discrepancy between the number of errors on your **Usage** tab
 
 - If a trigger fails, you will not see it count as part of your usage as it does not represent a flow that has been successfully initiated. But, technically it is an error, so we will report it on our Errors tab.
 - A flow may have multiple errors that exist within a single flow execution. For example, you may have a loop that contains multiple action(s) that have failed as part of that run instance.
-- Within a flow, a maker can **Configure run after **settings, which allows a flow to continue executing when an action has failed.
+- Within a flow, a maker can **Configure run after** settings, which allows a flow to continue executing when an action has failed.
 
 Accessing Microsoft Flow Analytics requires a Flow Plan 2 license. If you do not see the **See analytics** link, appearing in the maker portal, it means that you do not meet the minimum licensing requirements. For more details about Flow licensing, including signing up for a free Flow Plan 2 trial license, please visit our [licensing page](https://flow.microsoft.com/pricing/).
