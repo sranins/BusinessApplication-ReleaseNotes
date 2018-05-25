@@ -18,10 +18,7 @@ audience: Admin
 
 [!include[banner](../includes/banner.md)]
 
-![Backdrop image 1](media/backdrop1.png)
-
-> [!TIP]
-> Looking for a PDF instead? The PDF version is updated once a month with the latest content. [Download the Spring '18 release notes PDF](https://aka.ms/businessappsreleasenotes). 
+[![Backdrop image 1](media/backdrop1.png)](https://aka.ms/businessappsreleasenotes)
 
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
