@@ -56,13 +56,13 @@
 ##### [Completed user experience visual refresh across all page types](dynamics365-business-central/completed-user-experience-visual-refresh-across-all-page-types.md)
 ##### [Dynamics NAV transitions to Dynamics 365 Business Central on-premises](dynamics365-business-central/dynamics-nav-transitions-dynamics365-business-central-premises.md)
 ##### [Dynamics 365 Business Central available on premises](dynamics365-business-central/dynamics365-business-central-available-premises.md)
-##### [Fall  18 Quick Summary for Business Central](dynamics365-business-central/fall-18-quick-summary-business-central.md)
+##### [Fall  18 Quick Summary for Business Central](dynamics365-business-central/quick-summary-business-central.md)
 ##### [Impact on Dynamics GP and Dynamics SL customers](dynamics365-business-central/impact-dynamics-gp-dynamics-sl-customers.md)
 ##### [Lifecycle Services for ISVs](dynamics365-business-central/lifecycle-services-isvs.md)
 ##### [Lifecycle Services for VARs](dynamics365-business-central/lifecycle-services-vars.md)
-##### [Partner incentives  not a public press release](dynamics365-business-central/partner-incentives-not-public-press-release.md)
+##### Partner incentives  not a public press release
 ##### [Productivity user experience features](dynamics365-business-central/productivity-user-experience-features.md)
-##### [Unified licensing across Dynamics SMB products](dynamics365-business-central/unified-licensing-across-dynamics-smb-products.md)
+##### Unified licensing across Dynamics SMB products
 ### Dynamics365 Finance Operations
 #### [Microsoft launches the Fall 2018 release of Microsoft Dynamics 365 for Finance and Operations](dynamics365-finance-operations/microsoft-launches-fall-2018-release-dynamics365-finance-operations.md)
 #### Release Notes
@@ -80,7 +80,6 @@
 ##### [Video content using Microsoft Stream](dynamics365-marketing/marketing/video-content-using-stream.md)
 ##### [Dynamics 365 for Marketing](dynamics365-marketing/marketing/dynamics365-marketing/index.md)
 ###### [Autumn  18 Quick Summary for Dynamics 365 for Marketing](dynamics365-marketing/marketing/dynamics365-marketing/autumn-18-quick-summary-dynamics365-marketing.md)
-###### [](dynamics365-marketing/marketing/dynamics365-marketing/unnamed.md)
 #### [Microsoft Social Engagement](dynamics365-marketing/microsoft-social-engagement/index.md)
 ##### [Additional Languages](dynamics365-marketing/microsoft-social-engagement/additional-languages.md)
 ##### [Autumn 2018 Quick Summary for Microsoft Social Engagement](dynamics365-marketing/microsoft-social-engagement/autumn-2018-quick-summary-social-engagement.md)
@@ -121,7 +120,6 @@
 #### [Fall  18 Quick Summary for Talent](dynamics365-talent/fall-18-quick-summary-talent.md)
 #### [Taking care of the fundamentals](dynamics365-talent/taking-care-fundamentals.md)
 ### [Intelligence Platform](intelligence-platform/index.md)
-#### [](intelligence-platform/unnamed.md)
 #### Azure Analysis Services
 ##### [Overview](intelligence-platform/azure-analysis-services/overview.md)
 ##### [Fall  18 Quick Summary for Azure Analysis Services](intelligence-platform/azure-analysis-services/fall-18-quick-summary-azure-analysis-services/index.md)
@@ -143,7 +141,6 @@
 #### Power Bi Desktop
 ##### [Overview](intelligence-platform/power-bi-desktop/overview.md)
 ##### [Fall  18 Quick Summary for Power BI Desktop](intelligence-platform/power-bi-desktop/fall-18-quick-summary-power-bi-desktop/index.md)
-###### [](intelligence-platform/power-bi-desktop/fall-18-quick-summary-power-bi-desktop/unnamed.md)
 #### Power Bi Isvs Developers
 ##### [Fall  18 Quick Summary for ISVs and Developers](intelligence-platform/power-bi-isvs-developers/fall-18-quick-summary-isvs-developers.md)
 ##### Detailed Features Power Bi Apps
