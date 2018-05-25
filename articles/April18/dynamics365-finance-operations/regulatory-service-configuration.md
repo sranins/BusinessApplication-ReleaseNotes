@@ -38,7 +38,7 @@ They will have access to:
 >
 >   Public Preview of Regulatory service - Configuration is available in all
 >   regions where Dynamics 365 for Finance and Operations is available. However,
->   data is hosted only in a US data center.
+>   data is hosted only in a US datacenter.
 >
 >   For a complete list of regions, see the [Dynamics 365 International
 >   Availability
