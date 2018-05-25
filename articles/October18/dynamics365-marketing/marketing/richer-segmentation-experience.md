@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Marketers need to build complex segments in their daily work in an efficient and
 intuitive way. A host of additional, business-centric operators are added in

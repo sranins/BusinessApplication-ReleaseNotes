@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Microsoft Social Engagement is further expanding with listening capabilities
 into new markets by adding the following languages for data acquisition: Bahasa,

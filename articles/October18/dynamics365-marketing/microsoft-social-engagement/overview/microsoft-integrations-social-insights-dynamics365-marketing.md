@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 >   Get contextual social insights from Microsoft Social Engagement in your
 >   Dynamics 365 Marketing app. Track your campaigns and events and find out how

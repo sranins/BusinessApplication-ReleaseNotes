@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 >   Empower your marketing organization to take better control of your brand
 >   reputation by finding out what customers say about your brands, industry,

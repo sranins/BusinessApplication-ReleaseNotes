@@ -17,7 +17,7 @@ audience: Admin
 #  Autumn ’18 Quick Summary for Dynamics 365 for Marketing
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../../../includes/banner.md)]
 
 | Oct ’18 | **General Availability**             |
 |---------|--------------------------------------|

@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Marketers can now embed videos into both emails or marketing pages. Clicking on
 the content leads to a video player experience. The response to these videos can

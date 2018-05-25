@@ -19,7 +19,7 @@ audience: Admin
 
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Social media has become an intrinsic part of the Brand Management function of
 every successful marketing organization. Monitoring, measuring, and managing how
