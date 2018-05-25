@@ -30,7 +30,7 @@ audience: Admin
 
 ### Core sales
 
-- [Sales application and core sales entities on Unified Interface framework](built-unified-interface-framework.md).
+- [Sales application and core sales entities on Unified Interface framework](built-unified-interface-framework.md)
 
 ### Sales intelligence
 
@@ -48,7 +48,7 @@ audience: Admin
 
 ### Gamification
 
-- [Investments to address requirements of the GDPR privacy law, and enhance accessibility](../dynamics365-gamification/gamification-compliance.md).
+- [Investments to address requirements of the GDPR privacy law, and enhance accessibility](../dynamics365-gamification/gamification-compliance.md)
 
 
 ## April ’18 – Public Preview
