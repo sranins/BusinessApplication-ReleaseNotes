@@ -29,7 +29,7 @@ audience: Admin
 ### Full suite of application functionality
 
 - [Essential](essential-premium.md) - Includes a broad range of functionality that most businesses need to run their business.
-- [Premium](essential-premium.md) - Adds Service management and Manufacturing.
+- [Premium](essential-premium.md) - Adds Service Management and Manufacturing.
 
 ### Look and feel
 
