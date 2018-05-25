@@ -23,8 +23,8 @@ audience: Admin
 
 ## April ’18 - General Availability
 
-- [CDX and data management](cdx-data-management.md) - Provides improved offline capabilities to ensure that point of sale terminals continue to function during updates or internet disconnects.
-- [Deployment and servicing](deployment-servicing.md) - Provides resource governance between transactional and back-office workloads to ensure that long-running batch processes don't affect transactional system performance, and that peak store traffic doesn't impede back office operations.
+- [CDX and data management](cdx-data-management.md) - Provides improved offline capabilities to ensure that point-of-sale (POS) terminals continue to function during updates or internet disconnects.
+- [Deployment and servicing](deployment-servicing.md) - Provides resource governance between transactional and back-office workloads to help ensure that long-running batch processes don't affect transactional system performance, and that peak store traffic doesn't impede back-office operations.
 - [End-of-day processing](end-day-processing.md) - Enhancements include improved statement posting performance, the addition of rollback and recovery to prevent data corruption, and enhanced in-app diagnostics that show status, errors, and logs.
 - [Globalization: Retail localization for India](globalization-retail-localization-india.md) - Calculation of Goods and Services Tax (GST) and value-added tax (VAT) in POS is implemented.
 - [Globalization: Certified cash registers for France](globalization-certified-cash-registers-france.md) - New capabilities fulfill the requirements for NF525. The Retail solution is certified by an accredited body.
