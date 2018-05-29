@@ -4,13 +4,13 @@ hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: Find out what's new in Dynamics 365, Power BI, PowerApps, and Microsoft Flow beginning in Spring 2018. These release notes describe new services and capabilities designed to help you achieve greater outcomes for your business.
+description: Find out what's new in Dynamics 365, Power BI, PowerApps, and Microsoft Flow beginning in Spring 2018. You'll also find out what's new in sales, service, marketing, operations, finance, talent, and retail.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
 <div class="container">
     <h1>Business Applications Release Notes</h1>
-	<p>This is placeholder content for this section. This section should briefly introduce the release notes. <a href="#faq">See our FAQs</a> below for more information.</p>
+	<p>Find out about the latest capabilities and enhancements in Dynamics 365 business applications and platforms. <a href="#faq">? See FAQs</a>.</p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>This would be a good place to quickly introduce each release, and maybe include version info.</p>
+												<p>Platform advances, deeper integrations, more intelligence -- plus a host of new capabilities in our business applications.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -56,7 +56,7 @@ ms.topic: hub-page
                             </a>
                         </li>
                         <li>
-                            <a href="index" title="In Development" data-linktype="absolute-path">
+                            <a href="index" title="Future planning" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
-												<p>Coming soon! ​</p>
+												<p>Coming in July! News about what's in the next release ​</p>
                                             </div>
                                         </div>
                                     </div>
@@ -102,10 +102,10 @@ ms.topic: hub-page
 	<tr>
 	<td>
 	<h3>Which apps and services are included in these release notes?​</h3>
-	<p>The Spring ’18 release brings Power BI, PowerApps, Microsoft Flow, and Microsoft Stream, as well as all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications together under one roof. These release notes cover everything new for all of these apps and services.</p>
+	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now together under one roof. These release notes cover all of these apps and services.</p>
 	</td>
 	<td>
-	<h3>What happened to the Dynamics Roadmap?​</h3>
+	<h3>What happened to the Dynamics 365 Roadmap?​</h3>
 	<p>This is an answer to the question for users who are confused as to where the roadmap has gone. This is an answer to the question for users who are confused as to where the roadmap has gone.</p>
 	</td>
 	</tr>
