@@ -1,10 +1,10 @@
-﻿---
+---
 layout: HubPage
 hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: These release notes describe new services and capabilities in the Microsoft Dynamics 365 business applications and platforms.
+description: Find out what's new in Dynamics 365, Power PI, PowerApps, and Microsoft Flow beginning in Spring 2018. These release notes describe new services and capabilities designed to help you achieve greater outcomes for your business.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
@@ -101,12 +101,12 @@ ms.topic: hub-page
 	<table>
 	<tr>
 	<td>
-	<h3>What are the Microsoft Business Applications?​</h3>
-	<p>This is an answer to the above question, explaining to the user what we mean by “Business Applications.” This is an answer to the above question, explaining to the user what we mean by “Business Applications.” ​</p>
+	<h3>What's covered in these release notes?​</h3>
+	<p>With the Spring '18 release, we combined the platform beneath Dynamics 365 with Power BI, PowerApps, Microsoft Flow, and Microsoft Stream into a single unified platform, and brought our sales, service, marketing, operations, finance, talent, and retail business applications all under one roof. These release notes cover everything you need to solve specific business problems, connect with data and intelligence from across hundreds of business systems, and extend and integrate Dynamics 365 and Office 365 into your environment.</p>
 	</td>
 	<td>
-	<h3>Do the release notes replace the Dynamics 365 Roadmap?​</h3>
-	<p>Yes. With the release notes, we’ve separated out detailed visibility on what's next for our customers and partners. The release notes experience will have monthly minor updates with change tracking to quickly identify changes.  </p>
+	<h3>What happened to the Dynamics Roadmap?​</h3>
+	<p>This is an answer to the question for users who are confused as to where the roadmap has gone. This is an answer to the question for users who are confused as to where the roadmap has gone.</p>
 	</td>
 	</tr>
 	</table>
