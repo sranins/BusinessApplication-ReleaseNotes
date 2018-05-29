@@ -105,8 +105,8 @@ ms.topic: hub-page
 	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now together under one roof. These release notes cover all of these apps and services.</p>
 	</td>
 	<td>
-	<h3>What happened to the Dynamics 365 Roadmap?​</h3>
-	<p>This is an answer to the question for users who are confused as to where the roadmap has gone. This is an answer to the question for users who are confused as to where the roadmap has gone.</p>
+	<h3>Do the release notes replace the Dynamics 365 Roadmap?</h3>
+	<p>Yes. With the release notes, we’ve separated out detailed visibility on what's next for our customers and partners. The release notes experience will have monthly minor updates with change tracking to quickly identify changes.</p>
 	</td>
 	</tr>
 	</table>
