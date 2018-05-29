@@ -4,7 +4,7 @@ hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: Find out what's new in Dynamics 365, Power PI, PowerApps, and Microsoft Flow beginning in Spring 2018. These release notes describe new services and capabilities designed to help you achieve greater outcomes for your business.
+description: Find out what's new in Dynamics 365, Power BI, PowerApps, and Microsoft Flow beginning in Spring 2018. These release notes describe new services and capabilities designed to help you achieve greater outcomes for your business.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
