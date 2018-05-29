@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
-												<p>This would be a good place to explain what “In Development” means, versus the release notes.​</p>
+												<p>Coming soon! ​</p>
                                             </div>
                                         </div>
                                     </div>
@@ -101,8 +101,8 @@ ms.topic: hub-page
 	<table>
 	<tr>
 	<td>
-	<h3>What's covered in these release notes?​</h3>
-	<p>With the Spring '18 release, we combined the platform beneath Dynamics 365 with Power BI, PowerApps, Microsoft Flow, and Microsoft Stream into a single unified platform, and brought our sales, service, marketing, operations, finance, talent, and retail business applications all under one roof. These release notes cover everything you need to solve specific business problems, connect with data and intelligence from across hundreds of business systems, and extend and integrate Dynamics 365 and Office 365 into your environment.</p>
+	<h3>Which apps and services are included in these release notes?​</h3>
+	<p>The Spring ’18 release brings Power BI, PowerApps, Microsoft Flow, and Microsoft Stream, as well as all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications together under one roof. These release notes cover everything new for all of these apps and services.</p>
 	</td>
 	<td>
 	<h3>What happened to the Dynamics Roadmap?​</h3>
