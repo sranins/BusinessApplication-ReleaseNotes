@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new capabilities to transform your business.</p>
+												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new capabilities to help you.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
-												<p>Coming in July! Watch this space for news about what's in the next release ​</p>
+												<p>Coming in July! Watch this space for news about what's in the next release. ​</p>
                                             </div>
                                         </div>
                                     </div>
@@ -101,12 +101,12 @@ ms.topic: hub-page
 	<table>
 	<tr>
 	<td>
-	<h3>Which apps and services are included in these release notes?​</h3>
-	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now together under one roof. These release notes cover all of these apps and services.</p>
+	<h3>Which apps and services are covered in these release notes?​</h3>
+	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now together under one roof. So these release notes cover all of these apps and services in one place.</p>
 	</td>
 	<td>
-	<h3>Do the release notes replace the Dynamics 365 Roadmap?</h3>
-	<p>Yes. With the release notes, we’ve separated out detailed visibility on what's next for our customers and partners. The release notes experience will have monthly minor updates with change tracking to quickly identify changes.</p>
+	<h3>Do the release notes replace the Dynamics 365 roadmap?​</h3>
+	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will be covered separately. We have an exciting line-up planned for the next wave, and we'll start letting you know about these capabilities in July.</p>
 	</td>
 	</tr>
 	</table>
