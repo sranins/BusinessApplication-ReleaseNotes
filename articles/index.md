@@ -10,7 +10,7 @@ ms.topic: hub-page
 <div id="main" class="v2">
 <div class="container">
     <h1>Business Applications Release Notes</h1>
-	<p>Find out about the latest capabilities and enhancements in Dynamics 365 business applications and platforms. <a href="#faq">? See FAQs</a>.</p>
+	<p>Find out about the latest capabilities and enhancements in Dynamics 365 business applications and platforms. <a href="#faq">See FAQs</a>.</p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
