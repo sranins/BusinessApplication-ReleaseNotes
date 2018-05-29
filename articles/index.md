@@ -10,7 +10,7 @@ ms.topic: hub-page
 <div id="main" class="v2">
 <div class="container">
     <h1>Business Applications Release Notes</h1>
-	<p>Find out about the latest capabilities and enhancements in Dynamics 365 business applications and platforms. <a href="#faq">See FAQs</a>.</p>
+	<p>Find out about the latest capabilities and enhancements in Dynamics 365 business applications and platforms. <a href="#faq">See Release Notes FAQ</a>.</p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>Platform advances, deeper integrations, more insights and intelligence &mdash plus a host of new capabilities to help you transform your business.</p>
+												<p>Platform advances, deeper integrations, more insights and intelligence &mdash; plus a host of new capabilities to help you transform your business.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -106,7 +106,7 @@ ms.topic: hub-page
 	</td>
 	<td>
 	<h3>Do the release notes replace the Dynamics 365 roadmap?​</h3>
-	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will be covered separately. In July, we'll start letting you know about the exciting line-up of new capabilities coming in the next wave. </p>
+	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe, which were previously covered in the roadmap, will be covered separately. In July, we'll start letting you know about the exciting line-up of new capabilities coming in the next wave. </p>
 	</td>
 	</tr>
 	</table>
