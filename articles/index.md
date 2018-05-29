@@ -4,7 +4,7 @@ hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: Find out what's new in Dynamics 365, Power BI, PowerApps, and Microsoft Flow beginning in Spring 2018. You'll also find out what's new in sales, service, marketing, operations, finance, talent, and retail.
+description: Find out what's new in Dynamics 365, Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and more -- including what's new in sales, service, marketing, operations, finance, talent, and retail.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>Platform advances, deeper integrations, more intelligence -- plus a host of new capabilities in our business applications.</p>
+												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new capabilities to transform your business.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
-												<p>Coming in July! News about what's in the next release ​</p>
+												<p>Coming in July! Watch this space for news about what's in the next release ​</p>
                                             </div>
                                         </div>
                                     </div>
