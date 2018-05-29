@@ -66,7 +66,7 @@ ms.topic: hub-page
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Future planning</h3>
+                                                <h3>For future planning</h3>
 												<p>Watch this space! In July we'll start sharing what's coming in the next wave. ​</p>
                                             </div>
                                         </div>
@@ -102,11 +102,11 @@ ms.topic: hub-page
 	<tr>
 	<td>
 	<h3>Which apps and services are covered in these release notes?​</h3>
-	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now together under one roof. So these release notes cover all of these apps and services in one place.</p>
+	<p>Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and all of our Dynamics 365 sales, service, marketing, operations, finance, talent, and retail business applications are now combined under one roof. These release notes cover what's new in all of these apps and services.</p>
 	</td>
 	<td>
 	<h3>Do the release notes replace the Dynamics 365 roadmap?​</h3>
-	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will now be covered separately. Starting in July, we'll let you know about the next exciting line-up of new capabilities coming in the next wave.</p>
+	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will be covered separately. In July, we'll start letting you know about the exciting line-up of new capabilities coming in the next wave. </p>
 	</td>
 	</tr>
 	</table>
