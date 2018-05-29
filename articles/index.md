@@ -66,8 +66,8 @@ ms.topic: hub-page
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>In Development</h3>
-												<p>Watch this space! In July we'll share what's coming in the next wave. ​</p>
+                                                <h3>Future planning</h3>
+												<p>Watch this space! In July we'll be sharing what's coming in the next wave. ​</p>
                                             </div>
                                         </div>
                                     </div>
