@@ -71,4 +71,4 @@ warehouse because the route runtime varied from the system's average runtime.
 
 To learn more about Optimization advisor, [watch this
 video](https://youtu.be/MRsAzgFCUSQ) or go to the [Optimization advisor
-documentation](/dynamics365/unified-operations/dev-itpro/sysadmin/optimization-advisor).
+documentation](/dynamics365/unified-operations/dev-itpro/sysadmin/optimization-advisor-overview).
