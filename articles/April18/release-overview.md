@@ -59,5 +59,3 @@ Spring ’18 release.
 
 Let us know your thoughts. Send email to <a href="mailto:releasenotes@microsoft.com">releasenotes@microsoft.com</a>. We’ll use your feedback to improve our content. 
 
-
-![Backdrop image 2](media/backdrop2.png)
