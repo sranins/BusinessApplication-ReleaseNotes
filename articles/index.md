@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new capabilities to help you.</p>
+												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new ways to achieve greater outcomes.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>In Development</h3>
-												<p>Coming in July! Watch this space for news about what's in the next release. ​</p>
+												<p>Watch this space! In July we'll share what's coming in the next wave. ​</p>
                                             </div>
                                         </div>
                                     </div>
