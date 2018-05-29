@@ -52,8 +52,7 @@ To use the Person search report:
 > ![A screenshot showing the person search report](media/person-search-report-1.png "A screenshot showing the person search report")
     <!-- FO_Person_Search_Report_A.png -->
 
-
-    *Person search report*
+   *Person search report*
 
 3.  The search gives you three options: you can search by ID, by name, or by
     address. In this example, you would search by ID, so that the report will
