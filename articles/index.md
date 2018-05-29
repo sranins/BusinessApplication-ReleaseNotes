@@ -4,7 +4,7 @@ hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: Find out what's new in Dynamics 365, Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and more -- including what's new in sales, service, marketing, operations, finance, talent, and retail.
+description: Find out what's new in Dynamics 365, Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and more -- including new features in sales, service, marketing, operations, finance, talent, and retail.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
@@ -48,7 +48,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Spring '18</h3>
-												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new ways to achieve greater outcomes.</p>
+												<p>Platform advances, deeper integrations, more insights and intelligence -- plus a host of new capabilities to help you transform your business.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ ms.topic: hub-page
                                             </div>
                                             <div class="cardText">
                                                 <h3>Future planning</h3>
-												<p>Watch this space! In July we'll be sharing what's coming in the next wave. ​</p>
+												<p>Watch this space! In July we'll start sharing what's coming in the next wave. ​</p>
                                             </div>
                                         </div>
                                     </div>
@@ -106,7 +106,7 @@ ms.topic: hub-page
 	</td>
 	<td>
 	<h3>Do the release notes replace the Dynamics 365 roadmap?​</h3>
-	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will be covered separately. We have an exciting line-up planned for the next wave, and we'll start letting you know about these capabilities in July.</p>
+	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe will now be covered separately. Starting in July, we'll let you know about the next exciting line-up of new capabilities coming in the next wave.</p>
 	</td>
 	</tr>
 	</table>
