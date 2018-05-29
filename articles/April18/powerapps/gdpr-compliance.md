@@ -48,7 +48,7 @@ takes the following steps:
     <!-- Picture 11 -->
 
 
-    *Update connections*
+   *Update connections*
 
 [Go to the Trust Center to learn more about GDPR and find resources to help you
 comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
