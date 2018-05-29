@@ -18,39 +18,25 @@ audience: Admin
 
 
 
-
 [!include[banner](../../includes/banner.md)]
 
-**REDMOND, Wash., — October 1, 2018**
+With a focus on delivering immediate "out of the box" value to business users, 
+Power BI has enabled users to address their own needs through a combination of 
+prepackaged content and the ease of developing and sharing reports and dashboards 
+with colleagues. The resulting pervasive access to insights has proven a key 
+enabler to organizations adopting a data-driven culture.
 
-**DEMOCRATIZING INTELLIGENCE AND DRIVING THE DATA CULTURE**
+The Autumn 2018 release includes several innovations that further the 
+democratization of intelligence across the enterprise:
 
-From its 2015 launch, Power BI has grown to over 1.5 million monthly active
-users in over 18,000 cities and 200+ countries. Microsoft CEO Satya Nadella
-notes that "We went from nowhere to be the leader in BI in the cloud with a
-\$500 million annualized revenue run rate”.
+**Power BI Desktop**
 
-As a leader in the Gartner Magic Quadrant for Analytics and BI Platforms,
-Microsoft is credited with democratizing access to insights by lowering cost and
-skill barriers to deriving insights from data. With a focus on delivering
-immediate "out of the box" value to business users, Power BI has enabled users
-to address their own needs through a combination of prepackaged content and the
-ease of developing and sharing reports and dashboards with colleagues. The
-resulting pervasive access to insights has proven a key enabler to organizations
-adopting a data-driven culture.
-
-Microsoft today announced several innovations that further the democratization
-of intelligence across the enterprise:
-
-**Power BI Desktop continues to delight customers with monthly releases loaded
-with new capabilities**
-
-Microsoft has rapidly delivered over 215 new Power BI Desktop features in a
-series of monthly updates, in response to passionate user feedback on proposed
-features. This fall, new capabilities include ways for report consumers to tweak
-visuals to answer a specific question about their data, even if they don’t have
-edit access to the report, support for a pivot-table like expand / collapse on
-the matrix visual and continued improvements to Q&A usability.
+Microsoft has rapidly delivered over 215 Power BI Desktop features in a series of
+monthly updates, in response to passionate user feedback on proposed features. 
+This fall release includes ways for report consumers to tweak visuals to answer a 
+specific question about their data, even if they don’t have edit access to the report, 
+support for a pivot-table like expand / collapse on the matrix visual and continued 
+improvements to Q&A usability.
 
 For Power BI authors, the Desktop adds composite models which allow data mash
 ups across Direct Query and imported data sources, to augment data with
@@ -73,8 +59,8 @@ end user needs**
 Power BI has transformed how businesses operate by enabling business users to
 explore and collaborate to find insights and move the metrics that matter.
 Increasingly organizations are looking to consolidate on a single platform for
-their analytics needs. Today, Power BI is making this possible through
-capabilities in Power BI Premium:
+their analytics needs. In the Autumn Release, Power BI is making this possible 
+through capabilities in Power BI Premium:
 
 -   **Enterprise reporting**, in the form of pixel-perfect operational reports
     built using SQL Server Report Builder, can now be delivered to end users
@@ -120,9 +106,8 @@ several challenges:
     and product telemetry that need to be integrated and disambiguated to get to
     a single unified view of a customer, product, or person.
 
-Today Microsoft announces general availability of the Common Data Service for
-Analytics and the preview of Customer 360 as the latest innovations powering the
-growth and momentum of Power BI.
+The Autumn release includes general availability of the Common Data Service for
+Analytics and a preview of Customer 360.
 
 **The Common Data Service for Analytics helps unify and enrich data in the
 Common Data Model**
@@ -141,7 +126,7 @@ With the Common Data Service for Analytics, organizations can:
     marketing, sales, service, operations, finance and talent.
 
 -   Enrich that data with high value data from Microsoft, such as data from
-    Office 365, and Bing.
+    Office 365.
 
 -   Enable their analysts to leverage out-of-the-box, point and click access to
     artificial intelligence capabilities.
@@ -182,14 +167,8 @@ The Fall release includes
 -   New insights apps from Microsoft for Sales, Service, Marketing, Operations,
     Finance and Talent as well as IT.
 
--   Industry solutions from companies like
-
--   CUNA Mutual Group whose AdvantEdge Analytics solution helps Credit Unions
-    better serve their members, and
-
--   Retail Solutions Inc. whose app provides Consumer Packaged Goods (CPG)
-    companies like Pepsico and Glaxo Smith Kline with insights from Point of
-    Sales (POS) and foot traffic data from retailers carrying their products.
+-   Industry solutions from companies like CUNA Mutual Group whose AdvantEdge 
+    Analytics solution helps Credit Union better serve their members.
 
 These solutions are enabled by the Power BI ISV platform which is adding new
 capabilities including
@@ -206,19 +185,19 @@ capabilities including
 
 **Customer 360 creates a rich 360o view of your customers**
 
-At the core of digitally transforming the customer engagement processes is a
+At the core of digitally transforming customer engagement processes is a
 deep understanding of customers, which comes from observing activities across
 online and offline channels. Microsoft has unique datasets, which can be joined
 with data to enrich it.
 
-Today Microsoft is releasing a Customer 360° Power BI app which enables delivery
-of tailored insights to specific customer facing roles like service agents,
-campaign managers and sales professionals. The app is based on Profile 360°, a
-new Power BI capability which enables you to leverage artificial intelligence &
-matching algorithms to create unified master records for business entities like
-"Customer", which can then be enriched with Microsoft data from Bing and Office
-365. For example, Bing Audience Intelligence helps enrich customer profiles with
-interests, purchase intent, and demographics. The capabilities of Profile 360
+As part of the Autumn release, Microsoft is releasing a Customer 360° Power BI app 
+which enables delivery of tailored insights to specific customer facing roles like 
+service agents, campaign managers and sales professionals. The app is based on 
+Profile 360°, a new Power BI capability which enables you to leverage artificial 
+intelligence & matching algorithms to create unified master records for business 
+entities like "Customer", which can then be enriched with Microsoft data from Bing 
+and Office 365. For example, Bing Audience Intelligence helps enrich customer profiles
+with interests, purchase intent, and demographics. The capabilities of Profile 360
 can also be applied to other core entities like Product and People.
 Organizations can leverage these unified and enriched profiles to make their
 business processes more intelligent.
@@ -229,11 +208,3 @@ cycles. At the foundation is the collection and storage of transactional and
 observational data that is algorithmically transformed into intelligence about
 customers, products, and people, that can be used to transform business
 processes.
-
-"With the Common Data Service for Analytics and Profile 360, we were able to
-build a digital feedback loop that combined our transactional data from retail
-point of sales devices with observations of our customers interactions across
-the web, social media, our call centers and in-store interactions giving us
-unparalleled insight into the complete customer experience. Those insights have
-enabled us to delight our customers with personalized experiences while driving
-significant increases in revenue " - Phil Bates, VP Transformation, Tesco.
