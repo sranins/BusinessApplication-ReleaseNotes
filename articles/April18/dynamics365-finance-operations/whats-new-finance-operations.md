@@ -78,7 +78,7 @@ audience: Admin
 - [General Data Protection Regulation (GDPR)](gdpr-compliance.md) - Investments address the European privacy law’s requirements. Go to the [Trust Center](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) to learn more and find resources to help you comply.
 - [Accessibility enhancements](accessibility.md) - Go to the [Trust Center](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility) to learn about our industry-leading accessibility standards.
 
-## April 2018 - Preview 
+## April '18 - Preview 
 
 - [Regulatory service – configuration](regulatory-service-configuration.md) (available at the end of April) - Regulatory service targets a no-code programming approach, allowing users to configure electronic reporting formats or tax rules rather than write code for them in the underlying application.
 - [Customer payment insights (Preview)](customer-payment-insights-preview.md) - Customer payment insights (preview) uses machine learning to predict when an invoice will be paid and provides optimization strategies that can be tailored to maximize the probability of customers paying on time.
@@ -98,22 +98,10 @@ audience: Admin
 
 - [Extensible project work breakdown structure](extensible-project-work-breakdown-structure.md) – Enables customization of the project work breakdown structure through extensions. This replaces the hierarchical grid control that was previously used for the project work breakdown structure with a standard grid that supports hierarchical data. This feature is available in the May 2018 application update.
 
-## June ’18 – General Availability
-
-
-## June ’18 – Preview
-
-
 ## July ’18 – General Availability
 - [Lifecycle Services sandbox self-service automation and RDP lockdown](lifecycle-services-sandbox-self-service-automation-rdp-lockdown.md).
 - Dynamics 365 for Finance and Operations 8.0 with Platform Update 16 on-premises is available.
 
 ## July ’18 – Preview
 - [Upgrade automation](upgrade-automation.md) - Upgrade automation makes application upgrades a self-service operation for the customer, using LCS for non-production environments.
-
-## August ’18 – General Availability
-
-
-## August ’18 – Preview
-
 
