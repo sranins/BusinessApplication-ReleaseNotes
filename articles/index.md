@@ -106,7 +106,7 @@ ms.topic: hub-page
 	</td>
 	<td>
 	<h3>Do the release notes replace the Dynamics 365 roadmap?​</h3>
-	<p>Yes. These release notes cover capabilities that are generally available or in preview. Features in development or planned for a later timeframe, which were previously covered in the roadmap, will be covered separately. In July, we'll start letting you know about the exciting line-up of new capabilities coming in the next wave. </p>
+	<p>Yes. Features in development or planned for a later timeframe, which were previously covered in the roadmap, will be covered separately. These release notes cover capabilities that are now generally available or in preview. In July, we'll start letting you know about the exciting line-up of new capabilities coming in the next wave. </p>
 	</td>
 	</tr>
 	</table>
