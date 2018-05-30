@@ -4,7 +4,7 @@ hide_bc: true
 experimental: true
 experiment_id: "81ba5f65-59fb-4d"
 title: Business Applications Release Notes
-description: Find out what's new in Dynamics 365, Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and more &mdash including new features in sales, service, marketing, operations, finance, talent, and retail.
+description: Find out what's new in Dynamics 365, Power BI, PowerApps, Microsoft Flow, Microsoft Stream, and more &mdash; including new features in sales, service, marketing, operations, finance, talent, and retail.
 ms.topic: hub-page
 ---
 <div id="main" class="v2">
