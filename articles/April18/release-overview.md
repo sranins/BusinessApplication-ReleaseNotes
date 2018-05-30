@@ -18,7 +18,7 @@ audience: Admin
 
 [!include[banner](../includes/banner.md)]
 
-[![Backdrop image 1](media/spring-backdrop.jpg)](https://aka.ms/businessappsreleasenotes)
+[![Backdrop image 1](media/spring-backdrop.jpg)](https://aka.ms/dynamics365releasenotes)
 
 We’re thrilled to announce our Spring ’18 release, which delivers significant
 investments designed to help you transform your business.
