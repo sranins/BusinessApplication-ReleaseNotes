@@ -90,8 +90,8 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
-> | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | May 10 |
-> | Ceridian payroll integration is now available in the UK | Public Preview in June, not May                | May 10 |
+> | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | June 1 |
+> | Ceridian payroll integration is now available in the UK | Public Preview in June, not May                | June 1 |
 
 ### Features updated
 
