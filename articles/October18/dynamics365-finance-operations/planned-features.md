@@ -34,9 +34,9 @@ This topics lists the features planned for release in Microsoft Dynamics 365 for
 ## Released features
 
 > [!div class="mx-tableFixed"]
-> | Feature   | Target release date                   |
-> |-----------|---------------------------------------|
-> | Feature A | July 2018                             |
-> | Feature B | unscheduled                           |
-> | Feature C | August 2018                           |
-> | Feature D | Unscheduled (may not ship until Fall) |
+> | Feature   | Release type   | Release date/version |
+> |-----------|----------------|----------------------|
+> | Feature 1 | GA             | April 2018           |
+> | Feature 2 | Public preview | Platform update 15   |
+> | Feature 3 | GA             | May 2018             |
+> | Etc.      |                |                      |
