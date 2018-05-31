@@ -191,7 +191,23 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                               | Date added |
 > |---------------------------------------|---------------|
-> | [Export to PDF](power-bi/embedded/export-pdf.md)                         | April 2    |
+> | Export to PDF                         | April 2    |
+
+### Release date changes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                 | Change                                         | Change date  |
+> |---------------------------------------------------------|------------------------------------------------|--------------|
+> | [App-only token support](power-bi/embedded/app-only-token-support.md)  | Moved to General Availability sometime between July and September | June 1 |
+
+### Features removed from Release notes
+
+> [!div class="mx-tableFixed"]
+> | Feature                                                                                                       | Date removed |
+> |---------------------------------------------------------------------------------------------------------------|---------------|
+> | Available on German datacenters removed from March '18 General Availability                                      | June 1      |
+> | Export to PowerPoint removed from June '18 General Availability                                  | June 1      |
+> | Export to PDF removed from June '18 General Availability | June 1      |
 
 ## Common Data Service for Analytics in Power BI
 

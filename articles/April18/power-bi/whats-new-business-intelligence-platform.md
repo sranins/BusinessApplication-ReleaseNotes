@@ -101,7 +101,6 @@ audience: Admin
 
 ### [Power BI Embedded](overview.md)
 
-- [Available on German datacenters](embedded/available-german-datacenters.md).
 - [Bookmarks support](embedded/bookmarks-support.md) - Apply bookmarks on embedded reports and control UI elements through APIs.
 - [Update dashboard/tile](embedded/update-dashboard-or-tile.md) – With Application Lifecycle Management, developers can change deployed tiles and dashboards while retaining their original IDs.
 - [Single sign-on (SSO) for Azure SQL database](embedded/single-sign-sso-azure-sql-database.md) - Optionally pass in authenticated Azure AD credentials in queries to the Azure SQL database. 
@@ -192,10 +191,7 @@ audience: Admin
 
 ### [Power BI Embedded](overview.md)
 
-- [App-only token support](embedded/app-only-token-support.md) - Identify an application on the Power BI platform for enhanced deployment, security, and Application Lifecycle Management.
 - [Workspace collection deprecation](embedded/workspace-collection-deprecation.md).
-- [Export to PowerPoint](embedded/export-powerpoint.md) - Export an embedded object to PowerPoint.
-- [Export to PDF](embedded/export-pdf.md) - Export an embedded object to PDF.
 
 ## June ’18 - Public Preview
 
@@ -209,6 +205,10 @@ audience: Admin
 
 - [Dataset metadata translations](service/dataset-metadata-translations.md) - Users see dataset fields in their client locale and language when translations are defined in the dataset or Analysis Services model.
 - Export to PDF - Export a Power BI report in PDF format.
+
+### [Power BI Embedded](overview.md)
+
+- [App-only token support](embedded/app-only-token-support.md) - Identify an application on the Power BI platform for enhanced deployment, security, and Application Lifecycle Management.
 
 ## July – September ’18 – Public Preview
 
