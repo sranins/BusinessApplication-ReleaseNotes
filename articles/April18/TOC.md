@@ -344,7 +344,6 @@
 #### [Mobile layout support](power-bi/embedded/mobile-layout-support.md)
 #### [Model parameters API](power-bi/embedded/model-parameters-api.md)
 #### [Visual level filters](power-bi/embedded/visual-level-filters.md)
-#### [Available on German datacenters](power-bi/embedded/available-german-datacenters.md)
 #### [Bookmarks support](power-bi/embedded/bookmarks-support.md)
 #### [Update dashboard or tile](power-bi/embedded/update-dashboard-or-tile.md)
 #### [Single sign-on (SSO) for Azure SQL database](power-bi/embedded/single-sign-sso-azure-sql-database.md)
@@ -357,8 +356,7 @@
 #### [Azure Diagnostics](power-bi/embedded/azure-diagnostics.md)
 #### [App-only token support](power-bi/embedded/app-only-token-support.md)
 #### [Workspace collection deprecation](power-bi/embedded/workspace-collection-deprecation.md)
-#### [Export to PowerPoint](power-bi/embedded/export-powerpoint.md)
-#### [Export to PDF](power-bi/embedded/export-pdf.md)
+
 
 ### Power BI Mobile
 #### [Visio custom visuals](power-bi/mobile/visio-custom-visuals.md)
